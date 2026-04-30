@@ -303,6 +303,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 23.17.31",
       "last_start": "Kamis, 30 April 2026 pukul 23.17.31",
       "total_start": 1
+    },
+    {
+      "id": "1689721772",
+      "username": "@XvBaraaa",
+      "name": "𝗕𝗮𝗿𝗿𝘇𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+      "first_start": "Kamis, 30 April 2026 pukul 23.22.19",
+      "last_start": "Kamis, 30 April 2026 pukul 23.22.19",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -332,8 +340,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 56,
-  "total_users": 38,
+  "total_start": 57,
+  "total_users": 39,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 23.21.37"
+  "last_update": "Kamis, 30 April 2026 pukul 23.22.19"
 }
