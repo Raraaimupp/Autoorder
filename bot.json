@@ -335,6 +335,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 00.16.53",
       "last_start": "Jumat, 1 Mei 2026 pukul 00.16.53",
       "total_start": 1
+    },
+    {
+      "id": "8328422379",
+      "username": "@RenzTzykw",
+      "name": "𝐑𝐞𝐧𝐳𝐓𝐳𝐲",
+      "first_start": "Jumat, 1 Mei 2026 pukul 00.28.15",
+      "last_start": "Jumat, 1 Mei 2026 pukul 00.28.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -364,8 +372,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 62,
-  "total_users": 42,
+  "total_start": 63,
+  "total_users": 43,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 00.27.57"
+  "last_update": "Jumat, 1 Mei 2026 pukul 00.28.15"
 }
