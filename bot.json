@@ -271,6 +271,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 22.00.33",
       "last_start": "Kamis, 30 April 2026 pukul 22.00.33",
       "total_start": 1
+    },
+    {
+      "id": "1203081545",
+      "username": "@putraapokee",
+      "name": "putrapokeeemen ( VVIP )",
+      "first_start": "Kamis, 30 April 2026 pukul 22.02.45",
+      "last_start": "Kamis, 30 April 2026 pukul 22.02.45",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -300,8 +308,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 49,
-  "total_users": 34,
+  "total_start": 50,
+  "total_users": 35,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 22.01.52"
+  "last_update": "Kamis, 30 April 2026 pukul 22.02.45"
 }
