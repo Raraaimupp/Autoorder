@@ -1,8 +1,17 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "2130377977",
+      "username": "@elyssavirellequeenn",
+      "name": "✞ 𝔈́𝔩𝔶𝔰𝔦𝔢𝔫𝔫𝔢 𝔙𝔢́𝔩𝔬𝔯𝔦𝔞 ✞",
+      "first_start": "Kamis, 30 April 2026 pukul 16.56.04",
+      "last_start": "Kamis, 30 April 2026 pukul 16.56.04",
+      "total_start": 1
+    }
+  ],
   "groups": [],
-  "total_start": 0,
-  "total_users": 0,
+  "total_start": 1,
+  "total_users": 1,
   "total_groups": 0,
-  "last_update": null
+  "last_update": "Kamis, 30 April 2026 pukul 16.56.04"
 }
