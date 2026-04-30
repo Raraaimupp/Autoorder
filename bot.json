@@ -311,6 +311,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 23.22.19",
       "last_start": "Kamis, 30 April 2026 pukul 23.22.19",
       "total_start": 1
+    },
+    {
+      "id": "8178252680",
+      "username": "@itsmerkrnw",
+      "name": "EUGENE",
+      "first_start": "Kamis, 30 April 2026 pukul 23.59.21",
+      "last_start": "Kamis, 30 April 2026 pukul 23.59.21",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -340,8 +348,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 57,
-  "total_users": 39,
+  "total_start": 58,
+  "total_users": 40,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 23.28.06"
+  "last_update": "Kamis, 30 April 2026 pukul 23.59.21"
 }
