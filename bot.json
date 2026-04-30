@@ -295,6 +295,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 23.13.56",
       "last_start": "Kamis, 30 April 2026 pukul 23.13.56",
       "total_start": 1
+    },
+    {
+      "id": "7341197763",
+      "username": "@yuuki_aris",
+      "name": "Const Queen = \"Arisu ありす\"",
+      "first_start": "Kamis, 30 April 2026 pukul 23.17.31",
+      "last_start": "Kamis, 30 April 2026 pukul 23.17.31",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -324,8 +332,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 55,
-  "total_users": 37,
+  "total_start": 56,
+  "total_users": 38,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 23.17.06"
+  "last_update": "Kamis, 30 April 2026 pukul 23.17.31"
 }
