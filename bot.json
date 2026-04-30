@@ -263,6 +263,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 21.10.20",
       "last_start": "Kamis, 30 April 2026 pukul 21.11.12",
       "total_start": 2
+    },
+    {
+      "id": "8093408990",
+      "username": "Tidak ada",
+      "name": "Geerry Rosee",
+      "first_start": "Kamis, 30 April 2026 pukul 22.00.33",
+      "last_start": "Kamis, 30 April 2026 pukul 22.00.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -292,8 +300,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 48,
-  "total_users": 33,
+  "total_start": 49,
+  "total_users": 34,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 21.57.07"
+  "last_update": "Kamis, 30 April 2026 pukul 22.00.33"
 }
