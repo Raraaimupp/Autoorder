@@ -127,6 +127,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 18.24.12",
       "last_start": "Kamis, 30 April 2026 pukul 18.24.35",
       "total_start": 2
+    },
+    {
+      "id": "8447166732",
+      "username": "@makluampax",
+      "name": "𝐑𝐞𝐧𝐧𝐧 𝐓𝟓",
+      "first_start": "Kamis, 30 April 2026 pukul 18.59.41",
+      "last_start": "Kamis, 30 April 2026 pukul 18.59.41",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -156,8 +164,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 23,
-  "total_users": 16,
+  "total_start": 24,
+  "total_users": 17,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 18.59.34"
+  "last_update": "Kamis, 30 April 2026 pukul 18.59.41"
 }
