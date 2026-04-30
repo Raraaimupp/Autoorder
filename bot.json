@@ -47,6 +47,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 17.24.36",
       "last_start": "Kamis, 30 April 2026 pukul 17.24.36",
       "total_start": 1
+    },
+    {
+      "id": "7502222431",
+      "username": "@QINZZAJA",
+      "name": "キンザヤ",
+      "first_start": "Kamis, 30 April 2026 pukul 17.56.14",
+      "last_start": "Kamis, 30 April 2026 pukul 17.56.14",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -61,8 +69,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 17.03.32"
     }
   ],
-  "total_start": 11,
-  "total_users": 6,
+  "total_start": 12,
+  "total_users": 7,
   "total_groups": 2,
-  "last_update": "Kamis, 30 April 2026 pukul 17.25.16"
+  "last_update": "Kamis, 30 April 2026 pukul 17.56.14"
 }
