@@ -431,6 +431,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 06.12.19",
       "last_start": "Jumat, 1 Mei 2026 pukul 06.12.19",
       "total_start": 1
+    },
+    {
+      "id": "8683126934",
+      "username": "@rapzOfficialNot",
+      "name": "Rapz",
+      "first_start": "Jumat, 1 Mei 2026 pukul 06.27.43",
+      "last_start": "Jumat, 1 Mei 2026 pukul 06.27.43",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -460,8 +468,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 78,
-  "total_users": 54,
+  "total_start": 79,
+  "total_users": 55,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 06.21.53"
+  "last_update": "Jumat, 1 Mei 2026 pukul 06.27.43"
 }
