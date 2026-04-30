@@ -119,6 +119,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 18.24.02",
       "last_start": "Kamis, 30 April 2026 pukul 18.24.02",
       "total_start": 1
+    },
+    {
+      "id": "1620200622",
+      "username": "@akbarstecuu",
+      "name": "𝐁 Barr #Flory (ON)",
+      "first_start": "Kamis, 30 April 2026 pukul 18.24.12",
+      "last_start": "Kamis, 30 April 2026 pukul 18.24.12",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -148,8 +156,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 20,
-  "total_users": 15,
+  "total_start": 21,
+  "total_users": 16,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 18.24.02"
+  "last_update": "Kamis, 30 April 2026 pukul 18.24.12"
 }
