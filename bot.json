@@ -351,6 +351,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 01.56.58",
       "last_start": "Jumat, 1 Mei 2026 pukul 01.56.58",
       "total_start": 1
+    },
+    {
+      "id": "7821738270",
+      "username": "@araravii",
+      "name": "Kyo",
+      "first_start": "Jumat, 1 Mei 2026 pukul 02.05.57",
+      "last_start": "Jumat, 1 Mei 2026 pukul 02.05.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -380,8 +388,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 65,
-  "total_users": 44,
+  "total_start": 66,
+  "total_users": 45,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 02.02.29"
+  "last_update": "Jumat, 1 Mei 2026 pukul 02.05.57"
 }
