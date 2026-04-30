@@ -223,6 +223,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 19.24.28",
       "last_start": "Kamis, 30 April 2026 pukul 19.24.28",
       "total_start": 1
+    },
+    {
+      "id": "8781560935",
+      "username": "@ranz567",
+      "name": "ranz",
+      "first_start": "Kamis, 30 April 2026 pukul 19.24.39",
+      "last_start": "Kamis, 30 April 2026 pukul 19.24.39",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -252,8 +260,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 40,
-  "total_users": 28,
+  "total_start": 41,
+  "total_users": 29,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 19.24.28"
+  "last_update": "Kamis, 30 April 2026 pukul 19.24.39"
 }
