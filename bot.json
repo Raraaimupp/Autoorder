@@ -367,6 +367,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 02.13.35",
       "last_start": "Jumat, 1 Mei 2026 pukul 02.13.35",
       "total_start": 1
+    },
+    {
+      "id": "7440391396",
+      "username": "@nokoswaonly",
+      "name": "[REDY] NOKOS INDO/LUAR/OLD",
+      "first_start": "Jumat, 1 Mei 2026 pukul 02.24.55",
+      "last_start": "Jumat, 1 Mei 2026 pukul 02.24.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -396,8 +404,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 67,
-  "total_users": 46,
+  "total_start": 68,
+  "total_users": 47,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 02.13.35"
+  "last_update": "Jumat, 1 Mei 2026 pukul 02.24.55"
 }
