@@ -95,6 +95,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 18.02.40",
       "last_start": "Kamis, 30 April 2026 pukul 18.02.40",
       "total_start": 1
+    },
+    {
+      "id": "7920067659",
+      "username": "@QUITSREAL11",
+      "name": "𝙌𝙐𝙄𝙏𝙎𝙍𝙀𝘼𝙇 [ 𝙍𝙀𝙃𝘼𝙏 ]",
+      "first_start": "Kamis, 30 April 2026 pukul 18.11.24",
+      "last_start": "Kamis, 30 April 2026 pukul 18.11.24",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -119,8 +127,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.06.22"
     }
   ],
-  "total_start": 17,
-  "total_users": 12,
+  "total_start": 18,
+  "total_users": 13,
   "total_groups": 4,
-  "last_update": "Kamis, 30 April 2026 pukul 18.11.16"
+  "last_update": "Kamis, 30 April 2026 pukul 18.11.24"
 }
