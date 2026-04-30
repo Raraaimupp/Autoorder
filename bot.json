@@ -231,6 +231,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 19.24.39",
       "last_start": "Kamis, 30 April 2026 pukul 19.25.35",
       "total_start": 2
+    },
+    {
+      "id": "8136335485",
+      "username": "@Yanz28",
+      "name": "Lagi Ultah",
+      "first_start": "Kamis, 30 April 2026 pukul 20.03.30",
+      "last_start": "Kamis, 30 April 2026 pukul 20.03.30",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -260,8 +268,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 42,
-  "total_users": 29,
+  "total_start": 43,
+  "total_users": 30,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 20.03.24"
+  "last_update": "Kamis, 30 April 2026 pukul 20.03.30"
 }
