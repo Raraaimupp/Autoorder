@@ -391,6 +391,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 03.56.24",
       "last_start": "Jumat, 1 Mei 2026 pukul 03.56.24",
       "total_start": 1
+    },
+    {
+      "id": "8007935748",
+      "username": "@sceryydeaht",
+      "name": "❄️ Delete Account",
+      "first_start": "Jumat, 1 Mei 2026 pukul 05.20.18",
+      "last_start": "Jumat, 1 Mei 2026 pukul 05.20.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -420,8 +428,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 71,
-  "total_users": 49,
+  "total_start": 72,
+  "total_users": 50,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 05.19.16"
+  "last_update": "Jumat, 1 Mei 2026 pukul 05.20.18"
 }
