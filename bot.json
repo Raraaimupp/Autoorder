@@ -135,6 +135,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 18.59.41",
       "last_start": "Kamis, 30 April 2026 pukul 18.59.41",
       "total_start": 1
+    },
+    {
+      "id": "1995388369",
+      "username": "Tidak ada",
+      "name": "𝐄𝐥𝐥𝐬𝐢𝐞́𝐧𝐧𝐞 𝟗𝟗𝟗$",
+      "first_start": "Kamis, 30 April 2026 pukul 19.05.22",
+      "last_start": "Kamis, 30 April 2026 pukul 19.05.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -164,8 +172,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 27,
-  "total_users": 17,
+  "total_start": 28,
+  "total_users": 18,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 19.04.19"
+  "last_update": "Kamis, 30 April 2026 pukul 19.05.22"
 }
