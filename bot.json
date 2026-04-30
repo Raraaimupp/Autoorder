@@ -207,6 +207,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 19.22.00",
       "last_start": "Kamis, 30 April 2026 pukul 19.22.00",
       "total_start": 1
+    },
+    {
+      "id": "8380979581",
+      "username": "@cel0y",
+      "name": "cel0",
+      "first_start": "Kamis, 30 April 2026 pukul 19.22.09",
+      "last_start": "Kamis, 30 April 2026 pukul 19.22.09",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -236,8 +244,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 38,
-  "total_users": 26,
+  "total_start": 39,
+  "total_users": 27,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 19.22.00"
+  "last_update": "Kamis, 30 April 2026 pukul 19.22.09"
 }
