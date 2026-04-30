@@ -383,6 +383,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 03.01.03",
       "last_start": "Jumat, 1 Mei 2026 pukul 03.01.53",
       "total_start": 2
+    },
+    {
+      "id": "6485227761",
+      "username": "@Rafihuy",
+      "name": "͟͟͞͞Xv7 Alifi 父",
+      "first_start": "Jumat, 1 Mei 2026 pukul 03.56.24",
+      "last_start": "Jumat, 1 Mei 2026 pukul 03.56.24",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -412,8 +420,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 70,
-  "total_users": 48,
+  "total_start": 71,
+  "total_users": 49,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 03.12.54"
+  "last_update": "Jumat, 1 Mei 2026 pukul 03.56.24"
 }
