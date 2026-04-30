@@ -215,6 +215,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 19.22.09",
       "last_start": "Kamis, 30 April 2026 pukul 19.22.09",
       "total_start": 1
+    },
+    {
+      "id": "1512368813",
+      "username": "@batmenreal",
+      "name": "Batmen [OPEN UBOT]",
+      "first_start": "Kamis, 30 April 2026 pukul 19.24.28",
+      "last_start": "Kamis, 30 April 2026 pukul 19.24.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -244,8 +252,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 39,
-  "total_users": 27,
+  "total_start": 40,
+  "total_users": 28,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 19.22.09"
+  "last_update": "Kamis, 30 April 2026 pukul 19.24.28"
 }
