@@ -175,6 +175,14 @@
       "first_start": "Kamis, 30 April 2026 pukul 19.14.51",
       "last_start": "Kamis, 30 April 2026 pukul 19.14.51",
       "total_start": 1
+    },
+    {
+      "id": "8483710388",
+      "username": "Tidak ada",
+      "name": "Gacor47 Fahri",
+      "first_start": "Kamis, 30 April 2026 pukul 19.15.22",
+      "last_start": "Kamis, 30 April 2026 pukul 19.15.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -204,8 +212,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 34,
-  "total_users": 22,
+  "total_start": 35,
+  "total_users": 23,
   "total_groups": 5,
-  "last_update": "Kamis, 30 April 2026 pukul 19.14.57"
+  "last_update": "Kamis, 30 April 2026 pukul 19.15.22"
 }
