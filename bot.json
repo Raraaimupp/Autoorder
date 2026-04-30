@@ -375,6 +375,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 02.24.55",
       "last_start": "Jumat, 1 Mei 2026 pukul 02.24.55",
       "total_start": 1
+    },
+    {
+      "id": "8512052408",
+      "username": "@mother_lu",
+      "name": "𝐇𝐚𝐧𝐳𝐳𝐲 𝐓𝟓 ( OFF FOCUS SCHOOL )",
+      "first_start": "Jumat, 1 Mei 2026 pukul 03.01.03",
+      "last_start": "Jumat, 1 Mei 2026 pukul 03.01.03",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -404,8 +412,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 68,
-  "total_users": 47,
+  "total_start": 69,
+  "total_users": 48,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 02.29.31"
+  "last_update": "Jumat, 1 Mei 2026 pukul 03.01.03"
 }
