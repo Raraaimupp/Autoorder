@@ -1031,6 +1031,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 19.32.07",
       "last_start": "Jumat, 1 Mei 2026 pukul 19.32.07",
       "total_start": 1
+    },
+    {
+      "id": "6730434569",
+      "username": "@GabreilDitzforeverr",
+      "name": "𝘽𝙖𝙘𝙠𝙪𝙥𝙊𝙢𝘿͟𝙞͟𝙩͜ 9 8 1 8",
+      "first_start": "Jumat, 1 Mei 2026 pukul 19.33.01",
+      "last_start": "Jumat, 1 Mei 2026 pukul 19.33.01",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1060,8 +1068,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 181,
-  "total_users": 129,
+  "total_start": 182,
+  "total_users": 130,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 19.32.07"
+  "last_update": "Jumat, 1 Mei 2026 pukul 19.33.01"
 }
