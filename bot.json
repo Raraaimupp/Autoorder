@@ -1047,6 +1047,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 19.59.32",
       "last_start": "Jumat, 1 Mei 2026 pukul 19.59.32",
       "total_start": 1
+    },
+    {
+      "id": "1075385253",
+      "username": "@XsileNT29",
+      "name": "𝕾𝖎𝖑𝖊𝖓𝖙 ཧོ",
+      "first_start": "Jumat, 1 Mei 2026 pukul 20.17.14",
+      "last_start": "Jumat, 1 Mei 2026 pukul 20.17.14",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1081,8 +1089,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 183,
-  "total_users": 131,
+  "total_start": 184,
+  "total_users": 132,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 20.15.51"
+  "last_update": "Jumat, 1 Mei 2026 pukul 20.17.14"
 }
