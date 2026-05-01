@@ -663,6 +663,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 11.21.00",
       "last_start": "Jumat, 1 Mei 2026 pukul 11.21.00",
       "total_start": 1
+    },
+    {
+      "id": "8573025501",
+      "username": "@LUTHFI_STORE1",
+      "name": "Luthfi Store",
+      "first_start": "Jumat, 1 Mei 2026 pukul 11.22.43",
+      "last_start": "Jumat, 1 Mei 2026 pukul 11.22.43",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -692,8 +700,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 121,
-  "total_users": 83,
+  "total_start": 122,
+  "total_users": 84,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 11.22.27"
+  "last_update": "Jumat, 1 Mei 2026 pukul 11.22.43"
 }
