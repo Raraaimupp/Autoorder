@@ -1135,6 +1135,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 21.09.54",
       "last_start": "Jumat, 1 Mei 2026 pukul 21.09.54",
       "total_start": 1
+    },
+    {
+      "id": "7928985735",
+      "username": "@Marzensky",
+      "name": "MarX}",
+      "first_start": "Jumat, 1 Mei 2026 pukul 21.29.15",
+      "last_start": "Jumat, 1 Mei 2026 pukul 21.29.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1169,8 +1177,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 201,
-  "total_users": 142,
+  "total_start": 202,
+  "total_users": 143,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 21.28.11"
+  "last_update": "Jumat, 1 Mei 2026 pukul 21.29.15"
 }
