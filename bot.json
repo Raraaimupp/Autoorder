@@ -951,6 +951,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 17.17.21",
       "last_start": "Jumat, 1 Mei 2026 pukul 17.17.21",
       "total_start": 1
+    },
+    {
+      "id": "7293484150",
+      "username": "@Samquintel",
+      "name": "𝙎𝘼𝙈",
+      "first_start": "Jumat, 1 Mei 2026 pukul 17.21.32",
+      "last_start": "Jumat, 1 Mei 2026 pukul 17.21.32",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -980,8 +988,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 169,
-  "total_users": 119,
+  "total_start": 170,
+  "total_users": 120,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 17.21.16"
+  "last_update": "Jumat, 1 Mei 2026 pukul 17.21.32"
 }
