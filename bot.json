@@ -935,6 +935,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 17.06.54",
       "last_start": "Jumat, 1 Mei 2026 pukul 17.06.54",
       "total_start": 1
+    },
+    {
+      "id": "8365752388",
+      "username": "@abuse_notification_suppor7",
+      "name": "Abuse Notification",
+      "first_start": "Jumat, 1 Mei 2026 pukul 17.17.07",
+      "last_start": "Jumat, 1 Mei 2026 pukul 17.17.07",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -964,8 +972,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 167,
-  "total_users": 117,
+  "total_start": 168,
+  "total_users": 118,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 17.16.56"
+  "last_update": "Jumat, 1 Mei 2026 pukul 17.17.07"
 }
