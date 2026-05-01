@@ -679,6 +679,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 11.24.19",
       "last_start": "Jumat, 1 Mei 2026 pukul 11.24.19",
       "total_start": 1
+    },
+    {
+      "id": "7996119004",
+      "username": "@fatxxV3",
+      "name": "Zainnn",
+      "first_start": "Jumat, 1 Mei 2026 pukul 11.24.30",
+      "last_start": "Jumat, 1 Mei 2026 pukul 11.24.30",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -708,8 +716,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 124,
-  "total_users": 85,
+  "total_start": 125,
+  "total_users": 86,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 11.24.19"
+  "last_update": "Jumat, 1 Mei 2026 pukul 11.24.30"
 }
