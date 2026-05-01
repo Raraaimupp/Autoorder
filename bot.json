@@ -999,6 +999,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 18.12.30",
       "last_start": "Jumat, 1 Mei 2026 pukul 18.12.30",
       "total_start": 1
+    },
+    {
+      "id": "8457495175",
+      "username": "@ROBIOSAL",
+      "name": "BOTAK STORE",
+      "first_start": "Jumat, 1 Mei 2026 pukul 18.17.14",
+      "last_start": "Jumat, 1 Mei 2026 pukul 18.17.14",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1028,8 +1036,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 176,
-  "total_users": 125,
+  "total_start": 177,
+  "total_users": 126,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 18.16.47"
+  "last_update": "Jumat, 1 Mei 2026 pukul 18.17.14"
 }
