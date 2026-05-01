@@ -1087,6 +1087,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 20.23.04",
       "last_start": "Jumat, 1 Mei 2026 pukul 20.23.04",
       "total_start": 1
+    },
+    {
+      "id": "8651469400",
+      "username": "Tidak ada",
+      "name": "PIXZNOTDEV",
+      "first_start": "Jumat, 1 Mei 2026 pukul 20.27.44",
+      "last_start": "Jumat, 1 Mei 2026 pukul 20.27.44",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1121,8 +1129,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 188,
-  "total_users": 136,
+  "total_start": 189,
+  "total_users": 137,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 20.26.31"
+  "last_update": "Jumat, 1 Mei 2026 pukul 20.27.44"
 }
