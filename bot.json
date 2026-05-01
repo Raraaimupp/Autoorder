@@ -1303,6 +1303,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 02.01.54",
       "last_start": "Sabtu, 2 Mei 2026 pukul 02.01.54",
       "total_start": 1
+    },
+    {
+      "id": "8228989067",
+      "username": "@Aditsaja22",
+      "name": "༆ 𝐌𝐓𝐋࿐ GROK",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 02.02.28",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 02.02.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1337,8 +1345,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 229,
-  "total_users": 163,
+  "total_start": 230,
+  "total_users": 164,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 02.01.54"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 02.02.28"
 }
