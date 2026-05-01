@@ -903,6 +903,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 16.38.38",
       "last_start": "Jumat, 1 Mei 2026 pukul 16.38.38",
       "total_start": 1
+    },
+    {
+      "id": "8436063848",
+      "username": "Tidak ada",
+      "name": "Loku Rapa Rapa",
+      "first_start": "Jumat, 1 Mei 2026 pukul 17.04.23",
+      "last_start": "Jumat, 1 Mei 2026 pukul 17.04.23",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -932,8 +940,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 163,
-  "total_users": 113,
+  "total_start": 164,
+  "total_users": 114,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 17.04.14"
+  "last_update": "Jumat, 1 Mei 2026 pukul 17.04.23"
 }
