@@ -613,8 +613,8 @@
       "username": "@Kingsharoni",
       "name": "SHARONI {OPEN VPS}",
       "first_start": "Jumat, 1 Mei 2026 pukul 10.01.06",
-      "last_start": "Jumat, 1 Mei 2026 pukul 10.01.06",
-      "total_start": 1
+      "last_start": "Sabtu, 2 Mei 2026 pukul 04.12.10",
+      "total_start": 2
     },
     {
       "id": "6102490385",
@@ -1409,8 +1409,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 240,
+  "total_start": 241,
   "total_users": 172,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 04.06.51"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 04.12.10"
 }
