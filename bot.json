@@ -1255,6 +1255,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 23.26.49",
       "last_start": "Jumat, 1 Mei 2026 pukul 23.26.49",
       "total_start": 1
+    },
+    {
+      "id": "8306784373",
+      "username": "@yanxz_emptiness",
+      "name": "Yanxz [ REHAT ]",
+      "first_start": "Jumat, 1 Mei 2026 pukul 23.33.35",
+      "last_start": "Jumat, 1 Mei 2026 pukul 23.33.35",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1289,8 +1297,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 222,
-  "total_users": 157,
+  "total_start": 223,
+  "total_users": 158,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 23.26.49"
+  "last_update": "Jumat, 1 Mei 2026 pukul 23.33.35"
 }
