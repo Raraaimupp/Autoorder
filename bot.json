@@ -1263,6 +1263,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 23.33.35",
       "last_start": "Jumat, 1 Mei 2026 pukul 23.33.35",
       "total_start": 1
+    },
+    {
+      "id": "8417955253",
+      "username": "@xinngatuh",
+      "name": "XIN...",
+      "first_start": "Jumat, 1 Mei 2026 pukul 23.36.46",
+      "last_start": "Jumat, 1 Mei 2026 pukul 23.36.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1297,8 +1305,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 223,
-  "total_users": 158,
+  "total_start": 224,
+  "total_users": 159,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 23.33.51"
+  "last_update": "Jumat, 1 Mei 2026 pukul 23.36.46"
 }
