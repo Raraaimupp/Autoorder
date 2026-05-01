@@ -1311,6 +1311,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 02.02.28",
       "last_start": "Sabtu, 2 Mei 2026 pukul 02.02.28",
       "total_start": 1
+    },
+    {
+      "id": "7291947092",
+      "username": "@Kurayamizz",
+      "name": "Kurayamizz",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 02.02.58",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 02.02.58",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1345,8 +1353,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 230,
-  "total_users": 164,
+  "total_start": 231,
+  "total_users": 165,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 02.02.28"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 02.02.58"
 }
