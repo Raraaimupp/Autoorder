@@ -567,6 +567,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 09.12.41",
       "last_start": "Jumat, 1 Mei 2026 pukul 09.12.41",
       "total_start": 1
+    },
+    {
+      "id": "7762166371",
+      "username": "@RyzFikk",
+      "name": "Adittt",
+      "first_start": "Jumat, 1 Mei 2026 pukul 09.19.06",
+      "last_start": "Jumat, 1 Mei 2026 pukul 09.19.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -596,8 +604,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 105,
-  "total_users": 71,
+  "total_start": 106,
+  "total_users": 72,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 09.15.55"
+  "last_update": "Jumat, 1 Mei 2026 pukul 09.19.06"
 }
