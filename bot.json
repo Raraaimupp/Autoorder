@@ -1199,6 +1199,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 22.31.25",
       "last_start": "Jumat, 1 Mei 2026 pukul 22.31.25",
       "total_start": 1
+    },
+    {
+      "id": "5360859655",
+      "username": "@ereyna12",
+      "name": "</> reyy",
+      "first_start": "Jumat, 1 Mei 2026 pukul 22.31.51",
+      "last_start": "Jumat, 1 Mei 2026 pukul 22.31.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1233,8 +1241,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 214,
-  "total_users": 150,
+  "total_start": 215,
+  "total_users": 151,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 22.31.25"
+  "last_update": "Jumat, 1 Mei 2026 pukul 22.31.51"
 }
