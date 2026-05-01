@@ -1143,6 +1143,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 21.29.15",
       "last_start": "Jumat, 1 Mei 2026 pukul 21.30.34",
       "total_start": 2
+    },
+    {
+      "id": "8615432046",
+      "username": "@Kerifemboy",
+      "name": "keri keri",
+      "first_start": "Jumat, 1 Mei 2026 pukul 21.37.00",
+      "last_start": "Jumat, 1 Mei 2026 pukul 21.37.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1177,8 +1185,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 203,
-  "total_users": 143,
+  "total_start": 204,
+  "total_users": 144,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 21.32.00"
+  "last_update": "Jumat, 1 Mei 2026 pukul 21.37.00"
 }
