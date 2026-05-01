@@ -1407,6 +1407,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 06.09.03",
       "last_start": "Sabtu, 2 Mei 2026 pukul 06.09.03",
       "total_start": 1
+    },
+    {
+      "id": "6300290555",
+      "username": "@fallxnxx",
+      "name": ".",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 06.12.13",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 06.12.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1441,8 +1449,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 245,
-  "total_users": 176,
+  "total_start": 246,
+  "total_users": 177,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 06.09.03"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 06.12.13"
 }
