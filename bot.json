@@ -839,6 +839,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 15.07.31",
       "last_start": "Jumat, 1 Mei 2026 pukul 15.07.31",
       "total_start": 1
+    },
+    {
+      "id": "6603350696",
+      "username": "@NixskyReseller",
+      "name": "ficuka",
+      "first_start": "Jumat, 1 Mei 2026 pukul 15.11.15",
+      "last_start": "Jumat, 1 Mei 2026 pukul 15.11.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -868,8 +876,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 152,
-  "total_users": 105,
+  "total_start": 153,
+  "total_users": 106,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 15.10.03"
+  "last_update": "Jumat, 1 Mei 2026 pukul 15.11.15"
 }
