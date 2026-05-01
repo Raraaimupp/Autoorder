@@ -919,6 +919,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 17.04.34",
       "last_start": "Jumat, 1 Mei 2026 pukul 17.04.34",
       "total_start": 1
+    },
+    {
+      "id": "7643547637",
+      "username": "@Matrixoffc",
+      "name": "MatrixX",
+      "first_start": "Jumat, 1 Mei 2026 pukul 17.05.29",
+      "last_start": "Jumat, 1 Mei 2026 pukul 17.05.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -948,8 +956,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 165,
-  "total_users": 115,
+  "total_start": 166,
+  "total_users": 116,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 17.05.17"
+  "last_update": "Jumat, 1 Mei 2026 pukul 17.05.29"
 }
