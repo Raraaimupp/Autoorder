@@ -759,6 +759,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 12.57.27",
       "last_start": "Jumat, 1 Mei 2026 pukul 12.57.27",
       "total_start": 1
+    },
+    {
+      "id": "6313545366",
+      "username": "Tidak ada",
+      "name": "ᯓ𝐃𝐎𝐂 || 🌺 vanesa 𝐍𝐨𝐭'𝐝𝐞𝐯 (istirahat)",
+      "first_start": "Jumat, 1 Mei 2026 pukul 13.21.31",
+      "last_start": "Jumat, 1 Mei 2026 pukul 13.21.31",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -788,8 +796,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 140,
-  "total_users": 95,
+  "total_start": 141,
+  "total_users": 96,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 13.21.07"
+  "last_update": "Jumat, 1 Mei 2026 pukul 13.21.31"
 }
