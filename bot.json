@@ -911,6 +911,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 17.04.23",
       "last_start": "Jumat, 1 Mei 2026 pukul 17.04.23",
       "total_start": 1
+    },
+    {
+      "id": "8445934556",
+      "username": "@Yovi_putra21",
+      "name": "乂 Yovi Putra 乂",
+      "first_start": "Jumat, 1 Mei 2026 pukul 17.04.34",
+      "last_start": "Jumat, 1 Mei 2026 pukul 17.04.34",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -940,8 +948,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 164,
-  "total_users": 114,
+  "total_start": 165,
+  "total_users": 115,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 17.04.23"
+  "last_update": "Jumat, 1 Mei 2026 pukul 17.04.34"
 }
