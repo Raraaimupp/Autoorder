@@ -975,6 +975,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 17.33.13",
       "last_start": "Jumat, 1 Mei 2026 pukul 17.33.13",
       "total_start": 1
+    },
+    {
+      "id": "8746184311",
+      "username": "@ZenoTzy27",
+      "name": "𝗭𝗲𝗻𝗼",
+      "first_start": "Jumat, 1 Mei 2026 pukul 17.35.08",
+      "last_start": "Jumat, 1 Mei 2026 pukul 17.35.08",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1004,8 +1012,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 173,
-  "total_users": 122,
+  "total_start": 174,
+  "total_users": 123,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 17.35.04"
+  "last_update": "Jumat, 1 Mei 2026 pukul 17.35.08"
 }
