@@ -615,6 +615,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 10.01.06",
       "last_start": "Jumat, 1 Mei 2026 pukul 10.01.06",
       "total_start": 1
+    },
+    {
+      "id": "6102490385",
+      "username": "@ScriptKits",
+      "name": "Suicide.؜",
+      "first_start": "Jumat, 1 Mei 2026 pukul 10.10.08",
+      "last_start": "Jumat, 1 Mei 2026 pukul 10.10.08",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -644,8 +652,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 112,
-  "total_users": 77,
+  "total_start": 113,
+  "total_users": 78,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 10.09.34"
+  "last_update": "Jumat, 1 Mei 2026 pukul 10.10.08"
 }
