@@ -647,6 +647,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 10.22.27",
       "last_start": "Jumat, 1 Mei 2026 pukul 10.22.27",
       "total_start": 1
+    },
+    {
+      "id": "7058748400",
+      "username": "@aldxyace",
+      "name": "𝐀𝐥𝐝𝐨𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥𝐑. 𝐑𝐔 - 自然世界",
+      "first_start": "Jumat, 1 Mei 2026 pukul 10.24.17",
+      "last_start": "Jumat, 1 Mei 2026 pukul 10.24.17",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -676,8 +684,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 118,
-  "total_users": 81,
+  "total_start": 119,
+  "total_users": 82,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 10.23.59"
+  "last_update": "Jumat, 1 Mei 2026 pukul 10.24.17"
 }
