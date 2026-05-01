@@ -535,6 +535,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 08.59.50",
       "last_start": "Jumat, 1 Mei 2026 pukul 08.59.50",
       "total_start": 1
+    },
+    {
+      "id": "8562495602",
+      "username": "@Jms67d",
+      "name": "Sapu Lidi",
+      "first_start": "Jumat, 1 Mei 2026 pukul 09.00.06",
+      "last_start": "Jumat, 1 Mei 2026 pukul 09.00.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -564,8 +572,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 101,
-  "total_users": 67,
+  "total_start": 102,
+  "total_users": 68,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 08.59.50"
+  "last_update": "Jumat, 1 Mei 2026 pukul 09.00.06"
 }
