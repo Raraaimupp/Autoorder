@@ -1391,6 +1391,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 04.48.44",
       "last_start": "Sabtu, 2 Mei 2026 pukul 04.48.44",
       "total_start": 1
+    },
+    {
+      "id": "7909859750",
+      "username": "@DanzSlowResG",
+      "name": "⏤͟͟͞ 𝟳𝟳𝟳𝟳𝙋 | 𝘿𝘼𝙉𝙕 ፚ",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 05.56.02",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 05.56.02",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1425,8 +1433,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 243,
-  "total_users": 174,
+  "total_start": 244,
+  "total_users": 175,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 05.46.40"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 05.56.02"
 }
