@@ -1007,6 +1007,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 18.17.14",
       "last_start": "Jumat, 1 Mei 2026 pukul 18.17.14",
       "total_start": 1
+    },
+    {
+      "id": "6664719441",
+      "username": "@usernamefound12",
+      "name": "user12",
+      "first_start": "Jumat, 1 Mei 2026 pukul 18.17.37",
+      "last_start": "Jumat, 1 Mei 2026 pukul 18.17.37",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1036,8 +1044,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 177,
-  "total_users": 126,
+  "total_start": 178,
+  "total_users": 127,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 18.17.14"
+  "last_update": "Jumat, 1 Mei 2026 pukul 18.17.37"
 }
