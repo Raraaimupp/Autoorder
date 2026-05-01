@@ -1239,6 +1239,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 22.59.09",
       "last_start": "Jumat, 1 Mei 2026 pukul 22.59.09",
       "total_start": 1
+    },
+    {
+      "id": "8070084978",
+      "username": "@Ardigan432",
+      "name": "Ardi 😋",
+      "first_start": "Jumat, 1 Mei 2026 pukul 23.24.02",
+      "last_start": "Jumat, 1 Mei 2026 pukul 23.24.02",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1273,8 +1281,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 219,
-  "total_users": 155,
+  "total_start": 220,
+  "total_users": 156,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 23.22.42"
+  "last_update": "Jumat, 1 Mei 2026 pukul 23.24.02"
 }
