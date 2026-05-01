@@ -743,6 +743,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 12.26.17",
       "last_start": "Jumat, 1 Mei 2026 pukul 12.26.17",
       "total_start": 1
+    },
+    {
+      "id": "8437714080",
+      "username": "@AdaNarzzJir",
+      "name": "const about \"./Narz\"",
+      "first_start": "Jumat, 1 Mei 2026 pukul 12.27.42",
+      "last_start": "Jumat, 1 Mei 2026 pukul 12.27.42",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -772,8 +780,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 135,
-  "total_users": 93,
+  "total_start": 136,
+  "total_users": 94,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 12.26.17"
+  "last_update": "Jumat, 1 Mei 2026 pukul 12.27.42"
 }
