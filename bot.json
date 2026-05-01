@@ -1415,6 +1415,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 06.12.13",
       "last_start": "Sabtu, 2 Mei 2026 pukul 06.12.13",
       "total_start": 1
+    },
+    {
+      "id": "7136054101",
+      "username": "@kayzyre",
+      "name": "./ 𝐤𝟒𝐲𝐙𝐲𝐫𝐞 𓆩𓆪",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 06.13.13",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 06.13.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1449,8 +1457,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 246,
-  "total_users": 177,
+  "total_start": 247,
+  "total_users": 178,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 06.12.13"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 06.13.13"
 }
