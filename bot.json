@@ -879,6 +879,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 15.57.46",
       "last_start": "Jumat, 1 Mei 2026 pukul 15.57.46",
       "total_start": 1
+    },
+    {
+      "id": "7601489257",
+      "username": "@rahmathost",
+      "name": "Rahmat store",
+      "first_start": "Jumat, 1 Mei 2026 pukul 16.01.36",
+      "last_start": "Jumat, 1 Mei 2026 pukul 16.01.36",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -908,8 +916,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 160,
-  "total_users": 110,
+  "total_start": 161,
+  "total_users": 111,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 16.01.19"
+  "last_update": "Jumat, 1 Mei 2026 pukul 16.01.36"
 }
