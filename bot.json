@@ -519,6 +519,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 08.22.04",
       "last_start": "Jumat, 1 Mei 2026 pukul 08.22.04",
       "total_start": 1
+    },
+    {
+      "id": "8615310896",
+      "username": "Tidak ada",
+      "name": "Zaa Str",
+      "first_start": "Jumat, 1 Mei 2026 pukul 08.26.00",
+      "last_start": "Jumat, 1 Mei 2026 pukul 08.26.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -548,8 +556,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 99,
-  "total_users": 65,
+  "total_start": 100,
+  "total_users": 66,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 08.25.48"
+  "last_update": "Jumat, 1 Mei 2026 pukul 08.26.00"
 }
