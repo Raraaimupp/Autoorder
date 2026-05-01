@@ -1383,6 +1383,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 04.18.30",
       "last_start": "Sabtu, 2 Mei 2026 pukul 04.18.30",
       "total_start": 1
+    },
+    {
+      "id": "459795925",
+      "username": "@yatimdm",
+      "name": "yanz",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 04.48.44",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 04.48.44",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1417,8 +1425,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 242,
-  "total_users": 173,
+  "total_start": 243,
+  "total_users": 174,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 04.24.32"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 04.48.44"
 }
