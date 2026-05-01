@@ -1399,6 +1399,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 05.56.02",
       "last_start": "Sabtu, 2 Mei 2026 pukul 05.56.02",
       "total_start": 1
+    },
+    {
+      "id": "8470099440",
+      "username": "@Ryuwen7",
+      "name": "02.02",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 06.09.03",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 06.09.03",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1433,8 +1441,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 244,
-  "total_users": 175,
+  "total_start": 245,
+  "total_users": 176,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 05.59.20"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 06.09.03"
 }
