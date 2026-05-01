@@ -495,6 +495,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 07.18.27",
       "last_start": "Jumat, 1 Mei 2026 pukul 07.18.27",
       "total_start": 1
+    },
+    {
+      "id": "8346804202",
+      "username": "@HenXyGZ",
+      "name": "HenXyGZ",
+      "first_start": "Jumat, 1 Mei 2026 pukul 07.19.51",
+      "last_start": "Jumat, 1 Mei 2026 pukul 07.19.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -524,8 +532,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 90,
-  "total_users": 62,
+  "total_start": 91,
+  "total_users": 63,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 07.19.09"
+  "last_update": "Jumat, 1 Mei 2026 pukul 07.19.51"
 }
