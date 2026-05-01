@@ -751,6 +751,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 12.27.42",
       "last_start": "Jumat, 1 Mei 2026 pukul 12.27.42",
       "total_start": 1
+    },
+    {
+      "id": "7318361863",
+      "username": "@Ammawcode",
+      "name": "Ammaw",
+      "first_start": "Jumat, 1 Mei 2026 pukul 12.57.27",
+      "last_start": "Jumat, 1 Mei 2026 pukul 12.57.27",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -780,8 +788,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 137,
-  "total_users": 94,
+  "total_start": 138,
+  "total_users": 95,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 12.57.06"
+  "last_update": "Jumat, 1 Mei 2026 pukul 12.57.27"
 }
