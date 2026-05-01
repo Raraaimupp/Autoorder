@@ -575,6 +575,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 09.19.06",
       "last_start": "Jumat, 1 Mei 2026 pukul 09.19.06",
       "total_start": 1
+    },
+    {
+      "id": "7333580176",
+      "username": "@NovaKece",
+      "name": "𝐍𝐎𝐕𝐀",
+      "first_start": "Jumat, 1 Mei 2026 pukul 09.20.15",
+      "last_start": "Jumat, 1 Mei 2026 pukul 09.20.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -604,8 +612,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 107,
-  "total_users": 72,
+  "total_start": 108,
+  "total_users": 73,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 09.19.59"
+  "last_update": "Jumat, 1 Mei 2026 pukul 09.20.15"
 }
