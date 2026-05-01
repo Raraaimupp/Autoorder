@@ -775,6 +775,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 13.26.45",
       "last_start": "Jumat, 1 Mei 2026 pukul 13.32.58",
       "total_start": 3
+    },
+    {
+      "id": "1390874248",
+      "username": "@ijayzzss",
+      "name": "𝗜𝗝𝗔𝗬𝗭𝗭𝗦 (𝚝𝚠 𝚜𝚖𝚊𝚗𝚍𝚎𝚕)",
+      "first_start": "Jumat, 1 Mei 2026 pukul 14.07.35",
+      "last_start": "Jumat, 1 Mei 2026 pukul 14.07.35",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -804,8 +812,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 144,
-  "total_users": 97,
+  "total_start": 145,
+  "total_users": 98,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 14.07.23"
+  "last_update": "Jumat, 1 Mei 2026 pukul 14.07.35"
 }
