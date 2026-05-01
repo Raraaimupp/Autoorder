@@ -671,6 +671,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 11.22.43",
       "last_start": "Jumat, 1 Mei 2026 pukul 11.22.43",
       "total_start": 1
+    },
+    {
+      "id": "6156881697",
+      "username": "@RAPZMOD",
+      "name": "𝙍𝘼𝘗𝘡-𝙓ＩＴ_𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹",
+      "first_start": "Jumat, 1 Mei 2026 pukul 11.24.19",
+      "last_start": "Jumat, 1 Mei 2026 pukul 11.24.19",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -700,8 +708,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 123,
-  "total_users": 84,
+  "total_start": 124,
+  "total_users": 85,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 11.23.11"
+  "last_update": "Jumat, 1 Mei 2026 pukul 11.24.19"
 }
