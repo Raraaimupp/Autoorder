@@ -959,6 +959,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 17.21.32",
       "last_start": "Jumat, 1 Mei 2026 pukul 17.21.52",
       "total_start": 2
+    },
+    {
+      "id": "8370584773",
+      "username": "@Yanxzzbobo",
+      "name": "YanxzzNotDev",
+      "first_start": "Jumat, 1 Mei 2026 pukul 17.23.00",
+      "last_start": "Jumat, 1 Mei 2026 pukul 17.23.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -988,8 +996,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 171,
-  "total_users": 120,
+  "total_start": 172,
+  "total_users": 121,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 17.22.15"
+  "last_update": "Jumat, 1 Mei 2026 pukul 17.23.00"
 }
