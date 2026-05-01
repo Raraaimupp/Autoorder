@@ -927,6 +927,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 17.05.29",
       "last_start": "Jumat, 1 Mei 2026 pukul 17.05.29",
       "total_start": 1
+    },
+    {
+      "id": "8440978860",
+      "username": "@azura_ala",
+      "name": "azura28",
+      "first_start": "Jumat, 1 Mei 2026 pukul 17.06.54",
+      "last_start": "Jumat, 1 Mei 2026 pukul 17.06.54",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -956,8 +964,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 166,
-  "total_users": 116,
+  "total_start": 167,
+  "total_users": 117,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 17.06.29"
+  "last_update": "Jumat, 1 Mei 2026 pukul 17.06.54"
 }
