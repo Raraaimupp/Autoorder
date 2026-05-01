@@ -1127,6 +1127,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 21.08.45",
       "last_start": "Jumat, 1 Mei 2026 pukul 21.08.45",
       "total_start": 1
+    },
+    {
+      "id": "5753885981",
+      "username": "@matarvx",
+      "name": "𝗠𝗔𝗧𝗔𝗥",
+      "first_start": "Jumat, 1 Mei 2026 pukul 21.09.54",
+      "last_start": "Jumat, 1 Mei 2026 pukul 21.09.54",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1161,8 +1169,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 199,
-  "total_users": 141,
+  "total_start": 200,
+  "total_users": 142,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 21.09.09"
+  "last_update": "Jumat, 1 Mei 2026 pukul 21.09.54"
 }
