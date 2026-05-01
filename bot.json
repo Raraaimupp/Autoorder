@@ -1271,6 +1271,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 23.36.46",
       "last_start": "Jumat, 1 Mei 2026 pukul 23.36.46",
       "total_start": 1
+    },
+    {
+      "id": "5043229791",
+      "username": "@Ajaymelll",
+      "name": "AJAYMEL #Flory",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 00.29.39",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 00.29.39",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1305,8 +1313,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 225,
-  "total_users": 159,
+  "total_start": 226,
+  "total_users": 160,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 00.25.35"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 00.29.39"
 }
