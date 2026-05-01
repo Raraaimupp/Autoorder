@@ -599,6 +599,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 09.25.29",
       "last_start": "Jumat, 1 Mei 2026 pukul 09.25.29",
       "total_start": 1
+    },
+    {
+      "id": "8779936321",
+      "username": "@R1LZzXtr4v3X",
+      "name": "-R1LZzx!",
+      "first_start": "Jumat, 1 Mei 2026 pukul 09.56.24",
+      "last_start": "Jumat, 1 Mei 2026 pukul 09.56.24",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -628,8 +636,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 110,
-  "total_users": 75,
+  "total_start": 111,
+  "total_users": 76,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 09.36.41"
+  "last_update": "Jumat, 1 Mei 2026 pukul 09.56.24"
 }
