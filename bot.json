@@ -815,6 +815,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 14.17.30",
       "last_start": "Jumat, 1 Mei 2026 pukul 14.17.30",
       "total_start": 1
+    },
+    {
+      "id": "7378480893",
+      "username": "@RipalAryanto",
+      "name": "RIPAL GANTENG",
+      "first_start": "Jumat, 1 Mei 2026 pukul 14.18.43",
+      "last_start": "Jumat, 1 Mei 2026 pukul 14.18.43",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -844,8 +852,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 149,
-  "total_users": 102,
+  "total_start": 150,
+  "total_users": 103,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 14.18.37"
+  "last_update": "Jumat, 1 Mei 2026 pukul 14.18.43"
 }
