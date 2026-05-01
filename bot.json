@@ -1159,6 +1159,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 21.59.12",
       "last_start": "Jumat, 1 Mei 2026 pukul 22.10.31",
       "total_start": 2
+    },
+    {
+      "id": "8482239012",
+      "username": "@allzoffc",
+      "name": "C1benkk idgaff",
+      "first_start": "Jumat, 1 Mei 2026 pukul 22.11.50",
+      "last_start": "Jumat, 1 Mei 2026 pukul 22.11.50",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1193,8 +1201,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 206,
-  "total_users": 145,
+  "total_start": 207,
+  "total_users": 146,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 22.10.31"
+  "last_update": "Jumat, 1 Mei 2026 pukul 22.11.50"
 }
