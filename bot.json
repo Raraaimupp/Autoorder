@@ -1431,6 +1431,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 06.14.26",
       "last_start": "Sabtu, 2 Mei 2026 pukul 06.14.26",
       "total_start": 1
+    },
+    {
+      "id": "7840674104",
+      "username": "@Opetstr",
+      "name": "OPEX",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 06.49.11",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 06.49.11",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1465,8 +1473,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 249,
-  "total_users": 179,
+  "total_start": 250,
+  "total_users": 180,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 06.45.05"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 06.49.11"
 }
