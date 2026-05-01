@@ -1231,6 +1231,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 22.57.14",
       "last_start": "Jumat, 1 Mei 2026 pukul 22.57.14",
       "total_start": 1
+    },
+    {
+      "id": "7509419914",
+      "username": "@danzzofic",
+      "name": "Bequ",
+      "first_start": "Jumat, 1 Mei 2026 pukul 22.59.09",
+      "last_start": "Jumat, 1 Mei 2026 pukul 22.59.09",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1265,8 +1273,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 218,
-  "total_users": 154,
+  "total_start": 219,
+  "total_users": 155,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 22.58.09"
+  "last_update": "Jumat, 1 Mei 2026 pukul 22.59.09"
 }
