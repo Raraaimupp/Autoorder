@@ -895,6 +895,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 16.32.19",
       "last_start": "Jumat, 1 Mei 2026 pukul 16.32.19",
       "total_start": 1
+    },
+    {
+      "id": "8571455327",
+      "username": "Tidak ada",
+      "name": "Kenzo Jmk",
+      "first_start": "Jumat, 1 Mei 2026 pukul 16.38.38",
+      "last_start": "Jumat, 1 Mei 2026 pukul 16.38.38",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -924,8 +932,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 162,
-  "total_users": 112,
+  "total_start": 163,
+  "total_users": 113,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 16.37.26"
+  "last_update": "Jumat, 1 Mei 2026 pukul 16.38.38"
 }
