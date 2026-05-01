@@ -543,6 +543,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 09.00.06",
       "last_start": "Jumat, 1 Mei 2026 pukul 09.00.06",
       "total_start": 1
+    },
+    {
+      "id": "8386290359",
+      "username": "@Reyznnp",
+      "name": "𝕽𝖊𝖞𝖞",
+      "first_start": "Jumat, 1 Mei 2026 pukul 09.04.46",
+      "last_start": "Jumat, 1 Mei 2026 pukul 09.04.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -572,8 +580,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 102,
-  "total_users": 68,
+  "total_start": 103,
+  "total_users": 69,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 09.03.19"
+  "last_update": "Jumat, 1 Mei 2026 pukul 09.04.46"
 }
