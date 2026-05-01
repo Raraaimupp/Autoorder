@@ -1015,6 +1015,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 18.17.37",
       "last_start": "Jumat, 1 Mei 2026 pukul 18.17.37",
       "total_start": 1
+    },
+    {
+      "id": "8442277815",
+      "username": "@AlvinIDS",
+      "name": "𝘼𝙡𝙫𝙞𝙣𝙉𝙪𝙨𝙖𝙣𝙩𝙖𝙧𝙖/𝙂𝙞𝙩𝙝𝙪𝙗",
+      "first_start": "Jumat, 1 Mei 2026 pukul 19.00.02",
+      "last_start": "Jumat, 1 Mei 2026 pukul 19.00.02",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1044,8 +1052,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 178,
-  "total_users": 127,
+  "total_start": 179,
+  "total_users": 128,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 18.59.51"
+  "last_update": "Jumat, 1 Mei 2026 pukul 19.00.02"
 }
