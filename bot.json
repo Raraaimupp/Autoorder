@@ -727,6 +727,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 12.24.31",
       "last_start": "Jumat, 1 Mei 2026 pukul 12.24.31",
       "total_start": 1
+    },
+    {
+      "id": "1102295941",
+      "username": "@KengzzzTzy",
+      "name": "⏤͟͟͞͞Kengzzz",
+      "first_start": "Jumat, 1 Mei 2026 pukul 12.24.40",
+      "last_start": "Jumat, 1 Mei 2026 pukul 12.24.40",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -756,8 +764,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 131,
-  "total_users": 91,
+  "total_start": 132,
+  "total_users": 92,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 12.24.31"
+  "last_update": "Jumat, 1 Mei 2026 pukul 12.24.40"
 }
