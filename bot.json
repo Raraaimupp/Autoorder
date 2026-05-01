@@ -783,6 +783,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 14.07.35",
       "last_start": "Jumat, 1 Mei 2026 pukul 14.07.35",
       "total_start": 1
+    },
+    {
+      "id": "1802830218",
+      "username": "@settdahhh",
+      "name": "XxX ZETA",
+      "first_start": "Jumat, 1 Mei 2026 pukul 14.11.53",
+      "last_start": "Jumat, 1 Mei 2026 pukul 14.11.53",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -812,8 +820,8 @@
       "first_detected": "Kamis, 30 April 2026 pukul 18.21.44"
     }
   ],
-  "total_start": 145,
-  "total_users": 98,
+  "total_start": 146,
+  "total_users": 99,
   "total_groups": 5,
-  "last_update": "Jumat, 1 Mei 2026 pukul 14.11.45"
+  "last_update": "Jumat, 1 Mei 2026 pukul 14.11.53"
 }
