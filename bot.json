@@ -1175,6 +1175,14 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 22.12.14",
       "last_start": "Jumat, 1 Mei 2026 pukul 22.12.14",
       "total_start": 1
+    },
+    {
+      "id": "8186527193",
+      "username": "@PadukaXyoo",
+      "name": "VELDORA",
+      "first_start": "Jumat, 1 Mei 2026 pukul 22.13.18",
+      "last_start": "Jumat, 1 Mei 2026 pukul 22.13.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1209,8 +1217,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 208,
-  "total_users": 147,
+  "total_start": 209,
+  "total_users": 148,
   "total_groups": 6,
-  "last_update": "Jumat, 1 Mei 2026 pukul 22.12.14"
+  "last_update": "Jumat, 1 Mei 2026 pukul 22.13.18"
 }
