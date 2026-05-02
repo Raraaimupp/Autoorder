@@ -1799,6 +1799,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 12.48.35",
       "last_start": "Sabtu, 2 Mei 2026 pukul 12.48.35",
       "total_start": 1
+    },
+    {
+      "id": "8756704594",
+      "username": "@Sanxzffg",
+      "name": "Sanxz",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 13.33.13",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 13.33.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1833,8 +1841,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 317,
-  "total_users": 225,
+  "total_start": 318,
+  "total_users": 226,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 13.32.52"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 13.33.13"
 }
