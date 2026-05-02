@@ -2375,6 +2375,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 01.15.43",
       "last_start": "Minggu, 3 Mei 2026 pukul 01.16.20",
       "total_start": 2
+    },
+    {
+      "id": "8398995120",
+      "username": "@FajriStore",
+      "name": "𝙁𝘼𝙅𝙍𝙄 𝙎𝙏𝙊𝙍𝙀",
+      "first_start": "Minggu, 3 Mei 2026 pukul 01.23.52",
+      "last_start": "Minggu, 3 Mei 2026 pukul 01.23.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2409,8 +2417,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 439,
-  "total_users": 297,
+  "total_start": 440,
+  "total_users": 298,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 01.18.28"
+  "last_update": "Minggu, 3 Mei 2026 pukul 01.23.52"
 }
