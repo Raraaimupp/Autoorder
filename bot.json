@@ -2071,6 +2071,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 17.59.20",
       "last_start": "Sabtu, 2 Mei 2026 pukul 17.59.20",
       "total_start": 1
+    },
+    {
+      "id": "8554491123",
+      "username": "Tidak ada",
+      "name": "Ajeng Story",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 18.07.58",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 18.07.58",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2105,8 +2113,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 366,
-  "total_users": 259,
+  "total_start": 367,
+  "total_users": 260,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 18.06.55"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 18.07.58"
 }
