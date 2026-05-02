@@ -1791,6 +1791,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 12.28.52",
       "last_start": "Sabtu, 2 Mei 2026 pukul 12.28.52",
       "total_start": 1
+    },
+    {
+      "id": "8327552167",
+      "username": "Tidak ada",
+      "name": "Siuu",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 12.48.35",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 12.48.35",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1825,8 +1833,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 313,
-  "total_users": 224,
+  "total_start": 314,
+  "total_users": 225,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 12.47.08"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 12.48.35"
 }
