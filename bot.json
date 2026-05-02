@@ -645,8 +645,8 @@
       "username": "@Zenoxstr",
       "name": "ZenoX Storee",
       "first_start": "Jumat, 1 Mei 2026 pukul 10.22.27",
-      "last_start": "Jumat, 1 Mei 2026 pukul 10.22.27",
-      "total_start": 1
+      "last_start": "Sabtu, 2 Mei 2026 pukul 13.20.48",
+      "total_start": 2
     },
     {
       "id": "7058748400",
@@ -1833,8 +1833,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 315,
+  "total_start": 316,
   "total_users": 225,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 13.19.47"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 13.20.48"
 }
