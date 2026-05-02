@@ -1591,6 +1591,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 09.17.46",
       "last_start": "Sabtu, 2 Mei 2026 pukul 09.17.46",
       "total_start": 1
+    },
+    {
+      "id": "7162103246",
+      "username": "@arylerzstore",
+      "name": "Ary",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 09.25.06",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 09.25.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1625,8 +1633,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 276,
-  "total_users": 199,
+  "total_start": 277,
+  "total_users": 200,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 09.22.54"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 09.25.06"
 }
