@@ -1815,6 +1815,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 13.33.50",
       "last_start": "Sabtu, 2 Mei 2026 pukul 13.33.50",
       "total_start": 1
+    },
+    {
+      "id": "8313289899",
+      "username": "@Ydazz00",
+      "name": "yuda next time",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 13.43.22",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 13.43.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1849,8 +1857,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 320,
-  "total_users": 227,
+  "total_start": 321,
+  "total_users": 228,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 13.42.53"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 13.43.22"
 }
