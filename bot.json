@@ -1527,6 +1527,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 07.54.29",
       "last_start": "Sabtu, 2 Mei 2026 pukul 07.54.29",
       "total_start": 1
+    },
+    {
+      "id": "7773190958",
+      "username": "Tidak ada",
+      "name": "爪タ𝟸𝟹ﾒ'",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 08.28.57",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 08.28.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1561,8 +1569,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 265,
-  "total_users": 191,
+  "total_start": 266,
+  "total_users": 192,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 08.24.39"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 08.28.57"
 }
