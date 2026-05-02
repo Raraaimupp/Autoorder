@@ -1711,6 +1711,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 11.10.15",
       "last_start": "Sabtu, 2 Mei 2026 pukul 11.10.15",
       "total_start": 1
+    },
+    {
+      "id": "7895427780",
+      "username": "Tidak ada",
+      "name": "⏤͟͟͞͞𝗖 || 𝗖𝗔𝗟𝗟𝗢♛𓆩⸙𓆪 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 11.19.09",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 11.19.09",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1745,8 +1753,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 300,
-  "total_users": 214,
+  "total_start": 301,
+  "total_users": 215,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 11.18.48"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 11.19.09"
 }
