@@ -1919,6 +1919,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 15.33.43",
       "last_start": "Sabtu, 2 Mei 2026 pukul 15.33.43",
       "total_start": 1
+    },
+    {
+      "id": "8752993290",
+      "username": "Tidak ada",
+      "name": "Simmi",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 15.38.02",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 15.38.02",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1953,8 +1961,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 337,
-  "total_users": 240,
+  "total_start": 338,
+  "total_users": 241,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 15.37.10"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 15.38.02"
 }
