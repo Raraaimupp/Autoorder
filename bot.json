@@ -2391,6 +2391,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 01.28.45",
       "last_start": "Minggu, 3 Mei 2026 pukul 01.28.45",
       "total_start": 1
+    },
+    {
+      "id": "8760636002",
+      "username": "@FauzzyThCio",
+      "name": "𝐅𝐀𝐔𝐙𝐙𝐘 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋",
+      "first_start": "Minggu, 3 Mei 2026 pukul 01.39.36",
+      "last_start": "Minggu, 3 Mei 2026 pukul 01.39.36",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2425,8 +2433,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 444,
-  "total_users": 299,
+  "total_start": 445,
+  "total_users": 300,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 01.39.23"
+  "last_update": "Minggu, 3 Mei 2026 pukul 01.39.36"
 }
