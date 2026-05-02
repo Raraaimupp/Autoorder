@@ -1759,6 +1759,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 11.38.09",
       "last_start": "Sabtu, 2 Mei 2026 pukul 11.38.09",
       "total_start": 1
+    },
+    {
+      "id": "8456195348",
+      "username": "@MUZOFFICIALREALV1",
+      "name": "ᴍᴜᴢ ᴏғғɪᴄᴇ ʀᴇᴀʟ ᴠ1 [ᴏᴘᴇɴ ᴍᴀɴᴛᴀx]",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 11.39.31",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 11.39.31",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1793,8 +1801,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 306,
-  "total_users": 220,
+  "total_start": 307,
+  "total_users": 221,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 11.39.09"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 11.39.31"
 }
