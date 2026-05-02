@@ -2431,6 +2431,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 03.42.13",
       "last_start": "Minggu, 3 Mei 2026 pukul 03.42.13",
       "total_start": 1
+    },
+    {
+      "id": "1014794086",
+      "username": "@xyenzzx",
+      "name": "¡𝗺 #𝗫𝘆𝗲𝗻𝘇",
+      "first_start": "Minggu, 3 Mei 2026 pukul 04.58.43",
+      "last_start": "Minggu, 3 Mei 2026 pukul 04.58.43",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2465,8 +2473,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 452,
-  "total_users": 304,
+  "total_start": 453,
+  "total_users": 305,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 04.55.42"
+  "last_update": "Minggu, 3 Mei 2026 pukul 04.58.43"
 }
