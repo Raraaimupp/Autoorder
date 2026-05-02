@@ -1495,6 +1495,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 07.30.39",
       "last_start": "Sabtu, 2 Mei 2026 pukul 07.30.39",
       "total_start": 1
+    },
+    {
+      "id": "7735051511",
+      "username": "@bumbimbambam",
+      "name": "masmismus",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 07.37.50",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 07.37.50",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1529,8 +1537,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 258,
-  "total_users": 187,
+  "total_start": 259,
+  "total_users": 188,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 07.30.53"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 07.37.50"
 }
