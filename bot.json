@@ -2423,6 +2423,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 03.32.34",
       "last_start": "Minggu, 3 Mei 2026 pukul 03.32.34",
       "total_start": 1
+    },
+    {
+      "id": "6125343693",
+      "username": "Tidak ada",
+      "name": "Off 📴",
+      "first_start": "Minggu, 3 Mei 2026 pukul 03.42.13",
+      "last_start": "Minggu, 3 Mei 2026 pukul 03.42.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2457,8 +2465,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 449,
-  "total_users": 303,
+  "total_start": 450,
+  "total_users": 304,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 03.39.11"
+  "last_update": "Minggu, 3 Mei 2026 pukul 03.42.13"
 }
