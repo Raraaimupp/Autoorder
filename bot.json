@@ -1735,6 +1735,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 11.26.28",
       "last_start": "Sabtu, 2 Mei 2026 pukul 11.26.28",
       "total_start": 1
+    },
+    {
+      "id": "8698110075",
+      "username": "@antkonstol",
+      "name": "ant semut",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 11.27.50",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 11.27.50",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1769,8 +1777,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 303,
-  "total_users": 217,
+  "total_start": 304,
+  "total_users": 218,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 11.26.28"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 11.27.50"
 }
