@@ -1575,6 +1575,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 09.07.07",
       "last_start": "Sabtu, 2 Mei 2026 pukul 09.07.07",
       "total_start": 1
+    },
+    {
+      "id": "7813083003",
+      "username": "@marzzXD",
+      "name": "𝙢︪︩𝙖𝙧︢͢𝙯𝙯𝙓𝘿 #HugoHard",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 09.14.53",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 09.14.53",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1609,8 +1617,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 273,
-  "total_users": 197,
+  "total_start": 274,
+  "total_users": 198,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 09.07.07"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 09.14.53"
 }
