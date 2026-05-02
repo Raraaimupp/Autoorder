@@ -1639,6 +1639,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 10.08.24",
       "last_start": "Sabtu, 2 Mei 2026 pukul 10.08.24",
       "total_start": 1
+    },
+    {
+      "id": "7884695878",
+      "username": "@WisXploid",
+      "name": "Require</Wisnu`tech>",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 10.12.12",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 10.12.12",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1673,8 +1681,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 285,
-  "total_users": 205,
+  "total_start": 286,
+  "total_users": 206,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 10.08.24"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 10.12.12"
 }
