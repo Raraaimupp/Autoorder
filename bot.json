@@ -1951,6 +1951,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 16.02.51",
       "last_start": "Sabtu, 2 Mei 2026 pukul 16.02.51",
       "total_start": 1
+    },
+    {
+      "id": "8326107548",
+      "username": "@RAFAELLOW",
+      "name": "KAYL",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 16.08.58",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 16.08.58",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1985,8 +1993,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 345,
-  "total_users": 244,
+  "total_start": 346,
+  "total_users": 245,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 16.08.15"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 16.08.58"
 }
