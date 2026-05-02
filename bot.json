@@ -2245,8 +2245,8 @@
       "username": "Tidak ada",
       "name": "RANZZ STORE",
       "first_start": "Sabtu, 2 Mei 2026 pukul 21.14.08",
-      "last_start": "Sabtu, 2 Mei 2026 pukul 21.14.08",
-      "total_start": 1
+      "last_start": "Sabtu, 2 Mei 2026 pukul 21.34.56",
+      "total_start": 2
     },
     {
       "id": "8010874241",
@@ -2305,8 +2305,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 418,
+  "total_start": 419,
   "total_users": 284,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 21.33.26"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 21.34.56"
 }
