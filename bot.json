@@ -2031,6 +2031,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 16.51.17",
       "last_start": "Sabtu, 2 Mei 2026 pukul 16.51.17",
       "total_start": 1
+    },
+    {
+      "id": "5991958569",
+      "username": "@lungzzx",
+      "name": "LungzzX",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 17.13.55",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 17.13.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2065,8 +2073,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 358,
-  "total_users": 254,
+  "total_start": 359,
+  "total_users": 255,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 17.13.09"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 17.13.55"
 }
