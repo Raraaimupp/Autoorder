@@ -2279,6 +2279,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 21.35.08",
       "last_start": "Sabtu, 2 Mei 2026 pukul 21.35.30",
       "total_start": 2
+    },
+    {
+      "id": "8799225142",
+      "username": "@Calvinstyz",
+      "name": "<|> C A L V I N ' S T",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 22.12.33",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 22.12.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2313,8 +2321,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 421,
-  "total_users": 285,
+  "total_start": 422,
+  "total_users": 286,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 22.05.22"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 22.12.33"
 }
