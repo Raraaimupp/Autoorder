@@ -2319,6 +2319,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 23.22.01",
       "last_start": "Sabtu, 2 Mei 2026 pukul 23.45.30",
       "total_start": 2
+    },
+    {
+      "id": "7279786765",
+      "username": "@ItsMeIdoyyxzz",
+      "name": "⏤͟͟͞͞𝙄𝙙𝙤𝙮𝙮𝙇𝙮𝙤𝙧𝙖𝙖",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 23.53.28",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 23.53.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2353,8 +2361,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 428,
-  "total_users": 290,
+  "total_start": 429,
+  "total_users": 291,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 23.49.44"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 23.53.28"
 }
