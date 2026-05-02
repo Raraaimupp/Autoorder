@@ -1615,6 +1615,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 09.40.28",
       "last_start": "Sabtu, 2 Mei 2026 pukul 09.40.28",
       "total_start": 1
+    },
+    {
+      "id": "1059984509",
+      "username": "@pangerandaxzyy",
+      "name": "</>daxzyy",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 09.43.33",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 09.43.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1649,8 +1657,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 281,
-  "total_users": 202,
+  "total_start": 282,
+  "total_users": 203,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 09.40.28"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 09.43.33"
 }
