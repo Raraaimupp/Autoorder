@@ -1847,6 +1847,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 14.05.35",
       "last_start": "Sabtu, 2 Mei 2026 pukul 14.05.35",
       "total_start": 1
+    },
+    {
+      "id": "7544942155",
+      "username": "@gok334",
+      "name": "levivoltra",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 14.05.50",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 14.05.50",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1881,8 +1889,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 326,
-  "total_users": 231,
+  "total_start": 327,
+  "total_users": 232,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 14.05.35"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 14.05.50"
 }
