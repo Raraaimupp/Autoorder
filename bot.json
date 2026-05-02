@@ -1991,6 +1991,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 16.45.00",
       "last_start": "Sabtu, 2 Mei 2026 pukul 16.45.23",
       "total_start": 2
+    },
+    {
+      "id": "8049322095",
+      "username": "Tidak ada",
+      "name": "𝗞𝗲𝗻𝘇𝘆",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 16.45.39",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 16.45.39",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2025,8 +2033,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 352,
-  "total_users": 249,
+  "total_start": 353,
+  "total_users": 250,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 16.45.23"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 16.45.39"
 }
