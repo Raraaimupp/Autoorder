@@ -1719,6 +1719,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 11.19.09",
       "last_start": "Sabtu, 2 Mei 2026 pukul 11.19.09",
       "total_start": 1
+    },
+    {
+      "id": "8354205028",
+      "username": "@BackupXena25",
+      "name": "XenaBackup",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 11.20.14",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 11.20.14",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1753,8 +1761,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 301,
-  "total_users": 215,
+  "total_start": 302,
+  "total_users": 216,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 11.19.09"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 11.20.14"
 }
