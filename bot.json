@@ -1943,6 +1943,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 15.45.24",
       "last_start": "Sabtu, 2 Mei 2026 pukul 15.45.24",
       "total_start": 1
+    },
+    {
+      "id": "1995369547",
+      "username": "@bimastore12",
+      "name": "BIMASTORE ⿻ ⌜ OPEN ORDER NOKOS,PANEL,UBOT ⌟ ⿻",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 16.02.51",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 16.02.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1977,8 +1985,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 344,
-  "total_users": 243,
+  "total_start": 345,
+  "total_users": 244,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 16.02.30"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 16.02.51"
 }
