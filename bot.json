@@ -1471,6 +1471,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 07.22.36",
       "last_start": "Sabtu, 2 Mei 2026 pukul 07.22.36",
       "total_start": 1
+    },
+    {
+      "id": "7993282561",
+      "username": "@NexiRajaIblis",
+      "name": "- 𝐍𝐞𝐗¡",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 07.23.13",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 07.23.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1505,8 +1513,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 255,
-  "total_users": 184,
+  "total_start": 256,
+  "total_users": 185,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 07.22.36"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 07.23.13"
 }
