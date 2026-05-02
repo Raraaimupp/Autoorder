@@ -1647,6 +1647,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 10.12.12",
       "last_start": "Sabtu, 2 Mei 2026 pukul 10.12.12",
       "total_start": 1
+    },
+    {
+      "id": "5825929836",
+      "username": "@luyatimv",
+      "name": "𝐃𝐀𝐌𝐙",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 10.16.29",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 10.16.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1681,8 +1689,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 286,
-  "total_users": 206,
+  "total_start": 287,
+  "total_users": 207,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 10.12.12"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 10.16.29"
 }
