@@ -1463,6 +1463,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 07.21.25",
       "last_start": "Sabtu, 2 Mei 2026 pukul 07.21.25",
       "total_start": 1
+    },
+    {
+      "id": "1079647449",
+      "username": "@FAHRY12345",
+      "name": ". .",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 07.22.36",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 07.22.36",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1497,8 +1505,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 254,
-  "total_users": 183,
+  "total_start": 255,
+  "total_users": 184,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 07.21.25"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 07.22.36"
 }
