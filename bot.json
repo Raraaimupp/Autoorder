@@ -2335,6 +2335,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 00.00.51",
       "last_start": "Minggu, 3 Mei 2026 pukul 00.00.51",
       "total_start": 1
+    },
+    {
+      "id": "1020536868",
+      "username": "@Ares_Inc",
+      "name": "Ares™",
+      "first_start": "Minggu, 3 Mei 2026 pukul 00.13.30",
+      "last_start": "Minggu, 3 Mei 2026 pukul 00.13.30",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2369,8 +2377,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 432,
-  "total_users": 292,
+  "total_start": 433,
+  "total_users": 293,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 00.13.03"
+  "last_update": "Minggu, 3 Mei 2026 pukul 00.13.30"
 }
