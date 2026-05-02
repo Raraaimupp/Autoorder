@@ -2407,6 +2407,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 01.39.55",
       "last_start": "Minggu, 3 Mei 2026 pukul 01.39.55",
       "total_start": 1
+    },
+    {
+      "id": "8555443293",
+      "username": "Tidak ada",
+      "name": "🛡⃞ᵍʳᵈ — 𝙃𝙣͟𝙯͟𝙯͜🗡 9 8 1 8",
+      "first_start": "Minggu, 3 Mei 2026 pukul 01.54.29",
+      "last_start": "Minggu, 3 Mei 2026 pukul 01.54.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2441,8 +2449,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 446,
-  "total_users": 301,
+  "total_start": 447,
+  "total_users": 302,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 01.49.53"
+  "last_update": "Minggu, 3 Mei 2026 pukul 01.54.29"
 }
