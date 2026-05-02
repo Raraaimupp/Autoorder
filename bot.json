@@ -2191,6 +2191,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 19.57.11",
       "last_start": "Sabtu, 2 Mei 2026 pukul 19.57.11",
       "total_start": 1
+    },
+    {
+      "id": "1209524945",
+      "username": "Tidak ada",
+      "name": "Raraa",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 19.58.07",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 19.58.07",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2225,8 +2233,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 390,
-  "total_users": 274,
+  "total_start": 391,
+  "total_users": 275,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 19.57.11"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 19.58.07"
 }
