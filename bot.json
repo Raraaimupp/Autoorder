@@ -1743,6 +1743,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 11.27.50",
       "last_start": "Sabtu, 2 Mei 2026 pukul 11.27.50",
       "total_start": 1
+    },
+    {
+      "id": "8217075913",
+      "username": "@Fikriloz",
+      "name": "Fikri",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 11.29.20",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 11.29.20",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1777,8 +1785,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 304,
-  "total_users": 218,
+  "total_start": 305,
+  "total_users": 219,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 11.27.50"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 11.29.20"
 }
