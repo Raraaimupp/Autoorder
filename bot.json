@@ -1503,6 +1503,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 07.37.50",
       "last_start": "Sabtu, 2 Mei 2026 pukul 07.37.50",
       "total_start": 1
+    },
+    {
+      "id": "8560755435",
+      "username": "Tidak ada",
+      "name": "Fanznz Hau",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 07.46.31",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 07.46.31",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1537,8 +1545,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 259,
-  "total_users": 188,
+  "total_start": 260,
+  "total_users": 189,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 07.45.18"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 07.46.31"
 }
