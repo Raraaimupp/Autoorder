@@ -1871,6 +1871,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 14.24.31",
       "last_start": "Sabtu, 2 Mei 2026 pukul 14.24.31",
       "total_start": 1
+    },
+    {
+      "id": "8048991700",
+      "username": "@Jasher_by_idin",
+      "name": "BOT JASHER BY IDIN",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 15.00.08",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 15.00.08",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1905,8 +1913,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 330,
-  "total_users": 234,
+  "total_start": 331,
+  "total_users": 235,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 14.59.19"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 15.00.08"
 }
