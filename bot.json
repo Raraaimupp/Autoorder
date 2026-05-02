@@ -1447,6 +1447,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 06.58.25",
       "last_start": "Sabtu, 2 Mei 2026 pukul 06.58.25",
       "total_start": 1
+    },
+    {
+      "id": "8174736276",
+      "username": "@esdogii",
+      "name": "Pudan .",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 07.09.42",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 07.09.42",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1481,8 +1489,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 252,
-  "total_users": 181,
+  "total_start": 253,
+  "total_users": 182,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 06.58.25"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 07.09.42"
 }
