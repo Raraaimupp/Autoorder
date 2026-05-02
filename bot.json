@@ -2327,6 +2327,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 23.53.28",
       "last_start": "Sabtu, 2 Mei 2026 pukul 23.53.28",
       "total_start": 1
+    },
+    {
+      "id": "8377838171",
+      "username": "Tidak ada",
+      "name": "Ian Gabutt",
+      "first_start": "Minggu, 3 Mei 2026 pukul 00.00.51",
+      "last_start": "Minggu, 3 Mei 2026 pukul 00.00.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2361,8 +2369,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 431,
-  "total_users": 291,
+  "total_start": 432,
+  "total_users": 292,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 23.58.35"
+  "last_update": "Minggu, 3 Mei 2026 pukul 00.00.51"
 }
