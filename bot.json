@@ -2351,6 +2351,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 00.18.38",
       "last_start": "Minggu, 3 Mei 2026 pukul 00.18.38",
       "total_start": 1
+    },
+    {
+      "id": "8668468843",
+      "username": "@hanzsukahyila",
+      "name": "ʜᴀɴᴢ.ɪᴅ",
+      "first_start": "Minggu, 3 Mei 2026 pukul 00.52.34",
+      "last_start": "Minggu, 3 Mei 2026 pukul 00.52.34",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2385,8 +2393,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 434,
-  "total_users": 294,
+  "total_start": 435,
+  "total_users": 295,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 00.51.00"
+  "last_update": "Minggu, 3 Mei 2026 pukul 00.52.34"
 }
