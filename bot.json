@@ -1703,6 +1703,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 10.51.34",
       "last_start": "Sabtu, 2 Mei 2026 pukul 10.51.34",
       "total_start": 1
+    },
+    {
+      "id": "7698005298",
+      "username": "@tirzznih",
+      "name": "𝙏𝙞𝙧𝙯`𝙯?",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 11.10.15",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 11.10.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1737,8 +1745,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 298,
-  "total_users": 213,
+  "total_start": 299,
+  "total_users": 214,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 11.07.08"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 11.10.15"
 }
