@@ -1631,6 +1631,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 10.02.01",
       "last_start": "Sabtu, 2 Mei 2026 pukul 10.02.01",
       "total_start": 1
+    },
+    {
+      "id": "8407149964",
+      "username": "@kayrosukamieayam",
+      "name": "ᯓ𝐀𝐂𝐍𝐂 𝐊𝐀𝐘𝐑𝐎𝐎",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 10.08.24",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 10.08.24",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1665,8 +1673,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 284,
-  "total_users": 204,
+  "total_start": 285,
+  "total_users": 205,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 10.04.39"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 10.08.24"
 }
