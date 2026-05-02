@@ -1511,6 +1511,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 07.46.31",
       "last_start": "Sabtu, 2 Mei 2026 pukul 07.46.31",
       "total_start": 1
+    },
+    {
+      "id": "8299818034",
+      "username": "@AishkoAfzzz",
+      "name": "ᯓ 𝘈𝘪𝘴𝘩𝘬𝘰𝘈𝘧𝘻𝘻𝘻𝕏",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 07.53.02",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 07.53.02",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1545,8 +1553,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 260,
-  "total_users": 189,
+  "total_start": 261,
+  "total_users": 190,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 07.52.30"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 07.53.02"
 }
