@@ -1687,6 +1687,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 10.41.12",
       "last_start": "Sabtu, 2 Mei 2026 pukul 10.41.12",
       "total_start": 1
+    },
+    {
+      "id": "6022838589",
+      "username": "@zaabingooo",
+      "name": "Irumaaa",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 10.47.00",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 10.47.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1721,8 +1729,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 295,
-  "total_users": 211,
+  "total_start": 296,
+  "total_users": 212,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 10.46.12"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 10.47.00"
 }
