@@ -2183,6 +2183,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 19.49.00",
       "last_start": "Sabtu, 2 Mei 2026 pukul 19.49.00",
       "total_start": 1
+    },
+    {
+      "id": "8794846848",
+      "username": "@Sanzy44",
+      "name": "King Sanzy",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 19.57.11",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 19.57.11",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2217,8 +2225,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 389,
-  "total_users": 273,
+  "total_start": 390,
+  "total_users": 274,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 19.54.32"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 19.57.11"
 }
