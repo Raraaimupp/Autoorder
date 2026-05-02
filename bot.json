@@ -1583,6 +1583,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 09.14.53",
       "last_start": "Sabtu, 2 Mei 2026 pukul 09.14.53",
       "total_start": 1
+    },
+    {
+      "id": "8422780130",
+      "username": "@AhmadCrasherrr",
+      "name": "A H M A D ¿?",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 09.17.46",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 09.17.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1617,8 +1625,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 274,
-  "total_users": 198,
+  "total_start": 275,
+  "total_users": 199,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 09.15.47"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 09.17.46"
 }
