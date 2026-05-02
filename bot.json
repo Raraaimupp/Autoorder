@@ -2287,6 +2287,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 22.12.33",
       "last_start": "Sabtu, 2 Mei 2026 pukul 22.12.33",
       "total_start": 1
+    },
+    {
+      "id": "8223028654",
+      "username": "@avn_al",
+      "name": "𝐅𝐎𝐑 𝘼𝙇 𝟕𝟐𝟐",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 22.19.15",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 22.19.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2321,8 +2329,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 422,
-  "total_users": 286,
+  "total_start": 423,
+  "total_users": 287,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 22.18.54"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 22.19.15"
 }
