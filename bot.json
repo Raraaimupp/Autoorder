@@ -1551,6 +1551,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 08.50.45",
       "last_start": "Sabtu, 2 Mei 2026 pukul 08.51.33",
       "total_start": 2
+    },
+    {
+      "id": "8709422616",
+      "username": "@Xarz27",
+      "name": "🛡⃞ᵍʳᵈ — 𝙓𝙖𝙧𝙧͟𝙯͟𝙯͜🗡",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 08.58.57",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 08.58.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1585,8 +1593,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 269,
-  "total_users": 194,
+  "total_start": 270,
+  "total_users": 195,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 08.52.43"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 08.58.57"
 }
