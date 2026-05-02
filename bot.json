@@ -2103,6 +2103,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 18.14.02",
       "last_start": "Sabtu, 2 Mei 2026 pukul 18.14.02",
       "total_start": 1
+    },
+    {
+      "id": "1603123377",
+      "username": "@PenggunaGuna",
+      "name": "./vigho",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 18.23.56",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 18.23.56",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2137,8 +2145,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 370,
-  "total_users": 263,
+  "total_start": 371,
+  "total_users": 264,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 18.23.39"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 18.23.56"
 }
