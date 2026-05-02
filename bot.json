@@ -2399,6 +2399,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 01.39.36",
       "last_start": "Minggu, 3 Mei 2026 pukul 01.39.36",
       "total_start": 1
+    },
+    {
+      "id": "8439177668",
+      "username": "@sabzganteng",
+      "name": "⏤͟͟͞͞𝙎𝘼𝘽𝙄𝙇 || 𝘽𝙊𝙆𝙀𝙋 𝙆𝙄𝙉𝙂 𝙋𝘿𝙁",
+      "first_start": "Minggu, 3 Mei 2026 pukul 01.39.55",
+      "last_start": "Minggu, 3 Mei 2026 pukul 01.39.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2433,8 +2441,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 445,
-  "total_users": 300,
+  "total_start": 446,
+  "total_users": 301,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 01.39.36"
+  "last_update": "Minggu, 3 Mei 2026 pukul 01.39.55"
 }
