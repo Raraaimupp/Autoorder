@@ -1975,6 +1975,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 16.33.39",
       "last_start": "Sabtu, 2 Mei 2026 pukul 16.33.39",
       "total_start": 1
+    },
+    {
+      "id": "8764446641",
+      "username": "Tidak ada",
+      "name": "𝗙𝗨𝗥𝗥𝗬 𝗘𝗗𝗜𝗧𝗢𝗥 𝗚𝗚",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 16.38.03",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 16.38.03",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2009,8 +2017,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 349,
-  "total_users": 247,
+  "total_start": 350,
+  "total_users": 248,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 16.37.11"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 16.38.03"
 }
