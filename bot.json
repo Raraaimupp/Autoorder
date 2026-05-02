@@ -1887,6 +1887,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 15.00.54",
       "last_start": "Sabtu, 2 Mei 2026 pukul 15.00.54",
       "total_start": 1
+    },
+    {
+      "id": "8087345245",
+      "username": "@Alzsupermen",
+      "name": "Alz Frifayêr (OPEN MURBUG)",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 15.17.08",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 15.17.08",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -1921,8 +1929,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 332,
-  "total_users": 236,
+  "total_start": 333,
+  "total_users": 237,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 15.16.57"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 15.17.08"
 }
