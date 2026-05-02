@@ -2159,6 +2159,14 @@
       "first_start": "Sabtu, 2 Mei 2026 pukul 19.05.41",
       "last_start": "Sabtu, 2 Mei 2026 pukul 19.05.41",
       "total_start": 1
+    },
+    {
+      "id": "8248750753",
+      "username": "@aryxds",
+      "name": "aryaa",
+      "first_start": "Sabtu, 2 Mei 2026 pukul 19.17.51",
+      "last_start": "Sabtu, 2 Mei 2026 pukul 19.17.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2193,8 +2201,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 382,
-  "total_users": 270,
+  "total_start": 383,
+  "total_users": 271,
   "total_groups": 6,
-  "last_update": "Sabtu, 2 Mei 2026 pukul 19.16.48"
+  "last_update": "Sabtu, 2 Mei 2026 pukul 19.17.51"
 }
