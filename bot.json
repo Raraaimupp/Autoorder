@@ -3111,6 +3111,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 05.47.44",
       "last_start": "Senin, 4 Mei 2026 pukul 05.47.44",
       "total_start": 1
+    },
+    {
+      "id": "5310010584",
+      "username": "@KingAnonymousZ",
+      "name": "✘ 𝕶𝖎𝖓𝖌 𝕭𝖑𝖆𝖈𝖐𝕳𝖆𝖙 ♞🜲",
+      "first_start": "Senin, 4 Mei 2026 pukul 06.11.22",
+      "last_start": "Senin, 4 Mei 2026 pukul 06.11.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3145,8 +3153,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 607,
-  "total_users": 389,
+  "total_start": 608,
+  "total_users": 390,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 06.11.04"
+  "last_update": "Senin, 4 Mei 2026 pukul 06.11.22"
 }
