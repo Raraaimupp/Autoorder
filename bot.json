@@ -3007,6 +3007,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 22.53.26",
       "last_start": "Minggu, 3 Mei 2026 pukul 22.53.26",
       "total_start": 1
+    },
+    {
+      "id": "7005541527",
+      "username": "@raju_hacker9",
+      "name": "𝐑𝐀𝐉𝐔 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋",
+      "first_start": "Senin, 4 Mei 2026 pukul 00.06.57",
+      "last_start": "Senin, 4 Mei 2026 pukul 00.06.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3041,8 +3049,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 590,
-  "total_users": 376,
+  "total_start": 591,
+  "total_users": 377,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 00.06.41"
+  "last_update": "Senin, 4 Mei 2026 pukul 00.06.57"
 }
