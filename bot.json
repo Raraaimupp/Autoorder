@@ -555,10 +555,10 @@
     {
       "id": "7944714229",
       "username": "@Allkenzi12",
-      "name": "<DAXX4YOU_LAMS>",
+      "name": "<DAXX4YOU_LAMS> (OPEN MURBUG)",
       "first_start": "Jumat, 1 Mei 2026 pukul 09.08.41",
-      "last_start": "Sabtu, 2 Mei 2026 pukul 11.42.23",
-      "total_start": 5
+      "last_start": "Minggu, 3 Mei 2026 pukul 16.08.04",
+      "total_start": 6
     },
     {
       "id": "8433742057",
@@ -2721,8 +2721,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 523,
+  "total_start": 524,
   "total_users": 336,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 16.07.34"
+  "last_update": "Minggu, 3 Mei 2026 pukul 16.08.04"
 }
