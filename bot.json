@@ -2439,6 +2439,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 04.58.43",
       "last_start": "Minggu, 3 Mei 2026 pukul 04.58.43",
       "total_start": 1
+    },
+    {
+      "id": "8501384712",
+      "username": "@iqbal1231_7",
+      "name": "iqbal✧𝐓𝐫𝐤",
+      "first_start": "Minggu, 3 Mei 2026 pukul 07.44.19",
+      "last_start": "Minggu, 3 Mei 2026 pukul 07.44.19",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2473,8 +2481,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 457,
-  "total_users": 305,
+  "total_start": 458,
+  "total_users": 306,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 07.44.15"
+  "last_update": "Minggu, 3 Mei 2026 pukul 07.44.19"
 }
