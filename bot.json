@@ -2959,6 +2959,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 21.07.33",
       "last_start": "Minggu, 3 Mei 2026 pukul 21.07.33",
       "total_start": 1
+    },
+    {
+      "id": "1008059659",
+      "username": "@realmu6",
+      "name": "Pito",
+      "first_start": "Minggu, 3 Mei 2026 pukul 21.18.17",
+      "last_start": "Minggu, 3 Mei 2026 pukul 21.18.17",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2993,8 +3001,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 577,
-  "total_users": 370,
+  "total_start": 578,
+  "total_users": 371,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 21.11.48"
+  "last_update": "Minggu, 3 Mei 2026 pukul 21.18.17"
 }
