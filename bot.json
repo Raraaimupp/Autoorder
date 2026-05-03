@@ -2783,6 +2783,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 18.15.46",
       "last_start": "Minggu, 3 Mei 2026 pukul 18.15.46",
       "total_start": 1
+    },
+    {
+      "id": "1427833521",
+      "username": "@teacherdyy",
+      "name": "𝐝𝐲𝐧𝐚𝐧? 𝐜𝐨𝐦𝐞𝐡𝐞𝐫𝐞",
+      "first_start": "Minggu, 3 Mei 2026 pukul 18.16.33",
+      "last_start": "Minggu, 3 Mei 2026 pukul 18.16.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2817,8 +2825,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 545,
-  "total_users": 348,
+  "total_start": 546,
+  "total_users": 349,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 18.16.22"
+  "last_update": "Minggu, 3 Mei 2026 pukul 18.16.33"
 }
