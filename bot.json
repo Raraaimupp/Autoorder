@@ -2775,6 +2775,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 18.04.12",
       "last_start": "Minggu, 3 Mei 2026 pukul 18.04.12",
       "total_start": 1
+    },
+    {
+      "id": "8583296900",
+      "username": "@TuanMudaFanzzx",
+      "name": "𝐓𝐔𝐀𝐍 𝐌𝐔𝐃𝐀 𝐅𝐀𝐍𝐙𝐙𝐗",
+      "first_start": "Minggu, 3 Mei 2026 pukul 18.15.46",
+      "last_start": "Minggu, 3 Mei 2026 pukul 18.15.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2809,8 +2817,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 544,
-  "total_users": 347,
+  "total_start": 545,
+  "total_users": 348,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 18.14.50"
+  "last_update": "Minggu, 3 Mei 2026 pukul 18.15.46"
 }
