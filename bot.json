@@ -2895,6 +2895,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 20.27.04",
       "last_start": "Minggu, 3 Mei 2026 pukul 20.27.04",
       "total_start": 1
+    },
+    {
+      "id": "8347195895",
+      "username": "@efannn15",
+      "name": "101",
+      "first_start": "Minggu, 3 Mei 2026 pukul 20.37.15",
+      "last_start": "Minggu, 3 Mei 2026 pukul 20.37.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2929,8 +2937,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 568,
-  "total_users": 362,
+  "total_start": 569,
+  "total_users": 363,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 20.32.52"
+  "last_update": "Minggu, 3 Mei 2026 pukul 20.37.15"
 }
