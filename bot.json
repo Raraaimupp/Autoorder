@@ -2863,6 +2863,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 19.45.14",
       "last_start": "Minggu, 3 Mei 2026 pukul 19.45.14",
       "total_start": 1
+    },
+    {
+      "id": "8240823560",
+      "username": "Tidak ada",
+      "name": "DEATH",
+      "first_start": "Minggu, 3 Mei 2026 pukul 19.48.42",
+      "last_start": "Minggu, 3 Mei 2026 pukul 19.48.42",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2897,8 +2905,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 560,
-  "total_users": 358,
+  "total_start": 561,
+  "total_users": 359,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 19.48.12"
+  "last_update": "Minggu, 3 Mei 2026 pukul 19.48.42"
 }
