@@ -3095,6 +3095,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 05.25.55",
       "last_start": "Senin, 4 Mei 2026 pukul 05.25.55",
       "total_start": 1
+    },
+    {
+      "id": "799607363",
+      "username": "@ST4NGKUDUT",
+      "name": "ST4NGKUDUT",
+      "first_start": "Senin, 4 Mei 2026 pukul 05.29.58",
+      "last_start": "Senin, 4 Mei 2026 pukul 05.29.58",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3129,8 +3137,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 605,
-  "total_users": 387,
+  "total_start": 606,
+  "total_users": 388,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 05.29.06"
+  "last_update": "Senin, 4 Mei 2026 pukul 05.29.58"
 }
