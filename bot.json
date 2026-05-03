@@ -2583,6 +2583,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 13.31.45",
       "last_start": "Minggu, 3 Mei 2026 pukul 13.31.45",
       "total_start": 1
+    },
+    {
+      "id": "7381074046",
+      "username": "@rennnnnzzzzzzz",
+      "name": "Renzz",
+      "first_start": "Minggu, 3 Mei 2026 pukul 13.36.20",
+      "last_start": "Minggu, 3 Mei 2026 pukul 13.36.20",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2617,8 +2625,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 498,
-  "total_users": 323,
+  "total_start": 499,
+  "total_users": 324,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 13.36.14"
+  "last_update": "Minggu, 3 Mei 2026 pukul 13.36.20"
 }
