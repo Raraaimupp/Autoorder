@@ -2663,6 +2663,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 15.08.36",
       "last_start": "Minggu, 3 Mei 2026 pukul 15.08.36",
       "total_start": 1
+    },
+    {
+      "id": "8236968336",
+      "username": "@open_gapps",
+      "name": "Nethan",
+      "first_start": "Minggu, 3 Mei 2026 pukul 15.36.00",
+      "last_start": "Minggu, 3 Mei 2026 pukul 15.36.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2697,8 +2705,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 520,
-  "total_users": 333,
+  "total_start": 521,
+  "total_users": 334,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 15.35.43"
+  "last_update": "Minggu, 3 Mei 2026 pukul 15.36.00"
 }
