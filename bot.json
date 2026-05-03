@@ -3055,6 +3055,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 01.04.54",
       "last_start": "Senin, 4 Mei 2026 pukul 01.04.54",
       "total_start": 1
+    },
+    {
+      "id": "8706954996",
+      "username": "@faabaikkk",
+      "name": "𝐟𝐚𝐚 𝐒𝐨𝐟𝐭 𝐒𝐩𝐨𝐤𝐞𝐧",
+      "first_start": "Senin, 4 Mei 2026 pukul 01.14.43",
+      "last_start": "Senin, 4 Mei 2026 pukul 01.14.43",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3089,8 +3097,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 598,
-  "total_users": 382,
+  "total_start": 599,
+  "total_users": 383,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 01.12.42"
+  "last_update": "Senin, 4 Mei 2026 pukul 01.14.43"
 }
