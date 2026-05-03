@@ -2647,6 +2647,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 14.32.32",
       "last_start": "Minggu, 3 Mei 2026 pukul 14.32.32",
       "total_start": 1
+    },
+    {
+      "id": "8267689329",
+      "username": "@Kapanelmarket",
+      "name": "𝗞𝗔'𝗣𝗔𝗡𝗘𝗟 𝗠𝗔𝗥𝗞𝗘𝗧",
+      "first_start": "Minggu, 3 Mei 2026 pukul 14.41.41",
+      "last_start": "Minggu, 3 Mei 2026 pukul 14.41.41",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2681,8 +2689,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 514,
-  "total_users": 331,
+  "total_start": 515,
+  "total_users": 332,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 14.41.24"
+  "last_update": "Minggu, 3 Mei 2026 pukul 14.41.41"
 }
