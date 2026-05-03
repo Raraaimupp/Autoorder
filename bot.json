@@ -3063,6 +3063,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 01.14.43",
       "last_start": "Senin, 4 Mei 2026 pukul 01.14.43",
       "total_start": 1
+    },
+    {
+      "id": "7607574017",
+      "username": "Tidak ada",
+      "name": "Jasson Rayfanda",
+      "first_start": "Senin, 4 Mei 2026 pukul 01.38.01",
+      "last_start": "Senin, 4 Mei 2026 pukul 01.38.01",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3097,8 +3105,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 599,
-  "total_users": 383,
+  "total_start": 600,
+  "total_users": 384,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 01.35.41"
+  "last_update": "Senin, 4 Mei 2026 pukul 01.38.01"
 }
