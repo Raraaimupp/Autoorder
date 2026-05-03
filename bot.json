@@ -2511,6 +2511,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 11.22.04",
       "last_start": "Minggu, 3 Mei 2026 pukul 11.22.04",
       "total_start": 1
+    },
+    {
+      "id": "8587927591",
+      "username": "@fiqzzHellom",
+      "name": "FiqzzX",
+      "first_start": "Minggu, 3 Mei 2026 pukul 11.26.26",
+      "last_start": "Minggu, 3 Mei 2026 pukul 11.26.26",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2545,8 +2553,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 480,
-  "total_users": 314,
+  "total_start": 481,
+  "total_users": 315,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 11.26.15"
+  "last_update": "Minggu, 3 Mei 2026 pukul 11.26.26"
 }
