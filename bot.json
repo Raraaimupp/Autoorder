@@ -2567,6 +2567,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 12.42.14",
       "last_start": "Minggu, 3 Mei 2026 pukul 12.46.26",
       "total_start": 3
+    },
+    {
+      "id": "8001521179",
+      "username": "@nes4rv",
+      "name": "NES 4`",
+      "first_start": "Minggu, 3 Mei 2026 pukul 13.18.25",
+      "last_start": "Minggu, 3 Mei 2026 pukul 13.18.25",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2601,8 +2609,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 494,
-  "total_users": 321,
+  "total_start": 495,
+  "total_users": 322,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 13.16.29"
+  "last_update": "Minggu, 3 Mei 2026 pukul 13.18.25"
 }
