@@ -3039,6 +3039,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 00.40.12",
       "last_start": "Senin, 4 Mei 2026 pukul 00.40.12",
       "total_start": 1
+    },
+    {
+      "id": "8234815451",
+      "username": "@thanzy",
+      "name": "thanzy",
+      "first_start": "Senin, 4 Mei 2026 pukul 00.44.02",
+      "last_start": "Senin, 4 Mei 2026 pukul 00.44.02",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3073,8 +3081,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 594,
-  "total_users": 380,
+  "total_start": 595,
+  "total_users": 381,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 00.43.39"
+  "last_update": "Senin, 4 Mei 2026 pukul 00.44.02"
 }
