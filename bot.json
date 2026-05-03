@@ -2975,6 +2975,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 21.27.27",
       "last_start": "Minggu, 3 Mei 2026 pukul 21.27.27",
       "total_start": 1
+    },
+    {
+      "id": "8144855298",
+      "username": "@zamm568",
+      "name": "zamm",
+      "first_start": "Minggu, 3 Mei 2026 pukul 21.32.22",
+      "last_start": "Minggu, 3 Mei 2026 pukul 21.32.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3009,8 +3017,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 579,
-  "total_users": 372,
+  "total_start": 580,
+  "total_users": 373,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 21.27.27"
+  "last_update": "Minggu, 3 Mei 2026 pukul 21.32.22"
 }
