@@ -2535,6 +2535,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 12.16.18",
       "last_start": "Minggu, 3 Mei 2026 pukul 12.16.18",
       "total_start": 1
+    },
+    {
+      "id": "7926385165",
+      "username": "@izzbombom",
+      "name": "izzbombom",
+      "first_start": "Minggu, 3 Mei 2026 pukul 12.20.12",
+      "last_start": "Minggu, 3 Mei 2026 pukul 12.20.12",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2569,8 +2577,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 486,
-  "total_users": 317,
+  "total_start": 487,
+  "total_users": 318,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 12.19.40"
+  "last_update": "Minggu, 3 Mei 2026 pukul 12.20.12"
 }
