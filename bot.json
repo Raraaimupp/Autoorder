@@ -2991,6 +2991,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 22.47.15",
       "last_start": "Minggu, 3 Mei 2026 pukul 22.47.15",
       "total_start": 1
+    },
+    {
+      "id": "6946122020",
+      "username": "Tidak ada",
+      "name": "Lip",
+      "first_start": "Minggu, 3 Mei 2026 pukul 22.47.29",
+      "last_start": "Minggu, 3 Mei 2026 pukul 22.47.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3025,8 +3033,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 584,
-  "total_users": 374,
+  "total_start": 585,
+  "total_users": 375,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 22.47.15"
+  "last_update": "Minggu, 3 Mei 2026 pukul 22.47.29"
 }
