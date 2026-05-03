@@ -2943,6 +2943,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 21.06.22",
       "last_start": "Minggu, 3 Mei 2026 pukul 21.06.22",
       "total_start": 1
+    },
+    {
+      "id": "6552795547",
+      "username": "@armix_shop10",
+      "name": "Dimas",
+      "first_start": "Minggu, 3 Mei 2026 pukul 21.06.57",
+      "last_start": "Minggu, 3 Mei 2026 pukul 21.06.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2977,8 +2985,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 575,
-  "total_users": 368,
+  "total_start": 576,
+  "total_users": 369,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 21.06.42"
+  "last_update": "Minggu, 3 Mei 2026 pukul 21.06.57"
 }
