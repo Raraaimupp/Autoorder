@@ -2743,6 +2743,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 17.15.30",
       "last_start": "Minggu, 3 Mei 2026 pukul 17.15.30",
       "total_start": 1
+    },
+    {
+      "id": "8766881686",
+      "username": "Tidak ada",
+      "name": "KazzPnel Kazzz",
+      "first_start": "Minggu, 3 Mei 2026 pukul 17.24.47",
+      "last_start": "Minggu, 3 Mei 2026 pukul 17.24.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2777,8 +2785,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 532,
-  "total_users": 343,
+  "total_start": 533,
+  "total_users": 344,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 17.22.33"
+  "last_update": "Minggu, 3 Mei 2026 pukul 17.24.47"
 }
