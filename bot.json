@@ -3087,6 +3087,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 02.34.21",
       "last_start": "Senin, 4 Mei 2026 pukul 02.34.21",
       "total_start": 1
+    },
+    {
+      "id": "7518909492",
+      "username": "@dikias22",
+      "name": "diki as",
+      "first_start": "Senin, 4 Mei 2026 pukul 05.25.55",
+      "last_start": "Senin, 4 Mei 2026 pukul 05.25.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3121,8 +3129,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 604,
-  "total_users": 386,
+  "total_start": 605,
+  "total_users": 387,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 05.24.13"
+  "last_update": "Senin, 4 Mei 2026 pukul 05.25.55"
 }
