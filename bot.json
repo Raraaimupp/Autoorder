@@ -2607,6 +2607,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 13.52.47",
       "last_start": "Minggu, 3 Mei 2026 pukul 13.52.47",
       "total_start": 1
+    },
+    {
+      "id": "7946264974",
+      "username": "@rapzyy93",
+      "name": "𝐏𝐀𝐃𝐔𝐊𝐀 𝐑𝐀𝐏𝐙𝐘",
+      "first_start": "Minggu, 3 Mei 2026 pukul 14.00.10",
+      "last_start": "Minggu, 3 Mei 2026 pukul 14.00.10",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2641,8 +2649,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 502,
-  "total_users": 326,
+  "total_start": 503,
+  "total_users": 327,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 13.57.32"
+  "last_update": "Minggu, 3 Mei 2026 pukul 14.00.10"
 }
