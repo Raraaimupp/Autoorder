@@ -3023,6 +3023,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 00.18.08",
       "last_start": "Senin, 4 Mei 2026 pukul 00.18.08",
       "total_start": 1
+    },
+    {
+      "id": "8764011870",
+      "username": "Tidak ada",
+      "name": "𝐏𝐑𝐎𝐌𝐎𝐒𝐈",
+      "first_start": "Senin, 4 Mei 2026 pukul 00.18.57",
+      "last_start": "Senin, 4 Mei 2026 pukul 00.18.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3057,8 +3065,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 592,
-  "total_users": 378,
+  "total_start": 593,
+  "total_users": 379,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 00.18.08"
+  "last_update": "Senin, 4 Mei 2026 pukul 00.18.57"
 }
