@@ -2903,6 +2903,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 20.37.15",
       "last_start": "Minggu, 3 Mei 2026 pukul 20.37.15",
       "total_start": 1
+    },
+    {
+      "id": "8324680816",
+      "username": "@Guzilaa",
+      "name": "SyahputraAgustama Guszz",
+      "first_start": "Minggu, 3 Mei 2026 pukul 20.45.03",
+      "last_start": "Minggu, 3 Mei 2026 pukul 20.45.03",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2937,8 +2945,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 569,
-  "total_users": 363,
+  "total_start": 570,
+  "total_users": 364,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 20.44.39"
+  "last_update": "Minggu, 3 Mei 2026 pukul 20.45.03"
 }
