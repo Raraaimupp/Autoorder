@@ -2527,6 +2527,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 11.42.31",
       "last_start": "Minggu, 3 Mei 2026 pukul 11.42.31",
       "total_start": 1
+    },
+    {
+      "id": "8723516880",
+      "username": "@rasyaganteng121",
+      "name": "Rasya Back Era",
+      "first_start": "Minggu, 3 Mei 2026 pukul 12.16.18",
+      "last_start": "Minggu, 3 Mei 2026 pukul 12.16.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2561,8 +2569,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 484,
-  "total_users": 316,
+  "total_start": 485,
+  "total_users": 317,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 12.14.47"
+  "last_update": "Minggu, 3 Mei 2026 pukul 12.16.18"
 }
