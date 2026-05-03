@@ -3119,6 +3119,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 06.11.22",
       "last_start": "Senin, 4 Mei 2026 pukul 06.11.22",
       "total_start": 1
+    },
+    {
+      "id": "8327064975",
+      "username": "@Astaroht_dev",
+      "name": "𝙆𝙧𝙤𝙨𝙨𝙚 - 𝙋𝙎",
+      "first_start": "Senin, 4 Mei 2026 pukul 06.46.59",
+      "last_start": "Senin, 4 Mei 2026 pukul 06.46.59",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3153,8 +3161,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 609,
-  "total_users": 390,
+  "total_start": 610,
+  "total_users": 391,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 06.46.43"
+  "last_update": "Senin, 4 Mei 2026 pukul 06.46.59"
 }
