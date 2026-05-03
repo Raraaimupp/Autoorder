@@ -2519,6 +2519,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 11.26.26",
       "last_start": "Minggu, 3 Mei 2026 pukul 11.26.26",
       "total_start": 1
+    },
+    {
+      "id": "6821175518",
+      "username": "@blondekung",
+      "name": "hidup blonde",
+      "first_start": "Minggu, 3 Mei 2026 pukul 11.42.31",
+      "last_start": "Minggu, 3 Mei 2026 pukul 11.42.31",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2553,8 +2561,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 481,
-  "total_users": 315,
+  "total_start": 482,
+  "total_users": 316,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 11.40.10"
+  "last_update": "Minggu, 3 Mei 2026 pukul 11.42.31"
 }
