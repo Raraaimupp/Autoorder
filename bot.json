@@ -2767,6 +2767,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 17.58.57",
       "last_start": "Minggu, 3 Mei 2026 pukul 17.58.57",
       "total_start": 1
+    },
+    {
+      "id": "8517269858",
+      "username": "@celienta",
+      "name": "𝚃𝙰𝘹𝘢 雷翔",
+      "first_start": "Minggu, 3 Mei 2026 pukul 18.04.12",
+      "last_start": "Minggu, 3 Mei 2026 pukul 18.04.12",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2801,8 +2809,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 543,
-  "total_users": 346,
+  "total_start": 544,
+  "total_users": 347,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 18.01.04"
+  "last_update": "Minggu, 3 Mei 2026 pukul 18.04.12"
 }
