@@ -2871,6 +2871,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 19.48.42",
       "last_start": "Minggu, 3 Mei 2026 pukul 19.52.39",
       "total_start": 2
+    },
+    {
+      "id": "1916198817",
+      "username": "@Guxzzzzz",
+      "name": "Guxzz",
+      "first_start": "Minggu, 3 Mei 2026 pukul 20.19.52",
+      "last_start": "Minggu, 3 Mei 2026 pukul 20.19.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2905,8 +2913,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 565,
-  "total_users": 359,
+  "total_start": 566,
+  "total_users": 360,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 20.19.40"
+  "last_update": "Minggu, 3 Mei 2026 pukul 20.19.52"
 }
