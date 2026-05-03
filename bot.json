@@ -2869,8 +2869,8 @@
       "username": "Tidak ada",
       "name": "DEATH",
       "first_start": "Minggu, 3 Mei 2026 pukul 19.48.42",
-      "last_start": "Minggu, 3 Mei 2026 pukul 19.48.42",
-      "total_start": 1
+      "last_start": "Minggu, 3 Mei 2026 pukul 19.52.39",
+      "total_start": 2
     }
   ],
   "groups": [
@@ -2905,8 +2905,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 562,
+  "total_start": 563,
   "total_users": 359,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 19.52.30"
+  "last_update": "Minggu, 3 Mei 2026 pukul 19.52.39"
 }
