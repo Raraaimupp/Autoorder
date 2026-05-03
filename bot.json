@@ -2679,6 +2679,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 15.36.16",
       "last_start": "Minggu, 3 Mei 2026 pukul 15.36.16",
       "total_start": 1
+    },
+    {
+      "id": "8242726360",
+      "username": "@Silenthexx99",
+      "name": "Silent 👻",
+      "first_start": "Minggu, 3 Mei 2026 pukul 15.42.03",
+      "last_start": "Minggu, 3 Mei 2026 pukul 15.42.03",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2713,8 +2721,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 522,
-  "total_users": 335,
+  "total_start": 523,
+  "total_users": 336,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 15.41.17"
+  "last_update": "Minggu, 3 Mei 2026 pukul 15.42.03"
 }
