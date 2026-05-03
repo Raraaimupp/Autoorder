@@ -2951,6 +2951,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 21.06.57",
       "last_start": "Minggu, 3 Mei 2026 pukul 21.06.57",
       "total_start": 1
+    },
+    {
+      "id": "8078771252",
+      "username": "@seanoffcX",
+      "name": "2ean.org",
+      "first_start": "Minggu, 3 Mei 2026 pukul 21.07.33",
+      "last_start": "Minggu, 3 Mei 2026 pukul 21.07.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2985,8 +2993,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 576,
-  "total_users": 369,
+  "total_start": 577,
+  "total_users": 370,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 21.06.57"
+  "last_update": "Minggu, 3 Mei 2026 pukul 21.07.33"
 }
