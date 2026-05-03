@@ -2543,6 +2543,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 12.20.12",
       "last_start": "Minggu, 3 Mei 2026 pukul 12.20.12",
       "total_start": 1
+    },
+    {
+      "id": "8010391168",
+      "username": "@BARZXXZ",
+      "name": "BARZz || **",
+      "first_start": "Minggu, 3 Mei 2026 pukul 12.21.01",
+      "last_start": "Minggu, 3 Mei 2026 pukul 12.21.01",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2577,8 +2585,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 487,
-  "total_users": 318,
+  "total_start": 488,
+  "total_users": 319,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 12.20.38"
+  "last_update": "Minggu, 3 Mei 2026 pukul 12.21.01"
 }
