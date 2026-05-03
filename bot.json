@@ -2559,6 +2559,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 12.23.27",
       "last_start": "Minggu, 3 Mei 2026 pukul 12.23.27",
       "total_start": 1
+    },
+    {
+      "id": "7555876456",
+      "username": "@Rdevelopt666",
+      "name": "YanzHub",
+      "first_start": "Minggu, 3 Mei 2026 pukul 12.42.14",
+      "last_start": "Minggu, 3 Mei 2026 pukul 12.42.14",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2593,8 +2601,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 490,
-  "total_users": 320,
+  "total_start": 491,
+  "total_users": 321,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 12.41.12"
+  "last_update": "Minggu, 3 Mei 2026 pukul 12.42.14"
 }
