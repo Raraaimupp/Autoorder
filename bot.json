@@ -2447,6 +2447,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 07.44.19",
       "last_start": "Minggu, 3 Mei 2026 pukul 07.44.19",
       "total_start": 1
+    },
+    {
+      "id": "1303593264",
+      "username": "@Zadmxz",
+      "name": "A Z",
+      "first_start": "Minggu, 3 Mei 2026 pukul 08.32.52",
+      "last_start": "Minggu, 3 Mei 2026 pukul 08.32.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2481,8 +2489,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 460,
-  "total_users": 306,
+  "total_start": 461,
+  "total_users": 307,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 08.32.09"
+  "last_update": "Minggu, 3 Mei 2026 pukul 08.32.52"
 }
