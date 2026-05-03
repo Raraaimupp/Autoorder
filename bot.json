@@ -2799,6 +2799,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 18.19.38",
       "last_start": "Minggu, 3 Mei 2026 pukul 18.19.38",
       "total_start": 1
+    },
+    {
+      "id": "6603276206",
+      "username": "@Sanzz_Reals01",
+      "name": "𝙈𝙖𝙨 𝙎𝙖𝙣𝙯𝙯ん.",
+      "first_start": "Minggu, 3 Mei 2026 pukul 18.31.13",
+      "last_start": "Minggu, 3 Mei 2026 pukul 18.31.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -2833,8 +2841,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 550,
-  "total_users": 350,
+  "total_start": 551,
+  "total_users": 351,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 18.30.53"
+  "last_update": "Minggu, 3 Mei 2026 pukul 18.31.13"
 }
