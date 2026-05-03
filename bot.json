@@ -2967,6 +2967,14 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 21.18.17",
       "last_start": "Minggu, 3 Mei 2026 pukul 21.18.17",
       "total_start": 1
+    },
+    {
+      "id": "8249714662",
+      "username": "Tidak ada",
+      "name": "zikzz zikzz",
+      "first_start": "Minggu, 3 Mei 2026 pukul 21.27.27",
+      "last_start": "Minggu, 3 Mei 2026 pukul 21.27.27",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3001,8 +3009,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 578,
-  "total_users": 371,
+  "total_start": 579,
+  "total_users": 372,
   "total_groups": 6,
-  "last_update": "Minggu, 3 Mei 2026 pukul 21.20.31"
+  "last_update": "Minggu, 3 Mei 2026 pukul 21.27.27"
 }
