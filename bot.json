@@ -3279,6 +3279,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 16.03.11",
       "last_start": "Senin, 4 Mei 2026 pukul 16.03.11",
       "total_start": 1
+    },
+    {
+      "id": "5947734183",
+      "username": "@ZynStore_my",
+      "name": "ZynStore.my",
+      "first_start": "Senin, 4 Mei 2026 pukul 16.39.39",
+      "last_start": "Senin, 4 Mei 2026 pukul 16.39.39",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3313,8 +3321,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 648,
-  "total_users": 410,
+  "total_start": 649,
+  "total_users": 411,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 16.39.32"
+  "last_update": "Senin, 4 Mei 2026 pukul 16.39.39"
 }
