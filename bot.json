@@ -3151,6 +3151,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 08.32.21",
       "last_start": "Senin, 4 Mei 2026 pukul 08.32.21",
       "total_start": 1
+    },
+    {
+      "id": "8758613036",
+      "username": "@Fidzhotink",
+      "name": "𝑿-𝑭𝑰𝑫𝒁 𝑯𝑶𝑺𝑻𝑰𝑴𝑮 [𝑶𝑷𝑵 𝑴𝑼𝑹𝑩𝑼𝑮 + 𝑴𝑼𝑹𝑩𝑨𝑵𝑫]",
+      "first_start": "Senin, 4 Mei 2026 pukul 08.33.05",
+      "last_start": "Senin, 4 Mei 2026 pukul 08.33.05",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3185,8 +3193,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 616,
-  "total_users": 394,
+  "total_start": 617,
+  "total_users": 395,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 08.32.21"
+  "last_update": "Senin, 4 Mei 2026 pukul 08.33.05"
 }
