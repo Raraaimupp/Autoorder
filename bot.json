@@ -3479,6 +3479,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 04.33.20",
       "last_start": "Selasa, 5 Mei 2026 pukul 04.33.20",
       "total_start": 1
+    },
+    {
+      "id": "8252594568",
+      "username": "@xavierroffc",
+      "name": "𝐗𝐚𝐯𝐢𝐞𝐫𝐫𝐎𝐛𝐳 - 𝐅𝐨𝐫𝟗𝟔",
+      "first_start": "Selasa, 5 Mei 2026 pukul 06.14.54",
+      "last_start": "Selasa, 5 Mei 2026 pukul 06.14.54",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3513,8 +3521,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 689,
-  "total_users": 435,
+  "total_start": 690,
+  "total_users": 436,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 06.13.56"
+  "last_update": "Selasa, 5 Mei 2026 pukul 06.14.54"
 }
