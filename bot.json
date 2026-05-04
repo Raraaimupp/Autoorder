@@ -3143,6 +3143,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 07.06.39",
       "last_start": "Senin, 4 Mei 2026 pukul 07.06.39",
       "total_start": 1
+    },
+    {
+      "id": "8114633330",
+      "username": "@MalszTech",
+      "name": "𝐌𝐚𝐥𝐬𝐳𝐓𝐞𝐜𝐡",
+      "first_start": "Senin, 4 Mei 2026 pukul 08.32.21",
+      "last_start": "Senin, 4 Mei 2026 pukul 08.32.21",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3177,8 +3185,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 615,
-  "total_users": 393,
+  "total_start": 616,
+  "total_users": 394,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 08.30.37"
+  "last_update": "Senin, 4 Mei 2026 pukul 08.32.21"
 }
