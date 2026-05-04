@@ -3255,6 +3255,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 15.05.35",
       "last_start": "Senin, 4 Mei 2026 pukul 15.05.35",
       "total_start": 1
+    },
+    {
+      "id": "7811496814",
+      "username": "@NamikazeTzy",
+      "name": "Palzz X Namikaze Only",
+      "first_start": "Senin, 4 Mei 2026 pukul 15.11.51",
+      "last_start": "Senin, 4 Mei 2026 pukul 15.11.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3289,8 +3297,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 644,
-  "total_users": 407,
+  "total_start": 645,
+  "total_users": 408,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 15.11.41"
+  "last_update": "Senin, 4 Mei 2026 pukul 15.11.51"
 }
