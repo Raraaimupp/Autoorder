@@ -3247,6 +3247,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 14.14.28",
       "last_start": "Senin, 4 Mei 2026 pukul 14.14.28",
       "total_start": 1
+    },
+    {
+      "id": "8245320731",
+      "username": "@ZissNew",
+      "name": "𝚉𝚒𝚎 - 𝟺𝙲𝚛𝚒𝚖𝚒𝚗𝚊𝚕𝚁𝚘𝚖𝚊𝚗𝚌𝚎",
+      "first_start": "Senin, 4 Mei 2026 pukul 15.05.35",
+      "last_start": "Senin, 4 Mei 2026 pukul 15.05.35",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3281,8 +3289,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 643,
-  "total_users": 406,
+  "total_start": 644,
+  "total_users": 407,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 15.05.28"
+  "last_update": "Senin, 4 Mei 2026 pukul 15.05.35"
 }
