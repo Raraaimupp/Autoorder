@@ -3359,6 +3359,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 21.20.18",
       "last_start": "Senin, 4 Mei 2026 pukul 21.20.18",
       "total_start": 1
+    },
+    {
+      "id": "8340056483",
+      "username": "@Burungpipity",
+      "name": "Hyacuapip",
+      "first_start": "Senin, 4 Mei 2026 pukul 22.08.01",
+      "last_start": "Senin, 4 Mei 2026 pukul 22.08.01",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3393,8 +3401,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 665,
-  "total_users": 420,
+  "total_start": 666,
+  "total_users": 421,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 22.07.52"
+  "last_update": "Senin, 4 Mei 2026 pukul 22.08.01"
 }
