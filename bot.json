@@ -3463,6 +3463,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 03.43.59",
       "last_start": "Selasa, 5 Mei 2026 pukul 03.43.59",
       "total_start": 1
+    },
+    {
+      "id": "8650731053",
+      "username": "Tidak ada",
+      "name": "—Հանց⸸",
+      "first_start": "Selasa, 5 Mei 2026 pukul 04.31.17",
+      "last_start": "Selasa, 5 Mei 2026 pukul 04.31.17",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3497,8 +3505,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 685,
-  "total_users": 433,
+  "total_start": 686,
+  "total_users": 434,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 04.23.04"
+  "last_update": "Selasa, 5 Mei 2026 pukul 04.31.17"
 }
