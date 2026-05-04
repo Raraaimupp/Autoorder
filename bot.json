@@ -3239,6 +3239,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 13.49.40",
       "last_start": "Senin, 4 Mei 2026 pukul 13.49.40",
       "total_start": 1
+    },
+    {
+      "id": "8526219665",
+      "username": "@myoktaa",
+      "name": "𝑆𝑙𝑒𝑝𝑒𝑥𝑋",
+      "first_start": "Senin, 4 Mei 2026 pukul 14.14.28",
+      "last_start": "Senin, 4 Mei 2026 pukul 14.14.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3273,8 +3281,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 642,
-  "total_users": 405,
+  "total_start": 643,
+  "total_users": 406,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 14.14.11"
+  "last_update": "Senin, 4 Mei 2026 pukul 14.14.28"
 }
