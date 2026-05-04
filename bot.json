@@ -3231,6 +3231,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 13.07.02",
       "last_start": "Senin, 4 Mei 2026 pukul 13.07.02",
       "total_start": 1
+    },
+    {
+      "id": "8748664636",
+      "username": "@allexs76",
+      "name": "𝐋𝐄𝐗𝐒𝐒 [𝐏𝐀𝐍𝐄𝐋 𝐌𝐔𝐑𝐀𝐇]",
+      "first_start": "Senin, 4 Mei 2026 pukul 13.49.40",
+      "last_start": "Senin, 4 Mei 2026 pukul 13.49.40",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3265,8 +3273,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 639,
-  "total_users": 404,
+  "total_start": 640,
+  "total_users": 405,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 13.49.21"
+  "last_update": "Senin, 4 Mei 2026 pukul 13.49.40"
 }
