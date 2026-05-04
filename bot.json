@@ -3303,6 +3303,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 17.31.47",
       "last_start": "Senin, 4 Mei 2026 pukul 17.31.47",
       "total_start": 1
+    },
+    {
+      "id": "6858284154",
+      "username": "@godchristhna",
+      "name": "ch90",
+      "first_start": "Senin, 4 Mei 2026 pukul 17.33.00",
+      "last_start": "Senin, 4 Mei 2026 pukul 17.33.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3337,8 +3345,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 652,
-  "total_users": 413,
+  "total_start": 653,
+  "total_users": 414,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 17.32.47"
+  "last_update": "Senin, 4 Mei 2026 pukul 17.33.00"
 }
