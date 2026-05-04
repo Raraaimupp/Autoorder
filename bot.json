@@ -3391,6 +3391,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 23.00.41",
       "last_start": "Senin, 4 Mei 2026 pukul 23.01.09",
       "total_start": 2
+    },
+    {
+      "id": "8149949208",
+      "username": "@HADI_XD",
+      "name": "🫥🫥",
+      "first_start": "Senin, 4 Mei 2026 pukul 23.14.15",
+      "last_start": "Senin, 4 Mei 2026 pukul 23.14.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3425,8 +3433,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 671,
-  "total_users": 424,
+  "total_start": 672,
+  "total_users": 425,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 23.13.17"
+  "last_update": "Senin, 4 Mei 2026 pukul 23.14.15"
 }
