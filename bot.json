@@ -3327,6 +3327,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 17.41.17",
       "last_start": "Senin, 4 Mei 2026 pukul 17.41.17",
       "total_start": 1
+    },
+    {
+      "id": "7884324788",
+      "username": "@Alimsoftspokeni",
+      "name": "Limz Soft spoken",
+      "first_start": "Senin, 4 Mei 2026 pukul 17.53.49",
+      "last_start": "Senin, 4 Mei 2026 pukul 17.53.49",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3361,8 +3369,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 656,
-  "total_users": 416,
+  "total_start": 657,
+  "total_users": 417,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 17.53.37"
+  "last_update": "Senin, 4 Mei 2026 pukul 17.53.49"
 }
