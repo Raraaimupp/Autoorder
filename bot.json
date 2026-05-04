@@ -3383,6 +3383,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 22.26.51",
       "last_start": "Senin, 4 Mei 2026 pukul 22.26.51",
       "total_start": 1
+    },
+    {
+      "id": "8534144037",
+      "username": "@alipses",
+      "name": "alzpiskiez 𝖆𝟕𝖝",
+      "first_start": "Senin, 4 Mei 2026 pukul 23.00.41",
+      "last_start": "Senin, 4 Mei 2026 pukul 23.00.41",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3417,8 +3425,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 669,
-  "total_users": 423,
+  "total_start": 670,
+  "total_users": 424,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 23.00.09"
+  "last_update": "Senin, 4 Mei 2026 pukul 23.00.41"
 }
