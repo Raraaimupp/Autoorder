@@ -3183,6 +3183,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 09.33.14",
       "last_start": "Senin, 4 Mei 2026 pukul 09.33.14",
       "total_start": 1
+    },
+    {
+      "id": "8745898688",
+      "username": "@azkASI",
+      "name": "DARXXXXX",
+      "first_start": "Senin, 4 Mei 2026 pukul 09.43.46",
+      "last_start": "Senin, 4 Mei 2026 pukul 09.43.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3217,8 +3225,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 625,
-  "total_users": 398,
+  "total_start": 626,
+  "total_users": 399,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 09.42.54"
+  "last_update": "Senin, 4 Mei 2026 pukul 09.43.46"
 }
