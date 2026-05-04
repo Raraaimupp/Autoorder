@@ -3285,8 +3285,8 @@
       "username": "@ZynStore_my",
       "name": "ZynStore.my",
       "first_start": "Senin, 4 Mei 2026 pukul 16.39.39",
-      "last_start": "Senin, 4 Mei 2026 pukul 16.39.39",
-      "total_start": 1
+      "last_start": "Senin, 4 Mei 2026 pukul 16.40.21",
+      "total_start": 2
     }
   ],
   "groups": [
@@ -3321,8 +3321,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 649,
+  "total_start": 650,
   "total_users": 411,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 16.40.02"
+  "last_update": "Senin, 4 Mei 2026 pukul 16.40.21"
 }
