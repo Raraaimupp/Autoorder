@@ -3167,6 +3167,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 09.06.43",
       "last_start": "Senin, 4 Mei 2026 pukul 09.06.43",
       "total_start": 1
+    },
+    {
+      "id": "6886769228",
+      "username": "@Albert_frl",
+      "name": "CRSH// MR.F4R31",
+      "first_start": "Senin, 4 Mei 2026 pukul 09.14.18",
+      "last_start": "Senin, 4 Mei 2026 pukul 09.14.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3201,8 +3209,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 621,
-  "total_users": 396,
+  "total_start": 622,
+  "total_users": 397,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 09.13.25"
+  "last_update": "Senin, 4 Mei 2026 pukul 09.14.18"
 }
