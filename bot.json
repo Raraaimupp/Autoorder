@@ -3351,6 +3351,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 19.17.01",
       "last_start": "Senin, 4 Mei 2026 pukul 19.17.01",
       "total_start": 1
+    },
+    {
+      "id": "6863811398",
+      "username": "@xynken",
+      "name": "Nyx",
+      "first_start": "Senin, 4 Mei 2026 pukul 21.20.18",
+      "last_start": "Senin, 4 Mei 2026 pukul 21.20.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3385,8 +3393,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 664,
-  "total_users": 419,
+  "total_start": 665,
+  "total_users": 420,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 21.19.55"
+  "last_update": "Senin, 4 Mei 2026 pukul 21.20.18"
 }
