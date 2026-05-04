@@ -3191,6 +3191,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 09.43.46",
       "last_start": "Senin, 4 Mei 2026 pukul 09.43.46",
       "total_start": 1
+    },
+    {
+      "id": "8430462900",
+      "username": "@Juuuuuullyyyyyyyy",
+      "name": "Jullllllyyyyyyyy gantengggg",
+      "first_start": "Senin, 4 Mei 2026 pukul 09.56.52",
+      "last_start": "Senin, 4 Mei 2026 pukul 09.56.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3225,8 +3233,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 627,
-  "total_users": 399,
+  "total_start": 628,
+  "total_users": 400,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 09.54.15"
+  "last_update": "Senin, 4 Mei 2026 pukul 09.56.52"
 }
