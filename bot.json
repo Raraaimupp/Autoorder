@@ -3311,6 +3311,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 17.33.00",
       "last_start": "Senin, 4 Mei 2026 pukul 17.33.00",
       "total_start": 1
+    },
+    {
+      "id": "1146090033",
+      "username": "@Vanzzkiller",
+      "name": "𝐕𝐀𝐍𝐙𝐙 𝐓𝟓 REHAT",
+      "first_start": "Senin, 4 Mei 2026 pukul 17.38.22",
+      "last_start": "Senin, 4 Mei 2026 pukul 17.38.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3345,8 +3353,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 653,
-  "total_users": 414,
+  "total_start": 654,
+  "total_users": 415,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 17.38.12"
+  "last_update": "Senin, 4 Mei 2026 pukul 17.38.22"
 }
