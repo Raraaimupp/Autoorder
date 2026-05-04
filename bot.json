@@ -3287,6 +3287,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 16.39.39",
       "last_start": "Senin, 4 Mei 2026 pukul 16.40.21",
       "total_start": 2
+    },
+    {
+      "id": "1475165818",
+      "username": "@AnwrSukaNasgor",
+      "name": "✧𝐓𝐫𝐤 𝗠𝗲𝗰𝗵𝗮私 [𝐎𝐏𝐄𝐍 𝐌𝐔𝐑𝐁𝐔𝐆]",
+      "first_start": "Senin, 4 Mei 2026 pukul 17.01.53",
+      "last_start": "Senin, 4 Mei 2026 pukul 17.01.53",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3321,8 +3329,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 650,
-  "total_users": 411,
+  "total_start": 651,
+  "total_users": 412,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 17.01.33"
+  "last_update": "Senin, 4 Mei 2026 pukul 17.01.53"
 }
