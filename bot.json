@@ -3263,6 +3263,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 15.11.51",
       "last_start": "Senin, 4 Mei 2026 pukul 15.11.51",
       "total_start": 1
+    },
+    {
+      "id": "8298672283",
+      "username": "@arshadeva",
+      "name": "𝘼𝙧𝙨𝙝𝙖𝙙𝙚𝙫𝙖 𝐓𝟓",
+      "first_start": "Senin, 4 Mei 2026 pukul 15.43.20",
+      "last_start": "Senin, 4 Mei 2026 pukul 15.43.20",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3297,8 +3305,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 645,
-  "total_users": 408,
+  "total_start": 646,
+  "total_users": 409,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 15.42.34"
+  "last_update": "Senin, 4 Mei 2026 pukul 15.43.20"
 }
