@@ -3135,6 +3135,14 @@
       "first_start": "Senin, 4 Mei 2026 pukul 06.50.01",
       "last_start": "Senin, 4 Mei 2026 pukul 06.50.01",
       "total_start": 1
+    },
+    {
+      "id": "8436338353",
+      "username": "@Dikzforty",
+      "name": "𝗗𝗶𝗸𝗮 𝗛𝗼𝘀𝘁 ⓥ",
+      "first_start": "Senin, 4 Mei 2026 pukul 07.06.39",
+      "last_start": "Senin, 4 Mei 2026 pukul 07.06.39",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3169,8 +3177,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 613,
-  "total_users": 392,
+  "total_start": 614,
+  "total_users": 393,
   "total_groups": 6,
-  "last_update": "Senin, 4 Mei 2026 pukul 07.05.27"
+  "last_update": "Senin, 4 Mei 2026 pukul 07.06.39"
 }
