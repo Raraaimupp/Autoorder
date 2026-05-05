@@ -3775,6 +3775,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 17.31.17",
       "last_start": "Selasa, 5 Mei 2026 pukul 17.31.17",
       "total_start": 1
+    },
+    {
+      "id": "8067506087",
+      "username": "@fuckktheeruless",
+      "name": "sky",
+      "first_start": "Selasa, 5 Mei 2026 pukul 17.36.58",
+      "last_start": "Selasa, 5 Mei 2026 pukul 17.36.58",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3809,8 +3817,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 768,
-  "total_users": 472,
+  "total_start": 769,
+  "total_users": 473,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 17.35.29"
+  "last_update": "Selasa, 5 Mei 2026 pukul 17.36.58"
 }
