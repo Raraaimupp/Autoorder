@@ -3799,6 +3799,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 17.41.15",
       "last_start": "Selasa, 5 Mei 2026 pukul 17.41.41",
       "total_start": 2
+    },
+    {
+      "id": "8346202713",
+      "username": "@rezkyxez",
+      "name": "EGI STUR 1",
+      "first_start": "Selasa, 5 Mei 2026 pukul 17.42.21",
+      "last_start": "Selasa, 5 Mei 2026 pukul 17.42.21",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3833,8 +3841,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 773,
-  "total_users": 475,
+  "total_start": 774,
+  "total_users": 476,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 17.41.41"
+  "last_update": "Selasa, 5 Mei 2026 pukul 17.42.21"
 }
