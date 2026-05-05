@@ -3783,6 +3783,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 17.36.58",
       "last_start": "Selasa, 5 Mei 2026 pukul 17.36.58",
       "total_start": 1
+    },
+    {
+      "id": "8706845830",
+      "username": "@juragans1",
+      "name": "REY $RMY56",
+      "first_start": "Selasa, 5 Mei 2026 pukul 17.39.33",
+      "last_start": "Selasa, 5 Mei 2026 pukul 17.39.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3817,8 +3825,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 770,
-  "total_users": 473,
+  "total_start": 771,
+  "total_users": 474,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 17.38.30"
+  "last_update": "Selasa, 5 Mei 2026 pukul 17.39.33"
 }
