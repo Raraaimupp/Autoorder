@@ -3919,6 +3919,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 22.17.23",
       "last_start": "Selasa, 5 Mei 2026 pukul 22.17.23",
       "total_start": 1
+    },
+    {
+      "id": "5366396967",
+      "username": "@wanxsky",
+      "name": "WanXSky",
+      "first_start": "Selasa, 5 Mei 2026 pukul 22.18.24",
+      "last_start": "Selasa, 5 Mei 2026 pukul 22.18.24",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3953,8 +3961,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 803,
-  "total_users": 490,
+  "total_start": 804,
+  "total_users": 491,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 22.18.04"
+  "last_update": "Selasa, 5 Mei 2026 pukul 22.18.24"
 }
