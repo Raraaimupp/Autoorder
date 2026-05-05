@@ -3559,6 +3559,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 10.01.41",
       "last_start": "Selasa, 5 Mei 2026 pukul 10.01.41",
       "total_start": 1
+    },
+    {
+      "id": "5125972744",
+      "username": "@dinaira_baik",
+      "name": "Dinnn_Imuttsz",
+      "first_start": "Selasa, 5 Mei 2026 pukul 10.02.44",
+      "last_start": "Selasa, 5 Mei 2026 pukul 10.02.44",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3593,8 +3601,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 709,
-  "total_users": 445,
+  "total_start": 710,
+  "total_users": 446,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 10.02.20"
+  "last_update": "Selasa, 5 Mei 2026 pukul 10.02.44"
 }
