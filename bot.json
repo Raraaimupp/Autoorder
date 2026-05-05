@@ -3927,6 +3927,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 22.18.24",
       "last_start": "Selasa, 5 Mei 2026 pukul 22.18.24",
       "total_start": 1
+    },
+    {
+      "id": "8595465396",
+      "username": "Tidak ada",
+      "name": "Aldi Jajaj",
+      "first_start": "Selasa, 5 Mei 2026 pukul 22.58.37",
+      "last_start": "Selasa, 5 Mei 2026 pukul 22.58.37",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3961,8 +3969,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 805,
-  "total_users": 491,
+  "total_start": 806,
+  "total_users": 492,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 22.57.11"
+  "last_update": "Selasa, 5 Mei 2026 pukul 22.58.37"
 }
