@@ -3623,6 +3623,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 12.35.38",
       "last_start": "Selasa, 5 Mei 2026 pukul 12.35.38",
       "total_start": 1
+    },
+    {
+      "id": "7495412883",
+      "username": "@Dotszstr",
+      "name": "DOTSZ STR",
+      "first_start": "Selasa, 5 Mei 2026 pukul 12.56.18",
+      "last_start": "Selasa, 5 Mei 2026 pukul 12.56.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3657,8 +3665,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 733,
-  "total_users": 453,
+  "total_start": 734,
+  "total_users": 454,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 12.56.07"
+  "last_update": "Selasa, 5 Mei 2026 pukul 12.56.18"
 }
