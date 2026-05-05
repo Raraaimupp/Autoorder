@@ -3495,6 +3495,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 06.41.36",
       "last_start": "Selasa, 5 Mei 2026 pukul 06.41.36",
       "total_start": 1
+    },
+    {
+      "id": "6785168853",
+      "username": "@Kyystoreeallbot",
+      "name": "KYY Kuy",
+      "first_start": "Selasa, 5 Mei 2026 pukul 07.38.54",
+      "last_start": "Selasa, 5 Mei 2026 pukul 07.38.54",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3529,8 +3537,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 698,
-  "total_users": 437,
+  "total_start": 699,
+  "total_users": 438,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 07.38.04"
+  "last_update": "Selasa, 5 Mei 2026 pukul 07.38.54"
 }
