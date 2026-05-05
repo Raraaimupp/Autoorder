@@ -3599,6 +3599,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 11.13.52",
       "last_start": "Selasa, 5 Mei 2026 pukul 11.13.52",
       "total_start": 1
+    },
+    {
+      "id": "8661957052",
+      "username": "@tuanmudaditz",
+      "name": "⏤͟͟͞͞ 𝙺𝚊𝚔𝚊𝚗𝚐 𝙳𝚒𝚝𝚣 #tsr",
+      "first_start": "Selasa, 5 Mei 2026 pukul 11.45.58",
+      "last_start": "Selasa, 5 Mei 2026 pukul 11.45.58",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3633,8 +3641,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 724,
-  "total_users": 450,
+  "total_start": 725,
+  "total_users": 451,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 11.45.39"
+  "last_update": "Selasa, 5 Mei 2026 pukul 11.45.58"
 }
