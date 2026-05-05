@@ -3807,6 +3807,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 17.42.21",
       "last_start": "Selasa, 5 Mei 2026 pukul 17.42.21",
       "total_start": 1
+    },
+    {
+      "id": "8089920048",
+      "username": "@Hipoooih",
+      "name": "𝙆𝙄𝙉𝙂 𝙑𝙄𝙉",
+      "first_start": "Selasa, 5 Mei 2026 pukul 17.42.47",
+      "last_start": "Selasa, 5 Mei 2026 pukul 17.42.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3841,8 +3849,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 774,
-  "total_users": 476,
+  "total_start": 775,
+  "total_users": 477,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 17.42.21"
+  "last_update": "Selasa, 5 Mei 2026 pukul 17.42.47"
 }
