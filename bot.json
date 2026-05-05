@@ -3639,6 +3639,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 13.03.10",
       "last_start": "Selasa, 5 Mei 2026 pukul 13.03.10",
       "total_start": 1
+    },
+    {
+      "id": "8375584904",
+      "username": "@bhskebal",
+      "name": "RILZZ real",
+      "first_start": "Selasa, 5 Mei 2026 pukul 13.17.33",
+      "last_start": "Selasa, 5 Mei 2026 pukul 13.17.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3673,8 +3681,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 735,
-  "total_users": 455,
+  "total_start": 736,
+  "total_users": 456,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 13.16.08"
+  "last_update": "Selasa, 5 Mei 2026 pukul 13.17.33"
 }
