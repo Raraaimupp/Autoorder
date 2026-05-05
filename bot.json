@@ -3607,6 +3607,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 11.45.58",
       "last_start": "Selasa, 5 Mei 2026 pukul 11.45.58",
       "total_start": 1
+    },
+    {
+      "id": "8579826789",
+      "username": "Tidak ada",
+      "name": "renzz saktii",
+      "first_start": "Selasa, 5 Mei 2026 pukul 12.02.24",
+      "last_start": "Selasa, 5 Mei 2026 pukul 12.02.24",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3641,8 +3649,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 726,
-  "total_users": 451,
+  "total_start": 727,
+  "total_users": 452,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 12.02.10"
+  "last_update": "Selasa, 5 Mei 2026 pukul 12.02.24"
 }
