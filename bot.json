@@ -3911,6 +3911,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 22.09.35",
       "last_start": "Selasa, 5 Mei 2026 pukul 22.09.35",
       "total_start": 1
+    },
+    {
+      "id": "1592721003",
+      "username": "@hugozw",
+      "name": "hugo wang",
+      "first_start": "Selasa, 5 Mei 2026 pukul 22.17.23",
+      "last_start": "Selasa, 5 Mei 2026 pukul 22.17.23",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3945,8 +3953,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 802,
-  "total_users": 489,
+  "total_start": 803,
+  "total_users": 490,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 22.14.54"
+  "last_update": "Selasa, 5 Mei 2026 pukul 22.17.23"
 }
