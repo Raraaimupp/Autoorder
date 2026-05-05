@@ -3895,6 +3895,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 21.45.46",
       "last_start": "Selasa, 5 Mei 2026 pukul 21.45.46",
       "total_start": 1
+    },
+    {
+      "id": "7799287105",
+      "username": "@simpaticare",
+      "name": "rilzz chaniago",
+      "first_start": "Selasa, 5 Mei 2026 pukul 21.54.20",
+      "last_start": "Selasa, 5 Mei 2026 pukul 21.54.20",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3929,8 +3937,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 799,
-  "total_users": 487,
+  "total_start": 800,
+  "total_users": 488,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 21.53.58"
+  "last_update": "Selasa, 5 Mei 2026 pukul 21.54.20"
 }
