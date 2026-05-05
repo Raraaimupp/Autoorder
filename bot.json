@@ -3575,6 +3575,14 @@
       "first_start": "Selasa, 5 Mei 2026 pukul 10.10.58",
       "last_start": "Selasa, 5 Mei 2026 pukul 10.12.21",
       "total_start": 4
+    },
+    {
+      "id": "8743878205",
+      "username": "@LutssHost",
+      "name": "—_developer® _",
+      "first_start": "Selasa, 5 Mei 2026 pukul 10.35.21",
+      "last_start": "Selasa, 5 Mei 2026 pukul 10.35.21",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -3609,8 +3617,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 718,
-  "total_users": 447,
+  "total_start": 719,
+  "total_users": 448,
   "total_groups": 6,
-  "last_update": "Selasa, 5 Mei 2026 pukul 10.31.26"
+  "last_update": "Selasa, 5 Mei 2026 pukul 10.35.21"
 }
