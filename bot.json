@@ -4239,6 +4239,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 17.30.16",
       "last_start": "Rabu, 6 Mei 2026 pukul 18.29.03",
       "total_start": 3
+    },
+    {
+      "id": "8206211515",
+      "username": "@FenossNotDev",
+      "name": "⏤͟͟͞͞𝗤𝗤𝗦 제 𝗙𝗲𝗻𝗼𝘀𝘀𝗫𝗗",
+      "first_start": "Rabu, 6 Mei 2026 pukul 18.36.46",
+      "last_start": "Rabu, 6 Mei 2026 pukul 18.36.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4273,8 +4281,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 885,
-  "total_users": 530,
+  "total_start": 886,
+  "total_users": 531,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 18.36.32"
+  "last_update": "Rabu, 6 Mei 2026 pukul 18.36.46"
 }
