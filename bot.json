@@ -3975,6 +3975,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 06.41.50",
       "last_start": "Rabu, 6 Mei 2026 pukul 06.41.50",
       "total_start": 1
+    },
+    {
+      "id": "7452699549",
+      "username": "@Tyoleazz",
+      "name": "Tyoleazz",
+      "first_start": "Rabu, 6 Mei 2026 pukul 07.14.28",
+      "last_start": "Rabu, 6 Mei 2026 pukul 07.14.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4009,8 +4017,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 819,
-  "total_users": 497,
+  "total_start": 820,
+  "total_users": 498,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 07.11.08"
+  "last_update": "Rabu, 6 Mei 2026 pukul 07.14.28"
 }
