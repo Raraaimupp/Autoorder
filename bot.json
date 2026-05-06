@@ -4103,6 +4103,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 13.19.48",
       "last_start": "Rabu, 6 Mei 2026 pukul 13.19.48",
       "total_start": 1
+    },
+    {
+      "id": "7309878421",
+      "username": "@ManzzzTzy",
+      "name": "ManzzTzy | Cyber Sec",
+      "first_start": "Rabu, 6 Mei 2026 pukul 13.36.38",
+      "last_start": "Rabu, 6 Mei 2026 pukul 13.36.38",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4137,8 +4145,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 851,
-  "total_users": 513,
+  "total_start": 852,
+  "total_users": 514,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 13.36.20"
+  "last_update": "Rabu, 6 Mei 2026 pukul 13.36.38"
 }
