@@ -4167,6 +4167,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 15.02.57",
       "last_start": "Rabu, 6 Mei 2026 pukul 15.02.57",
       "total_start": 1
+    },
+    {
+      "id": "8233823267",
+      "username": "@koplex_stecu",
+      "name": "𝐤𝐨𝐩𝐥𝐞𝐱 _𝐬𝐭𝐞𝐜𝐮",
+      "first_start": "Rabu, 6 Mei 2026 pukul 15.29.55",
+      "last_start": "Rabu, 6 Mei 2026 pukul 15.29.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4201,8 +4209,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 861,
-  "total_users": 521,
+  "total_start": 862,
+  "total_users": 522,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 15.28.29"
+  "last_update": "Rabu, 6 Mei 2026 pukul 15.29.55"
 }
