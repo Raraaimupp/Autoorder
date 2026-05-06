@@ -4079,6 +4079,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 12.34.28",
       "last_start": "Rabu, 6 Mei 2026 pukul 12.34.28",
       "total_start": 1
+    },
+    {
+      "id": "7991759676",
+      "username": "@REXXNESIA",
+      "name": "REXX NESIA",
+      "first_start": "Rabu, 6 Mei 2026 pukul 12.44.44",
+      "last_start": "Rabu, 6 Mei 2026 pukul 12.44.44",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4113,8 +4121,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 842,
-  "total_users": 510,
+  "total_start": 843,
+  "total_users": 511,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 12.44.38"
+  "last_update": "Rabu, 6 Mei 2026 pukul 12.44.44"
 }
