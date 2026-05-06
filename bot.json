@@ -4231,6 +4231,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 17.24.03",
       "last_start": "Rabu, 6 Mei 2026 pukul 17.24.03",
       "total_start": 1
+    },
+    {
+      "id": "8412725781",
+      "username": "@Ekhemmimups",
+      "name": "ニ 𝗞𝗛𝗔",
+      "first_start": "Rabu, 6 Mei 2026 pukul 17.30.16",
+      "last_start": "Rabu, 6 Mei 2026 pukul 17.30.16",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4265,8 +4273,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 879,
-  "total_users": 529,
+  "total_start": 880,
+  "total_users": 530,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 17.29.07"
+  "last_update": "Rabu, 6 Mei 2026 pukul 17.30.16"
 }
