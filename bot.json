@@ -4367,6 +4367,14 @@
       "first_start": "Kamis, 7 Mei 2026 pukul 04.11.15",
       "last_start": "Kamis, 7 Mei 2026 pukul 04.11.15",
       "total_start": 1
+    },
+    {
+      "id": "7128396761",
+      "username": "@hamjiee02xs",
+      "name": "hamjie",
+      "first_start": "Kamis, 7 Mei 2026 pukul 05.12.52",
+      "last_start": "Kamis, 7 Mei 2026 pukul 05.12.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4401,8 +4409,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 915,
-  "total_users": 546,
+  "total_start": 916,
+  "total_users": 547,
   "total_groups": 6,
-  "last_update": "Kamis, 7 Mei 2026 pukul 05.05.32"
+  "last_update": "Kamis, 7 Mei 2026 pukul 05.12.52"
 }
