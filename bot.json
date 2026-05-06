@@ -4143,6 +4143,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 14.49.52",
       "last_start": "Rabu, 6 Mei 2026 pukul 14.49.52",
       "total_start": 1
+    },
+    {
+      "id": "8269446934",
+      "username": "@Ataanibos",
+      "name": "Ataa",
+      "first_start": "Rabu, 6 Mei 2026 pukul 14.56.40",
+      "last_start": "Rabu, 6 Mei 2026 pukul 14.56.40",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4177,8 +4185,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 858,
-  "total_users": 518,
+  "total_start": 859,
+  "total_users": 519,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 14.56.24"
+  "last_update": "Rabu, 6 Mei 2026 pukul 14.56.40"
 }
