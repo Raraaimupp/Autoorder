@@ -4359,6 +4359,14 @@
       "first_start": "Kamis, 7 Mei 2026 pukul 04.05.28",
       "last_start": "Kamis, 7 Mei 2026 pukul 04.05.28",
       "total_start": 1
+    },
+    {
+      "id": "6921519534",
+      "username": "@hyelltempest01",
+      "name": "𝕴’𝖒 𝕳𝖞𝖊𝖑𝖑",
+      "first_start": "Kamis, 7 Mei 2026 pukul 04.11.15",
+      "last_start": "Kamis, 7 Mei 2026 pukul 04.11.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4393,8 +4401,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 913,
-  "total_users": 545,
+  "total_start": 914,
+  "total_users": 546,
   "total_groups": 6,
-  "last_update": "Kamis, 7 Mei 2026 pukul 04.10.48"
+  "last_update": "Kamis, 7 Mei 2026 pukul 04.11.15"
 }
