@@ -4287,6 +4287,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 19.43.23",
       "last_start": "Rabu, 6 Mei 2026 pukul 19.43.23",
       "total_start": 1
+    },
+    {
+      "id": "2017634430",
+      "username": "@ZAKKNEVERLUS",
+      "name": "𒆜 ⚊ Z͛Λ𝘒𝘒Ñ𝟒𝐕Ξ𝐑 亗",
+      "first_start": "Rabu, 6 Mei 2026 pukul 20.11.07",
+      "last_start": "Rabu, 6 Mei 2026 pukul 20.11.07",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4321,8 +4329,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 893,
-  "total_users": 536,
+  "total_start": 894,
+  "total_users": 537,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 20.10.02"
+  "last_update": "Rabu, 6 Mei 2026 pukul 20.11.07"
 }
