@@ -4039,6 +4039,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 10.06.59",
       "last_start": "Rabu, 6 Mei 2026 pukul 10.06.59",
       "total_start": 1
+    },
+    {
+      "id": "8239875310",
+      "username": "@XiaoNotDev",
+      "name": "𝐗𝐈𝐀𝐎 • 𝕹𝕰𝖃𝕾𝖀𝕾",
+      "first_start": "Rabu, 6 Mei 2026 pukul 10.25.35",
+      "last_start": "Rabu, 6 Mei 2026 pukul 10.25.35",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4073,8 +4081,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 832,
-  "total_users": 505,
+  "total_start": 833,
+  "total_users": 506,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 10.24.34"
+  "last_update": "Rabu, 6 Mei 2026 pukul 10.25.35"
 }
