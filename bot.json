@@ -4343,6 +4343,14 @@
       "first_start": "Kamis, 7 Mei 2026 pukul 01.00.15",
       "last_start": "Kamis, 7 Mei 2026 pukul 01.00.15",
       "total_start": 1
+    },
+    {
+      "id": "7067805930",
+      "username": "@Apex_hf",
+      "name": "KAY WISE",
+      "first_start": "Kamis, 7 Mei 2026 pukul 03.47.59",
+      "last_start": "Kamis, 7 Mei 2026 pukul 03.47.59",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4377,8 +4385,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 911,
-  "total_users": 543,
+  "total_start": 912,
+  "total_users": 544,
   "total_groups": 6,
-  "last_update": "Kamis, 7 Mei 2026 pukul 03.34.12"
+  "last_update": "Kamis, 7 Mei 2026 pukul 03.47.59"
 }
