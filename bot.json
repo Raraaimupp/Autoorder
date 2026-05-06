@@ -4007,6 +4007,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 08.43.34",
       "last_start": "Rabu, 6 Mei 2026 pukul 08.43.34",
       "total_start": 1
+    },
+    {
+      "id": "6550076084",
+      "username": "@ehanror",
+      "name": "𝚒𝚃 𝙸𝚂 𝙼𝙴 EHANZZ",
+      "first_start": "Rabu, 6 Mei 2026 pukul 09.18.04",
+      "last_start": "Rabu, 6 Mei 2026 pukul 09.18.04",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4041,8 +4049,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 826,
-  "total_users": 501,
+  "total_start": 827,
+  "total_users": 502,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 09.17.34"
+  "last_update": "Rabu, 6 Mei 2026 pukul 09.18.04"
 }
