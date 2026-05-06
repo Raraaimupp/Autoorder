@@ -4031,6 +4031,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 10.05.05",
       "last_start": "Rabu, 6 Mei 2026 pukul 10.05.05",
       "total_start": 1
+    },
+    {
+      "id": "8181344679",
+      "username": "@RAFFAjwjs9b",
+      "name": "HO",
+      "first_start": "Rabu, 6 Mei 2026 pukul 10.06.59",
+      "last_start": "Rabu, 6 Mei 2026 pukul 10.06.59",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4065,8 +4073,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 831,
-  "total_users": 504,
+  "total_start": 832,
+  "total_users": 505,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 10.06.37"
+  "last_update": "Rabu, 6 Mei 2026 pukul 10.06.59"
 }
