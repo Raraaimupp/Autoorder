@@ -1797,8 +1797,8 @@
       "username": "Tidak ada",
       "name": "Siuu",
       "first_start": "Sabtu, 2 Mei 2026 pukul 12.48.35",
-      "last_start": "Sabtu, 2 Mei 2026 pukul 12.48.35",
-      "total_start": 1
+      "last_start": "Rabu, 6 Mei 2026 pukul 17.23.00",
+      "total_start": 2
     },
     {
       "id": "8756704594",
@@ -4257,8 +4257,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 877,
+  "total_start": 878,
   "total_users": 528,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 17.22.43"
+  "last_update": "Rabu, 6 Mei 2026 pukul 17.23.00"
 }
