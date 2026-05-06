@@ -4063,6 +4063,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 11.20.36",
       "last_start": "Rabu, 6 Mei 2026 pukul 11.20.36",
       "total_start": 1
+    },
+    {
+      "id": "1888229944",
+      "username": "@mwagv",
+      "name": "🫧MWA 🫧",
+      "first_start": "Rabu, 6 Mei 2026 pukul 11.36.21",
+      "last_start": "Rabu, 6 Mei 2026 pukul 11.36.21",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4097,8 +4105,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 839,
-  "total_users": 508,
+  "total_start": 840,
+  "total_users": 509,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 11.35.54"
+  "last_update": "Rabu, 6 Mei 2026 pukul 11.36.21"
 }
