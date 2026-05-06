@@ -4087,6 +4087,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 12.44.44",
       "last_start": "Rabu, 6 Mei 2026 pukul 12.53.40",
       "total_start": 2
+    },
+    {
+      "id": "8619894650",
+      "username": "@Steven2317",
+      "name": "Steven 9 8 1 8",
+      "first_start": "Rabu, 6 Mei 2026 pukul 12.57.14",
+      "last_start": "Rabu, 6 Mei 2026 pukul 12.57.14",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4121,8 +4129,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 846,
-  "total_users": 511,
+  "total_start": 847,
+  "total_users": 512,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 12.55.39"
+  "last_update": "Rabu, 6 Mei 2026 pukul 12.57.14"
 }
