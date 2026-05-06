@@ -4095,6 +4095,14 @@
       "first_start": "Rabu, 6 Mei 2026 pukul 12.57.14",
       "last_start": "Rabu, 6 Mei 2026 pukul 12.57.14",
       "total_start": 1
+    },
+    {
+      "id": "8050113590",
+      "username": "@luckstorejubel",
+      "name": "luck str",
+      "first_start": "Rabu, 6 Mei 2026 pukul 13.19.48",
+      "last_start": "Rabu, 6 Mei 2026 pukul 13.19.48",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4129,8 +4137,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 849,
-  "total_users": 512,
+  "total_start": 850,
+  "total_users": 513,
   "total_groups": 6,
-  "last_update": "Rabu, 6 Mei 2026 pukul 13.19.39"
+  "last_update": "Rabu, 6 Mei 2026 pukul 13.19.48"
 }
