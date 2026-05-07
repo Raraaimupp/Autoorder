@@ -4399,6 +4399,14 @@
       "first_start": "Kamis, 7 Mei 2026 pukul 07.26.07",
       "last_start": "Kamis, 7 Mei 2026 pukul 07.26.07",
       "total_start": 1
+    },
+    {
+      "id": "7992478460",
+      "username": "@Mulzz",
+      "name": "𝐌𝐮𝐥𝐳𝐳𝐳",
+      "first_start": "Kamis, 7 Mei 2026 pukul 09.25.19",
+      "last_start": "Kamis, 7 Mei 2026 pukul 09.25.19",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4433,8 +4441,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 931,
-  "total_users": 550,
+  "total_start": 932,
+  "total_users": 551,
   "total_groups": 6,
-  "last_update": "Kamis, 7 Mei 2026 pukul 09.24.36"
+  "last_update": "Kamis, 7 Mei 2026 pukul 09.25.19"
 }
