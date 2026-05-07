@@ -4391,6 +4391,14 @@
       "first_start": "Kamis, 7 Mei 2026 pukul 07.19.22",
       "last_start": "Kamis, 7 Mei 2026 pukul 07.19.22",
       "total_start": 1
+    },
+    {
+      "id": "6990792351",
+      "username": "@notkesvc",
+      "name": "♱ || ` 𝕶𝖊𝖐𝖊𝖘𝖛 𝕹𝖛𝖒",
+      "first_start": "Kamis, 7 Mei 2026 pukul 07.26.07",
+      "last_start": "Kamis, 7 Mei 2026 pukul 07.26.07",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4425,8 +4433,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 924,
-  "total_users": 549,
+  "total_start": 925,
+  "total_users": 550,
   "total_groups": 6,
-  "last_update": "Kamis, 7 Mei 2026 pukul 07.25.24"
+  "last_update": "Kamis, 7 Mei 2026 pukul 07.26.07"
 }
