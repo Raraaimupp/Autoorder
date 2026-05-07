@@ -4495,6 +4495,14 @@
       "first_start": "Kamis, 7 Mei 2026 pukul 14.22.35",
       "last_start": "Kamis, 7 Mei 2026 pukul 14.31.45",
       "total_start": 2
+    },
+    {
+      "id": "7312854056",
+      "username": "@Bashapubg00",
+      "name": "🦄 BASHA HACKER",
+      "first_start": "Kamis, 7 Mei 2026 pukul 17.54.04",
+      "last_start": "Kamis, 7 Mei 2026 pukul 17.54.04",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4529,8 +4537,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 960,
-  "total_users": 562,
+  "total_start": 961,
+  "total_users": 563,
   "total_groups": 6,
-  "last_update": "Kamis, 7 Mei 2026 pukul 17.53.46"
+  "last_update": "Kamis, 7 Mei 2026 pukul 17.54.04"
 }
