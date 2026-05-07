@@ -1722,11 +1722,11 @@
     },
     {
       "id": "8354205028",
-      "username": "@BackupXena25",
-      "name": "XenaBackup",
+      "username": "Tidak ada",
+      "name": "JASHER OTOMATIS",
       "first_start": "Sabtu, 2 Mei 2026 pukul 11.20.14",
-      "last_start": "Minggu, 3 Mei 2026 pukul 18.26.41",
-      "total_start": 2
+      "last_start": "Jumat, 8 Mei 2026 pukul 03.33.27",
+      "total_start": 3
     },
     {
       "id": "1075320365",
@@ -4617,8 +4617,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 983,
+  "total_start": 984,
   "total_users": 573,
   "total_groups": 6,
-  "last_update": "Jumat, 8 Mei 2026 pukul 02.13.09"
+  "last_update": "Jumat, 8 Mei 2026 pukul 03.33.27"
 }
