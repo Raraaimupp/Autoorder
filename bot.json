@@ -4535,6 +4535,14 @@
       "first_start": "Kamis, 7 Mei 2026 pukul 19.24.04",
       "last_start": "Kamis, 7 Mei 2026 pukul 19.24.04",
       "total_start": 1
+    },
+    {
+      "id": "8534156907",
+      "username": "Tidak ada",
+      "name": "HELLO",
+      "first_start": "Kamis, 7 Mei 2026 pukul 19.40.59",
+      "last_start": "Kamis, 7 Mei 2026 pukul 19.40.59",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4569,8 +4577,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 965,
-  "total_users": 567,
+  "total_start": 966,
+  "total_users": 568,
   "total_groups": 6,
-  "last_update": "Kamis, 7 Mei 2026 pukul 19.40.24"
+  "last_update": "Kamis, 7 Mei 2026 pukul 19.40.59"
 }
