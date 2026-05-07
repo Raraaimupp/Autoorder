@@ -4487,6 +4487,14 @@
       "first_start": "Kamis, 7 Mei 2026 pukul 14.07.22",
       "last_start": "Kamis, 7 Mei 2026 pukul 14.21.32",
       "total_start": 2
+    },
+    {
+      "id": "1512922839",
+      "username": "@KingNox2",
+      "name": "Nox V2",
+      "first_start": "Kamis, 7 Mei 2026 pukul 14.22.35",
+      "last_start": "Kamis, 7 Mei 2026 pukul 14.22.35",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4521,8 +4529,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 954,
-  "total_users": 561,
+  "total_start": 955,
+  "total_users": 562,
   "total_groups": 6,
-  "last_update": "Kamis, 7 Mei 2026 pukul 14.22.10"
+  "last_update": "Kamis, 7 Mei 2026 pukul 14.22.35"
 }
