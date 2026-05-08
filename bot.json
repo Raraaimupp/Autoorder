@@ -4615,6 +4615,14 @@
       "first_start": "Jumat, 8 Mei 2026 pukul 12.06.52",
       "last_start": "Jumat, 8 Mei 2026 pukul 12.06.52",
       "total_start": 1
+    },
+    {
+      "id": "6876175306",
+      "username": "@Q_prem",
+      "name": "`RIDWAN",
+      "first_start": "Jumat, 8 Mei 2026 pukul 21.19.17",
+      "last_start": "Jumat, 8 Mei 2026 pukul 21.19.17",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4649,8 +4657,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 993,
-  "total_users": 577,
+  "total_start": 994,
+  "total_users": 578,
   "total_groups": 6,
-  "last_update": "Jumat, 8 Mei 2026 pukul 21.18.59"
+  "last_update": "Jumat, 8 Mei 2026 pukul 21.19.17"
 }
