@@ -4855,6 +4855,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 04.08.36",
       "last_start": "Minggu, 10 Mei 2026 pukul 04.08.36",
       "total_start": 1
+    },
+    {
+      "id": "1550149627",
+      "username": "@trcinion",
+      "name": "𝗟𝟯𝟬𝗫",
+      "first_start": "Minggu, 10 Mei 2026 pukul 04.40.50",
+      "last_start": "Minggu, 10 Mei 2026 pukul 04.40.50",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4889,8 +4897,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1052,
-  "total_users": 607,
+  "total_start": 1053,
+  "total_users": 608,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 04.11.09"
+  "last_update": "Minggu, 10 Mei 2026 pukul 04.40.50"
 }
