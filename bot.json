@@ -4775,6 +4775,14 @@
       "first_start": "Sabtu, 9 Mei 2026 pukul 20.28.42",
       "last_start": "Sabtu, 9 Mei 2026 pukul 20.28.42",
       "total_start": 1
+    },
+    {
+      "id": "8311564890",
+      "username": "@Eldzzz1",
+      "name": "𝐕á𝐧'𝐃é 𝐙𝐢𝐱𝐱𝐦𝐩",
+      "first_start": "Sabtu, 9 Mei 2026 pukul 21.32.35",
+      "last_start": "Sabtu, 9 Mei 2026 pukul 21.32.35",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4809,8 +4817,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1032,
-  "total_users": 597,
+  "total_start": 1033,
+  "total_users": 598,
   "total_groups": 6,
-  "last_update": "Sabtu, 9 Mei 2026 pukul 21.31.14"
+  "last_update": "Sabtu, 9 Mei 2026 pukul 21.32.35"
 }
