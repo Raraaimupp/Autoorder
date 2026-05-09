@@ -4663,6 +4663,14 @@
       "first_start": "Sabtu, 9 Mei 2026 pukul 14.47.44",
       "last_start": "Sabtu, 9 Mei 2026 pukul 14.47.44",
       "total_start": 1
+    },
+    {
+      "id": "8413105056",
+      "username": "@kyzeeaja",
+      "name": "Kyzee.",
+      "first_start": "Sabtu, 9 Mei 2026 pukul 15.13.43",
+      "last_start": "Sabtu, 9 Mei 2026 pukul 15.13.43",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4697,8 +4705,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1012,
-  "total_users": 583,
+  "total_start": 1013,
+  "total_users": 584,
   "total_groups": 6,
-  "last_update": "Sabtu, 9 Mei 2026 pukul 15.03.45"
+  "last_update": "Sabtu, 9 Mei 2026 pukul 15.13.43"
 }
