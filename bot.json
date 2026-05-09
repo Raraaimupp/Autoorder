@@ -4695,6 +4695,14 @@
       "first_start": "Sabtu, 9 Mei 2026 pukul 16.09.34",
       "last_start": "Sabtu, 9 Mei 2026 pukul 16.09.34",
       "total_start": 1
+    },
+    {
+      "id": "8585890495",
+      "username": "@Raffi_Bug_Func",
+      "name": "𝗘𝗟𝗟 𝗗𝗘𝗩 𝐓𝟓",
+      "first_start": "Sabtu, 9 Mei 2026 pukul 16.13.09",
+      "last_start": "Sabtu, 9 Mei 2026 pukul 16.13.09",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4729,8 +4737,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1019,
-  "total_users": 587,
+  "total_start": 1020,
+  "total_users": 588,
   "total_groups": 6,
-  "last_update": "Sabtu, 9 Mei 2026 pukul 16.13.06"
+  "last_update": "Sabtu, 9 Mei 2026 pukul 16.13.09"
 }
