@@ -4847,6 +4847,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 03.41.31",
       "last_start": "Minggu, 10 Mei 2026 pukul 03.41.31",
       "total_start": 1
+    },
+    {
+      "id": "8431331285",
+      "username": "@Rajastore05",
+      "name": "MAS RAJA",
+      "first_start": "Minggu, 10 Mei 2026 pukul 04.08.36",
+      "last_start": "Minggu, 10 Mei 2026 pukul 04.08.36",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4881,8 +4889,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1051,
-  "total_users": 606,
+  "total_start": 1052,
+  "total_users": 607,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 03.42.38"
+  "last_update": "Minggu, 10 Mei 2026 pukul 04.08.36"
 }
