@@ -4901,8 +4901,8 @@
       "username": "@mallzoo",
       "name": "Mallzoo.",
       "first_start": "Minggu, 10 Mei 2026 pukul 06.09.59",
-      "last_start": "Minggu, 10 Mei 2026 pukul 06.09.59",
-      "total_start": 1
+      "last_start": "Minggu, 10 Mei 2026 pukul 06.10.33",
+      "total_start": 2
     }
   ],
   "groups": [
@@ -4937,8 +4937,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1059,
+  "total_start": 1060,
   "total_users": 613,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 06.10.17"
+  "last_update": "Minggu, 10 Mei 2026 pukul 06.10.33"
 }
