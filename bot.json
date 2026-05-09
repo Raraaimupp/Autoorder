@@ -4807,6 +4807,14 @@
       "first_start": "Sabtu, 9 Mei 2026 pukul 23.55.55",
       "last_start": "Sabtu, 9 Mei 2026 pukul 23.55.55",
       "total_start": 1
+    },
+    {
+      "id": "8238805826",
+      "username": "@ajistecu26",
+      "name": "ALOX",
+      "first_start": "Minggu, 10 Mei 2026 pukul 01.29.36",
+      "last_start": "Minggu, 10 Mei 2026 pukul 01.29.36",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4841,8 +4849,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1044,
-  "total_users": 601,
+  "total_start": 1045,
+  "total_users": 602,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 01.18.38"
+  "last_update": "Minggu, 10 Mei 2026 pukul 01.29.36"
 }
