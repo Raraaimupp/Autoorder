@@ -4703,6 +4703,14 @@
       "first_start": "Sabtu, 9 Mei 2026 pukul 16.13.09",
       "last_start": "Sabtu, 9 Mei 2026 pukul 16.13.09",
       "total_start": 1
+    },
+    {
+      "id": "8543705474",
+      "username": "@lixzsukatobrut",
+      "name": "𝚉𝙴𝙻𝙸𝚇𝙽𝚇𝚇.𝙲𝙾𝙼",
+      "first_start": "Sabtu, 9 Mei 2026 pukul 16.19.39",
+      "last_start": "Sabtu, 9 Mei 2026 pukul 16.19.39",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4737,8 +4745,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1020,
-  "total_users": 588,
+  "total_start": 1021,
+  "total_users": 589,
   "total_groups": 6,
-  "last_update": "Sabtu, 9 Mei 2026 pukul 16.19.17"
+  "last_update": "Sabtu, 9 Mei 2026 pukul 16.19.39"
 }
