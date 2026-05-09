@@ -4783,6 +4783,14 @@
       "first_start": "Sabtu, 9 Mei 2026 pukul 21.32.35",
       "last_start": "Sabtu, 9 Mei 2026 pukul 21.32.35",
       "total_start": 1
+    },
+    {
+      "id": "7629607295",
+      "username": "@Zennzyyy",
+      "name": "𝒁𝒆𝒏𝒏4𝒀𝒐𝒖",
+      "first_start": "Sabtu, 9 Mei 2026 pukul 22.52.13",
+      "last_start": "Sabtu, 9 Mei 2026 pukul 22.52.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4817,8 +4825,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1037,
-  "total_users": 598,
+  "total_start": 1038,
+  "total_users": 599,
   "total_groups": 6,
-  "last_update": "Sabtu, 9 Mei 2026 pukul 22.51.39"
+  "last_update": "Sabtu, 9 Mei 2026 pukul 22.52.13"
 }
