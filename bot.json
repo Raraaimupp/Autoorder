@@ -4903,6 +4903,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 06.09.59",
       "last_start": "Minggu, 10 Mei 2026 pukul 06.10.33",
       "total_start": 2
+    },
+    {
+      "id": "8729840602",
+      "username": "Tidak ada",
+      "name": "Farhan Farhan",
+      "first_start": "Minggu, 10 Mei 2026 pukul 06.47.40",
+      "last_start": "Minggu, 10 Mei 2026 pukul 06.47.40",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4937,8 +4945,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1062,
-  "total_users": 613,
+  "total_start": 1063,
+  "total_users": 614,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 06.47.29"
+  "last_update": "Minggu, 10 Mei 2026 pukul 06.47.40"
 }
