@@ -4751,6 +4751,14 @@
       "first_start": "Sabtu, 9 Mei 2026 pukul 17.52.45",
       "last_start": "Sabtu, 9 Mei 2026 pukul 17.52.45",
       "total_start": 1
+    },
+    {
+      "id": "8031623158",
+      "username": "@GroupIB_Official12",
+      "name": "Support Group Ib",
+      "first_start": "Sabtu, 9 Mei 2026 pukul 18.06.01",
+      "last_start": "Sabtu, 9 Mei 2026 pukul 18.06.01",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4785,8 +4793,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1028,
-  "total_users": 594,
+  "total_start": 1029,
+  "total_users": 595,
   "total_groups": 6,
-  "last_update": "Sabtu, 9 Mei 2026 pukul 18.05.47"
+  "last_update": "Sabtu, 9 Mei 2026 pukul 18.06.01"
 }
