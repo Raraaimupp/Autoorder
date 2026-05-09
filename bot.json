@@ -4711,6 +4711,14 @@
       "first_start": "Sabtu, 9 Mei 2026 pukul 16.19.39",
       "last_start": "Sabtu, 9 Mei 2026 pukul 16.19.39",
       "total_start": 1
+    },
+    {
+      "id": "7842670657",
+      "username": "@fuego127",
+      "name": "Anonymous",
+      "first_start": "Sabtu, 9 Mei 2026 pukul 16.44.12",
+      "last_start": "Sabtu, 9 Mei 2026 pukul 16.44.12",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4745,8 +4753,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1021,
-  "total_users": 589,
+  "total_start": 1022,
+  "total_users": 590,
   "total_groups": 6,
-  "last_update": "Sabtu, 9 Mei 2026 pukul 16.43.50"
+  "last_update": "Sabtu, 9 Mei 2026 pukul 16.44.12"
 }
