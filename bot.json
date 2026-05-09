@@ -4863,6 +4863,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 04.40.50",
       "last_start": "Minggu, 10 Mei 2026 pukul 04.40.50",
       "total_start": 1
+    },
+    {
+      "id": "8311219290",
+      "username": "@hakibsd",
+      "name": "૮Tànté –Haji (¢)",
+      "first_start": "Minggu, 10 Mei 2026 pukul 05.40.29",
+      "last_start": "Minggu, 10 Mei 2026 pukul 05.40.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4897,8 +4905,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1053,
-  "total_users": 608,
+  "total_start": 1054,
+  "total_users": 609,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 05.36.41"
+  "last_update": "Minggu, 10 Mei 2026 pukul 05.40.29"
 }
