@@ -3075,10 +3075,10 @@
     {
       "id": "6634084619",
       "username": "Tidak ada",
-      "name": "✧ 𝐰𝐡𝐢𝐥𝐞𝐭𝐫𝐲 ✧",
+      "name": "𝐰𝐡𝐢𝐥𝐞𝐭𝐫𝐲",
       "first_start": "Senin, 4 Mei 2026 pukul 02.02.28",
-      "last_start": "Kamis, 7 Mei 2026 pukul 02.21.58",
-      "total_start": 4
+      "last_start": "Sabtu, 9 Mei 2026 pukul 15.01.20",
+      "total_start": 5
     },
     {
       "id": "6569259781",
@@ -4697,8 +4697,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1011,
+  "total_start": 1012,
   "total_users": 583,
   "total_groups": 6,
-  "last_update": "Sabtu, 9 Mei 2026 pukul 15.00.59"
+  "last_update": "Sabtu, 9 Mei 2026 pukul 15.01.20"
 }
