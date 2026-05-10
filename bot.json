@@ -4975,6 +4975,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 14.38.14",
       "last_start": "Minggu, 10 Mei 2026 pukul 14.38.14",
       "total_start": 1
+    },
+    {
+      "id": "8496112238",
+      "username": "@bokeppuu",
+      "name": "G Tau Apah",
+      "first_start": "Minggu, 10 Mei 2026 pukul 14.53.32",
+      "last_start": "Minggu, 10 Mei 2026 pukul 14.53.32",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5009,8 +5017,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1079,
-  "total_users": 622,
+  "total_start": 1080,
+  "total_users": 623,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 14.53.01"
+  "last_update": "Minggu, 10 Mei 2026 pukul 14.53.32"
 }
