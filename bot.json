@@ -5087,6 +5087,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 00.49.20",
       "last_start": "Senin, 11 Mei 2026 pukul 00.49.20",
       "total_start": 1
+    },
+    {
+      "id": "8366623932",
+      "username": "@Obito1v",
+      "name": "Obito Uchiha",
+      "first_start": "Senin, 11 Mei 2026 pukul 01.03.52",
+      "last_start": "Senin, 11 Mei 2026 pukul 01.03.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5121,8 +5129,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1108,
-  "total_users": 636,
+  "total_start": 1109,
+  "total_users": 637,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 00.55.41"
+  "last_update": "Senin, 11 Mei 2026 pukul 01.03.52"
 }
