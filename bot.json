@@ -4927,6 +4927,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 08.54.42",
       "last_start": "Minggu, 10 Mei 2026 pukul 08.54.42",
       "total_start": 1
+    },
+    {
+      "id": "8381309827",
+      "username": "@auliatzyi",
+      "name": "Tzy..",
+      "first_start": "Minggu, 10 Mei 2026 pukul 10.47.31",
+      "last_start": "Minggu, 10 Mei 2026 pukul 10.47.31",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4961,8 +4969,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1069,
-  "total_users": 616,
+  "total_start": 1070,
+  "total_users": 617,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 10.34.32"
+  "last_update": "Minggu, 10 Mei 2026 pukul 10.47.31"
 }
