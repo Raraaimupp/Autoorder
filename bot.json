@@ -4991,6 +4991,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 15.08.01",
       "last_start": "Minggu, 10 Mei 2026 pukul 15.08.01",
       "total_start": 1
+    },
+    {
+      "id": "8738946119",
+      "username": "@ZahhKece",
+      "name": "Zahhgtng",
+      "first_start": "Minggu, 10 Mei 2026 pukul 15.58.50",
+      "last_start": "Minggu, 10 Mei 2026 pukul 15.58.50",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5025,8 +5033,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1084,
-  "total_users": 624,
+  "total_start": 1085,
+  "total_users": 625,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 15.58.22"
+  "last_update": "Minggu, 10 Mei 2026 pukul 15.58.50"
 }
