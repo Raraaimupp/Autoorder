@@ -5007,6 +5007,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 16.49.45",
       "last_start": "Minggu, 10 Mei 2026 pukul 16.49.45",
       "total_start": 1
+    },
+    {
+      "id": "8091007358",
+      "username": "@assacruel",
+      "name": "⏤͟͟͞͞Assasin Cruel",
+      "first_start": "Minggu, 10 Mei 2026 pukul 17.13.40",
+      "last_start": "Minggu, 10 Mei 2026 pukul 17.13.40",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5041,8 +5049,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1086,
-  "total_users": 626,
+  "total_start": 1087,
+  "total_users": 627,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 17.13.22"
+  "last_update": "Minggu, 10 Mei 2026 pukul 17.13.40"
 }
