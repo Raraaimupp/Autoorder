@@ -4943,6 +4943,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 13.12.08",
       "last_start": "Minggu, 10 Mei 2026 pukul 13.12.08",
       "total_start": 1
+    },
+    {
+      "id": "7322346646",
+      "username": "@haseebbrand01",
+      "name": "HASEEB | BRAND",
+      "first_start": "Minggu, 10 Mei 2026 pukul 14.30.12",
+      "last_start": "Minggu, 10 Mei 2026 pukul 14.30.12",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4977,8 +4985,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1073,
-  "total_users": 618,
+  "total_start": 1074,
+  "total_users": 619,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 14.17.40"
+  "last_update": "Minggu, 10 Mei 2026 pukul 14.30.12"
 }
