@@ -5069,8 +5069,8 @@
       "username": "@zhravie",
       "name": "z",
       "first_start": "Minggu, 10 Mei 2026 pukul 23.56.01",
-      "last_start": "Minggu, 10 Mei 2026 pukul 23.56.01",
-      "total_start": 1
+      "last_start": "Minggu, 10 Mei 2026 pukul 23.59.51",
+      "total_start": 2
     }
   ],
   "groups": [
@@ -5105,8 +5105,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1105,
+  "total_start": 1106,
   "total_users": 634,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 23.56.55"
+  "last_update": "Minggu, 10 Mei 2026 pukul 23.59.51"
 }
