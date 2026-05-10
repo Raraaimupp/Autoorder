@@ -5119,6 +5119,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 02.09.42",
       "last_start": "Senin, 11 Mei 2026 pukul 02.09.42",
       "total_start": 1
+    },
+    {
+      "id": "8365323480",
+      "username": "@nizzofficial",
+      "name": "¡𝐦 #𝐧𝐢𝐳𝐳 [fokus rl]",
+      "first_start": "Senin, 11 Mei 2026 pukul 04.55.31",
+      "last_start": "Senin, 11 Mei 2026 pukul 04.55.31",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5153,8 +5161,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1115,
-  "total_users": 640,
+  "total_start": 1116,
+  "total_users": 641,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 04.52.01"
+  "last_update": "Senin, 11 Mei 2026 pukul 04.55.31"
 }
