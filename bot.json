@@ -5039,6 +5039,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 21.30.21",
       "last_start": "Minggu, 10 Mei 2026 pukul 21.30.21",
       "total_start": 1
+    },
+    {
+      "id": "6652640044",
+      "username": "@Jannnotdev",
+      "name": "Jann Kennedy",
+      "first_start": "Minggu, 10 Mei 2026 pukul 21.35.46",
+      "last_start": "Minggu, 10 Mei 2026 pukul 21.35.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5073,8 +5081,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1096,
-  "total_users": 630,
+  "total_start": 1097,
+  "total_users": 631,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 21.33.54"
+  "last_update": "Minggu, 10 Mei 2026 pukul 21.35.46"
 }
