@@ -4959,6 +4959,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 14.31.26",
       "last_start": "Minggu, 10 Mei 2026 pukul 14.31.26",
       "total_start": 1
+    },
+    {
+      "id": "7625429364",
+      "username": "@noxxkkkkk",
+      "name": "Nokxxxxk",
+      "first_start": "Minggu, 10 Mei 2026 pukul 14.33.38",
+      "last_start": "Minggu, 10 Mei 2026 pukul 14.33.38",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -4993,8 +5001,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1075,
-  "total_users": 620,
+  "total_start": 1076,
+  "total_users": 621,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 14.32.55"
+  "last_update": "Minggu, 10 Mei 2026 pukul 14.33.38"
 }
