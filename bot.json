@@ -5071,6 +5071,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 23.56.01",
       "last_start": "Minggu, 10 Mei 2026 pukul 23.59.51",
       "total_start": 2
+    },
+    {
+      "id": "1787132282",
+      "username": "@DarlinNyc",
+      "name": "Martinez",
+      "first_start": "Senin, 11 Mei 2026 pukul 00.43.40",
+      "last_start": "Senin, 11 Mei 2026 pukul 00.43.40",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5105,8 +5113,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1106,
-  "total_users": 634,
+  "total_start": 1107,
+  "total_users": 635,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 00.41.08"
+  "last_update": "Senin, 11 Mei 2026 pukul 00.43.40"
 }
