@@ -5095,6 +5095,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 01.03.52",
       "last_start": "Senin, 11 Mei 2026 pukul 01.03.52",
       "total_start": 1
+    },
+    {
+      "id": "6982854995",
+      "username": "Tidak ada",
+      "name": "Xxcc",
+      "first_start": "Senin, 11 Mei 2026 pukul 01.15.34",
+      "last_start": "Senin, 11 Mei 2026 pukul 01.15.34",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5129,8 +5137,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1110,
-  "total_users": 637,
+  "total_start": 1111,
+  "total_users": 638,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 01.05.32"
+  "last_update": "Senin, 11 Mei 2026 pukul 01.15.34"
 }
