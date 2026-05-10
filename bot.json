@@ -5143,6 +5143,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 05.42.27",
       "last_start": "Senin, 11 Mei 2026 pukul 05.42.27",
       "total_start": 1
+    },
+    {
+      "id": "7578000932",
+      "username": "@Ridzz224",
+      "name": "Ridzz",
+      "first_start": "Senin, 11 Mei 2026 pukul 06.58.42",
+      "last_start": "Senin, 11 Mei 2026 pukul 06.58.42",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5177,8 +5185,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1119,
-  "total_users": 643,
+  "total_start": 1120,
+  "total_users": 644,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 06.49.34"
+  "last_update": "Senin, 11 Mei 2026 pukul 06.58.42"
 }
