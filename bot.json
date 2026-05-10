@@ -5023,6 +5023,14 @@
       "first_start": "Minggu, 10 Mei 2026 pukul 18.37.52",
       "last_start": "Minggu, 10 Mei 2026 pukul 18.37.52",
       "total_start": 1
+    },
+    {
+      "id": "8707645142",
+      "username": "Tidak ada",
+      "name": "Ginda Al",
+      "first_start": "Minggu, 10 Mei 2026 pukul 19.30.34",
+      "last_start": "Minggu, 10 Mei 2026 pukul 19.30.34",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5057,8 +5065,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1089,
-  "total_users": 628,
+  "total_start": 1090,
+  "total_users": 629,
   "total_groups": 6,
-  "last_update": "Minggu, 10 Mei 2026 pukul 19.16.37"
+  "last_update": "Minggu, 10 Mei 2026 pukul 19.30.34"
 }
