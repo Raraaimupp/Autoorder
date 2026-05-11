@@ -5167,6 +5167,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 07.16.58",
       "last_start": "Senin, 11 Mei 2026 pukul 07.17.34",
       "total_start": 2
+    },
+    {
+      "id": "1927022757",
+      "username": "@elnicholmd",
+      "name": "𝗲𝗹𝘇𝘅 [𝟎𝟎.𝟎𝟎]",
+      "first_start": "Senin, 11 Mei 2026 pukul 07.18.47",
+      "last_start": "Senin, 11 Mei 2026 pukul 07.18.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5201,8 +5209,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1125,
-  "total_users": 646,
+  "total_start": 1126,
+  "total_users": 647,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 07.17.34"
+  "last_update": "Senin, 11 Mei 2026 pukul 07.18.47"
 }
