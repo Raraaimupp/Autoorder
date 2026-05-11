@@ -5351,6 +5351,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 19.23.23",
       "last_start": "Senin, 11 Mei 2026 pukul 19.23.23",
       "total_start": 1
+    },
+    {
+      "id": "8409384667",
+      "username": "@Vinzzmarket123",
+      "name": "VINZZ MARKET",
+      "first_start": "Senin, 11 Mei 2026 pukul 19.37.07",
+      "last_start": "Senin, 11 Mei 2026 pukul 19.37.07",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5385,8 +5393,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1165,
-  "total_users": 669,
+  "total_start": 1166,
+  "total_users": 670,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 19.36.54"
+  "last_update": "Senin, 11 Mei 2026 pukul 19.37.07"
 }
