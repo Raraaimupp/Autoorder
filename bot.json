@@ -5319,6 +5319,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 16.19.57",
       "last_start": "Senin, 11 Mei 2026 pukul 16.19.57",
       "total_start": 1
+    },
+    {
+      "id": "7996932515",
+      "username": "@stevnf",
+      "name": "R o x Y 𐚁",
+      "first_start": "Senin, 11 Mei 2026 pukul 18.13.28",
+      "last_start": "Senin, 11 Mei 2026 pukul 18.13.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5353,8 +5361,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1161,
-  "total_users": 665,
+  "total_start": 1162,
+  "total_users": 666,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 18.13.13"
+  "last_update": "Senin, 11 Mei 2026 pukul 18.13.28"
 }
