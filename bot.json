@@ -5455,6 +5455,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 01.31.07",
       "last_start": "Selasa, 12 Mei 2026 pukul 01.31.07",
       "total_start": 1
+    },
+    {
+      "id": "1061586215",
+      "username": "@luwhanjing",
+      "name": "⏤͟͟͞͞𝟕𝟎𝟓メ𝙭𝙮𝙧𝙚𝙚",
+      "first_start": "Selasa, 12 Mei 2026 pukul 01.53.48",
+      "last_start": "Selasa, 12 Mei 2026 pukul 01.53.48",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5489,8 +5497,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1193,
-  "total_users": 682,
+  "total_start": 1194,
+  "total_users": 683,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 01.49.09"
+  "last_update": "Selasa, 12 Mei 2026 pukul 01.53.48"
 }
