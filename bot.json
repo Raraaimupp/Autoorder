@@ -5471,6 +5471,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 03.13.44",
       "last_start": "Selasa, 12 Mei 2026 pukul 03.14.11",
       "total_start": 2
+    },
+    {
+      "id": "1048428551",
+      "username": "Tidak ada",
+      "name": "⏤͟͟͞͞𝐀𝐅 || 𝐌𝐀𝐌𝐀𝐍 𝐎𝐅𝐅𝐂𝐈𝐀𝐋 ( 𝐎𝐏𝐄𝐍 𝐏𝐀𝐑𝐓𝐍𝐄𝐑 )",
+      "first_start": "Selasa, 12 Mei 2026 pukul 05.35.21",
+      "last_start": "Selasa, 12 Mei 2026 pukul 05.35.21",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5505,8 +5513,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1199,
-  "total_users": 684,
+  "total_start": 1200,
+  "total_users": 685,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 05.35.03"
+  "last_update": "Selasa, 12 Mei 2026 pukul 05.35.21"
 }
