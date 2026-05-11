@@ -5431,6 +5431,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 22.48.11",
       "last_start": "Senin, 11 Mei 2026 pukul 22.48.11",
       "total_start": 1
+    },
+    {
+      "id": "8605434613",
+      "username": "@Ryanzz_real",
+      "name": "𝗜𝘁𝘀 𝗠𝗲 𝗥𝘆𝗮𝗻𝗻𝗻",
+      "first_start": "Selasa, 12 Mei 2026 pukul 01.08.27",
+      "last_start": "Selasa, 12 Mei 2026 pukul 01.08.27",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5465,8 +5473,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1185,
-  "total_users": 679,
+  "total_start": 1186,
+  "total_users": 680,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 01.05.45"
+  "last_update": "Selasa, 12 Mei 2026 pukul 01.08.27"
 }
