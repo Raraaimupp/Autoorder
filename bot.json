@@ -5295,6 +5295,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 14.47.32",
       "last_start": "Senin, 11 Mei 2026 pukul 14.47.32",
       "total_start": 1
+    },
+    {
+      "id": "7964527206",
+      "username": "@dapz_xd",
+      "name": "dapzMD",
+      "first_start": "Senin, 11 Mei 2026 pukul 16.01.33",
+      "last_start": "Senin, 11 Mei 2026 pukul 16.01.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5329,8 +5337,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1153,
-  "total_users": 662,
+  "total_start": 1154,
+  "total_users": 663,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 16.00.31"
+  "last_update": "Senin, 11 Mei 2026 pukul 16.01.33"
 }
