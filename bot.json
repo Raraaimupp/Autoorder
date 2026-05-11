@@ -5271,6 +5271,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 13.36.27",
       "last_start": "Senin, 11 Mei 2026 pukul 13.36.27",
       "total_start": 1
+    },
+    {
+      "id": "8463511614",
+      "username": "@bombomcal",
+      "name": "ceo saham muda (janda)",
+      "first_start": "Senin, 11 Mei 2026 pukul 13.46.38",
+      "last_start": "Senin, 11 Mei 2026 pukul 13.46.38",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5305,8 +5313,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1149,
-  "total_users": 659,
+  "total_start": 1150,
+  "total_users": 660,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 13.44.52"
+  "last_update": "Senin, 11 Mei 2026 pukul 13.46.38"
 }
