@@ -5207,6 +5207,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 08.52.21",
       "last_start": "Senin, 11 Mei 2026 pukul 08.52.21",
       "total_start": 1
+    },
+    {
+      "id": "1305492318",
+      "username": "@mrlnaxy",
+      "name": "Deagels@01",
+      "first_start": "Senin, 11 Mei 2026 pukul 08.55.46",
+      "last_start": "Senin, 11 Mei 2026 pukul 08.55.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5241,8 +5249,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1134,
-  "total_users": 651,
+  "total_start": 1135,
+  "total_users": 652,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 08.55.17"
+  "last_update": "Senin, 11 Mei 2026 pukul 08.55.46"
 }
