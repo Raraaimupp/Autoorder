@@ -5215,6 +5215,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 08.55.46",
       "last_start": "Senin, 11 Mei 2026 pukul 08.57.06",
       "total_start": 2
+    },
+    {
+      "id": "6866149737",
+      "username": "@senaxxxxxxxxxxx",
+      "name": "FOR SENA",
+      "first_start": "Senin, 11 Mei 2026 pukul 08.57.51",
+      "last_start": "Senin, 11 Mei 2026 pukul 08.57.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5249,8 +5257,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1136,
-  "total_users": 652,
+  "total_start": 1137,
+  "total_users": 653,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 08.57.06"
+  "last_update": "Senin, 11 Mei 2026 pukul 08.57.51"
 }
