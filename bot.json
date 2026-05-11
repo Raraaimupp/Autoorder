@@ -5463,6 +5463,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 01.53.48",
       "last_start": "Selasa, 12 Mei 2026 pukul 01.53.48",
       "total_start": 1
+    },
+    {
+      "id": "8287036879",
+      "username": "@Zyarexril",
+      "name": "Zyarex |",
+      "first_start": "Selasa, 12 Mei 2026 pukul 03.13.44",
+      "last_start": "Selasa, 12 Mei 2026 pukul 03.13.44",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5497,8 +5505,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1197,
-  "total_users": 683,
+  "total_start": 1198,
+  "total_users": 684,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 03.01.14"
+  "last_update": "Selasa, 12 Mei 2026 pukul 03.13.44"
 }
