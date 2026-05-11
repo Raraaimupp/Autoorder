@@ -5239,6 +5239,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 10.13.59",
       "last_start": "Senin, 11 Mei 2026 pukul 10.13.59",
       "total_start": 1
+    },
+    {
+      "id": "8595398390",
+      "username": "@ziellstecuek",
+      "name": "Zero Games",
+      "first_start": "Senin, 11 Mei 2026 pukul 10.20.43",
+      "last_start": "Senin, 11 Mei 2026 pukul 10.20.43",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5273,8 +5281,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1140,
-  "total_users": 655,
+  "total_start": 1141,
+  "total_users": 656,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 10.18.04"
+  "last_update": "Senin, 11 Mei 2026 pukul 10.20.43"
 }
