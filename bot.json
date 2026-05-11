@@ -5247,6 +5247,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 10.20.43",
       "last_start": "Senin, 11 Mei 2026 pukul 10.20.43",
       "total_start": 1
+    },
+    {
+      "id": "8124131839",
+      "username": "Tidak ada",
+      "name": "kelvin stcu",
+      "first_start": "Senin, 11 Mei 2026 pukul 13.03.28",
+      "last_start": "Senin, 11 Mei 2026 pukul 13.03.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5281,8 +5289,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1145,
-  "total_users": 656,
+  "total_start": 1146,
+  "total_users": 657,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 13.02.54"
+  "last_update": "Senin, 11 Mei 2026 pukul 13.03.28"
 }
