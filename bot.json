@@ -5159,6 +5159,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 06.58.57",
       "last_start": "Senin, 11 Mei 2026 pukul 06.58.57",
       "total_start": 1
+    },
+    {
+      "id": "6924233042",
+      "username": "@anonympaxx",
+      "name": "PΛXBΛЯ",
+      "first_start": "Senin, 11 Mei 2026 pukul 07.16.58",
+      "last_start": "Senin, 11 Mei 2026 pukul 07.16.58",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5193,8 +5201,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1123,
-  "total_users": 645,
+  "total_start": 1124,
+  "total_users": 646,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 07.10.22"
+  "last_update": "Senin, 11 Mei 2026 pukul 07.16.58"
 }
