@@ -5303,6 +5303,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 16.01.33",
       "last_start": "Senin, 11 Mei 2026 pukul 16.01.33",
       "total_start": 1
+    },
+    {
+      "id": "6710482238",
+      "username": "@Tradermudarka",
+      "name": "Liona",
+      "first_start": "Senin, 11 Mei 2026 pukul 16.14.00",
+      "last_start": "Senin, 11 Mei 2026 pukul 16.14.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5337,8 +5345,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1154,
-  "total_users": 663,
+  "total_start": 1155,
+  "total_users": 664,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 16.12.29"
+  "last_update": "Senin, 11 Mei 2026 pukul 16.14.00"
 }
