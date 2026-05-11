@@ -5495,6 +5495,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 05.57.43",
       "last_start": "Selasa, 12 Mei 2026 pukul 05.57.43",
       "total_start": 1
+    },
+    {
+      "id": "8450903085",
+      "username": "@ceceseraika",
+      "name": "𝐂𝐄𝐂𝐄` 𝐕𝐒 𝐏𝐄𝐍𝐉𝐀𝐇𝐀𝐓",
+      "first_start": "Selasa, 12 Mei 2026 pukul 06.53.26",
+      "last_start": "Selasa, 12 Mei 2026 pukul 06.53.26",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5529,8 +5537,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1205,
-  "total_users": 687,
+  "total_start": 1206,
+  "total_users": 688,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 06.53.02"
+  "last_update": "Selasa, 12 Mei 2026 pukul 06.53.26"
 }
