@@ -5367,6 +5367,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 19.56.19",
       "last_start": "Senin, 11 Mei 2026 pukul 19.56.19",
       "total_start": 1
+    },
+    {
+      "id": "7380442228",
+      "username": "@Venusz_2",
+      "name": "Venusz",
+      "first_start": "Senin, 11 Mei 2026 pukul 20.46.23",
+      "last_start": "Senin, 11 Mei 2026 pukul 20.46.23",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5401,8 +5409,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1167,
-  "total_users": 671,
+  "total_start": 1168,
+  "total_users": 672,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 20.44.47"
+  "last_update": "Senin, 11 Mei 2026 pukul 20.46.23"
 }
