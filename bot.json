@@ -5327,6 +5327,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 18.13.28",
       "last_start": "Senin, 11 Mei 2026 pukul 18.13.28",
       "total_start": 1
+    },
+    {
+      "id": "8582538165",
+      "username": "@flado969",
+      "name": "vantzy969",
+      "first_start": "Senin, 11 Mei 2026 pukul 19.14.29",
+      "last_start": "Senin, 11 Mei 2026 pukul 19.14.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5361,8 +5369,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1162,
-  "total_users": 666,
+  "total_start": 1163,
+  "total_users": 667,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 19.13.40"
+  "last_update": "Senin, 11 Mei 2026 pukul 19.14.29"
 }
