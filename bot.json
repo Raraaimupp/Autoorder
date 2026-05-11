@@ -5391,6 +5391,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 21.21.41",
       "last_start": "Senin, 11 Mei 2026 pukul 21.41.15",
       "total_start": 2
+    },
+    {
+      "id": "1541980287",
+      "username": "Tidak ada",
+      "name": "⏤͟͟ 𝗫͢𝘅𝗫 Zeraa 𝒇𝒐𝒓𝒕𝒘𝒚𝒏𝒕𝒚",
+      "first_start": "Senin, 11 Mei 2026 pukul 21.41.43",
+      "last_start": "Senin, 11 Mei 2026 pukul 21.41.43",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5425,8 +5433,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1174,
-  "total_users": 674,
+  "total_start": 1175,
+  "total_users": 675,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 21.41.15"
+  "last_update": "Senin, 11 Mei 2026 pukul 21.41.43"
 }
