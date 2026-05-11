@@ -5183,6 +5183,14 @@
       "first_start": "Senin, 11 Mei 2026 pukul 07.45.09",
       "last_start": "Senin, 11 Mei 2026 pukul 07.46.17",
       "total_start": 3
+    },
+    {
+      "id": "8727830552",
+      "username": "@axeltzy4",
+      "name": "super axel",
+      "first_start": "Senin, 11 Mei 2026 pukul 07.57.54",
+      "last_start": "Senin, 11 Mei 2026 pukul 07.57.54",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5217,8 +5225,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1131,
-  "total_users": 648,
+  "total_start": 1132,
+  "total_users": 649,
   "total_groups": 6,
-  "last_update": "Senin, 11 Mei 2026 pukul 07.56.08"
+  "last_update": "Senin, 11 Mei 2026 pukul 07.57.54"
 }
