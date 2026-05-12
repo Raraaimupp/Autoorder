@@ -5623,6 +5623,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 16.36.29",
       "last_start": "Selasa, 12 Mei 2026 pukul 16.36.29",
       "total_start": 1
+    },
+    {
+      "id": "8221519974",
+      "username": "@seinpolong",
+      "name": "SEIN",
+      "first_start": "Selasa, 12 Mei 2026 pukul 17.22.47",
+      "last_start": "Selasa, 12 Mei 2026 pukul 17.22.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5657,8 +5665,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1237,
-  "total_users": 703,
+  "total_start": 1238,
+  "total_users": 704,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 17.22.29"
+  "last_update": "Selasa, 12 Mei 2026 pukul 17.22.47"
 }
