@@ -5607,6 +5607,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 16.21.20",
       "last_start": "Selasa, 12 Mei 2026 pukul 16.21.20",
       "total_start": 1
+    },
+    {
+      "id": "8234166302",
+      "username": "@mieayam1999",
+      "name": "woi",
+      "first_start": "Selasa, 12 Mei 2026 pukul 16.34.48",
+      "last_start": "Selasa, 12 Mei 2026 pukul 16.34.48",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5641,8 +5649,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1233,
-  "total_users": 701,
+  "total_start": 1234,
+  "total_users": 702,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 16.34.08"
+  "last_update": "Selasa, 12 Mei 2026 pukul 16.34.48"
 }
