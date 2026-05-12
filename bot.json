@@ -5575,6 +5575,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 10.46.41",
       "last_start": "Selasa, 12 Mei 2026 pukul 10.46.41",
       "total_start": 1
+    },
+    {
+      "id": "6643887391",
+      "username": "@whangzyy",
+      "name": "𝑾𝒉𝒂𝒏𝒈-𝒁𝒚𝒚 王志",
+      "first_start": "Selasa, 12 Mei 2026 pukul 10.47.00",
+      "last_start": "Selasa, 12 Mei 2026 pukul 10.47.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5609,8 +5617,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1220,
-  "total_users": 697,
+  "total_start": 1221,
+  "total_users": 698,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 10.46.41"
+  "last_update": "Selasa, 12 Mei 2026 pukul 10.47.00"
 }
