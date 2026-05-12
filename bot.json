@@ -5527,6 +5527,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 07.33.46",
       "last_start": "Selasa, 12 Mei 2026 pukul 07.33.46",
       "total_start": 1
+    },
+    {
+      "id": "6442121631",
+      "username": "@YAZID_OFC",
+      "name": "YAZID_OFC",
+      "first_start": "Selasa, 12 Mei 2026 pukul 08.14.47",
+      "last_start": "Selasa, 12 Mei 2026 pukul 08.14.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5561,8 +5569,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1212,
-  "total_users": 691,
+  "total_start": 1213,
+  "total_users": 692,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 08.12.32"
+  "last_update": "Selasa, 12 Mei 2026 pukul 08.14.47"
 }
