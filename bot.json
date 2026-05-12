@@ -5599,6 +5599,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 15.11.33",
       "last_start": "Selasa, 12 Mei 2026 pukul 15.11.33",
       "total_start": 1
+    },
+    {
+      "id": "1359627037",
+      "username": "@Maklowhajg",
+      "name": "d'oeuvre e'than.𝟺𝐂𝚛𝐢𝚖𝐢𝚗𝐚𝚕𝐑𝚘𝐦𝚊𝐧𝚌𝐞",
+      "first_start": "Selasa, 12 Mei 2026 pukul 16.21.20",
+      "last_start": "Selasa, 12 Mei 2026 pukul 16.21.20",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5633,8 +5641,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1232,
-  "total_users": 700,
+  "total_start": 1233,
+  "total_users": 701,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 16.21.05"
+  "last_update": "Selasa, 12 Mei 2026 pukul 16.21.20"
 }
