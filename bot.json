@@ -5511,6 +5511,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 07.29.37",
       "last_start": "Selasa, 12 Mei 2026 pukul 07.29.37",
       "total_start": 1
+    },
+    {
+      "id": "7930720722",
+      "username": "@Gerryy007",
+      "name": "Geery",
+      "first_start": "Selasa, 12 Mei 2026 pukul 07.30.53",
+      "last_start": "Selasa, 12 Mei 2026 pukul 07.30.53",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5545,8 +5553,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1209,
-  "total_users": 689,
+  "total_start": 1210,
+  "total_users": 690,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 07.29.37"
+  "last_update": "Selasa, 12 Mei 2026 pukul 07.30.53"
 }
