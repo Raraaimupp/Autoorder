@@ -5583,6 +5583,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 10.47.00",
       "last_start": "Selasa, 12 Mei 2026 pukul 10.49.22",
       "total_start": 3
+    },
+    {
+      "id": "8393106922",
+      "username": "@ciyopi",
+      "name": "milows",
+      "first_start": "Selasa, 12 Mei 2026 pukul 14.09.19",
+      "last_start": "Selasa, 12 Mei 2026 pukul 14.09.19",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5617,8 +5625,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1226,
-  "total_users": 698,
+  "total_start": 1227,
+  "total_users": 699,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 14.03.51"
+  "last_update": "Selasa, 12 Mei 2026 pukul 14.09.19"
 }
