@@ -5591,6 +5591,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 14.09.19",
       "last_start": "Selasa, 12 Mei 2026 pukul 14.09.19",
       "total_start": 1
+    },
+    {
+      "id": "6093515611",
+      "username": "@vangntng01",
+      "name": "𝐕𝐀𝐍𝐍𝐎𝐏𝐎𝐊𝐄 𝐓𝟓",
+      "first_start": "Selasa, 12 Mei 2026 pukul 15.11.33",
+      "last_start": "Selasa, 12 Mei 2026 pukul 15.11.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5625,8 +5633,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1229,
-  "total_users": 699,
+  "total_start": 1230,
+  "total_users": 700,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 15.11.24"
+  "last_update": "Selasa, 12 Mei 2026 pukul 15.11.33"
 }
