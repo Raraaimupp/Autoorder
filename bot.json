@@ -5559,6 +5559,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 10.39.11",
       "last_start": "Selasa, 12 Mei 2026 pukul 10.39.11",
       "total_start": 1
+    },
+    {
+      "id": "8369377428",
+      "username": "@ElTzyy8",
+      "name": "EL TZY",
+      "first_start": "Selasa, 12 Mei 2026 pukul 10.43.30",
+      "last_start": "Selasa, 12 Mei 2026 pukul 10.43.30",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5593,8 +5601,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1218,
-  "total_users": 695,
+  "total_start": 1219,
+  "total_users": 696,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 10.42.00"
+  "last_update": "Selasa, 12 Mei 2026 pukul 10.43.30"
 }
