@@ -5543,6 +5543,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 08.48.01",
       "last_start": "Selasa, 12 Mei 2026 pukul 08.48.01",
       "total_start": 1
+    },
+    {
+      "id": "1017535810",
+      "username": "@FathirDevZx",
+      "name": "𝐀𝐱𝐑 || 𝗙𝗮𝘁𝗵𝗶𝗿𝗗𝗲𝘃𝗭𝘅?",
+      "first_start": "Selasa, 12 Mei 2026 pukul 10.28.53",
+      "last_start": "Selasa, 12 Mei 2026 pukul 10.28.53",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5577,8 +5585,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1216,
-  "total_users": 693,
+  "total_start": 1217,
+  "total_users": 694,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 10.28.41"
+  "last_update": "Selasa, 12 Mei 2026 pukul 10.28.53"
 }
