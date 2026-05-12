@@ -5503,6 +5503,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 06.53.26",
       "last_start": "Selasa, 12 Mei 2026 pukul 06.53.26",
       "total_start": 1
+    },
+    {
+      "id": "8592686540",
+      "username": "Tidak ada",
+      "name": "𝐘𝐔𝐊𝐀 ᴀxɪᴀᴛᴀ",
+      "first_start": "Selasa, 12 Mei 2026 pukul 07.29.37",
+      "last_start": "Selasa, 12 Mei 2026 pukul 07.29.37",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5537,8 +5545,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1208,
-  "total_users": 688,
+  "total_start": 1209,
+  "total_users": 689,
   "total_groups": 6,
-  "last_update": "Selasa, 12 Mei 2026 pukul 07.19.11"
+  "last_update": "Selasa, 12 Mei 2026 pukul 07.29.37"
 }
