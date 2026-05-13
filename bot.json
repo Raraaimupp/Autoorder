@@ -5743,6 +5743,14 @@
       "first_start": "Rabu, 13 Mei 2026 pukul 21.46.29",
       "last_start": "Rabu, 13 Mei 2026 pukul 21.47.28",
       "total_start": 3
+    },
+    {
+      "id": "7822140116",
+      "username": "@fackrenalll",
+      "name": "@renalfack",
+      "first_start": "Rabu, 13 Mei 2026 pukul 22.03.23",
+      "last_start": "Rabu, 13 Mei 2026 pukul 22.03.23",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5777,8 +5785,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1274,
-  "total_users": 718,
+  "total_start": 1275,
+  "total_users": 719,
   "total_groups": 6,
-  "last_update": "Rabu, 13 Mei 2026 pukul 22.02.52"
+  "last_update": "Rabu, 13 Mei 2026 pukul 22.03.23"
 }
