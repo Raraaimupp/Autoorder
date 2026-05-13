@@ -5751,6 +5751,14 @@
       "first_start": "Rabu, 13 Mei 2026 pukul 22.03.23",
       "last_start": "Rabu, 13 Mei 2026 pukul 22.03.23",
       "total_start": 1
+    },
+    {
+      "id": "7434702860",
+      "username": "@SILENTHERE001",
+      "name": "XxSilent!!",
+      "first_start": "Rabu, 13 Mei 2026 pukul 22.08.11",
+      "last_start": "Rabu, 13 Mei 2026 pukul 22.08.11",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5785,8 +5793,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1275,
-  "total_users": 719,
+  "total_start": 1276,
+  "total_users": 720,
   "total_groups": 6,
-  "last_update": "Rabu, 13 Mei 2026 pukul 22.07.55"
+  "last_update": "Rabu, 13 Mei 2026 pukul 22.08.11"
 }
