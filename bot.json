@@ -5759,6 +5759,14 @@
       "first_start": "Rabu, 13 Mei 2026 pukul 22.08.11",
       "last_start": "Rabu, 13 Mei 2026 pukul 22.09.09",
       "total_start": 2
+    },
+    {
+      "id": "8134249886",
+      "username": "@LIUSJUALAPKBUGBUYPV",
+      "name": "LIUS STORE",
+      "first_start": "Rabu, 13 Mei 2026 pukul 23.16.35",
+      "last_start": "Rabu, 13 Mei 2026 pukul 23.16.35",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5793,8 +5801,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1278,
-  "total_users": 720,
+  "total_start": 1279,
+  "total_users": 721,
   "total_groups": 6,
-  "last_update": "Rabu, 13 Mei 2026 pukul 23.12.57"
+  "last_update": "Rabu, 13 Mei 2026 pukul 23.16.35"
 }
