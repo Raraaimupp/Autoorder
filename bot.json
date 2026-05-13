@@ -5703,6 +5703,14 @@
       "first_start": "Rabu, 13 Mei 2026 pukul 17.51.44",
       "last_start": "Rabu, 13 Mei 2026 pukul 17.51.44",
       "total_start": 1
+    },
+    {
+      "id": "8516926902",
+      "username": "@ebilstore",
+      "name": "EBIL STORE",
+      "first_start": "Rabu, 13 Mei 2026 pukul 20.32.58",
+      "last_start": "Rabu, 13 Mei 2026 pukul 20.32.58",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5737,8 +5745,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1257,
-  "total_users": 713,
+  "total_start": 1258,
+  "total_users": 714,
   "total_groups": 6,
-  "last_update": "Rabu, 13 Mei 2026 pukul 20.32.17"
+  "last_update": "Rabu, 13 Mei 2026 pukul 20.32.58"
 }
