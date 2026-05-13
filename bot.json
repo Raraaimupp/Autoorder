@@ -5671,6 +5671,14 @@
       "first_start": "Selasa, 12 Mei 2026 pukul 21.42.25",
       "last_start": "Selasa, 12 Mei 2026 pukul 21.42.25",
       "total_start": 1
+    },
+    {
+      "id": "7341772605",
+      "username": "@kamieellllll",
+      "name": "Kamieellllll",
+      "first_start": "Rabu, 13 Mei 2026 pukul 10.55.25",
+      "last_start": "Rabu, 13 Mei 2026 pukul 10.55.25",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5705,8 +5713,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1247,
-  "total_users": 709,
+  "total_start": 1248,
+  "total_users": 710,
   "total_groups": 6,
-  "last_update": "Rabu, 13 Mei 2026 pukul 10.54.25"
+  "last_update": "Rabu, 13 Mei 2026 pukul 10.55.25"
 }
