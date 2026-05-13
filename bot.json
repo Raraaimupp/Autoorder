@@ -5679,6 +5679,14 @@
       "first_start": "Rabu, 13 Mei 2026 pukul 10.55.25",
       "last_start": "Rabu, 13 Mei 2026 pukul 10.55.25",
       "total_start": 1
+    },
+    {
+      "id": "1600878281",
+      "username": "@Palsreal",
+      "name": "Pall #rxcy",
+      "first_start": "Rabu, 13 Mei 2026 pukul 11.00.17",
+      "last_start": "Rabu, 13 Mei 2026 pukul 11.00.17",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5713,8 +5721,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1249,
-  "total_users": 710,
+  "total_start": 1250,
+  "total_users": 711,
   "total_groups": 6,
-  "last_update": "Rabu, 13 Mei 2026 pukul 10.59.56"
+  "last_update": "Rabu, 13 Mei 2026 pukul 11.00.17"
 }
