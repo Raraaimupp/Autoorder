@@ -5727,6 +5727,14 @@
       "first_start": "Rabu, 13 Mei 2026 pukul 21.39.17",
       "last_start": "Rabu, 13 Mei 2026 pukul 21.39.17",
       "total_start": 1
+    },
+    {
+      "id": "8425174531",
+      "username": "@Skyzxclz",
+      "name": "Skyz [open murbug]",
+      "first_start": "Rabu, 13 Mei 2026 pukul 21.45.06",
+      "last_start": "Rabu, 13 Mei 2026 pukul 21.45.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5761,8 +5769,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1265,
-  "total_users": 716,
+  "total_start": 1266,
+  "total_users": 717,
   "total_groups": 6,
-  "last_update": "Rabu, 13 Mei 2026 pukul 21.44.13"
+  "last_update": "Rabu, 13 Mei 2026 pukul 21.45.06"
 }
