@@ -5719,6 +5719,14 @@
       "first_start": "Rabu, 13 Mei 2026 pukul 21.14.45",
       "last_start": "Rabu, 13 Mei 2026 pukul 21.14.45",
       "total_start": 1
+    },
+    {
+      "id": "7776684288",
+      "username": "@Nnalith",
+      "name": "𝙋𝙝𝙮𝙣𝙖𝙡𝙞𝙩𝙝ˣ¿",
+      "first_start": "Rabu, 13 Mei 2026 pukul 21.39.17",
+      "last_start": "Rabu, 13 Mei 2026 pukul 21.39.17",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5753,8 +5761,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1264,
-  "total_users": 715,
+  "total_start": 1265,
+  "total_users": 716,
   "total_groups": 6,
-  "last_update": "Rabu, 13 Mei 2026 pukul 21.38.47"
+  "last_update": "Rabu, 13 Mei 2026 pukul 21.39.17"
 }
