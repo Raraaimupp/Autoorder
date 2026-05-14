@@ -5839,6 +5839,14 @@
       "first_start": "Kamis, 14 Mei 2026 pukul 07.40.53",
       "last_start": "Kamis, 14 Mei 2026 pukul 07.40.53",
       "total_start": 1
+    },
+    {
+      "id": "8673325654",
+      "username": "Tidak ada",
+      "name": "konrol",
+      "first_start": "Kamis, 14 Mei 2026 pukul 07.41.26",
+      "last_start": "Kamis, 14 Mei 2026 pukul 07.41.26",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5873,8 +5881,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1301,
-  "total_users": 730,
+  "total_start": 1302,
+  "total_users": 731,
   "total_groups": 6,
-  "last_update": "Kamis, 14 Mei 2026 pukul 07.40.53"
+  "last_update": "Kamis, 14 Mei 2026 pukul 07.41.26"
 }
