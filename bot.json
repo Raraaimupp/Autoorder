@@ -5943,6 +5943,14 @@
       "first_start": "Kamis, 14 Mei 2026 pukul 14.48.17",
       "last_start": "Kamis, 14 Mei 2026 pukul 14.48.17",
       "total_start": 1
+    },
+    {
+      "id": "7614069162",
+      "username": "@laiqxX",
+      "name": "— 𝖪𝖾𝗉𝖺𝖽𝖺 𝖸𝗍𝗁,𝗅𝖺𝗂𝗊19",
+      "first_start": "Kamis, 14 Mei 2026 pukul 15.04.26",
+      "last_start": "Kamis, 14 Mei 2026 pukul 15.04.26",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5977,8 +5985,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1329,
-  "total_users": 743,
+  "total_start": 1330,
+  "total_users": 744,
   "total_groups": 6,
-  "last_update": "Kamis, 14 Mei 2026 pukul 15.03.57"
+  "last_update": "Kamis, 14 Mei 2026 pukul 15.04.26"
 }
