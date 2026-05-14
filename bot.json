@@ -5855,6 +5855,14 @@
       "first_start": "Kamis, 14 Mei 2026 pukul 08.38.45",
       "last_start": "Kamis, 14 Mei 2026 pukul 08.38.45",
       "total_start": 1
+    },
+    {
+      "id": "8726529450",
+      "username": "@xioImmortall",
+      "name": "xio",
+      "first_start": "Kamis, 14 Mei 2026 pukul 08.41.52",
+      "last_start": "Kamis, 14 Mei 2026 pukul 08.41.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5889,8 +5897,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1307,
-  "total_users": 732,
+  "total_start": 1308,
+  "total_users": 733,
   "total_groups": 6,
-  "last_update": "Kamis, 14 Mei 2026 pukul 08.41.39"
+  "last_update": "Kamis, 14 Mei 2026 pukul 08.41.52"
 }
