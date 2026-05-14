@@ -5983,6 +5983,14 @@
       "first_start": "Kamis, 14 Mei 2026 pukul 17.48.07",
       "last_start": "Kamis, 14 Mei 2026 pukul 17.48.07",
       "total_start": 1
+    },
+    {
+      "id": "1319372628",
+      "username": "@barzsync",
+      "name": "𝑷𝒓𝒊𝒏𝒄𝒆 𝑩𝒂𝒓",
+      "first_start": "Kamis, 14 Mei 2026 pukul 18.47.38",
+      "last_start": "Kamis, 14 Mei 2026 pukul 18.47.38",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6017,8 +6025,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1339,
-  "total_users": 748,
+  "total_start": 1340,
+  "total_users": 749,
   "total_groups": 6,
-  "last_update": "Kamis, 14 Mei 2026 pukul 18.47.20"
+  "last_update": "Kamis, 14 Mei 2026 pukul 18.47.38"
 }
