@@ -5887,6 +5887,14 @@
       "first_start": "Kamis, 14 Mei 2026 pukul 10.53.28",
       "last_start": "Kamis, 14 Mei 2026 pukul 10.53.28",
       "total_start": 1
+    },
+    {
+      "id": "1653901798",
+      "username": "@KingBaut",
+      "name": "ᯓ𝐊𝐢𝐧𝐠𝐁𝐚𝐮𝐭 𝐓𝟓",
+      "first_start": "Kamis, 14 Mei 2026 pukul 11.02.40",
+      "last_start": "Kamis, 14 Mei 2026 pukul 11.02.40",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5921,8 +5929,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1320,
-  "total_users": 736,
+  "total_start": 1321,
+  "total_users": 737,
   "total_groups": 6,
-  "last_update": "Kamis, 14 Mei 2026 pukul 11.02.27"
+  "last_update": "Kamis, 14 Mei 2026 pukul 11.02.40"
 }
