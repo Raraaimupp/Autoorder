@@ -6047,6 +6047,14 @@
       "first_start": "Jumat, 15 Mei 2026 pukul 01.39.15",
       "last_start": "Jumat, 15 Mei 2026 pukul 01.42.59",
       "total_start": 3
+    },
+    {
+      "id": "7972777829",
+      "username": "Tidak ada",
+      "name": "Denu Denu",
+      "first_start": "Jumat, 15 Mei 2026 pukul 03.41.37",
+      "last_start": "Jumat, 15 Mei 2026 pukul 03.41.37",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6081,8 +6089,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1360,
-  "total_users": 756,
+  "total_start": 1361,
+  "total_users": 757,
   "total_groups": 6,
-  "last_update": "Jumat, 15 Mei 2026 pukul 03.39.57"
+  "last_update": "Jumat, 15 Mei 2026 pukul 03.41.37"
 }
