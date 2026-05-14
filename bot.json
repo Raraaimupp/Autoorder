@@ -6055,6 +6055,14 @@
       "first_start": "Jumat, 15 Mei 2026 pukul 03.41.37",
       "last_start": "Jumat, 15 Mei 2026 pukul 03.41.37",
       "total_start": 1
+    },
+    {
+      "id": "8465048519",
+      "username": "@Zetsu_sensei",
+      "name": "Zetsu_sensei",
+      "first_start": "Jumat, 15 Mei 2026 pukul 03.55.20",
+      "last_start": "Jumat, 15 Mei 2026 pukul 03.55.20",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6089,8 +6097,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1361,
-  "total_users": 757,
+  "total_start": 1362,
+  "total_users": 758,
   "total_groups": 6,
-  "last_update": "Jumat, 15 Mei 2026 pukul 03.41.37"
+  "last_update": "Jumat, 15 Mei 2026 pukul 03.55.20"
 }
