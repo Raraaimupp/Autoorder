@@ -6039,6 +6039,14 @@
       "first_start": "Jumat, 15 Mei 2026 pukul 00.53.38",
       "last_start": "Jumat, 15 Mei 2026 pukul 00.53.38",
       "total_start": 1
+    },
+    {
+      "id": "6838566032",
+      "username": "@HLh178",
+      "name": "SAO :)",
+      "first_start": "Jumat, 15 Mei 2026 pukul 01.39.15",
+      "last_start": "Jumat, 15 Mei 2026 pukul 01.39.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6073,8 +6081,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1357,
-  "total_users": 755,
+  "total_start": 1358,
+  "total_users": 756,
   "total_groups": 6,
-  "last_update": "Jumat, 15 Mei 2026 pukul 01.38.04"
+  "last_update": "Jumat, 15 Mei 2026 pukul 01.39.15"
 }
