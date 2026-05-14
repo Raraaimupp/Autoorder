@@ -5879,6 +5879,14 @@
       "first_start": "Kamis, 14 Mei 2026 pukul 09.46.39",
       "last_start": "Kamis, 14 Mei 2026 pukul 09.46.39",
       "total_start": 1
+    },
+    {
+      "id": "7540548298",
+      "username": "@esegedeqa",
+      "name": "DOO",
+      "first_start": "Kamis, 14 Mei 2026 pukul 10.53.28",
+      "last_start": "Kamis, 14 Mei 2026 pukul 10.53.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5913,8 +5921,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1319,
-  "total_users": 735,
+  "total_start": 1320,
+  "total_users": 736,
   "total_groups": 6,
-  "last_update": "Kamis, 14 Mei 2026 pukul 10.52.47"
+  "last_update": "Kamis, 14 Mei 2026 pukul 10.53.28"
 }
