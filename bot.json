@@ -6007,6 +6007,14 @@
       "first_start": "Kamis, 14 Mei 2026 pukul 22.57.13",
       "last_start": "Kamis, 14 Mei 2026 pukul 22.58.25",
       "total_start": 3
+    },
+    {
+      "id": "7825570488",
+      "username": "@ndx2806",
+      "name": "YouKnowNandx?",
+      "first_start": "Kamis, 14 Mei 2026 pukul 22.59.16",
+      "last_start": "Kamis, 14 Mei 2026 pukul 22.59.16",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6041,8 +6049,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1352,
-  "total_users": 751,
+  "total_start": 1353,
+  "total_users": 752,
   "total_groups": 6,
-  "last_update": "Kamis, 14 Mei 2026 pukul 22.58.25"
+  "last_update": "Kamis, 14 Mei 2026 pukul 22.59.16"
 }
