@@ -5863,6 +5863,14 @@
       "first_start": "Kamis, 14 Mei 2026 pukul 08.41.52",
       "last_start": "Kamis, 14 Mei 2026 pukul 08.41.52",
       "total_start": 1
+    },
+    {
+      "id": "8533344903",
+      "username": "@BayStur",
+      "name": "⏤͟͟͞͞𝐀𝐅 || BAY",
+      "first_start": "Kamis, 14 Mei 2026 pukul 09.02.50",
+      "last_start": "Kamis, 14 Mei 2026 pukul 09.02.50",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -5897,8 +5905,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1312,
-  "total_users": 733,
+  "total_start": 1313,
+  "total_users": 734,
   "total_groups": 6,
-  "last_update": "Kamis, 14 Mei 2026 pukul 09.01.58"
+  "last_update": "Kamis, 14 Mei 2026 pukul 09.02.50"
 }
