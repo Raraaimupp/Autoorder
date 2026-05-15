@@ -6111,6 +6111,14 @@
       "first_start": "Jumat, 15 Mei 2026 pukul 09.33.54",
       "last_start": "Jumat, 15 Mei 2026 pukul 09.33.54",
       "total_start": 1
+    },
+    {
+      "id": "7608765943",
+      "username": "@imwanzie",
+      "name": "wanzieMahjong",
+      "first_start": "Jumat, 15 Mei 2026 pukul 10.37.44",
+      "last_start": "Jumat, 15 Mei 2026 pukul 10.37.44",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6145,8 +6153,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1374,
-  "total_users": 764,
+  "total_start": 1375,
+  "total_users": 765,
   "total_groups": 6,
-  "last_update": "Jumat, 15 Mei 2026 pukul 10.37.02"
+  "last_update": "Jumat, 15 Mei 2026 pukul 10.37.44"
 }
