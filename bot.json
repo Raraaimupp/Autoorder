@@ -6103,6 +6103,14 @@
       "first_start": "Jumat, 15 Mei 2026 pukul 09.33.25",
       "last_start": "Jumat, 15 Mei 2026 pukul 09.33.25",
       "total_start": 1
+    },
+    {
+      "id": "8643991592",
+      "username": "@Zamxyznotdev",
+      "name": "Zamxyznotdev",
+      "first_start": "Jumat, 15 Mei 2026 pukul 09.33.54",
+      "last_start": "Jumat, 15 Mei 2026 pukul 09.33.54",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6137,8 +6145,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1372,
-  "total_users": 763,
+  "total_start": 1373,
+  "total_users": 764,
   "total_groups": 6,
-  "last_update": "Jumat, 15 Mei 2026 pukul 09.33.25"
+  "last_update": "Jumat, 15 Mei 2026 pukul 09.33.54"
 }
