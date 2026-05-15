@@ -6215,6 +6215,14 @@
       "first_start": "Jumat, 15 Mei 2026 pukul 22.43.20",
       "last_start": "Jumat, 15 Mei 2026 pukul 22.43.20",
       "total_start": 1
+    },
+    {
+      "id": "6227337254",
+      "username": "@Reyystecu",
+      "name": "Reyy",
+      "first_start": "Sabtu, 16 Mei 2026 pukul 00.52.48",
+      "last_start": "Sabtu, 16 Mei 2026 pukul 00.52.48",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6249,8 +6257,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1418,
-  "total_users": 777,
+  "total_start": 1419,
+  "total_users": 778,
   "total_groups": 6,
-  "last_update": "Sabtu, 16 Mei 2026 pukul 00.50.04"
+  "last_update": "Sabtu, 16 Mei 2026 pukul 00.52.48"
 }
