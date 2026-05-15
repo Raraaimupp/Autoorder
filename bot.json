@@ -6231,6 +6231,14 @@
       "first_start": "Sabtu, 16 Mei 2026 pukul 01.01.51",
       "last_start": "Sabtu, 16 Mei 2026 pukul 01.01.51",
       "total_start": 1
+    },
+    {
+      "id": "8925941021",
+      "username": "Tidak ada",
+      "name": "Miqzz MiZz",
+      "first_start": "Sabtu, 16 Mei 2026 pukul 01.32.42",
+      "last_start": "Sabtu, 16 Mei 2026 pukul 01.32.42",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6265,8 +6273,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1421,
-  "total_users": 779,
+  "total_start": 1422,
+  "total_users": 780,
   "total_groups": 6,
-  "last_update": "Sabtu, 16 Mei 2026 pukul 01.32.32"
+  "last_update": "Sabtu, 16 Mei 2026 pukul 01.32.42"
 }
