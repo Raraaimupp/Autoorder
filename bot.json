@@ -6255,6 +6255,14 @@
       "first_start": "Sabtu, 16 Mei 2026 pukul 08.45.17",
       "last_start": "Sabtu, 16 Mei 2026 pukul 08.45.17",
       "total_start": 1
+    },
+    {
+      "id": "5802671467",
+      "username": "@kuylamabro",
+      "name": "ELUMI",
+      "first_start": "Sabtu, 16 Mei 2026 pukul 08.55.30",
+      "last_start": "Sabtu, 16 Mei 2026 pukul 08.55.30",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6289,8 +6297,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1437,
-  "total_users": 782,
+  "total_start": 1438,
+  "total_users": 783,
   "total_groups": 6,
-  "last_update": "Sabtu, 16 Mei 2026 pukul 08.54.50"
+  "last_update": "Sabtu, 16 Mei 2026 pukul 08.55.30"
 }
