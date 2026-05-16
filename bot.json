@@ -6271,6 +6271,14 @@
       "first_start": "Sabtu, 16 Mei 2026 pukul 10.42.13",
       "last_start": "Sabtu, 16 Mei 2026 pukul 10.43.35",
       "total_start": 2
+    },
+    {
+      "id": "7261475546",
+      "username": "@reallkey",
+      "name": "ᴋᴇʏ ꜱɪxᴄᴏʀᴇ 🥇",
+      "first_start": "Sabtu, 16 Mei 2026 pukul 10.53.24",
+      "last_start": "Sabtu, 16 Mei 2026 pukul 10.53.24",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6305,8 +6313,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1443,
-  "total_users": 784,
+  "total_start": 1444,
+  "total_users": 785,
   "total_groups": 6,
-  "last_update": "Sabtu, 16 Mei 2026 pukul 10.51.59"
+  "last_update": "Sabtu, 16 Mei 2026 pukul 10.53.24"
 }
