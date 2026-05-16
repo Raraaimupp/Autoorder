@@ -6407,6 +6407,14 @@
       "first_start": "Minggu, 17 Mei 2026 pukul 03.09.46",
       "last_start": "Minggu, 17 Mei 2026 pukul 03.09.46",
       "total_start": 1
+    },
+    {
+      "id": "8378628485",
+      "username": "@kallgntngbgt",
+      "name": "𝐊𝐀𝐋𝐋 𝐓𝟓",
+      "first_start": "Minggu, 17 Mei 2026 pukul 04.13.27",
+      "last_start": "Minggu, 17 Mei 2026 pukul 04.13.27",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6441,8 +6449,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1506,
-  "total_users": 801,
+  "total_start": 1507,
+  "total_users": 802,
   "total_groups": 6,
-  "last_update": "Minggu, 17 Mei 2026 pukul 04.09.06"
+  "last_update": "Minggu, 17 Mei 2026 pukul 04.13.27"
 }
