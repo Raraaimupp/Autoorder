@@ -6295,6 +6295,14 @@
       "first_start": "Sabtu, 16 Mei 2026 pukul 13.44.10",
       "last_start": "Sabtu, 16 Mei 2026 pukul 13.44.10",
       "total_start": 1
+    },
+    {
+      "id": "8603760269",
+      "username": "@Ewean133",
+      "name": "Rawr",
+      "first_start": "Sabtu, 16 Mei 2026 pukul 14.54.18",
+      "last_start": "Sabtu, 16 Mei 2026 pukul 14.54.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6329,8 +6337,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1456,
-  "total_users": 787,
+  "total_start": 1457,
+  "total_users": 788,
   "total_groups": 6,
-  "last_update": "Sabtu, 16 Mei 2026 pukul 14.53.19"
+  "last_update": "Sabtu, 16 Mei 2026 pukul 14.54.18"
 }
