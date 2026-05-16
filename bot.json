@@ -6439,6 +6439,14 @@
       "first_start": "Minggu, 17 Mei 2026 pukul 06.01.54",
       "last_start": "Minggu, 17 Mei 2026 pukul 06.01.54",
       "total_start": 1
+    },
+    {
+      "id": "8647203834",
+      "username": "@Mail0976",
+      "name": "Mail INDO",
+      "first_start": "Minggu, 17 Mei 2026 pukul 06.03.08",
+      "last_start": "Minggu, 17 Mei 2026 pukul 06.03.08",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6473,8 +6481,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1514,
-  "total_users": 805,
+  "total_start": 1515,
+  "total_users": 806,
   "total_groups": 6,
-  "last_update": "Minggu, 17 Mei 2026 pukul 06.01.54"
+  "last_update": "Minggu, 17 Mei 2026 pukul 06.03.08"
 }
