@@ -6263,6 +6263,14 @@
       "first_start": "Sabtu, 16 Mei 2026 pukul 08.55.30",
       "last_start": "Sabtu, 16 Mei 2026 pukul 08.55.30",
       "total_start": 1
+    },
+    {
+      "id": "1482007718",
+      "username": "@sanzycuek",
+      "name": "SANZY T5",
+      "first_start": "Sabtu, 16 Mei 2026 pukul 10.42.13",
+      "last_start": "Sabtu, 16 Mei 2026 pukul 10.42.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6297,8 +6305,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1439,
-  "total_users": 783,
+  "total_start": 1440,
+  "total_users": 784,
   "total_groups": 6,
-  "last_update": "Sabtu, 16 Mei 2026 pukul 10.35.52"
+  "last_update": "Sabtu, 16 Mei 2026 pukul 10.42.13"
 }
