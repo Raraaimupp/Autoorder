@@ -6303,6 +6303,14 @@
       "first_start": "Sabtu, 16 Mei 2026 pukul 14.54.18",
       "last_start": "Sabtu, 16 Mei 2026 pukul 14.54.18",
       "total_start": 1
+    },
+    {
+      "id": "8042283143",
+      "username": "@itsmehrvndhsfaa",
+      "name": "hervnsfaa",
+      "first_start": "Sabtu, 16 Mei 2026 pukul 15.59.08",
+      "last_start": "Sabtu, 16 Mei 2026 pukul 15.59.08",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6337,8 +6345,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1462,
-  "total_users": 788,
+  "total_start": 1463,
+  "total_users": 789,
   "total_groups": 6,
-  "last_update": "Sabtu, 16 Mei 2026 pukul 15.57.36"
+  "last_update": "Sabtu, 16 Mei 2026 pukul 15.59.08"
 }
