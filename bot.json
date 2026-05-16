@@ -6367,6 +6367,14 @@
       "first_start": "Sabtu, 16 Mei 2026 pukul 22.08.04",
       "last_start": "Sabtu, 16 Mei 2026 pukul 22.08.04",
       "total_start": 1
+    },
+    {
+      "id": "7092167015",
+      "username": "@rimbb",
+      "name": "moch biq",
+      "first_start": "Sabtu, 16 Mei 2026 pukul 22.37.21",
+      "last_start": "Sabtu, 16 Mei 2026 pukul 22.37.21",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6401,8 +6409,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1488,
-  "total_users": 796,
+  "total_start": 1489,
+  "total_users": 797,
   "total_groups": 6,
-  "last_update": "Sabtu, 16 Mei 2026 pukul 22.10.39"
+  "last_update": "Sabtu, 16 Mei 2026 pukul 22.37.21"
 }
