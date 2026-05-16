@@ -6311,6 +6311,14 @@
       "first_start": "Sabtu, 16 Mei 2026 pukul 15.59.08",
       "last_start": "Sabtu, 16 Mei 2026 pukul 16.01.37",
       "total_start": 2
+    },
+    {
+      "id": "8667398606",
+      "username": "Tidak ada",
+      "name": "Robusta",
+      "first_start": "Sabtu, 16 Mei 2026 pukul 17.51.20",
+      "last_start": "Sabtu, 16 Mei 2026 pukul 17.51.20",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6345,8 +6353,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1471,
-  "total_users": 789,
+  "total_start": 1472,
+  "total_users": 790,
   "total_groups": 6,
-  "last_update": "Sabtu, 16 Mei 2026 pukul 17.50.53"
+  "last_update": "Sabtu, 16 Mei 2026 pukul 17.51.20"
 }
