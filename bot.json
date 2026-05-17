@@ -6543,10 +6543,15 @@
       "id": "-1003580624171",
       "title": "RESELLER MULTI SERVER VIP",
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
+    },
+    {
+      "id": "-5167896382",
+      "title": "Bot",
+      "first_detected": "Minggu, 17 Mei 2026 pukul 13.41.52"
     }
   ],
   "total_start": 1533,
   "total_users": 814,
-  "total_groups": 6,
-  "last_update": "Minggu, 17 Mei 2026 pukul 13.41.43"
+  "total_groups": 7,
+  "last_update": "Minggu, 17 Mei 2026 pukul 13.41.52"
 }
