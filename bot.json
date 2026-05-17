@@ -6479,6 +6479,14 @@
       "first_start": "Minggu, 17 Mei 2026 pukul 11.34.56",
       "last_start": "Minggu, 17 Mei 2026 pukul 11.34.56",
       "total_start": 1
+    },
+    {
+      "id": "8384522960",
+      "username": "@xsat10",
+      "name": "黄昏 『XSAT』",
+      "first_start": "Minggu, 17 Mei 2026 pukul 11.35.27",
+      "last_start": "Minggu, 17 Mei 2026 pukul 11.35.27",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6513,8 +6521,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1523,
-  "total_users": 810,
+  "total_start": 1524,
+  "total_users": 811,
   "total_groups": 6,
-  "last_update": "Minggu, 17 Mei 2026 pukul 11.34.56"
+  "last_update": "Minggu, 17 Mei 2026 pukul 11.35.27"
 }
