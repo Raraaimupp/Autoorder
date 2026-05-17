@@ -6495,6 +6495,14 @@
       "first_start": "Minggu, 17 Mei 2026 pukul 11.44.17",
       "last_start": "Minggu, 17 Mei 2026 pukul 11.44.17",
       "total_start": 1
+    },
+    {
+      "id": "7683704920",
+      "username": "@Dikzgpp",
+      "name": "𝔇𝔦𝔨𝔷 𝔩𝔲 𝔤𝔭𝔭?",
+      "first_start": "Minggu, 17 Mei 2026 pukul 13.35.55",
+      "last_start": "Minggu, 17 Mei 2026 pukul 13.35.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6529,8 +6537,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1531,
-  "total_users": 812,
+  "total_start": 1532,
+  "total_users": 813,
   "total_groups": 6,
-  "last_update": "Minggu, 17 Mei 2026 pukul 13.15.11"
+  "last_update": "Minggu, 17 Mei 2026 pukul 13.35.55"
 }
