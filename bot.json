@@ -6575,6 +6575,14 @@
       "first_start": "Minggu, 17 Mei 2026 pukul 19.49.03",
       "last_start": "Minggu, 17 Mei 2026 pukul 19.49.03",
       "total_start": 1
+    },
+    {
+      "id": "8646443700",
+      "username": "Tidak ada",
+      "name": "ANGGA",
+      "first_start": "Minggu, 17 Mei 2026 pukul 20.14.54",
+      "last_start": "Minggu, 17 Mei 2026 pukul 20.14.54",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6619,8 +6627,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1551,
-  "total_users": 822,
+  "total_start": 1552,
+  "total_users": 823,
   "total_groups": 8,
-  "last_update": "Minggu, 17 Mei 2026 pukul 20.11.24"
+  "last_update": "Minggu, 17 Mei 2026 pukul 20.14.54"
 }
