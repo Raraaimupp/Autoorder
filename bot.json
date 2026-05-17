@@ -6607,6 +6607,14 @@
       "first_start": "Minggu, 17 Mei 2026 pukul 22.07.29",
       "last_start": "Minggu, 17 Mei 2026 pukul 22.07.29",
       "total_start": 1
+    },
+    {
+      "id": "5369933665",
+      "username": "@Sheikhahand",
+      "name": "anarul sekh",
+      "first_start": "Minggu, 17 Mei 2026 pukul 23.01.52",
+      "last_start": "Minggu, 17 Mei 2026 pukul 23.01.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6651,8 +6659,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1558,
-  "total_users": 826,
+  "total_start": 1559,
+  "total_users": 827,
   "total_groups": 8,
-  "last_update": "Minggu, 17 Mei 2026 pukul 22.57.42"
+  "last_update": "Minggu, 17 Mei 2026 pukul 23.01.52"
 }
