@@ -6567,6 +6567,14 @@
       "first_start": "Minggu, 17 Mei 2026 pukul 19.46.34",
       "last_start": "Minggu, 17 Mei 2026 pukul 19.46.34",
       "total_start": 1
+    },
+    {
+      "id": "7617054102",
+      "username": "@TobatJagakata2",
+      "name": "El klarifikasi",
+      "first_start": "Minggu, 17 Mei 2026 pukul 19.49.03",
+      "last_start": "Minggu, 17 Mei 2026 pukul 19.49.03",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6611,8 +6619,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1549,
-  "total_users": 821,
+  "total_start": 1550,
+  "total_users": 822,
   "total_groups": 8,
-  "last_update": "Minggu, 17 Mei 2026 pukul 19.46.34"
+  "last_update": "Minggu, 17 Mei 2026 pukul 19.49.03"
 }
