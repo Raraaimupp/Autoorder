@@ -6463,6 +6463,14 @@
       "first_start": "Minggu, 17 Mei 2026 pukul 07.49.54",
       "last_start": "Minggu, 17 Mei 2026 pukul 07.49.54",
       "total_start": 1
+    },
+    {
+      "id": "8145710296",
+      "username": "@ciyaaluvly",
+      "name": "cella",
+      "first_start": "Minggu, 17 Mei 2026 pukul 09.58.37",
+      "last_start": "Minggu, 17 Mei 2026 pukul 09.58.37",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6497,8 +6505,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1520,
-  "total_users": 808,
+  "total_start": 1521,
+  "total_users": 809,
   "total_groups": 6,
-  "last_update": "Minggu, 17 Mei 2026 pukul 09.58.00"
+  "last_update": "Minggu, 17 Mei 2026 pukul 09.58.37"
 }
