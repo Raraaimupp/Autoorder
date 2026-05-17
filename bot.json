@@ -6447,6 +6447,14 @@
       "first_start": "Minggu, 17 Mei 2026 pukul 06.03.08",
       "last_start": "Minggu, 17 Mei 2026 pukul 06.03.08",
       "total_start": 1
+    },
+    {
+      "id": "8064457975",
+      "username": "@HanyaManusiaBIASA123",
+      "name": ".",
+      "first_start": "Minggu, 17 Mei 2026 pukul 07.40.43",
+      "last_start": "Minggu, 17 Mei 2026 pukul 07.40.43",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6481,8 +6489,8 @@
       "first_detected": "Jumat, 1 Mei 2026 pukul 20.09.57"
     }
   ],
-  "total_start": 1516,
-  "total_users": 806,
+  "total_start": 1517,
+  "total_users": 807,
   "total_groups": 6,
-  "last_update": "Minggu, 17 Mei 2026 pukul 07.02.27"
+  "last_update": "Minggu, 17 Mei 2026 pukul 07.40.43"
 }
