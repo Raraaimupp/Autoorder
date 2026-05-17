@@ -6511,6 +6511,14 @@
       "first_start": "Minggu, 17 Mei 2026 pukul 13.41.27",
       "last_start": "Minggu, 17 Mei 2026 pukul 13.41.27",
       "total_start": 1
+    },
+    {
+      "id": "7399620169",
+      "username": "@Joybethoven",
+      "name": "Joy Joy",
+      "first_start": "Minggu, 17 Mei 2026 pukul 13.46.17",
+      "last_start": "Minggu, 17 Mei 2026 pukul 13.46.17",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6555,8 +6563,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1533,
-  "total_users": 814,
+  "total_start": 1534,
+  "total_users": 815,
   "total_groups": 8,
-  "last_update": "Minggu, 17 Mei 2026 pukul 13.44.01"
+  "last_update": "Minggu, 17 Mei 2026 pukul 13.46.17"
 }
