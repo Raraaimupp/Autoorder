@@ -6548,10 +6548,15 @@
       "id": "-5167896382",
       "title": "Bot",
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.41.52"
+    },
+    {
+      "id": "-1003733459067",
+      "title": "Bot",
+      "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
   "total_start": 1533,
   "total_users": 814,
-  "total_groups": 7,
-  "last_update": "Minggu, 17 Mei 2026 pukul 13.42.27"
+  "total_groups": 8,
+  "last_update": "Minggu, 17 Mei 2026 pukul 13.43.37"
 }
