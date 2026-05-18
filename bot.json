@@ -6703,6 +6703,14 @@
       "first_start": "Senin, 18 Mei 2026 pukul 14.52.24",
       "last_start": "Senin, 18 Mei 2026 pukul 14.52.24",
       "total_start": 1
+    },
+    {
+      "id": "7156283805",
+      "username": "@alzhsb",
+      "name": "alifiya zahra",
+      "first_start": "Senin, 18 Mei 2026 pukul 16.11.42",
+      "last_start": "Senin, 18 Mei 2026 pukul 16.11.42",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6747,8 +6755,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1579,
-  "total_users": 838,
+  "total_start": 1580,
+  "total_users": 839,
   "total_groups": 8,
-  "last_update": "Senin, 18 Mei 2026 pukul 16.11.15"
+  "last_update": "Senin, 18 Mei 2026 pukul 16.11.42"
 }
