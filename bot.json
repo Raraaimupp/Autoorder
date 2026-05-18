@@ -6791,6 +6791,14 @@
       "first_start": "Senin, 18 Mei 2026 pukul 23.49.24",
       "last_start": "Senin, 18 Mei 2026 pukul 23.49.24",
       "total_start": 1
+    },
+    {
+      "id": "5335770666",
+      "username": "Tidak ada",
+      "name": "Piki wahyudi",
+      "first_start": "Selasa, 19 Mei 2026 pukul 02.01.07",
+      "last_start": "Selasa, 19 Mei 2026 pukul 02.01.07",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6835,8 +6843,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1596,
-  "total_users": 849,
+  "total_start": 1597,
+  "total_users": 850,
   "total_groups": 8,
-  "last_update": "Selasa, 19 Mei 2026 pukul 02.00.35"
+  "last_update": "Selasa, 19 Mei 2026 pukul 02.01.07"
 }
