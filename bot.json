@@ -6719,6 +6719,14 @@
       "first_start": "Senin, 18 Mei 2026 pukul 16.34.01",
       "last_start": "Senin, 18 Mei 2026 pukul 16.34.01",
       "total_start": 1
+    },
+    {
+      "id": "8676194396",
+      "username": "@Elroytoye",
+      "name": "Roy",
+      "first_start": "Senin, 18 Mei 2026 pukul 19.37.04",
+      "last_start": "Senin, 18 Mei 2026 pukul 19.37.04",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6763,8 +6771,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1582,
-  "total_users": 840,
+  "total_start": 1583,
+  "total_users": 841,
   "total_groups": 8,
-  "last_update": "Senin, 18 Mei 2026 pukul 19.36.17"
+  "last_update": "Senin, 18 Mei 2026 pukul 19.37.04"
 }
