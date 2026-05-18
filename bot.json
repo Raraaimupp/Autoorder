@@ -6815,6 +6815,14 @@
       "first_start": "Selasa, 19 Mei 2026 pukul 04.41.51",
       "last_start": "Selasa, 19 Mei 2026 pukul 04.41.51",
       "total_start": 1
+    },
+    {
+      "id": "8236369161",
+      "username": "@kformjlwaliet",
+      "name": "Celtzy",
+      "first_start": "Selasa, 19 Mei 2026 pukul 05.48.41",
+      "last_start": "Selasa, 19 Mei 2026 pukul 05.48.41",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6859,8 +6867,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1599,
-  "total_users": 852,
+  "total_start": 1600,
+  "total_users": 853,
   "total_groups": 8,
-  "last_update": "Selasa, 19 Mei 2026 pukul 05.45.52"
+  "last_update": "Selasa, 19 Mei 2026 pukul 05.48.41"
 }
