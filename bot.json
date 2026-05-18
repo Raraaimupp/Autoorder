@@ -6775,6 +6775,14 @@
       "first_start": "Senin, 18 Mei 2026 pukul 22.06.55",
       "last_start": "Senin, 18 Mei 2026 pukul 22.06.55",
       "total_start": 1
+    },
+    {
+      "id": "8015308879",
+      "username": "@Sinandika",
+      "name": "eci",
+      "first_start": "Senin, 18 Mei 2026 pukul 23.41.58",
+      "last_start": "Senin, 18 Mei 2026 pukul 23.41.58",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6819,8 +6827,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1593,
-  "total_users": 847,
+  "total_start": 1594,
+  "total_users": 848,
   "total_groups": 8,
-  "last_update": "Senin, 18 Mei 2026 pukul 23.35.28"
+  "last_update": "Senin, 18 Mei 2026 pukul 23.41.58"
 }
