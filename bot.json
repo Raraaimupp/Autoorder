@@ -6735,6 +6735,14 @@
       "first_start": "Senin, 18 Mei 2026 pukul 20.02.41",
       "last_start": "Senin, 18 Mei 2026 pukul 20.02.41",
       "total_start": 1
+    },
+    {
+      "id": "7393678392",
+      "username": "@hsytpt",
+      "name": "𝓛",
+      "first_start": "Senin, 18 Mei 2026 pukul 20.19.42",
+      "last_start": "Senin, 18 Mei 2026 pukul 20.19.42",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6779,8 +6787,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1584,
-  "total_users": 842,
+  "total_start": 1585,
+  "total_users": 843,
   "total_groups": 8,
-  "last_update": "Senin, 18 Mei 2026 pukul 20.19.17"
+  "last_update": "Senin, 18 Mei 2026 pukul 20.19.42"
 }
