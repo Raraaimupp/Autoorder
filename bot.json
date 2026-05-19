@@ -6871,6 +6871,14 @@
       "first_start": "Selasa, 19 Mei 2026 pukul 12.26.45",
       "last_start": "Selasa, 19 Mei 2026 pukul 12.26.45",
       "total_start": 1
+    },
+    {
+      "id": "8395105302",
+      "username": "Tidak ada",
+      "name": "Permana",
+      "first_start": "Selasa, 19 Mei 2026 pukul 13.10.22",
+      "last_start": "Selasa, 19 Mei 2026 pukul 13.10.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6915,8 +6923,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1612,
-  "total_users": 859,
+  "total_start": 1613,
+  "total_users": 860,
   "total_groups": 8,
-  "last_update": "Selasa, 19 Mei 2026 pukul 13.10.03"
+  "last_update": "Selasa, 19 Mei 2026 pukul 13.10.22"
 }
