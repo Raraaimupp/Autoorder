@@ -6975,6 +6975,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 08.05.08",
       "last_start": "Rabu, 20 Mei 2026 pukul 08.05.08",
       "total_start": 1
+    },
+    {
+      "id": "5411621412",
+      "username": "@CzInvis",
+      "name": "𝕰𝕮𝖃𝖅𝖅 𝕹𝕺𝕯𝕰 𝕭𝕬𝕹𝕯",
+      "first_start": "Rabu, 20 Mei 2026 pukul 08.13.39",
+      "last_start": "Rabu, 20 Mei 2026 pukul 08.13.39",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7019,8 +7027,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1640,
-  "total_users": 872,
+  "total_start": 1641,
+  "total_users": 873,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 08.09.37"
+  "last_update": "Rabu, 20 Mei 2026 pukul 08.13.39"
 }
