@@ -7031,6 +7031,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 11.03.51",
       "last_start": "Rabu, 20 Mei 2026 pukul 11.03.51",
       "total_start": 1
+    },
+    {
+      "id": "7914297902",
+      "username": "Tidak ada",
+      "name": "Minzy",
+      "first_start": "Rabu, 20 Mei 2026 pukul 11.10.42",
+      "last_start": "Rabu, 20 Mei 2026 pukul 11.10.42",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7075,8 +7083,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1650,
-  "total_users": 879,
+  "total_start": 1651,
+  "total_users": 880,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 11.09.44"
+  "last_update": "Rabu, 20 Mei 2026 pukul 11.10.42"
 }
