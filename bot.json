@@ -6999,6 +6999,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 09.17.19",
       "last_start": "Rabu, 20 Mei 2026 pukul 09.17.19",
       "total_start": 1
+    },
+    {
+      "id": "6449349113",
+      "username": "@Aryagany",
+      "name": "Arya Ganyeng",
+      "first_start": "Rabu, 20 Mei 2026 pukul 09.45.03",
+      "last_start": "Rabu, 20 Mei 2026 pukul 09.45.03",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7043,8 +7051,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1646,
-  "total_users": 875,
+  "total_start": 1647,
+  "total_users": 876,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 09.44.49"
+  "last_update": "Rabu, 20 Mei 2026 pukul 09.45.03"
 }
