@@ -6943,6 +6943,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 07.07.36",
       "last_start": "Rabu, 20 Mei 2026 pukul 07.07.36",
       "total_start": 1
+    },
+    {
+      "id": "1216618750",
+      "username": "@cellojir",
+      "name": "̶c̶e̶l̶l̶o🇧🇷",
+      "first_start": "Rabu, 20 Mei 2026 pukul 07.10.10",
+      "last_start": "Rabu, 20 Mei 2026 pukul 07.10.10",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6987,8 +6995,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1634,
-  "total_users": 868,
+  "total_start": 1635,
+  "total_users": 869,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 07.09.23"
+  "last_update": "Rabu, 20 Mei 2026 pukul 07.10.10"
 }
