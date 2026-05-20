@@ -7135,6 +7135,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 18.41.04",
       "last_start": "Rabu, 20 Mei 2026 pukul 18.41.04",
       "total_start": 1
+    },
+    {
+      "id": "7850570374",
+      "username": "@chriswijayaa",
+      "name": "Chris Forgotten.",
+      "first_start": "Rabu, 20 Mei 2026 pukul 18.48.04",
+      "last_start": "Rabu, 20 Mei 2026 pukul 18.48.04",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7179,8 +7187,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1675,
-  "total_users": 892,
+  "total_start": 1676,
+  "total_users": 893,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 18.46.24"
+  "last_update": "Rabu, 20 Mei 2026 pukul 18.48.04"
 }
