@@ -7007,6 +7007,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 09.45.03",
       "last_start": "Rabu, 20 Mei 2026 pukul 09.45.03",
       "total_start": 1
+    },
+    {
+      "id": "6730409585",
+      "username": "@Yyoruka",
+      "name": "Yoruka Chann",
+      "first_start": "Rabu, 20 Mei 2026 pukul 10.35.14",
+      "last_start": "Rabu, 20 Mei 2026 pukul 10.35.14",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7051,8 +7059,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1647,
-  "total_users": 876,
+  "total_start": 1648,
+  "total_users": 877,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 10.16.53"
+  "last_update": "Rabu, 20 Mei 2026 pukul 10.35.14"
 }
