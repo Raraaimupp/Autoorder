@@ -6951,6 +6951,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 07.10.10",
       "last_start": "Rabu, 20 Mei 2026 pukul 07.10.10",
       "total_start": 1
+    },
+    {
+      "id": "7884386981",
+      "username": "@ciraghag",
+      "name": "pii",
+      "first_start": "Rabu, 20 Mei 2026 pukul 07.16.55",
+      "last_start": "Rabu, 20 Mei 2026 pukul 07.16.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6995,8 +7003,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1636,
-  "total_users": 869,
+  "total_start": 1637,
+  "total_users": 870,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 07.15.56"
+  "last_update": "Rabu, 20 Mei 2026 pukul 07.16.55"
 }
