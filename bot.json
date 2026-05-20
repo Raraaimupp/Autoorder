@@ -7191,6 +7191,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 22.50.05",
       "last_start": "Rabu, 20 Mei 2026 pukul 22.50.05",
       "total_start": 1
+    },
+    {
+      "id": "850538777",
+      "username": "@agenaspal",
+      "name": "𝘼𝙜𝙚𝙣 𝘼𝙨𝙥𝙖𝙡 ️🪪",
+      "first_start": "Kamis, 21 Mei 2026 pukul 00.40.06",
+      "last_start": "Kamis, 21 Mei 2026 pukul 00.40.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7235,8 +7243,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1686,
-  "total_users": 899,
+  "total_start": 1687,
+  "total_users": 900,
   "total_groups": 8,
-  "last_update": "Kamis, 21 Mei 2026 pukul 00.35.29"
+  "last_update": "Kamis, 21 Mei 2026 pukul 00.40.06"
 }
