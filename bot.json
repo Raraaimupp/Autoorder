@@ -7079,6 +7079,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 14.01.01",
       "last_start": "Rabu, 20 Mei 2026 pukul 14.01.24",
       "total_start": 2
+    },
+    {
+      "id": "8721170903",
+      "username": "Tidak ada",
+      "name": "yanto abrod",
+      "first_start": "Rabu, 20 Mei 2026 pukul 14.15.47",
+      "last_start": "Rabu, 20 Mei 2026 pukul 14.15.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7123,8 +7131,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1663,
-  "total_users": 885,
+  "total_start": 1664,
+  "total_users": 886,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 14.11.22"
+  "last_update": "Rabu, 20 Mei 2026 pukul 14.15.47"
 }
