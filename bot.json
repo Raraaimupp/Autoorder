@@ -7183,6 +7183,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 21.43.03",
       "last_start": "Rabu, 20 Mei 2026 pukul 21.43.03",
       "total_start": 1
+    },
+    {
+      "id": "8950199659",
+      "username": "@FitriMyGrils",
+      "name": "FITRI MY GIRL",
+      "first_start": "Rabu, 20 Mei 2026 pukul 22.50.05",
+      "last_start": "Rabu, 20 Mei 2026 pukul 22.50.05",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7227,8 +7235,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1684,
-  "total_users": 898,
+  "total_start": 1685,
+  "total_users": 899,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 22.49.03"
+  "last_update": "Rabu, 20 Mei 2026 pukul 22.50.05"
 }
