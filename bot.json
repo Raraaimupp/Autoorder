@@ -7103,6 +7103,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 17.12.48",
       "last_start": "Rabu, 20 Mei 2026 pukul 17.12.48",
       "total_start": 1
+    },
+    {
+      "id": "8279335274",
+      "username": "@Kcebtt",
+      "name": "Kece bet",
+      "first_start": "Rabu, 20 Mei 2026 pukul 17.49.29",
+      "last_start": "Rabu, 20 Mei 2026 pukul 17.49.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7147,8 +7155,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1670,
-  "total_users": 888,
+  "total_start": 1671,
+  "total_users": 889,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 17.47.20"
+  "last_update": "Rabu, 20 Mei 2026 pukul 17.49.29"
 }
