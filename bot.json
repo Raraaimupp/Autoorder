@@ -6935,6 +6935,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 07.03.02",
       "last_start": "Rabu, 20 Mei 2026 pukul 07.03.02",
       "total_start": 1
+    },
+    {
+      "id": "6218002654",
+      "username": "@ItzBGT",
+      "name": "〖𖡨〗𝑩 𝑮 𝑻 𖤍",
+      "first_start": "Rabu, 20 Mei 2026 pukul 07.07.36",
+      "last_start": "Rabu, 20 Mei 2026 pukul 07.07.36",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -6979,8 +6987,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1633,
-  "total_users": 867,
+  "total_start": 1634,
+  "total_users": 868,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 07.07.08"
+  "last_update": "Rabu, 20 Mei 2026 pukul 07.07.36"
 }
