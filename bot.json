@@ -7167,6 +7167,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 21.09.41",
       "last_start": "Rabu, 20 Mei 2026 pukul 21.09.41",
       "total_start": 1
+    },
+    {
+      "id": "1571498063",
+      "username": "@byejnwooseok",
+      "name": "bri",
+      "first_start": "Rabu, 20 Mei 2026 pukul 21.10.33",
+      "last_start": "Rabu, 20 Mei 2026 pukul 21.10.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7211,8 +7219,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1681,
-  "total_users": 896,
+  "total_start": 1682,
+  "total_users": 897,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 21.10.20"
+  "last_update": "Rabu, 20 Mei 2026 pukul 21.10.33"
 }
