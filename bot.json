@@ -6959,6 +6959,14 @@
       "first_start": "Rabu, 20 Mei 2026 pukul 07.16.55",
       "last_start": "Rabu, 20 Mei 2026 pukul 07.16.55",
       "total_start": 1
+    },
+    {
+      "id": "5908617102",
+      "username": "@trespedia123",
+      "name": "Tresno Wahyu R. JASA SUNTIK TIK",
+      "first_start": "Rabu, 20 Mei 2026 pukul 08.01.18",
+      "last_start": "Rabu, 20 Mei 2026 pukul 08.01.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7003,8 +7011,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1637,
-  "total_users": 870,
+  "total_start": 1638,
+  "total_users": 871,
   "total_groups": 8,
-  "last_update": "Rabu, 20 Mei 2026 pukul 07.57.40"
+  "last_update": "Rabu, 20 Mei 2026 pukul 08.01.18"
 }
