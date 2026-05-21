@@ -7423,6 +7423,14 @@
       "first_start": "Kamis, 21 Mei 2026 pukul 22.55.11",
       "last_start": "Kamis, 21 Mei 2026 pukul 22.55.11",
       "total_start": 1
+    },
+    {
+      "id": "5519575890",
+      "username": "@GoZeXX",
+      "name": "GozeXX",
+      "first_start": "Kamis, 21 Mei 2026 pukul 23.11.08",
+      "last_start": "Kamis, 21 Mei 2026 pukul 23.11.08",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7467,8 +7475,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1743,
-  "total_users": 928,
+  "total_start": 1744,
+  "total_users": 929,
   "total_groups": 8,
-  "last_update": "Kamis, 21 Mei 2026 pukul 23.03.27"
+  "last_update": "Kamis, 21 Mei 2026 pukul 23.11.08"
 }
