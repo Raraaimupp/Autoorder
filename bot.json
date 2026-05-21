@@ -7463,6 +7463,14 @@
       "first_start": "Jumat, 22 Mei 2026 pukul 00.04.13",
       "last_start": "Jumat, 22 Mei 2026 pukul 00.04.32",
       "total_start": 2
+    },
+    {
+      "id": "8651519437",
+      "username": "Tidak ada",
+      "name": "ra rara",
+      "first_start": "Jumat, 22 Mei 2026 pukul 00.45.15",
+      "last_start": "Jumat, 22 Mei 2026 pukul 00.45.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7507,8 +7515,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1752,
-  "total_users": 933,
+  "total_start": 1753,
+  "total_users": 934,
   "total_groups": 8,
-  "last_update": "Jumat, 22 Mei 2026 pukul 00.44.05"
+  "last_update": "Jumat, 22 Mei 2026 pukul 00.45.15"
 }
