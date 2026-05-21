@@ -7439,6 +7439,14 @@
       "first_start": "Kamis, 21 Mei 2026 pukul 23.23.49",
       "last_start": "Kamis, 21 Mei 2026 pukul 23.23.49",
       "total_start": 1
+    },
+    {
+      "id": "7539116818",
+      "username": "Tidak ada",
+      "name": "Salimrosiddulah",
+      "first_start": "Kamis, 21 Mei 2026 pukul 23.36.12",
+      "last_start": "Kamis, 21 Mei 2026 pukul 23.36.12",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7483,8 +7491,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1745,
-  "total_users": 930,
+  "total_start": 1746,
+  "total_users": 931,
   "total_groups": 8,
-  "last_update": "Kamis, 21 Mei 2026 pukul 23.24.30"
+  "last_update": "Kamis, 21 Mei 2026 pukul 23.36.12"
 }
