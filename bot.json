@@ -7335,6 +7335,14 @@
       "first_start": "Kamis, 21 Mei 2026 pukul 19.19.13",
       "last_start": "Kamis, 21 Mei 2026 pukul 19.19.13",
       "total_start": 1
+    },
+    {
+      "id": "7119347552",
+      "username": "@mujib_store",
+      "name": "MUJIB STORE",
+      "first_start": "Kamis, 21 Mei 2026 pukul 19.54.22",
+      "last_start": "Kamis, 21 Mei 2026 pukul 19.54.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7379,8 +7387,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1723,
-  "total_users": 917,
+  "total_start": 1724,
+  "total_users": 918,
   "total_groups": 8,
-  "last_update": "Kamis, 21 Mei 2026 pukul 19.52.56"
+  "last_update": "Kamis, 21 Mei 2026 pukul 19.54.22"
 }
