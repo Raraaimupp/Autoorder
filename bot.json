@@ -7391,6 +7391,14 @@
       "first_start": "Kamis, 21 Mei 2026 pukul 21.54.43",
       "last_start": "Kamis, 21 Mei 2026 pukul 21.55.15",
       "total_start": 2
+    },
+    {
+      "id": "8576002629",
+      "username": "@pelerkudanillllll",
+      "name": "unknow",
+      "first_start": "Kamis, 21 Mei 2026 pukul 22.20.04",
+      "last_start": "Kamis, 21 Mei 2026 pukul 22.20.04",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7435,8 +7443,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1734,
-  "total_users": 924,
+  "total_start": 1735,
+  "total_users": 925,
   "total_groups": 8,
-  "last_update": "Kamis, 21 Mei 2026 pukul 22.19.14"
+  "last_update": "Kamis, 21 Mei 2026 pukul 22.20.04"
 }
