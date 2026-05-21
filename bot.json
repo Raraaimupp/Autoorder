@@ -7311,6 +7311,14 @@
       "first_start": "Kamis, 21 Mei 2026 pukul 18.19.24",
       "last_start": "Kamis, 21 Mei 2026 pukul 18.19.24",
       "total_start": 1
+    },
+    {
+      "id": "8582268182",
+      "username": "@Rafzxxxx",
+      "name": "友 𝑹𝒂𝒇𝒛𝒙𝒙𝒙𝒙 𝑯𝒐𝒔𝒕𝒕",
+      "first_start": "Kamis, 21 Mei 2026 pukul 18.38.26",
+      "last_start": "Kamis, 21 Mei 2026 pukul 18.38.26",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7355,8 +7363,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1720,
-  "total_users": 914,
+  "total_start": 1721,
+  "total_users": 915,
   "total_groups": 8,
-  "last_update": "Kamis, 21 Mei 2026 pukul 18.37.53"
+  "last_update": "Kamis, 21 Mei 2026 pukul 18.38.26"
 }
