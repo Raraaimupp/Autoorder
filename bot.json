@@ -7255,6 +7255,14 @@
       "first_start": "Kamis, 21 Mei 2026 pukul 12.49.54",
       "last_start": "Kamis, 21 Mei 2026 pukul 12.49.54",
       "total_start": 1
+    },
+    {
+      "id": "578745532",
+      "username": "@Tinieyscha",
+      "name": "Tiniey Scha",
+      "first_start": "Kamis, 21 Mei 2026 pukul 12.50.53",
+      "last_start": "Kamis, 21 Mei 2026 pukul 12.50.53",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7299,8 +7307,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1703,
-  "total_users": 907,
+  "total_start": 1704,
+  "total_users": 908,
   "total_groups": 8,
-  "last_update": "Kamis, 21 Mei 2026 pukul 12.49.54"
+  "last_update": "Kamis, 21 Mei 2026 pukul 12.50.53"
 }
