@@ -7343,6 +7343,14 @@
       "first_start": "Kamis, 21 Mei 2026 pukul 19.54.22",
       "last_start": "Kamis, 21 Mei 2026 pukul 19.54.22",
       "total_start": 1
+    },
+    {
+      "id": "5765592492",
+      "username": "@Syifakun",
+      "name": "Nay",
+      "first_start": "Kamis, 21 Mei 2026 pukul 20.41.46",
+      "last_start": "Kamis, 21 Mei 2026 pukul 20.41.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7387,8 +7395,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1725,
-  "total_users": 918,
+  "total_start": 1726,
+  "total_users": 919,
   "total_groups": 8,
-  "last_update": "Kamis, 21 Mei 2026 pukul 20.40.37"
+  "last_update": "Kamis, 21 Mei 2026 pukul 20.41.46"
 }
