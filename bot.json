@@ -7415,6 +7415,14 @@
       "first_start": "Kamis, 21 Mei 2026 pukul 22.46.46",
       "last_start": "Kamis, 21 Mei 2026 pukul 22.46.46",
       "total_start": 1
+    },
+    {
+      "id": "8901717164",
+      "username": "@frzzdicousownamanah",
+      "name": "FRZZDICOUS (REAL)",
+      "first_start": "Kamis, 21 Mei 2026 pukul 22.55.11",
+      "last_start": "Kamis, 21 Mei 2026 pukul 22.55.11",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7459,8 +7467,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1742,
-  "total_users": 927,
+  "total_start": 1743,
+  "total_users": 928,
   "total_groups": 8,
-  "last_update": "Kamis, 21 Mei 2026 pukul 22.47.50"
+  "last_update": "Kamis, 21 Mei 2026 pukul 22.55.11"
 }
