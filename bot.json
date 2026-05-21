@@ -7407,6 +7407,14 @@
       "first_start": "Kamis, 21 Mei 2026 pukul 22.42.36",
       "last_start": "Kamis, 21 Mei 2026 pukul 22.42.36",
       "total_start": 1
+    },
+    {
+      "id": "7265092482",
+      "username": "@luckygixrl",
+      "name": "sinnaacyuh",
+      "first_start": "Kamis, 21 Mei 2026 pukul 22.46.46",
+      "last_start": "Kamis, 21 Mei 2026 pukul 22.46.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7451,8 +7459,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1741,
-  "total_users": 926,
+  "total_start": 1742,
+  "total_users": 927,
   "total_groups": 8,
-  "last_update": "Kamis, 21 Mei 2026 pukul 22.45.47"
+  "last_update": "Kamis, 21 Mei 2026 pukul 22.46.46"
 }
