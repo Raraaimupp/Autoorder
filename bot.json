@@ -7517,8 +7517,8 @@
       "username": "Tidak ada",
       "name": "y",
       "first_start": "Jumat, 22 Mei 2026 pukul 08.09.40",
-      "last_start": "Jumat, 22 Mei 2026 pukul 08.09.40",
-      "total_start": 1
+      "last_start": "Jumat, 22 Mei 2026 pukul 10.04.01",
+      "total_start": 2
     },
     {
       "id": "7902964267",
@@ -7571,8 +7571,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1766,
+  "total_start": 1767,
   "total_users": 941,
   "total_groups": 8,
-  "last_update": "Jumat, 22 Mei 2026 pukul 09.58.17"
+  "last_update": "Jumat, 22 Mei 2026 pukul 10.04.01"
 }
