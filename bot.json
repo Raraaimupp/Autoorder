@@ -7599,6 +7599,14 @@
       "first_start": "Jumat, 22 Mei 2026 pukul 16.40.39",
       "last_start": "Jumat, 22 Mei 2026 pukul 16.40.39",
       "total_start": 1
+    },
+    {
+      "id": "8636856264",
+      "username": "@Lanzoffc2",
+      "name": "LANZ 𝐓𝟓",
+      "first_start": "Jumat, 22 Mei 2026 pukul 16.53.01",
+      "last_start": "Jumat, 22 Mei 2026 pukul 16.53.01",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7643,8 +7651,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1788,
-  "total_users": 950,
+  "total_start": 1789,
+  "total_users": 951,
   "total_groups": 8,
-  "last_update": "Jumat, 22 Mei 2026 pukul 16.52.51"
+  "last_update": "Jumat, 22 Mei 2026 pukul 16.53.01"
 }
