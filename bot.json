@@ -7639,6 +7639,14 @@
       "first_start": "Jumat, 22 Mei 2026 pukul 17.20.36",
       "last_start": "Jumat, 22 Mei 2026 pukul 17.20.36",
       "total_start": 1
+    },
+    {
+      "id": "5458806533",
+      "username": "@Syaifnokos",
+      "name": "Syaif Nokos emoji",
+      "first_start": "Jumat, 22 Mei 2026 pukul 19.15.26",
+      "last_start": "Jumat, 22 Mei 2026 pukul 19.15.26",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7683,8 +7691,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1797,
-  "total_users": 955,
+  "total_start": 1798,
+  "total_users": 956,
   "total_groups": 8,
-  "last_update": "Jumat, 22 Mei 2026 pukul 19.14.26"
+  "last_update": "Jumat, 22 Mei 2026 pukul 19.15.26"
 }
