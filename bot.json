@@ -7727,6 +7727,14 @@
       "first_start": "Sabtu, 23 Mei 2026 pukul 01.50.30",
       "last_start": "Sabtu, 23 Mei 2026 pukul 01.50.30",
       "total_start": 1
+    },
+    {
+      "id": "7269190670",
+      "username": "@Ranzneweraa",
+      "name": "Ranz Close",
+      "first_start": "Sabtu, 23 Mei 2026 pukul 03.07.15",
+      "last_start": "Sabtu, 23 Mei 2026 pukul 03.07.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7771,8 +7779,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1816,
-  "total_users": 966,
+  "total_start": 1817,
+  "total_users": 967,
   "total_groups": 8,
-  "last_update": "Sabtu, 23 Mei 2026 pukul 02.52.58"
+  "last_update": "Sabtu, 23 Mei 2026 pukul 03.07.15"
 }
