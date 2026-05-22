@@ -7735,6 +7735,14 @@
       "first_start": "Sabtu, 23 Mei 2026 pukul 03.07.15",
       "last_start": "Sabtu, 23 Mei 2026 pukul 03.07.15",
       "total_start": 1
+    },
+    {
+      "id": "7785665920",
+      "username": "@ccylla10",
+      "name": "ccy (6ƶ)",
+      "first_start": "Sabtu, 23 Mei 2026 pukul 03.20.56",
+      "last_start": "Sabtu, 23 Mei 2026 pukul 03.20.56",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7779,8 +7787,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1818,
-  "total_users": 967,
+  "total_start": 1819,
+  "total_users": 968,
   "total_groups": 8,
-  "last_update": "Sabtu, 23 Mei 2026 pukul 03.18.34"
+  "last_update": "Sabtu, 23 Mei 2026 pukul 03.20.56"
 }
