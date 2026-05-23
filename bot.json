@@ -7895,6 +7895,14 @@
       "first_start": "Sabtu, 23 Mei 2026 pukul 19.17.56",
       "last_start": "Sabtu, 23 Mei 2026 pukul 19.17.56",
       "total_start": 1
+    },
+    {
+      "id": "7198520202",
+      "username": "@Thizz_owen",
+      "name": "Owenn",
+      "first_start": "Sabtu, 23 Mei 2026 pukul 19.41.00",
+      "last_start": "Sabtu, 23 Mei 2026 pukul 19.41.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7939,8 +7947,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1849,
-  "total_users": 987,
+  "total_start": 1850,
+  "total_users": 988,
   "total_groups": 8,
-  "last_update": "Sabtu, 23 Mei 2026 pukul 19.26.05"
+  "last_update": "Sabtu, 23 Mei 2026 pukul 19.41.00"
 }
