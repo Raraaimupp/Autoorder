@@ -7927,6 +7927,14 @@
       "first_start": "Sabtu, 23 Mei 2026 pukul 21.22.24",
       "last_start": "Sabtu, 23 Mei 2026 pukul 21.22.24",
       "total_start": 1
+    },
+    {
+      "id": "8754366909",
+      "username": "@kaiibaik",
+      "name": "𝐤𝐚𝐢𝐢 9 8 1 8",
+      "first_start": "Sabtu, 23 Mei 2026 pukul 21.22.35",
+      "last_start": "Sabtu, 23 Mei 2026 pukul 21.22.35",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7971,8 +7979,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1858,
-  "total_users": 991,
+  "total_start": 1859,
+  "total_users": 992,
   "total_groups": 8,
-  "last_update": "Sabtu, 23 Mei 2026 pukul 21.22.24"
+  "last_update": "Sabtu, 23 Mei 2026 pukul 21.22.35"
 }
