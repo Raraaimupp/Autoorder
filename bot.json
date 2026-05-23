@@ -7871,6 +7871,14 @@
       "first_start": "Sabtu, 23 Mei 2026 pukul 16.29.39",
       "last_start": "Sabtu, 23 Mei 2026 pukul 16.29.39",
       "total_start": 1
+    },
+    {
+      "id": "1234360832",
+      "username": "@VanxHosting",
+      "name": "⏤͟͟͞͞𝐕𝐀𝐍𝐗 || 𝐇𝐎𝐒𝐓𝐈𝐍𝐆",
+      "first_start": "Sabtu, 23 Mei 2026 pukul 17.43.26",
+      "last_start": "Sabtu, 23 Mei 2026 pukul 17.43.26",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7915,8 +7923,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1844,
-  "total_users": 984,
+  "total_start": 1845,
+  "total_users": 985,
   "total_groups": 8,
-  "last_update": "Sabtu, 23 Mei 2026 pukul 17.42.32"
+  "last_update": "Sabtu, 23 Mei 2026 pukul 17.43.26"
 }
