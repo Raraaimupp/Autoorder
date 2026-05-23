@@ -7759,6 +7759,14 @@
       "first_start": "Sabtu, 23 Mei 2026 pukul 04.29.35",
       "last_start": "Sabtu, 23 Mei 2026 pukul 04.29.35",
       "total_start": 1
+    },
+    {
+      "id": "8312554792",
+      "username": "@JohnStoreal",
+      "name": "Alexandre - Johnnatan ♱",
+      "first_start": "Sabtu, 23 Mei 2026 pukul 07.00.42",
+      "last_start": "Sabtu, 23 Mei 2026 pukul 07.00.42",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7803,8 +7811,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1822,
-  "total_users": 970,
+  "total_start": 1823,
+  "total_users": 971,
   "total_groups": 8,
-  "last_update": "Sabtu, 23 Mei 2026 pukul 06.59.53"
+  "last_update": "Sabtu, 23 Mei 2026 pukul 07.00.42"
 }
