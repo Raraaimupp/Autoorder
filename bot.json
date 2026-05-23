@@ -7951,6 +7951,14 @@
       "first_start": "Sabtu, 23 Mei 2026 pukul 23.39.03",
       "last_start": "Sabtu, 23 Mei 2026 pukul 23.39.30",
       "total_start": 2
+    },
+    {
+      "id": "7693830363",
+      "username": "@langit12",
+      "name": "langit",
+      "first_start": "Sabtu, 23 Mei 2026 pukul 23.41.00",
+      "last_start": "Sabtu, 23 Mei 2026 pukul 23.41.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7995,8 +8003,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1864,
-  "total_users": 994,
+  "total_start": 1865,
+  "total_users": 995,
   "total_groups": 8,
-  "last_update": "Sabtu, 23 Mei 2026 pukul 23.39.30"
+  "last_update": "Sabtu, 23 Mei 2026 pukul 23.41.00"
 }
