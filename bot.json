@@ -7855,6 +7855,14 @@
       "first_start": "Sabtu, 23 Mei 2026 pukul 14.28.08",
       "last_start": "Sabtu, 23 Mei 2026 pukul 14.28.08",
       "total_start": 1
+    },
+    {
+      "id": "8326943678",
+      "username": "@cpm288",
+      "name": "fff yagusy",
+      "first_start": "Sabtu, 23 Mei 2026 pukul 15.05.53",
+      "last_start": "Sabtu, 23 Mei 2026 pukul 15.05.53",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7899,8 +7907,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1838,
-  "total_users": 982,
+  "total_start": 1839,
+  "total_users": 983,
   "total_groups": 8,
-  "last_update": "Sabtu, 23 Mei 2026 pukul 14.53.59"
+  "last_update": "Sabtu, 23 Mei 2026 pukul 15.05.53"
 }
