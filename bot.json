@@ -7831,6 +7831,14 @@
       "first_start": "Sabtu, 23 Mei 2026 pukul 11.37.46",
       "last_start": "Sabtu, 23 Mei 2026 pukul 11.37.46",
       "total_start": 1
+    },
+    {
+      "id": "8780690097",
+      "username": "Tidak ada",
+      "name": "𝐒𝐡𝐢𝐧𝐳𝐢𝐢",
+      "first_start": "Sabtu, 23 Mei 2026 pukul 13.45.03",
+      "last_start": "Sabtu, 23 Mei 2026 pukul 13.45.03",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -7875,8 +7883,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1834,
-  "total_users": 979,
+  "total_start": 1835,
+  "total_users": 980,
   "total_groups": 8,
-  "last_update": "Sabtu, 23 Mei 2026 pukul 13.42.04"
+  "last_update": "Sabtu, 23 Mei 2026 pukul 13.45.03"
 }
