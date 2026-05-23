@@ -7999,6 +7999,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 03.26.41",
       "last_start": "Minggu, 24 Mei 2026 pukul 03.26.41",
       "total_start": 1
+    },
+    {
+      "id": "8688524004",
+      "username": "Tidak ada",
+      "name": "15202 Tararaditya",
+      "first_start": "Minggu, 24 Mei 2026 pukul 06.57.06",
+      "last_start": "Minggu, 24 Mei 2026 pukul 06.57.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8043,8 +8051,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1871,
-  "total_users": 1000,
+  "total_start": 1872,
+  "total_users": 1001,
   "total_groups": 8,
-  "last_update": "Minggu, 24 Mei 2026 pukul 06.54.57"
+  "last_update": "Minggu, 24 Mei 2026 pukul 06.57.06"
 }
