@@ -8215,6 +8215,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 19.29.31",
       "last_start": "Minggu, 24 Mei 2026 pukul 19.29.31",
       "total_start": 1
+    },
+    {
+      "id": "8202973461",
+      "username": "@prmytc",
+      "name": "aldo",
+      "first_start": "Minggu, 24 Mei 2026 pukul 19.30.37",
+      "last_start": "Minggu, 24 Mei 2026 pukul 19.30.37",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8264,8 +8272,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1924,
-  "total_users": 1027,
+  "total_start": 1925,
+  "total_users": 1028,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 19.29.31"
+  "last_update": "Minggu, 24 Mei 2026 pukul 19.30.37"
 }
