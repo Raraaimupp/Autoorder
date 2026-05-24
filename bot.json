@@ -8199,6 +8199,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 19.07.58",
       "last_start": "Minggu, 24 Mei 2026 pukul 19.07.58",
       "total_start": 1
+    },
+    {
+      "id": "5360194379",
+      "username": "@jullwelderenginer5160",
+      "name": "Jull",
+      "first_start": "Minggu, 24 Mei 2026 pukul 19.15.47",
+      "last_start": "Minggu, 24 Mei 2026 pukul 19.15.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8248,8 +8256,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1921,
-  "total_users": 1025,
+  "total_start": 1922,
+  "total_users": 1026,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 19.14.23"
+  "last_update": "Minggu, 24 Mei 2026 pukul 19.15.47"
 }
