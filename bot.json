@@ -8327,6 +8327,14 @@
       "first_start": "Senin, 25 Mei 2026 pukul 00.23.47",
       "last_start": "Senin, 25 Mei 2026 pukul 00.23.47",
       "total_start": 1
+    },
+    {
+      "id": "8709430674",
+      "username": "@InnoOffcial",
+      "name": "ᯓ𝐀𝐂𝐍𝐂 𝗡𝗔𝗘𝗟 𝗔𝗡𝗖𝗢𝗥",
+      "first_start": "Senin, 25 Mei 2026 pukul 03.22.12",
+      "last_start": "Senin, 25 Mei 2026 pukul 03.22.12",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8376,8 +8384,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1951,
-  "total_users": 1041,
+  "total_start": 1952,
+  "total_users": 1042,
   "total_groups": 9,
-  "last_update": "Senin, 25 Mei 2026 pukul 03.04.40"
+  "last_update": "Senin, 25 Mei 2026 pukul 03.22.12"
 }
