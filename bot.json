@@ -8143,6 +8143,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 17.45.33",
       "last_start": "Minggu, 24 Mei 2026 pukul 17.45.33",
       "total_start": 1
+    },
+    {
+      "id": "1515693478",
+      "username": "@ralzzfck",
+      "name": "rálzz",
+      "first_start": "Minggu, 24 Mei 2026 pukul 17.49.02",
+      "last_start": "Minggu, 24 Mei 2026 pukul 17.49.02",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8192,8 +8200,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1912,
-  "total_users": 1018,
+  "total_start": 1913,
+  "total_users": 1019,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 17.48.24"
+  "last_update": "Minggu, 24 Mei 2026 pukul 17.49.02"
 }
