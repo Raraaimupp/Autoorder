@@ -8007,6 +8007,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 06.57.06",
       "last_start": "Minggu, 24 Mei 2026 pukul 06.57.06",
       "total_start": 1
+    },
+    {
+      "id": "8674788301",
+      "username": "Tidak ada",
+      "name": "Anakamak Kuli",
+      "first_start": "Minggu, 24 Mei 2026 pukul 07.12.27",
+      "last_start": "Minggu, 24 Mei 2026 pukul 07.12.27",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8051,8 +8059,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1872,
-  "total_users": 1001,
+  "total_start": 1873,
+  "total_users": 1002,
   "total_groups": 8,
-  "last_update": "Minggu, 24 Mei 2026 pukul 07.09.14"
+  "last_update": "Minggu, 24 Mei 2026 pukul 07.12.27"
 }
