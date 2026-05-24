@@ -8127,6 +8127,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 17.20.40",
       "last_start": "Minggu, 24 Mei 2026 pukul 17.20.40",
       "total_start": 1
+    },
+    {
+      "id": "8591692075",
+      "username": "@Luqman34567",
+      "name": "LUQMAN HAIKAL",
+      "first_start": "Minggu, 24 Mei 2026 pukul 17.43.06",
+      "last_start": "Minggu, 24 Mei 2026 pukul 17.43.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8176,8 +8184,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1909,
-  "total_users": 1016,
+  "total_start": 1910,
+  "total_users": 1017,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 17.42.54"
+  "last_update": "Minggu, 24 Mei 2026 pukul 17.43.06"
 }
