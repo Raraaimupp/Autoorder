@@ -8175,6 +8175,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 18.05.08",
       "last_start": "Minggu, 24 Mei 2026 pukul 18.05.08",
       "total_start": 1
+    },
+    {
+      "id": "8647155045",
+      "username": "@Giszz_aja",
+      "name": "Gis zz",
+      "first_start": "Minggu, 24 Mei 2026 pukul 18.48.17",
+      "last_start": "Minggu, 24 Mei 2026 pukul 18.48.17",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8224,8 +8232,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1918,
-  "total_users": 1022,
+  "total_start": 1919,
+  "total_users": 1023,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 18.45.25"
+  "last_update": "Minggu, 24 Mei 2026 pukul 18.48.17"
 }
