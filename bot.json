@@ -8191,6 +8191,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 19.05.33",
       "last_start": "Minggu, 24 Mei 2026 pukul 19.05.33",
       "total_start": 1
+    },
+    {
+      "id": "8728188635",
+      "username": "@ahmad_mujahidin",
+      "name": "Ahmad Mujahidin",
+      "first_start": "Minggu, 24 Mei 2026 pukul 19.07.58",
+      "last_start": "Minggu, 24 Mei 2026 pukul 19.07.58",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8240,8 +8248,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1920,
-  "total_users": 1024,
+  "total_start": 1921,
+  "total_users": 1025,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 19.07.16"
+  "last_update": "Minggu, 24 Mei 2026 pukul 19.07.58"
 }
