@@ -8047,6 +8047,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 09.13.40",
       "last_start": "Minggu, 24 Mei 2026 pukul 09.13.40",
       "total_start": 1
+    },
+    {
+      "id": "6486722426",
+      "username": "@MasuzDev",
+      "name": "masuz .",
+      "first_start": "Minggu, 24 Mei 2026 pukul 11.29.19",
+      "last_start": "Minggu, 24 Mei 2026 pukul 11.29.19",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8091,8 +8099,8 @@
       "first_detected": "Minggu, 17 Mei 2026 pukul 13.43.37"
     }
   ],
-  "total_start": 1885,
-  "total_users": 1006,
+  "total_start": 1886,
+  "total_users": 1007,
   "total_groups": 8,
-  "last_update": "Minggu, 24 Mei 2026 pukul 11.28.00"
+  "last_update": "Minggu, 24 Mei 2026 pukul 11.29.19"
 }
