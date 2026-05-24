@@ -8287,6 +8287,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 22.31.36",
       "last_start": "Minggu, 24 Mei 2026 pukul 22.31.36",
       "total_start": 1
+    },
+    {
+      "id": "8837998238",
+      "username": "Tidak ada",
+      "name": "Afaan Tuhh",
+      "first_start": "Minggu, 24 Mei 2026 pukul 22.45.53",
+      "last_start": "Minggu, 24 Mei 2026 pukul 22.45.53",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8336,8 +8344,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1941,
-  "total_users": 1036,
+  "total_start": 1942,
+  "total_users": 1037,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 22.41.37"
+  "last_update": "Minggu, 24 Mei 2026 pukul 22.45.53"
 }
