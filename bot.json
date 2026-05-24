@@ -8159,6 +8159,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 17.55.57",
       "last_start": "Minggu, 24 Mei 2026 pukul 17.55.57",
       "total_start": 1
+    },
+    {
+      "id": "7848789664",
+      "username": "@RiomenSuKuina",
+      "name": "〘 𝗥𝗜𝗢𝗠𝗘𝗡 𝗦𝗨𝗞𝗨𝗜𝗡𝗔 〙",
+      "first_start": "Minggu, 24 Mei 2026 pukul 18.03.57",
+      "last_start": "Minggu, 24 Mei 2026 pukul 18.03.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8208,8 +8216,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1915,
-  "total_users": 1020,
+  "total_start": 1916,
+  "total_users": 1021,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 17.55.57"
+  "last_update": "Minggu, 24 Mei 2026 pukul 18.03.57"
 }
