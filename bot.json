@@ -8239,6 +8239,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 19.44.00",
       "last_start": "Minggu, 24 Mei 2026 pukul 19.44.00",
       "total_start": 1
+    },
+    {
+      "id": "8618764106",
+      "username": "@imscarlet656",
+      "name": "scarlett #656",
+      "first_start": "Minggu, 24 Mei 2026 pukul 20.52.29",
+      "last_start": "Minggu, 24 Mei 2026 pukul 20.52.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8288,8 +8296,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1929,
-  "total_users": 1030,
+  "total_start": 1930,
+  "total_users": 1031,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 20.52.24"
+  "last_update": "Minggu, 24 Mei 2026 pukul 20.52.29"
 }
