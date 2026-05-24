@@ -8295,6 +8295,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 22.45.53",
       "last_start": "Minggu, 24 Mei 2026 pukul 22.45.53",
       "total_start": 1
+    },
+    {
+      "id": "5666799663",
+      "username": "@OnlyzsMichael",
+      "name": "OnlyzsMichael",
+      "first_start": "Senin, 25 Mei 2026 pukul 00.08.47",
+      "last_start": "Senin, 25 Mei 2026 pukul 00.08.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8344,8 +8352,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1944,
-  "total_users": 1037,
+  "total_start": 1945,
+  "total_users": 1038,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 23.52.45"
+  "last_update": "Senin, 25 Mei 2026 pukul 00.08.47"
 }
