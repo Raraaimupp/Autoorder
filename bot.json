@@ -8255,6 +8255,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 21.22.27",
       "last_start": "Minggu, 24 Mei 2026 pukul 21.22.27",
       "total_start": 1
+    },
+    {
+      "id": "8711668751",
+      "username": "Tidak ada",
+      "name": "Humala 28",
+      "first_start": "Minggu, 24 Mei 2026 pukul 21.41.07",
+      "last_start": "Minggu, 24 Mei 2026 pukul 21.41.07",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8304,8 +8312,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1931,
-  "total_users": 1032,
+  "total_start": 1932,
+  "total_users": 1033,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 21.40.27"
+  "last_update": "Minggu, 24 Mei 2026 pukul 21.41.07"
 }
