@@ -8223,6 +8223,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 19.30.37",
       "last_start": "Minggu, 24 Mei 2026 pukul 19.30.37",
       "total_start": 1
+    },
+    {
+      "id": "8698351417",
+      "username": "@RulzzJebeh",
+      "name": "Rulzz",
+      "first_start": "Minggu, 24 Mei 2026 pukul 19.43.34",
+      "last_start": "Minggu, 24 Mei 2026 pukul 19.43.34",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8272,8 +8280,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1925,
-  "total_users": 1028,
+  "total_start": 1926,
+  "total_users": 1029,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 19.42.16"
+  "last_update": "Minggu, 24 Mei 2026 pukul 19.43.34"
 }
