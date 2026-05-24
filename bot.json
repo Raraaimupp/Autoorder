@@ -8279,6 +8279,14 @@
       "first_start": "Minggu, 24 Mei 2026 pukul 22.28.16",
       "last_start": "Minggu, 24 Mei 2026 pukul 22.28.16",
       "total_start": 1
+    },
+    {
+      "id": "1116921082",
+      "username": "@imramax",
+      "name": "rama1st",
+      "first_start": "Minggu, 24 Mei 2026 pukul 22.31.36",
+      "last_start": "Minggu, 24 Mei 2026 pukul 22.31.36",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8328,8 +8336,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1939,
-  "total_users": 1035,
+  "total_start": 1940,
+  "total_users": 1036,
   "total_groups": 9,
-  "last_update": "Minggu, 24 Mei 2026 pukul 22.30.30"
+  "last_update": "Minggu, 24 Mei 2026 pukul 22.31.36"
 }
