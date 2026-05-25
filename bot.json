@@ -8543,6 +8543,14 @@
       "first_start": "Senin, 25 Mei 2026 pukul 20.49.05",
       "last_start": "Senin, 25 Mei 2026 pukul 20.49.05",
       "total_start": 1
+    },
+    {
+      "id": "8809917148",
+      "username": "@vrxnih",
+      "name": "You Oke Vrx?",
+      "first_start": "Senin, 25 Mei 2026 pukul 21.59.23",
+      "last_start": "Senin, 25 Mei 2026 pukul 21.59.23",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8592,8 +8600,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2021,
-  "total_users": 1068,
+  "total_start": 2022,
+  "total_users": 1069,
   "total_groups": 9,
-  "last_update": "Senin, 25 Mei 2026 pukul 21.58.45"
+  "last_update": "Senin, 25 Mei 2026 pukul 21.59.23"
 }
