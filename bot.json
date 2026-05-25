@@ -8535,6 +8535,14 @@
       "first_start": "Senin, 25 Mei 2026 pukul 20.19.15",
       "last_start": "Senin, 25 Mei 2026 pukul 20.19.15",
       "total_start": 1
+    },
+    {
+      "id": "7096139582",
+      "username": "@Yousiapawoi5T",
+      "name": "You",
+      "first_start": "Senin, 25 Mei 2026 pukul 20.49.05",
+      "last_start": "Senin, 25 Mei 2026 pukul 20.49.05",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8584,8 +8592,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2012,
-  "total_users": 1067,
+  "total_start": 2013,
+  "total_users": 1068,
   "total_groups": 9,
-  "last_update": "Senin, 25 Mei 2026 pukul 20.47.49"
+  "last_update": "Senin, 25 Mei 2026 pukul 20.49.05"
 }
