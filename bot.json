@@ -8615,6 +8615,14 @@
       "first_start": "Selasa, 26 Mei 2026 pukul 03.00.48",
       "last_start": "Selasa, 26 Mei 2026 pukul 03.00.48",
       "total_start": 1
+    },
+    {
+      "id": "8379666539",
+      "username": "@ElaUtopia",
+      "name": "Ela",
+      "first_start": "Selasa, 26 Mei 2026 pukul 04.14.01",
+      "last_start": "Selasa, 26 Mei 2026 pukul 04.14.01",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8664,8 +8672,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2039,
-  "total_users": 1077,
+  "total_start": 2040,
+  "total_users": 1078,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 04.08.12"
+  "last_update": "Selasa, 26 Mei 2026 pukul 04.14.01"
 }
