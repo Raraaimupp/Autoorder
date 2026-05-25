@@ -8575,6 +8575,14 @@
       "first_start": "Senin, 25 Mei 2026 pukul 22.42.48",
       "last_start": "Senin, 25 Mei 2026 pukul 22.42.48",
       "total_start": 1
+    },
+    {
+      "id": "1129278136",
+      "username": "@zhidankebab",
+      "name": "⏤͟͟͞͞𝐀𝐅 | 𝙕𝙝𝙞𝙙𝙖𝙣𝙊𝙛𝙛𝙘 [ LIMIT ]",
+      "first_start": "Senin, 25 Mei 2026 pukul 23.24.18",
+      "last_start": "Senin, 25 Mei 2026 pukul 23.24.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8624,8 +8632,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2030,
-  "total_users": 1072,
+  "total_start": 2031,
+  "total_users": 1073,
   "total_groups": 9,
-  "last_update": "Senin, 25 Mei 2026 pukul 23.20.36"
+  "last_update": "Senin, 25 Mei 2026 pukul 23.24.18"
 }
