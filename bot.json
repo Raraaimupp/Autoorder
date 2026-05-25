@@ -8343,6 +8343,14 @@
       "first_start": "Senin, 25 Mei 2026 pukul 07.04.59",
       "last_start": "Senin, 25 Mei 2026 pukul 07.05.42",
       "total_start": 2
+    },
+    {
+      "id": "8529084657",
+      "username": "@Oxlzs",
+      "name": "Faslxi",
+      "first_start": "Senin, 25 Mei 2026 pukul 08.57.47",
+      "last_start": "Senin, 25 Mei 2026 pukul 08.57.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8392,8 +8400,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1957,
-  "total_users": 1043,
+  "total_start": 1958,
+  "total_users": 1044,
   "total_groups": 9,
-  "last_update": "Senin, 25 Mei 2026 pukul 08.56.36"
+  "last_update": "Senin, 25 Mei 2026 pukul 08.57.47"
 }
