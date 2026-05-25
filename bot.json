@@ -8527,6 +8527,14 @@
       "first_start": "Senin, 25 Mei 2026 pukul 20.06.00",
       "last_start": "Senin, 25 Mei 2026 pukul 20.06.00",
       "total_start": 1
+    },
+    {
+      "id": "7969124895",
+      "username": "@LangHay",
+      "name": "Lang Reganta",
+      "first_start": "Senin, 25 Mei 2026 pukul 20.19.15",
+      "last_start": "Senin, 25 Mei 2026 pukul 20.19.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8576,8 +8584,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2010,
-  "total_users": 1066,
+  "total_start": 2011,
+  "total_users": 1067,
   "total_groups": 9,
-  "last_update": "Senin, 25 Mei 2026 pukul 20.18.33"
+  "last_update": "Senin, 25 Mei 2026 pukul 20.19.15"
 }
