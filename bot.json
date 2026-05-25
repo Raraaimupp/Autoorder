@@ -8599,6 +8599,14 @@
       "first_start": "Selasa, 26 Mei 2026 pukul 01.58.36",
       "last_start": "Selasa, 26 Mei 2026 pukul 01.58.36",
       "total_start": 1
+    },
+    {
+      "id": "8700907734",
+      "username": "@koyocabep",
+      "name": "ngapa engko",
+      "first_start": "Selasa, 26 Mei 2026 pukul 02.44.39",
+      "last_start": "Selasa, 26 Mei 2026 pukul 02.44.39",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8648,8 +8656,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2037,
-  "total_users": 1075,
+  "total_start": 2038,
+  "total_users": 1076,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 02.36.06"
+  "last_update": "Selasa, 26 Mei 2026 pukul 02.44.39"
 }
