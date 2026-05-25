@@ -8463,6 +8463,14 @@
       "first_start": "Senin, 25 Mei 2026 pukul 17.52.17",
       "last_start": "Senin, 25 Mei 2026 pukul 17.52.17",
       "total_start": 1
+    },
+    {
+      "id": "5094597277",
+      "username": "@promosiygy",
+      "name": "promosi",
+      "first_start": "Senin, 25 Mei 2026 pukul 18.11.49",
+      "last_start": "Senin, 25 Mei 2026 pukul 18.11.49",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8512,8 +8520,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1983,
-  "total_users": 1058,
+  "total_start": 1984,
+  "total_users": 1059,
   "total_groups": 9,
-  "last_update": "Senin, 25 Mei 2026 pukul 18.08.46"
+  "last_update": "Senin, 25 Mei 2026 pukul 18.11.49"
 }
