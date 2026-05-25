@@ -8431,6 +8431,14 @@
       "first_start": "Senin, 25 Mei 2026 pukul 16.56.21",
       "last_start": "Senin, 25 Mei 2026 pukul 16.56.21",
       "total_start": 1
+    },
+    {
+      "id": "6624766544",
+      "username": "@raxzystur",
+      "name": "女 | 𝗥𝗔𝗫𝗭𝗬 𝐓𝟓",
+      "first_start": "Senin, 25 Mei 2026 pukul 17.08.14",
+      "last_start": "Senin, 25 Mei 2026 pukul 17.08.14",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8480,8 +8488,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 1977,
-  "total_users": 1054,
+  "total_start": 1978,
+  "total_users": 1055,
   "total_groups": 9,
-  "last_update": "Senin, 25 Mei 2026 pukul 17.07.20"
+  "last_update": "Senin, 25 Mei 2026 pukul 17.08.14"
 }
