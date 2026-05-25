@@ -8567,6 +8567,14 @@
       "first_start": "Senin, 25 Mei 2026 pukul 22.33.07",
       "last_start": "Senin, 25 Mei 2026 pukul 22.33.07",
       "total_start": 1
+    },
+    {
+      "id": "7757017226",
+      "username": "@miung712",
+      "name": "𝐓𝐗-𝐅𝐀𝐇𝐌𝐈",
+      "first_start": "Senin, 25 Mei 2026 pukul 22.42.48",
+      "last_start": "Senin, 25 Mei 2026 pukul 22.42.48",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8616,8 +8624,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2029,
-  "total_users": 1071,
+  "total_start": 2030,
+  "total_users": 1072,
   "total_groups": 9,
-  "last_update": "Senin, 25 Mei 2026 pukul 22.41.53"
+  "last_update": "Senin, 25 Mei 2026 pukul 22.42.48"
 }
