@@ -8719,6 +8719,14 @@
       "first_start": "Selasa, 26 Mei 2026 pukul 11.47.13",
       "last_start": "Selasa, 26 Mei 2026 pukul 11.47.13",
       "total_start": 1
+    },
+    {
+      "id": "7951259152",
+      "username": "@cebbbbbbbbbbbb777777",
+      "name": "bujang",
+      "first_start": "Selasa, 26 Mei 2026 pukul 12.19.56",
+      "last_start": "Selasa, 26 Mei 2026 pukul 12.19.56",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8768,8 +8776,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2060,
-  "total_users": 1090,
+  "total_start": 2061,
+  "total_users": 1091,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 12.19.34"
+  "last_update": "Selasa, 26 Mei 2026 pukul 12.19.56"
 }
