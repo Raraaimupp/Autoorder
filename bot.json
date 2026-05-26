@@ -885,8 +885,8 @@
       "username": "@rahmathost",
       "name": "Rahmat store",
       "first_start": "Jumat, 1 Mei 2026 pukul 16.01.36",
-      "last_start": "Minggu, 3 Mei 2026 pukul 22.39.58",
-      "total_start": 2
+      "last_start": "Selasa, 26 Mei 2026 pukul 21.28.58",
+      "total_start": 3
     },
     {
       "id": "1735850805",
@@ -8920,8 +8920,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2100,
+  "total_start": 2101,
   "total_users": 1109,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 21.28.45"
+  "last_update": "Selasa, 26 Mei 2026 pukul 21.28.58"
 }
