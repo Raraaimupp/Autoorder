@@ -8919,6 +8919,14 @@
       "first_start": "Selasa, 26 Mei 2026 pukul 23.35.43",
       "last_start": "Selasa, 26 Mei 2026 pukul 23.35.43",
       "total_start": 1
+    },
+    {
+      "id": "8494672829",
+      "username": "@Anaktambangemas",
+      "name": "Levzisx",
+      "first_start": "Rabu, 27 Mei 2026 pukul 00.49.45",
+      "last_start": "Rabu, 27 Mei 2026 pukul 00.49.45",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8968,8 +8976,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2114,
-  "total_users": 1115,
+  "total_start": 2115,
+  "total_users": 1116,
   "total_groups": 9,
-  "last_update": "Rabu, 27 Mei 2026 pukul 00.47.08"
+  "last_update": "Rabu, 27 Mei 2026 pukul 00.49.45"
 }
