@@ -8887,6 +8887,14 @@
       "first_start": "Selasa, 26 Mei 2026 pukul 22.04.50",
       "last_start": "Selasa, 26 Mei 2026 pukul 22.04.50",
       "total_start": 1
+    },
+    {
+      "id": "8252632390",
+      "username": "Tidak ada",
+      "name": "Apiss ajaa Ah",
+      "first_start": "Selasa, 26 Mei 2026 pukul 22.07.07",
+      "last_start": "Selasa, 26 Mei 2026 pukul 22.07.07",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8936,8 +8944,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2103,
-  "total_users": 1111,
+  "total_start": 2104,
+  "total_users": 1112,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 22.06.24"
+  "last_update": "Selasa, 26 Mei 2026 pukul 22.07.07"
 }
