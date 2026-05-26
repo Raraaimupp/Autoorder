@@ -8807,6 +8807,14 @@
       "first_start": "Selasa, 26 Mei 2026 pukul 18.18.41",
       "last_start": "Selasa, 26 Mei 2026 pukul 18.18.41",
       "total_start": 1
+    },
+    {
+      "id": "8888361016",
+      "username": "@DitzzzNotDev",
+      "name": "ᯓ𝑋𝑁7 x 𝗗𝗶𝘁𝘇𝘆",
+      "first_start": "Selasa, 26 Mei 2026 pukul 18.20.32",
+      "last_start": "Selasa, 26 Mei 2026 pukul 18.20.32",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8856,8 +8864,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2087,
-  "total_users": 1101,
+  "total_start": 2088,
+  "total_users": 1102,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 18.20.20"
+  "last_update": "Selasa, 26 Mei 2026 pukul 18.20.32"
 }
