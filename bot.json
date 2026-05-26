@@ -6693,8 +6693,8 @@
       "username": "Tidak ada",
       "name": "Pren",
       "first_start": "Senin, 18 Mei 2026 pukul 14.52.16",
-      "last_start": "Senin, 18 Mei 2026 pukul 14.52.16",
-      "total_start": 1
+      "last_start": "Selasa, 26 Mei 2026 pukul 11.38.10",
+      "total_start": 2
     },
     {
       "id": "8506710743",
@@ -8752,8 +8752,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2056,
+  "total_start": 2057,
   "total_users": 1088,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 11.36.44"
+  "last_update": "Selasa, 26 Mei 2026 pukul 11.38.10"
 }
