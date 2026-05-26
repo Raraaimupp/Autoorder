@@ -8847,6 +8847,14 @@
       "first_start": "Selasa, 26 Mei 2026 pukul 19.45.39",
       "last_start": "Selasa, 26 Mei 2026 pukul 19.45.39",
       "total_start": 1
+    },
+    {
+      "id": "8246923222",
+      "username": "@PadukaXSiro",
+      "name": "Siròò vs Èvribòdy",
+      "first_start": "Selasa, 26 Mei 2026 pukul 19.48.34",
+      "last_start": "Selasa, 26 Mei 2026 pukul 19.48.34",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8896,8 +8904,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2096,
-  "total_users": 1106,
+  "total_start": 2097,
+  "total_users": 1107,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 19.48.23"
+  "last_update": "Selasa, 26 Mei 2026 pukul 19.48.34"
 }
