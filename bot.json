@@ -8711,6 +8711,14 @@
       "first_start": "Selasa, 26 Mei 2026 pukul 11.44.13",
       "last_start": "Selasa, 26 Mei 2026 pukul 11.44.13",
       "total_start": 1
+    },
+    {
+      "id": "7172488657",
+      "username": "@ku_kaii3",
+      "name": "Kuro",
+      "first_start": "Selasa, 26 Mei 2026 pukul 11.47.13",
+      "last_start": "Selasa, 26 Mei 2026 pukul 11.47.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8760,8 +8768,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2059,
-  "total_users": 1089,
+  "total_start": 2060,
+  "total_users": 1090,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 11.46.42"
+  "last_update": "Selasa, 26 Mei 2026 pukul 11.47.13"
 }
