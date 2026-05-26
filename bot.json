@@ -8743,6 +8743,14 @@
       "first_start": "Selasa, 26 Mei 2026 pukul 14.40.56",
       "last_start": "Selasa, 26 Mei 2026 pukul 14.40.56",
       "total_start": 1
+    },
+    {
+      "id": "8906855210",
+      "username": "Tidak ada",
+      "name": "radit Store",
+      "first_start": "Selasa, 26 Mei 2026 pukul 14.45.28",
+      "last_start": "Selasa, 26 Mei 2026 pukul 14.45.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8792,8 +8800,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2069,
-  "total_users": 1093,
+  "total_start": 2070,
+  "total_users": 1094,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 14.45.09"
+  "last_update": "Selasa, 26 Mei 2026 pukul 14.45.28"
 }
