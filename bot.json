@@ -8871,6 +8871,14 @@
       "first_start": "Selasa, 26 Mei 2026 pukul 21.21.49",
       "last_start": "Selasa, 26 Mei 2026 pukul 21.21.49",
       "total_start": 1
+    },
+    {
+      "id": "5667125674",
+      "username": "@teddypedia",
+      "name": "𝑻𝒆𝒅𝒅𝒚𝑷𝒆𝒅𝒊𝒂 🧸",
+      "first_start": "Selasa, 26 Mei 2026 pukul 22.02.16",
+      "last_start": "Selasa, 26 Mei 2026 pukul 22.02.16",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8920,8 +8928,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2101,
-  "total_users": 1109,
+  "total_start": 2102,
+  "total_users": 1110,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 22.02.05"
+  "last_update": "Selasa, 26 Mei 2026 pukul 22.02.16"
 }
