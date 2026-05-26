@@ -8695,6 +8695,14 @@
       "first_start": "Selasa, 26 Mei 2026 pukul 09.37.56",
       "last_start": "Selasa, 26 Mei 2026 pukul 09.37.56",
       "total_start": 1
+    },
+    {
+      "id": "8110019366",
+      "username": "@salsabillareal",
+      "name": "sallsa billa",
+      "first_start": "Selasa, 26 Mei 2026 pukul 10.22.18",
+      "last_start": "Selasa, 26 Mei 2026 pukul 10.22.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -8744,8 +8752,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2054,
-  "total_users": 1087,
+  "total_start": 2055,
+  "total_users": 1088,
   "total_groups": 9,
-  "last_update": "Selasa, 26 Mei 2026 pukul 10.19.21"
+  "last_update": "Selasa, 26 Mei 2026 pukul 10.22.18"
 }
