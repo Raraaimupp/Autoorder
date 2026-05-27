@@ -9031,6 +9031,14 @@
       "first_start": "Rabu, 27 Mei 2026 pukul 12.30.16",
       "last_start": "Rabu, 27 Mei 2026 pukul 12.30.16",
       "total_start": 1
+    },
+    {
+      "id": "6532672277",
+      "username": "@adhitshop",
+      "name": "𝐀𝐃𝐇𝐈𝐓 𝐒𝐇𝐎𝐏",
+      "first_start": "Rabu, 27 Mei 2026 pukul 12.49.18",
+      "last_start": "Rabu, 27 Mei 2026 pukul 12.49.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9080,8 +9088,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2160,
-  "total_users": 1129,
+  "total_start": 2161,
+  "total_users": 1130,
   "total_groups": 9,
-  "last_update": "Rabu, 27 Mei 2026 pukul 12.48.06"
+  "last_update": "Rabu, 27 Mei 2026 pukul 12.49.18"
 }
