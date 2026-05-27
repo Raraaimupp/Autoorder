@@ -8991,6 +8991,14 @@
       "first_start": "Rabu, 27 Mei 2026 pukul 11.25.07",
       "last_start": "Rabu, 27 Mei 2026 pukul 11.25.07",
       "total_start": 1
+    },
+    {
+      "id": "8382682725",
+      "username": "@Sinclair954",
+      "name": "Sinclair 𝟺𝐂𝚛𝐢𝚖𝐢𝚗𝐚𝚕𝐑𝚘𝐦𝚊𝐧𝚌𝐞",
+      "first_start": "Rabu, 27 Mei 2026 pukul 11.57.55",
+      "last_start": "Rabu, 27 Mei 2026 pukul 11.57.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9040,8 +9048,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2145,
-  "total_users": 1124,
+  "total_start": 2146,
+  "total_users": 1125,
   "total_groups": 9,
-  "last_update": "Rabu, 27 Mei 2026 pukul 11.55.39"
+  "last_update": "Rabu, 27 Mei 2026 pukul 11.57.55"
 }
