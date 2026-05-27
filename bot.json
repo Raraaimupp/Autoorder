@@ -8999,6 +8999,14 @@
       "first_start": "Rabu, 27 Mei 2026 pukul 11.57.55",
       "last_start": "Rabu, 27 Mei 2026 pukul 11.58.40",
       "total_start": 2
+    },
+    {
+      "id": "8381738142",
+      "username": "Tidak ada",
+      "name": "Lang Hoki",
+      "first_start": "Rabu, 27 Mei 2026 pukul 12.01.57",
+      "last_start": "Rabu, 27 Mei 2026 pukul 12.01.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9048,8 +9056,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2149,
-  "total_users": 1125,
+  "total_start": 2150,
+  "total_users": 1126,
   "total_groups": 9,
-  "last_update": "Rabu, 27 Mei 2026 pukul 12.00.35"
+  "last_update": "Rabu, 27 Mei 2026 pukul 12.01.57"
 }
