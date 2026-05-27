@@ -9063,6 +9063,14 @@
       "first_start": "Rabu, 27 Mei 2026 pukul 15.22.14",
       "last_start": "Rabu, 27 Mei 2026 pukul 15.22.14",
       "total_start": 1
+    },
+    {
+      "id": "6764816858",
+      "username": "Tidak ada",
+      "name": "Kkk Jei",
+      "first_start": "Rabu, 27 Mei 2026 pukul 15.43.29",
+      "last_start": "Rabu, 27 Mei 2026 pukul 15.43.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9112,8 +9120,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2168,
-  "total_users": 1133,
+  "total_start": 2169,
+  "total_users": 1134,
   "total_groups": 9,
-  "last_update": "Rabu, 27 Mei 2026 pukul 15.36.45"
+  "last_update": "Rabu, 27 Mei 2026 pukul 15.43.29"
 }
