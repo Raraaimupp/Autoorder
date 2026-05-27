@@ -9007,6 +9007,14 @@
       "first_start": "Rabu, 27 Mei 2026 pukul 12.01.57",
       "last_start": "Rabu, 27 Mei 2026 pukul 12.01.57",
       "total_start": 1
+    },
+    {
+      "id": "5394608537",
+      "username": "Tidak ada",
+      "name": "Yaaaa",
+      "first_start": "Rabu, 27 Mei 2026 pukul 12.02.59",
+      "last_start": "Rabu, 27 Mei 2026 pukul 12.02.59",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9056,8 +9064,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2150,
-  "total_users": 1126,
+  "total_start": 2151,
+  "total_users": 1127,
   "total_groups": 9,
-  "last_update": "Rabu, 27 Mei 2026 pukul 12.01.57"
+  "last_update": "Rabu, 27 Mei 2026 pukul 12.02.59"
 }
