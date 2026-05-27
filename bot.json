@@ -9039,6 +9039,14 @@
       "first_start": "Rabu, 27 Mei 2026 pukul 12.49.18",
       "last_start": "Rabu, 27 Mei 2026 pukul 12.49.18",
       "total_start": 1
+    },
+    {
+      "id": "7559569971",
+      "username": "@yahuu211",
+      "name": "Pan Yu",
+      "first_start": "Rabu, 27 Mei 2026 pukul 12.59.28",
+      "last_start": "Rabu, 27 Mei 2026 pukul 12.59.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9088,8 +9096,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2161,
-  "total_users": 1130,
+  "total_start": 2162,
+  "total_users": 1131,
   "total_groups": 9,
-  "last_update": "Rabu, 27 Mei 2026 pukul 12.54.53"
+  "last_update": "Rabu, 27 Mei 2026 pukul 12.59.28"
 }
