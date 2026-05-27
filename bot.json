@@ -9151,6 +9151,14 @@
       "first_start": "Kamis, 28 Mei 2026 pukul 05.50.16",
       "last_start": "Kamis, 28 Mei 2026 pukul 05.50.16",
       "total_start": 1
+    },
+    {
+      "id": "8181288646",
+      "username": "@Jcyra",
+      "name": "cyra",
+      "first_start": "Kamis, 28 Mei 2026 pukul 06.20.12",
+      "last_start": "Kamis, 28 Mei 2026 pukul 06.20.12",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9200,8 +9208,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2199,
-  "total_users": 1144,
+  "total_start": 2200,
+  "total_users": 1145,
   "total_groups": 9,
-  "last_update": "Kamis, 28 Mei 2026 pukul 06.17.41"
+  "last_update": "Kamis, 28 Mei 2026 pukul 06.20.12"
 }
