@@ -9199,6 +9199,14 @@
       "first_start": "Kamis, 28 Mei 2026 pukul 11.50.28",
       "last_start": "Kamis, 28 Mei 2026 pukul 11.50.28",
       "total_start": 1
+    },
+    {
+      "id": "8256478977",
+      "username": "@Ryzenkyz",
+      "name": "REYZ",
+      "first_start": "Kamis, 28 Mei 2026 pukul 14.09.06",
+      "last_start": "Kamis, 28 Mei 2026 pukul 14.09.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9248,8 +9256,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2218,
-  "total_users": 1150,
+  "total_start": 2219,
+  "total_users": 1151,
   "total_groups": 9,
-  "last_update": "Kamis, 28 Mei 2026 pukul 14.08.47"
+  "last_update": "Kamis, 28 Mei 2026 pukul 14.09.06"
 }
