@@ -9247,6 +9247,14 @@
       "first_start": "Kamis, 28 Mei 2026 pukul 19.28.20",
       "last_start": "Kamis, 28 Mei 2026 pukul 19.28.20",
       "total_start": 1
+    },
+    {
+      "id": "7385815319",
+      "username": "@putrarafa12",
+      "name": "rapaaa",
+      "first_start": "Kamis, 28 Mei 2026 pukul 19.58.59",
+      "last_start": "Kamis, 28 Mei 2026 pukul 19.58.59",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9296,8 +9304,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2234,
-  "total_users": 1156,
+  "total_start": 2235,
+  "total_users": 1157,
   "total_groups": 9,
-  "last_update": "Kamis, 28 Mei 2026 pukul 19.58.50"
+  "last_update": "Kamis, 28 Mei 2026 pukul 19.58.59"
 }
