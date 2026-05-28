@@ -9191,6 +9191,14 @@
       "first_start": "Kamis, 28 Mei 2026 pukul 11.23.21",
       "last_start": "Kamis, 28 Mei 2026 pukul 11.23.21",
       "total_start": 1
+    },
+    {
+      "id": "8748507061",
+      "username": "@Fidzxklacerz",
+      "name": "𝐅𝐢𝐝𝐳𝐤𝐚𝐥𝐜𝐞𝐫 𝐓𝟓",
+      "first_start": "Kamis, 28 Mei 2026 pukul 11.50.28",
+      "last_start": "Kamis, 28 Mei 2026 pukul 11.50.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9240,8 +9248,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2212,
-  "total_users": 1149,
+  "total_start": 2213,
+  "total_users": 1150,
   "total_groups": 9,
-  "last_update": "Kamis, 28 Mei 2026 pukul 11.49.36"
+  "last_update": "Kamis, 28 Mei 2026 pukul 11.50.28"
 }
