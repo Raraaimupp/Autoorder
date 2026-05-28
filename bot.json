@@ -2429,8 +2429,8 @@
       "username": "Tidak ada",
       "name": "Off 📴",
       "first_start": "Minggu, 3 Mei 2026 pukul 03.42.13",
-      "last_start": "Minggu, 3 Mei 2026 pukul 03.42.13",
-      "total_start": 1
+      "last_start": "Kamis, 28 Mei 2026 pukul 17.08.41",
+      "total_start": 2
     },
     {
       "id": "1014794086",
@@ -9264,8 +9264,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2226,
+  "total_start": 2227,
   "total_users": 1152,
   "total_groups": 9,
-  "last_update": "Kamis, 28 Mei 2026 pukul 17.08.29"
+  "last_update": "Kamis, 28 Mei 2026 pukul 17.08.41"
 }
