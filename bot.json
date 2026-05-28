@@ -9183,6 +9183,14 @@
       "first_start": "Kamis, 28 Mei 2026 pukul 11.00.21",
       "last_start": "Kamis, 28 Mei 2026 pukul 11.00.21",
       "total_start": 1
+    },
+    {
+      "id": "7665664073",
+      "username": "@NAUFALLstore",
+      "name": "NAUFAL STORE",
+      "first_start": "Kamis, 28 Mei 2026 pukul 11.23.21",
+      "last_start": "Kamis, 28 Mei 2026 pukul 11.23.21",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9232,8 +9240,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2209,
-  "total_users": 1148,
+  "total_start": 2210,
+  "total_users": 1149,
   "total_groups": 9,
-  "last_update": "Kamis, 28 Mei 2026 pukul 11.23.07"
+  "last_update": "Kamis, 28 Mei 2026 pukul 11.23.21"
 }
