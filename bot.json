@@ -9231,6 +9231,14 @@
       "first_start": "Kamis, 28 Mei 2026 pukul 19.14.49",
       "last_start": "Kamis, 28 Mei 2026 pukul 19.14.49",
       "total_start": 1
+    },
+    {
+      "id": "8734136900",
+      "username": "@slincexnx",
+      "name": "Xeno Slince",
+      "first_start": "Kamis, 28 Mei 2026 pukul 19.26.28",
+      "last_start": "Kamis, 28 Mei 2026 pukul 19.26.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9280,8 +9288,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2232,
-  "total_users": 1154,
+  "total_start": 2233,
+  "total_users": 1155,
   "total_groups": 9,
-  "last_update": "Kamis, 28 Mei 2026 pukul 19.25.59"
+  "last_update": "Kamis, 28 Mei 2026 pukul 19.26.28"
 }
