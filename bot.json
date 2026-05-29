@@ -9399,6 +9399,14 @@
       "first_start": "Jumat, 29 Mei 2026 pukul 12.00.52",
       "last_start": "Jumat, 29 Mei 2026 pukul 12.00.52",
       "total_start": 1
+    },
+    {
+      "id": "7732335856",
+      "username": "@VATZZKAISAR",
+      "name": "Ikyy",
+      "first_start": "Jumat, 29 Mei 2026 pukul 13.25.56",
+      "last_start": "Jumat, 29 Mei 2026 pukul 13.25.56",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9448,8 +9456,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2280,
-  "total_users": 1175,
+  "total_start": 2281,
+  "total_users": 1176,
   "total_groups": 9,
-  "last_update": "Jumat, 29 Mei 2026 pukul 13.23.10"
+  "last_update": "Jumat, 29 Mei 2026 pukul 13.25.56"
 }
