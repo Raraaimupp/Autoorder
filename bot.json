@@ -9471,6 +9471,14 @@
       "first_start": "Jumat, 29 Mei 2026 pukul 15.43.36",
       "last_start": "Jumat, 29 Mei 2026 pukul 15.43.36",
       "total_start": 1
+    },
+    {
+      "id": "6433671961",
+      "username": "@ZidnZ6",
+      "name": "ZidnZ",
+      "first_start": "Jumat, 29 Mei 2026 pukul 16.56.22",
+      "last_start": "Jumat, 29 Mei 2026 pukul 16.56.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9520,8 +9528,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2296,
-  "total_users": 1184,
+  "total_start": 2297,
+  "total_users": 1185,
   "total_groups": 9,
-  "last_update": "Jumat, 29 Mei 2026 pukul 16.56.02"
+  "last_update": "Jumat, 29 Mei 2026 pukul 16.56.22"
 }
