@@ -9343,6 +9343,14 @@
       "first_start": "Jumat, 29 Mei 2026 pukul 07.21.30",
       "last_start": "Jumat, 29 Mei 2026 pukul 07.21.44",
       "total_start": 2
+    },
+    {
+      "id": "8596842613",
+      "username": "@agassss111",
+      "name": "El gebby",
+      "first_start": "Jumat, 29 Mei 2026 pukul 08.12.36",
+      "last_start": "Jumat, 29 Mei 2026 pukul 08.12.36",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9392,8 +9400,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2259,
-  "total_users": 1168,
+  "total_start": 2260,
+  "total_users": 1169,
   "total_groups": 9,
-  "last_update": "Jumat, 29 Mei 2026 pukul 08.11.18"
+  "last_update": "Jumat, 29 Mei 2026 pukul 08.12.36"
 }
