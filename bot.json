@@ -9535,6 +9535,14 @@
       "first_start": "Sabtu, 30 Mei 2026 pukul 01.23.40",
       "last_start": "Sabtu, 30 Mei 2026 pukul 01.23.40",
       "total_start": 1
+    },
+    {
+      "id": "7249281558",
+      "username": "Tidak ada",
+      "name": "Mhmmd Putra",
+      "first_start": "Sabtu, 30 Mei 2026 pukul 04.24.01",
+      "last_start": "Sabtu, 30 Mei 2026 pukul 04.24.01",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9584,8 +9592,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2327,
-  "total_users": 1192,
+  "total_start": 2328,
+  "total_users": 1193,
   "total_groups": 9,
-  "last_update": "Sabtu, 30 Mei 2026 pukul 04.07.33"
+  "last_update": "Sabtu, 30 Mei 2026 pukul 04.24.01"
 }
