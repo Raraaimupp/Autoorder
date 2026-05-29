@@ -9455,6 +9455,14 @@
       "first_start": "Jumat, 29 Mei 2026 pukul 14.57.12",
       "last_start": "Jumat, 29 Mei 2026 pukul 14.57.12",
       "total_start": 1
+    },
+    {
+      "id": "8719192655",
+      "username": "Tidak ada",
+      "name": "T4MA",
+      "first_start": "Jumat, 29 Mei 2026 pukul 15.34.25",
+      "last_start": "Jumat, 29 Mei 2026 pukul 15.34.25",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9504,8 +9512,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2292,
-  "total_users": 1182,
+  "total_start": 2293,
+  "total_users": 1183,
   "total_groups": 9,
-  "last_update": "Jumat, 29 Mei 2026 pukul 15.34.12"
+  "last_update": "Jumat, 29 Mei 2026 pukul 15.34.25"
 }
