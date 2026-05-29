@@ -9527,6 +9527,14 @@
       "first_start": "Jumat, 29 Mei 2026 pukul 23.56.00",
       "last_start": "Jumat, 29 Mei 2026 pukul 23.56.00",
       "total_start": 1
+    },
+    {
+      "id": "6206180106",
+      "username": "@jembot28",
+      "name": "𝖉𝖊𝖓𝖏𝖎𝖎𝖎 𝖙𝖜𝖔 𝖊𝖎𝖌𝖍𝖙",
+      "first_start": "Sabtu, 30 Mei 2026 pukul 01.23.40",
+      "last_start": "Sabtu, 30 Mei 2026 pukul 01.23.40",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9576,8 +9584,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2324,
-  "total_users": 1191,
+  "total_start": 2325,
+  "total_users": 1192,
   "total_groups": 9,
-  "last_update": "Sabtu, 30 Mei 2026 pukul 01.05.27"
+  "last_update": "Sabtu, 30 Mei 2026 pukul 01.23.40"
 }
