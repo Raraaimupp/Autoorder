@@ -9359,6 +9359,14 @@
       "first_start": "Jumat, 29 Mei 2026 pukul 08.12.55",
       "last_start": "Jumat, 29 Mei 2026 pukul 08.12.55",
       "total_start": 1
+    },
+    {
+      "id": "8636700791",
+      "username": "@DikzMarket01",
+      "name": "𝕯𝖎𝖐𝖟 𝕮𝖊𝖔",
+      "first_start": "Jumat, 29 Mei 2026 pukul 08.34.09",
+      "last_start": "Jumat, 29 Mei 2026 pukul 08.34.09",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9408,8 +9416,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2269,
-  "total_users": 1170,
+  "total_start": 2270,
+  "total_users": 1171,
   "total_groups": 9,
-  "last_update": "Jumat, 29 Mei 2026 pukul 08.33.56"
+  "last_update": "Jumat, 29 Mei 2026 pukul 08.34.09"
 }
