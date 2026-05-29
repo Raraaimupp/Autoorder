@@ -9519,6 +9519,14 @@
       "first_start": "Jumat, 29 Mei 2026 pukul 23.39.48",
       "last_start": "Jumat, 29 Mei 2026 pukul 23.39.48",
       "total_start": 1
+    },
+    {
+      "id": "7381090875",
+      "username": "Tidak ada",
+      "name": "Yandi Maulana",
+      "first_start": "Jumat, 29 Mei 2026 pukul 23.56.00",
+      "last_start": "Jumat, 29 Mei 2026 pukul 23.56.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9568,8 +9576,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2323,
-  "total_users": 1190,
+  "total_start": 2324,
+  "total_users": 1191,
   "total_groups": 9,
-  "last_update": "Jumat, 29 Mei 2026 pukul 23.43.14"
+  "last_update": "Jumat, 29 Mei 2026 pukul 23.56.00"
 }
