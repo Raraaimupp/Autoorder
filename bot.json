@@ -9559,6 +9559,14 @@
       "first_start": "Sabtu, 30 Mei 2026 pukul 07.16.47",
       "last_start": "Sabtu, 30 Mei 2026 pukul 07.16.47",
       "total_start": 1
+    },
+    {
+      "id": "8429483099",
+      "username": "@azorceha",
+      "name": "Azor Ceha",
+      "first_start": "Sabtu, 30 Mei 2026 pukul 08.05.36",
+      "last_start": "Sabtu, 30 Mei 2026 pukul 08.05.36",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9608,8 +9616,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2331,
-  "total_users": 1195,
+  "total_start": 2332,
+  "total_users": 1196,
   "total_groups": 9,
-  "last_update": "Sabtu, 30 Mei 2026 pukul 08.04.28"
+  "last_update": "Sabtu, 30 Mei 2026 pukul 08.05.36"
 }
