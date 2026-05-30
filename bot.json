@@ -9639,6 +9639,14 @@
       "first_start": "Sabtu, 30 Mei 2026 pukul 20.21.18",
       "last_start": "Sabtu, 30 Mei 2026 pukul 20.21.18",
       "total_start": 1
+    },
+    {
+      "id": "7670482786",
+      "username": "Tidak ada",
+      "name": "Aziel Farhani",
+      "first_start": "Sabtu, 30 Mei 2026 pukul 20.46.04",
+      "last_start": "Sabtu, 30 Mei 2026 pukul 20.46.04",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9688,8 +9696,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2363,
-  "total_users": 1205,
+  "total_start": 2364,
+  "total_users": 1206,
   "total_groups": 9,
-  "last_update": "Sabtu, 30 Mei 2026 pukul 20.41.27"
+  "last_update": "Sabtu, 30 Mei 2026 pukul 20.46.04"
 }
