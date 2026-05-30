@@ -9615,6 +9615,14 @@
       "first_start": "Sabtu, 30 Mei 2026 pukul 15.03.42",
       "last_start": "Sabtu, 30 Mei 2026 pukul 15.03.42",
       "total_start": 1
+    },
+    {
+      "id": "1766940124",
+      "username": "@wowww44",
+      "name": "someone",
+      "first_start": "Sabtu, 30 Mei 2026 pukul 15.26.13",
+      "last_start": "Sabtu, 30 Mei 2026 pukul 15.26.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9664,8 +9672,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2356,
-  "total_users": 1202,
+  "total_start": 2357,
+  "total_users": 1203,
   "total_groups": 9,
-  "last_update": "Sabtu, 30 Mei 2026 pukul 15.24.56"
+  "last_update": "Sabtu, 30 Mei 2026 pukul 15.26.13"
 }
