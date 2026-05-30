@@ -1413,8 +1413,8 @@
       "username": "Tidak ada",
       "name": ".",
       "first_start": "Sabtu, 2 Mei 2026 pukul 06.12.13",
-      "last_start": "Minggu, 24 Mei 2026 pukul 08.01.42",
-      "total_start": 6
+      "last_start": "Minggu, 31 Mei 2026 pukul 00.16.11",
+      "total_start": 7
     },
     {
       "id": "7136054101",
@@ -9712,8 +9712,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2370,
+  "total_start": 2371,
   "total_users": 1208,
   "total_groups": 9,
-  "last_update": "Minggu, 31 Mei 2026 pukul 00.14.04"
+  "last_update": "Minggu, 31 Mei 2026 pukul 00.16.11"
 }
