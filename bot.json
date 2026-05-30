@@ -9663,6 +9663,14 @@
       "first_start": "Sabtu, 30 Mei 2026 pukul 23.39.52",
       "last_start": "Sabtu, 30 Mei 2026 pukul 23.39.52",
       "total_start": 1
+    },
+    {
+      "id": "5966438541",
+      "username": "@Sya07066",
+      "name": "✨️",
+      "first_start": "Minggu, 31 Mei 2026 pukul 01.22.05",
+      "last_start": "Minggu, 31 Mei 2026 pukul 01.22.05",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9712,8 +9720,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2373,
-  "total_users": 1208,
+  "total_start": 2374,
+  "total_users": 1209,
   "total_groups": 9,
-  "last_update": "Minggu, 31 Mei 2026 pukul 01.15.29"
+  "last_update": "Minggu, 31 Mei 2026 pukul 01.22.05"
 }
