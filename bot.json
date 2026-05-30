@@ -9647,6 +9647,14 @@
       "first_start": "Sabtu, 30 Mei 2026 pukul 20.46.04",
       "last_start": "Sabtu, 30 Mei 2026 pukul 20.46.04",
       "total_start": 1
+    },
+    {
+      "id": "8537703674",
+      "username": "@dedekkki",
+      "name": "uiy .",
+      "first_start": "Sabtu, 30 Mei 2026 pukul 22.40.45",
+      "last_start": "Sabtu, 30 Mei 2026 pukul 22.40.45",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9696,8 +9704,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2366,
-  "total_users": 1206,
+  "total_start": 2367,
+  "total_users": 1207,
   "total_groups": 9,
-  "last_update": "Sabtu, 30 Mei 2026 pukul 22.33.49"
+  "last_update": "Sabtu, 30 Mei 2026 pukul 22.40.45"
 }
