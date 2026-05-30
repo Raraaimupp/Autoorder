@@ -9631,6 +9631,14 @@
       "first_start": "Sabtu, 30 Mei 2026 pukul 15.27.49",
       "last_start": "Sabtu, 30 Mei 2026 pukul 15.27.49",
       "total_start": 1
+    },
+    {
+      "id": "5154918659",
+      "username": "@ssaeaaa",
+      "name": "salveaaa",
+      "first_start": "Sabtu, 30 Mei 2026 pukul 20.21.18",
+      "last_start": "Sabtu, 30 Mei 2026 pukul 20.21.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9680,8 +9688,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2361,
-  "total_users": 1204,
+  "total_start": 2362,
+  "total_users": 1205,
   "total_groups": 9,
-  "last_update": "Sabtu, 30 Mei 2026 pukul 20.18.21"
+  "last_update": "Sabtu, 30 Mei 2026 pukul 20.21.18"
 }
