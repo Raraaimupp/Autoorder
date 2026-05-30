@@ -9599,6 +9599,14 @@
       "first_start": "Sabtu, 30 Mei 2026 pukul 14.04.53",
       "last_start": "Sabtu, 30 Mei 2026 pukul 14.04.53",
       "total_start": 1
+    },
+    {
+      "id": "7988686351",
+      "username": "@ferdoooxz",
+      "name": "𝐟𝐞𝐫𝐝𝐨 - 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐓𝟓",
+      "first_start": "Sabtu, 30 Mei 2026 pukul 14.56.29",
+      "last_start": "Sabtu, 30 Mei 2026 pukul 14.56.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9648,8 +9656,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2354,
-  "total_users": 1200,
+  "total_start": 2355,
+  "total_users": 1201,
   "total_groups": 9,
-  "last_update": "Sabtu, 30 Mei 2026 pukul 14.56.18"
+  "last_update": "Sabtu, 30 Mei 2026 pukul 14.56.29"
 }
