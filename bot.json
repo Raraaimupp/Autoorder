@@ -9671,6 +9671,14 @@
       "first_start": "Minggu, 31 Mei 2026 pukul 01.22.05",
       "last_start": "Minggu, 31 Mei 2026 pukul 01.22.05",
       "total_start": 1
+    },
+    {
+      "id": "6603484980",
+      "username": "@ihamriz",
+      "name": "ham",
+      "first_start": "Minggu, 31 Mei 2026 pukul 04.24.20",
+      "last_start": "Minggu, 31 Mei 2026 pukul 04.24.20",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9720,8 +9728,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2375,
-  "total_users": 1209,
+  "total_start": 2376,
+  "total_users": 1210,
   "total_groups": 9,
-  "last_update": "Minggu, 31 Mei 2026 pukul 04.17.35"
+  "last_update": "Minggu, 31 Mei 2026 pukul 04.24.20"
 }
