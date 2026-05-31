@@ -9727,6 +9727,14 @@
       "first_start": "Minggu, 31 Mei 2026 pukul 14.28.39",
       "last_start": "Minggu, 31 Mei 2026 pukul 14.28.39",
       "total_start": 1
+    },
+    {
+      "id": "1347450425",
+      "username": "@celycntik",
+      "name": "𝚌𝚎𝚕𝚢𝚗𝟺𝐂𝚛𝐢𝚖𝐢𝚗𝐚𝚕𝐑𝚘𝐦𝚊𝐧𝚌𝐞",
+      "first_start": "Minggu, 31 Mei 2026 pukul 14.28.52",
+      "last_start": "Minggu, 31 Mei 2026 pukul 14.28.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9776,8 +9784,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2402,
-  "total_users": 1216,
+  "total_start": 2403,
+  "total_users": 1217,
   "total_groups": 9,
-  "last_update": "Minggu, 31 Mei 2026 pukul 14.28.39"
+  "last_update": "Minggu, 31 Mei 2026 pukul 14.28.52"
 }
