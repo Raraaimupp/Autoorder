@@ -9687,6 +9687,14 @@
       "first_start": "Minggu, 31 Mei 2026 pukul 09.35.32",
       "last_start": "Minggu, 31 Mei 2026 pukul 09.35.32",
       "total_start": 1
+    },
+    {
+      "id": "8295185690",
+      "username": "@Veloveapps",
+      "name": "Admin Velove Apps",
+      "first_start": "Minggu, 31 Mei 2026 pukul 10.58.08",
+      "last_start": "Minggu, 31 Mei 2026 pukul 10.58.08",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9736,8 +9744,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2394,
-  "total_users": 1211,
+  "total_start": 2395,
+  "total_users": 1212,
   "total_groups": 9,
-  "last_update": "Minggu, 31 Mei 2026 pukul 10.57.48"
+  "last_update": "Minggu, 31 Mei 2026 pukul 10.58.08"
 }
