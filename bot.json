@@ -9719,6 +9719,14 @@
       "first_start": "Minggu, 31 Mei 2026 pukul 14.05.14",
       "last_start": "Minggu, 31 Mei 2026 pukul 14.05.14",
       "total_start": 1
+    },
+    {
+      "id": "7827158159",
+      "username": "Tidak ada",
+      "name": "fs",
+      "first_start": "Minggu, 31 Mei 2026 pukul 14.28.39",
+      "last_start": "Minggu, 31 Mei 2026 pukul 14.28.39",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9768,8 +9776,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2401,
-  "total_users": 1215,
+  "total_start": 2402,
+  "total_users": 1216,
   "total_groups": 9,
-  "last_update": "Minggu, 31 Mei 2026 pukul 14.27.52"
+  "last_update": "Minggu, 31 Mei 2026 pukul 14.28.39"
 }
