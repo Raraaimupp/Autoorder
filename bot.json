@@ -9759,6 +9759,14 @@
       "first_start": "Minggu, 31 Mei 2026 pukul 17.39.21",
       "last_start": "Minggu, 31 Mei 2026 pukul 17.39.21",
       "total_start": 1
+    },
+    {
+      "id": "8709703713",
+      "username": "@itzjack2",
+      "name": "jakzzz",
+      "first_start": "Minggu, 31 Mei 2026 pukul 17.58.08",
+      "last_start": "Minggu, 31 Mei 2026 pukul 17.58.08",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9808,8 +9816,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2413,
-  "total_users": 1220,
+  "total_start": 2414,
+  "total_users": 1221,
   "total_groups": 9,
-  "last_update": "Minggu, 31 Mei 2026 pukul 17.57.48"
+  "last_update": "Minggu, 31 Mei 2026 pukul 17.58.08"
 }
