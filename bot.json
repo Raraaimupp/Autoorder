@@ -9751,6 +9751,14 @@
       "first_start": "Minggu, 31 Mei 2026 pukul 16.45.57",
       "last_start": "Minggu, 31 Mei 2026 pukul 16.45.57",
       "total_start": 1
+    },
+    {
+      "id": "7325979850",
+      "username": "@yesukli",
+      "name": "Gioren",
+      "first_start": "Minggu, 31 Mei 2026 pukul 17.39.21",
+      "last_start": "Minggu, 31 Mei 2026 pukul 17.39.21",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9800,8 +9808,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2411,
-  "total_users": 1219,
+  "total_start": 2412,
+  "total_users": 1220,
   "total_groups": 9,
-  "last_update": "Minggu, 31 Mei 2026 pukul 17.37.59"
+  "last_update": "Minggu, 31 Mei 2026 pukul 17.39.21"
 }
