@@ -9767,6 +9767,14 @@
       "first_start": "Minggu, 31 Mei 2026 pukul 17.58.08",
       "last_start": "Minggu, 31 Mei 2026 pukul 17.58.08",
       "total_start": 1
+    },
+    {
+      "id": "7159295528",
+      "username": "@a2tempe",
+      "name": "⏤͟͟͞͞𝗔2 𝗦𝗧𝗢𝗥𝗘",
+      "first_start": "Minggu, 31 Mei 2026 pukul 17.58.23",
+      "last_start": "Minggu, 31 Mei 2026 pukul 17.58.23",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9816,8 +9824,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2414,
-  "total_users": 1221,
+  "total_start": 2415,
+  "total_users": 1222,
   "total_groups": 9,
-  "last_update": "Minggu, 31 Mei 2026 pukul 17.58.08"
+  "last_update": "Minggu, 31 Mei 2026 pukul 17.58.23"
 }
