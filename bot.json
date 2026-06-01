@@ -9807,6 +9807,14 @@
       "first_start": "Senin, 1 Juni 2026 pukul 06.18.44",
       "last_start": "Senin, 1 Juni 2026 pukul 06.19.08",
       "total_start": 3
+    },
+    {
+      "id": "7452368268",
+      "username": "@devzxbl",
+      "name": "ᯓ𝘽𝙇𝙐𝙀𝘽𝙊𝙀𝙍𝘿 𝙆𝘼𝘾𝙐𝙉𝙂 𝐓𝟓",
+      "first_start": "Senin, 1 Juni 2026 pukul 08.32.35",
+      "last_start": "Senin, 1 Juni 2026 pukul 08.32.35",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9856,8 +9864,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2432,
-  "total_users": 1226,
+  "total_start": 2433,
+  "total_users": 1227,
   "total_groups": 9,
-  "last_update": "Senin, 1 Juni 2026 pukul 08.31.37"
+  "last_update": "Senin, 1 Juni 2026 pukul 08.32.35"
 }
