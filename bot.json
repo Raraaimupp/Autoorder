@@ -9887,6 +9887,14 @@
       "first_start": "Senin, 1 Juni 2026 pukul 18.23.30",
       "last_start": "Senin, 1 Juni 2026 pukul 18.23.30",
       "total_start": 1
+    },
+    {
+      "id": "8668437267",
+      "username": "Tidak ada",
+      "name": "King Bot",
+      "first_start": "Senin, 1 Juni 2026 pukul 18.41.32",
+      "last_start": "Senin, 1 Juni 2026 pukul 18.41.32",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9936,8 +9944,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2462,
-  "total_users": 1236,
+  "total_start": 2463,
+  "total_users": 1237,
   "total_groups": 9,
-  "last_update": "Senin, 1 Juni 2026 pukul 18.41.11"
+  "last_update": "Senin, 1 Juni 2026 pukul 18.41.32"
 }
