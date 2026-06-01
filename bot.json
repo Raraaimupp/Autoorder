@@ -9839,6 +9839,14 @@
       "first_start": "Senin, 1 Juni 2026 pukul 14.51.00",
       "last_start": "Senin, 1 Juni 2026 pukul 14.51.00",
       "total_start": 1
+    },
+    {
+      "id": "8688174467",
+      "username": "Tidak ada",
+      "name": "tataaa",
+      "first_start": "Senin, 1 Juni 2026 pukul 15.11.05",
+      "last_start": "Senin, 1 Juni 2026 pukul 15.11.05",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9888,8 +9896,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2447,
-  "total_users": 1230,
+  "total_start": 2448,
+  "total_users": 1231,
   "total_groups": 9,
-  "last_update": "Senin, 1 Juni 2026 pukul 15.02.32"
+  "last_update": "Senin, 1 Juni 2026 pukul 15.11.05"
 }
