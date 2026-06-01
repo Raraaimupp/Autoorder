@@ -9847,6 +9847,14 @@
       "first_start": "Senin, 1 Juni 2026 pukul 15.11.05",
       "last_start": "Senin, 1 Juni 2026 pukul 15.11.05",
       "total_start": 1
+    },
+    {
+      "id": "8767018883",
+      "username": "Tidak ada",
+      "name": "dhiel faa",
+      "first_start": "Senin, 1 Juni 2026 pukul 15.33.45",
+      "last_start": "Senin, 1 Juni 2026 pukul 15.33.45",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9896,8 +9904,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2449,
-  "total_users": 1231,
+  "total_start": 2450,
+  "total_users": 1232,
   "total_groups": 9,
-  "last_update": "Senin, 1 Juni 2026 pukul 15.33.23"
+  "last_update": "Senin, 1 Juni 2026 pukul 15.33.45"
 }
