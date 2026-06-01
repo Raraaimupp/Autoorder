@@ -9823,6 +9823,14 @@
       "first_start": "Senin, 1 Juni 2026 pukul 09.39.41",
       "last_start": "Senin, 1 Juni 2026 pukul 09.39.41",
       "total_start": 1
+    },
+    {
+      "id": "8656475714",
+      "username": "@nihgua",
+      "name": "D",
+      "first_start": "Senin, 1 Juni 2026 pukul 12.01.59",
+      "last_start": "Senin, 1 Juni 2026 pukul 12.01.59",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9872,8 +9880,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2439,
-  "total_users": 1228,
+  "total_start": 2440,
+  "total_users": 1229,
   "total_groups": 9,
-  "last_update": "Senin, 1 Juni 2026 pukul 12.01.43"
+  "last_update": "Senin, 1 Juni 2026 pukul 12.01.59"
 }
