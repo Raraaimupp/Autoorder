@@ -9831,6 +9831,14 @@
       "first_start": "Senin, 1 Juni 2026 pukul 12.01.59",
       "last_start": "Senin, 1 Juni 2026 pukul 12.01.59",
       "total_start": 1
+    },
+    {
+      "id": "8519271010",
+      "username": "@dasdasdasasdasdqw",
+      "name": "895330103008",
+      "first_start": "Senin, 1 Juni 2026 pukul 14.51.00",
+      "last_start": "Senin, 1 Juni 2026 pukul 14.51.00",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9880,8 +9888,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2446,
-  "total_users": 1229,
+  "total_start": 2447,
+  "total_users": 1230,
   "total_groups": 9,
-  "last_update": "Senin, 1 Juni 2026 pukul 14.48.39"
+  "last_update": "Senin, 1 Juni 2026 pukul 14.51.00"
 }
