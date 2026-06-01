@@ -9855,6 +9855,14 @@
       "first_start": "Senin, 1 Juni 2026 pukul 15.33.45",
       "last_start": "Senin, 1 Juni 2026 pukul 15.33.45",
       "total_start": 1
+    },
+    {
+      "id": "8756941304",
+      "username": "@Iqwlyvn",
+      "name": "ZyennPrime",
+      "first_start": "Senin, 1 Juni 2026 pukul 15.52.57",
+      "last_start": "Senin, 1 Juni 2026 pukul 15.52.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9904,8 +9912,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2450,
-  "total_users": 1232,
+  "total_start": 2451,
+  "total_users": 1233,
   "total_groups": 9,
-  "last_update": "Senin, 1 Juni 2026 pukul 15.52.45"
+  "last_update": "Senin, 1 Juni 2026 pukul 15.52.57"
 }
