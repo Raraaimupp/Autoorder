@@ -9927,6 +9927,14 @@
       "first_start": "Selasa, 2 Juni 2026 pukul 07.03.17",
       "last_start": "Selasa, 2 Juni 2026 pukul 07.13.58",
       "total_start": 4
+    },
+    {
+      "id": "5800730744",
+      "username": "@CupidOfCrime",
+      "name": "Harleen Quinzel",
+      "first_start": "Selasa, 2 Juni 2026 pukul 07.24.48",
+      "last_start": "Selasa, 2 Juni 2026 pukul 07.24.48",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9976,8 +9984,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2481,
-  "total_users": 1241,
+  "total_start": 2482,
+  "total_users": 1242,
   "total_groups": 9,
-  "last_update": "Selasa, 2 Juni 2026 pukul 07.22.45"
+  "last_update": "Selasa, 2 Juni 2026 pukul 07.24.48"
 }
