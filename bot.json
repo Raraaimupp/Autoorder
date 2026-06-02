@@ -9919,6 +9919,14 @@
       "first_start": "Senin, 1 Juni 2026 pukul 23.05.39",
       "last_start": "Senin, 1 Juni 2026 pukul 23.05.39",
       "total_start": 1
+    },
+    {
+      "id": "8652646541",
+      "username": "@konsci67",
+      "name": "ワンズさんは本当にイケメンですね",
+      "first_start": "Selasa, 2 Juni 2026 pukul 07.03.17",
+      "last_start": "Selasa, 2 Juni 2026 pukul 07.03.17",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9968,8 +9976,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2477,
-  "total_users": 1240,
+  "total_start": 2478,
+  "total_users": 1241,
   "total_groups": 9,
-  "last_update": "Selasa, 2 Juni 2026 pukul 07.03.05"
+  "last_update": "Selasa, 2 Juni 2026 pukul 07.03.17"
 }
