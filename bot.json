@@ -10007,6 +10007,14 @@
       "first_start": "Selasa, 2 Juni 2026 pukul 19.43.48",
       "last_start": "Selasa, 2 Juni 2026 pukul 19.43.48",
       "total_start": 1
+    },
+    {
+      "id": "8123062489",
+      "username": "Tidak ada",
+      "name": "Alif Hfid",
+      "first_start": "Selasa, 2 Juni 2026 pukul 20.28.15",
+      "last_start": "Selasa, 2 Juni 2026 pukul 20.28.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10056,8 +10064,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2512,
-  "total_users": 1251,
+  "total_start": 2513,
+  "total_users": 1252,
   "total_groups": 9,
-  "last_update": "Selasa, 2 Juni 2026 pukul 20.26.49"
+  "last_update": "Selasa, 2 Juni 2026 pukul 20.28.15"
 }
