@@ -9943,6 +9943,14 @@
       "first_start": "Selasa, 2 Juni 2026 pukul 07.38.41",
       "last_start": "Selasa, 2 Juni 2026 pukul 07.38.41",
       "total_start": 1
+    },
+    {
+      "id": "8432338658",
+      "username": "Tidak ada",
+      "name": "Zai 456",
+      "first_start": "Selasa, 2 Juni 2026 pukul 08.16.52",
+      "last_start": "Selasa, 2 Juni 2026 pukul 08.16.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -9992,8 +10000,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2485,
-  "total_users": 1243,
+  "total_start": 2486,
+  "total_users": 1244,
   "total_groups": 9,
-  "last_update": "Selasa, 2 Juni 2026 pukul 08.06.51"
+  "last_update": "Selasa, 2 Juni 2026 pukul 08.16.52"
 }
