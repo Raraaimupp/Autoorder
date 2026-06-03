@@ -10223,6 +10223,14 @@
       "first_start": "Rabu, 3 Juni 2026 pukul 22.25.19",
       "last_start": "Rabu, 3 Juni 2026 pukul 22.25.19",
       "total_start": 1
+    },
+    {
+      "id": "7994157285",
+      "username": "@bigboy80",
+      "name": "BIGBOY",
+      "first_start": "Kamis, 4 Juni 2026 pukul 00.15.52",
+      "last_start": "Kamis, 4 Juni 2026 pukul 00.15.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10272,8 +10280,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2581,
-  "total_users": 1278,
+  "total_start": 2582,
+  "total_users": 1279,
   "total_groups": 9,
-  "last_update": "Kamis, 4 Juni 2026 pukul 00.15.36"
+  "last_update": "Kamis, 4 Juni 2026 pukul 00.15.52"
 }
