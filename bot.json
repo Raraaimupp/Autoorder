@@ -10207,6 +10207,14 @@
       "first_start": "Rabu, 3 Juni 2026 pukul 20.47.58",
       "last_start": "Rabu, 3 Juni 2026 pukul 20.47.58",
       "total_start": 1
+    },
+    {
+      "id": "8604125834",
+      "username": "@SuryaPanca_29",
+      "name": "SURYA_PANCA 29",
+      "first_start": "Rabu, 3 Juni 2026 pukul 21.50.09",
+      "last_start": "Rabu, 3 Juni 2026 pukul 21.50.09",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10256,8 +10264,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2575,
-  "total_users": 1276,
+  "total_start": 2576,
+  "total_users": 1277,
   "total_groups": 9,
-  "last_update": "Rabu, 3 Juni 2026 pukul 21.49.39"
+  "last_update": "Rabu, 3 Juni 2026 pukul 21.50.09"
 }
