@@ -10239,6 +10239,14 @@
       "first_start": "Kamis, 4 Juni 2026 pukul 00.33.04",
       "last_start": "Kamis, 4 Juni 2026 pukul 00.33.04",
       "total_start": 1
+    },
+    {
+      "id": "6787567359",
+      "username": "@erwanMu",
+      "name": "erwan",
+      "first_start": "Kamis, 4 Juni 2026 pukul 02.28.48",
+      "last_start": "Kamis, 4 Juni 2026 pukul 02.28.48",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10288,8 +10296,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2585,
-  "total_users": 1280,
+  "total_start": 2586,
+  "total_users": 1281,
   "total_groups": 9,
-  "last_update": "Kamis, 4 Juni 2026 pukul 02.15.22"
+  "last_update": "Kamis, 4 Juni 2026 pukul 02.28.48"
 }
