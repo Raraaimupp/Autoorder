@@ -10175,6 +10175,14 @@
       "first_start": "Rabu, 3 Juni 2026 pukul 17.50.41",
       "last_start": "Rabu, 3 Juni 2026 pukul 17.51.25",
       "total_start": 2
+    },
+    {
+      "id": "7221830767",
+      "username": "@ntyycantiistr",
+      "name": "Ntyyajaw",
+      "first_start": "Rabu, 3 Juni 2026 pukul 18.22.38",
+      "last_start": "Rabu, 3 Juni 2026 pukul 18.22.38",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10224,8 +10232,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2560,
-  "total_users": 1272,
+  "total_start": 2561,
+  "total_users": 1273,
   "total_groups": 9,
-  "last_update": "Rabu, 3 Juni 2026 pukul 18.21.41"
+  "last_update": "Rabu, 3 Juni 2026 pukul 18.22.38"
 }
