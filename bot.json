@@ -10271,6 +10271,14 @@
       "first_start": "Kamis, 4 Juni 2026 pukul 10.23.12",
       "last_start": "Kamis, 4 Juni 2026 pukul 10.23.12",
       "total_start": 1
+    },
+    {
+      "id": "7840616460",
+      "username": "Tidak ada",
+      "name": "#¡m strangs.",
+      "first_start": "Kamis, 4 Juni 2026 pukul 11.21.51",
+      "last_start": "Kamis, 4 Juni 2026 pukul 11.21.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10320,8 +10328,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2604,
-  "total_users": 1284,
+  "total_start": 2605,
+  "total_users": 1285,
   "total_groups": 9,
-  "last_update": "Kamis, 4 Juni 2026 pukul 11.20.54"
+  "last_update": "Kamis, 4 Juni 2026 pukul 11.21.51"
 }
