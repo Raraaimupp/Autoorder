@@ -10311,6 +10311,14 @@
       "first_start": "Kamis, 4 Juni 2026 pukul 13.52.17",
       "last_start": "Kamis, 4 Juni 2026 pukul 13.52.17",
       "total_start": 1
+    },
+    {
+      "id": "1233343605",
+      "username": "@Omnanzlyoramd",
+      "name": "𝐋𝐬𝐍 𝐧𝐚𝐧𝐳𝐥𝐲𝐨𝐫𝐚 ♰",
+      "first_start": "Kamis, 4 Juni 2026 pukul 14.08.56",
+      "last_start": "Kamis, 4 Juni 2026 pukul 14.08.56",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10360,8 +10368,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2616,
-  "total_users": 1289,
+  "total_start": 2617,
+  "total_users": 1290,
   "total_groups": 9,
-  "last_update": "Kamis, 4 Juni 2026 pukul 14.08.46"
+  "last_update": "Kamis, 4 Juni 2026 pukul 14.08.56"
 }
