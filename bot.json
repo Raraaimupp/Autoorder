@@ -10351,6 +10351,14 @@
       "first_start": "Kamis, 4 Juni 2026 pukul 19.53.40",
       "last_start": "Kamis, 4 Juni 2026 pukul 19.53.40",
       "total_start": 1
+    },
+    {
+      "id": "7936903559",
+      "username": "@mondyprtma",
+      "name": "one dy",
+      "first_start": "Kamis, 4 Juni 2026 pukul 23.09.52",
+      "last_start": "Kamis, 4 Juni 2026 pukul 23.09.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10400,8 +10408,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2645,
-  "total_users": 1294,
+  "total_start": 2646,
+  "total_users": 1295,
   "total_groups": 9,
-  "last_update": "Kamis, 4 Juni 2026 pukul 23.08.33"
+  "last_update": "Kamis, 4 Juni 2026 pukul 23.09.52"
 }
