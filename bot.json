@@ -10375,6 +10375,14 @@
       "first_start": "Jumat, 5 Juni 2026 pukul 03.10.05",
       "last_start": "Jumat, 5 Juni 2026 pukul 03.10.05",
       "total_start": 1
+    },
+    {
+      "id": "8031865015",
+      "username": "@parelll",
+      "name": "parelll",
+      "first_start": "Jumat, 5 Juni 2026 pukul 04.06.26",
+      "last_start": "Jumat, 5 Juni 2026 pukul 04.06.26",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10424,8 +10432,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2651,
-  "total_users": 1297,
+  "total_start": 2652,
+  "total_users": 1298,
   "total_groups": 9,
-  "last_update": "Jumat, 5 Juni 2026 pukul 04.04.37"
+  "last_update": "Jumat, 5 Juni 2026 pukul 04.06.26"
 }
