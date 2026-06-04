@@ -10367,6 +10367,14 @@
       "first_start": "Jumat, 5 Juni 2026 pukul 00.10.10",
       "last_start": "Jumat, 5 Juni 2026 pukul 00.10.10",
       "total_start": 1
+    },
+    {
+      "id": "1010228983",
+      "username": "@nevercityy",
+      "name": "Never",
+      "first_start": "Jumat, 5 Juni 2026 pukul 03.10.05",
+      "last_start": "Jumat, 5 Juni 2026 pukul 03.10.05",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10416,8 +10424,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2649,
-  "total_users": 1296,
+  "total_start": 2650,
+  "total_users": 1297,
   "total_groups": 9,
-  "last_update": "Jumat, 5 Juni 2026 pukul 03.08.56"
+  "last_update": "Jumat, 5 Juni 2026 pukul 03.10.05"
 }
