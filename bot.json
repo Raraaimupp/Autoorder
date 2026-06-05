@@ -10399,6 +10399,14 @@
       "first_start": "Jumat, 5 Juni 2026 pukul 09.41.14",
       "last_start": "Jumat, 5 Juni 2026 pukul 09.41.14",
       "total_start": 1
+    },
+    {
+      "id": "1416361330",
+      "username": "@baimzt1",
+      "name": "BAIM #Cecilia",
+      "first_start": "Jumat, 5 Juni 2026 pukul 11.33.13",
+      "last_start": "Jumat, 5 Juni 2026 pukul 11.33.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10448,8 +10456,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2669,
-  "total_users": 1300,
+  "total_start": 2670,
+  "total_users": 1301,
   "total_groups": 9,
-  "last_update": "Jumat, 5 Juni 2026 pukul 11.33.04"
+  "last_update": "Jumat, 5 Juni 2026 pukul 11.33.13"
 }
