@@ -10447,6 +10447,14 @@
       "first_start": "Jumat, 5 Juni 2026 pukul 23.29.46",
       "last_start": "Jumat, 5 Juni 2026 pukul 23.29.46",
       "total_start": 1
+    },
+    {
+      "id": "7555212775",
+      "username": "Tidak ada",
+      "name": "Jati Puspito",
+      "first_start": "Sabtu, 6 Juni 2026 pukul 01.04.50",
+      "last_start": "Sabtu, 6 Juni 2026 pukul 01.04.50",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10496,8 +10504,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2707,
-  "total_users": 1306,
+  "total_start": 2708,
+  "total_users": 1307,
   "total_groups": 9,
-  "last_update": "Sabtu, 6 Juni 2026 pukul 01.04.41"
+  "last_update": "Sabtu, 6 Juni 2026 pukul 01.04.50"
 }
