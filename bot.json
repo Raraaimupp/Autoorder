@@ -10423,6 +10423,14 @@
       "first_start": "Jumat, 5 Juni 2026 pukul 18.05.11",
       "last_start": "Jumat, 5 Juni 2026 pukul 18.05.11",
       "total_start": 1
+    },
+    {
+      "id": "7560949616",
+      "username": "@GhostMac",
+      "name": "𝐀𝐱𝐑 || 𝐌𝐚𝐜𝐁𝐫𝐨",
+      "first_start": "Jumat, 5 Juni 2026 pukul 18.48.30",
+      "last_start": "Jumat, 5 Juni 2026 pukul 18.48.30",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10472,8 +10480,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2690,
-  "total_users": 1303,
+  "total_start": 2691,
+  "total_users": 1304,
   "total_groups": 9,
-  "last_update": "Jumat, 5 Juni 2026 pukul 18.36.07"
+  "last_update": "Jumat, 5 Juni 2026 pukul 18.48.30"
 }
