@@ -10439,6 +10439,14 @@
       "first_start": "Jumat, 5 Juni 2026 pukul 18.50.55",
       "last_start": "Jumat, 5 Juni 2026 pukul 18.50.55",
       "total_start": 1
+    },
+    {
+      "id": "7787277273",
+      "username": "@rulzz2nd",
+      "name": "Rulzz OfficiaL",
+      "first_start": "Jumat, 5 Juni 2026 pukul 23.29.46",
+      "last_start": "Jumat, 5 Juni 2026 pukul 23.29.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10488,8 +10496,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2700,
-  "total_users": 1305,
+  "total_start": 2701,
+  "total_users": 1306,
   "total_groups": 9,
-  "last_update": "Jumat, 5 Juni 2026 pukul 23.26.31"
+  "last_update": "Jumat, 5 Juni 2026 pukul 23.29.46"
 }
