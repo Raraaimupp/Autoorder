@@ -10511,6 +10511,14 @@
       "first_start": "Sabtu, 6 Juni 2026 pukul 20.03.15",
       "last_start": "Sabtu, 6 Juni 2026 pukul 20.03.15",
       "total_start": 1
+    },
+    {
+      "id": "5984608272",
+      "username": "Tidak ada",
+      "name": "Rian Adriansyah",
+      "first_start": "Sabtu, 6 Juni 2026 pukul 20.29.51",
+      "last_start": "Sabtu, 6 Juni 2026 pukul 20.29.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10560,8 +10568,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2761,
-  "total_users": 1314,
+  "total_start": 2762,
+  "total_users": 1315,
   "total_groups": 9,
-  "last_update": "Sabtu, 6 Juni 2026 pukul 20.29.16"
+  "last_update": "Sabtu, 6 Juni 2026 pukul 20.29.51"
 }
