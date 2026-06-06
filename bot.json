@@ -10519,6 +10519,14 @@
       "first_start": "Sabtu, 6 Juni 2026 pukul 20.29.51",
       "last_start": "Sabtu, 6 Juni 2026 pukul 20.29.51",
       "total_start": 1
+    },
+    {
+      "id": "8212483951",
+      "username": "Tidak ada",
+      "name": "Danu market",
+      "first_start": "Sabtu, 6 Juni 2026 pukul 22.29.10",
+      "last_start": "Sabtu, 6 Juni 2026 pukul 22.29.10",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10568,8 +10576,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2766,
-  "total_users": 1315,
+  "total_start": 2767,
+  "total_users": 1316,
   "total_groups": 9,
-  "last_update": "Sabtu, 6 Juni 2026 pukul 22.25.13"
+  "last_update": "Sabtu, 6 Juni 2026 pukul 22.29.10"
 }
