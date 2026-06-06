@@ -10527,6 +10527,14 @@
       "first_start": "Sabtu, 6 Juni 2026 pukul 22.29.10",
       "last_start": "Sabtu, 6 Juni 2026 pukul 22.29.10",
       "total_start": 1
+    },
+    {
+      "id": "8521414814",
+      "username": "Tidak ada",
+      "name": "Jii",
+      "first_start": "Sabtu, 6 Juni 2026 pukul 23.46.17",
+      "last_start": "Sabtu, 6 Juni 2026 pukul 23.46.17",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10576,8 +10584,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2768,
-  "total_users": 1316,
+  "total_start": 2769,
+  "total_users": 1317,
   "total_groups": 9,
-  "last_update": "Sabtu, 6 Juni 2026 pukul 23.46.05"
+  "last_update": "Sabtu, 6 Juni 2026 pukul 23.46.17"
 }
