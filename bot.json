@@ -10503,6 +10503,14 @@
       "first_start": "Sabtu, 6 Juni 2026 pukul 15.05.58",
       "last_start": "Sabtu, 6 Juni 2026 pukul 15.05.58",
       "total_start": 1
+    },
+    {
+      "id": "1442313665",
+      "username": "@KIELOFFICIAL",
+      "name": "𝗞𝗜𝗘𝗟[OPEN UBOT&BOT JASHER]",
+      "first_start": "Sabtu, 6 Juni 2026 pukul 20.03.15",
+      "last_start": "Sabtu, 6 Juni 2026 pukul 20.03.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10552,8 +10560,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2760,
-  "total_users": 1313,
+  "total_start": 2761,
+  "total_users": 1314,
   "total_groups": 9,
-  "last_update": "Sabtu, 6 Juni 2026 pukul 20.02.39"
+  "last_update": "Sabtu, 6 Juni 2026 pukul 20.03.15"
 }
