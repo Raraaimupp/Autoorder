@@ -10607,6 +10607,14 @@
       "first_start": "Minggu, 7 Juni 2026 pukul 13.57.48",
       "last_start": "Minggu, 7 Juni 2026 pukul 14.02.38",
       "total_start": 4
+    },
+    {
+      "id": "8386610741",
+      "username": "@yutahirasawa",
+      "name": "平沢裕太",
+      "first_start": "Minggu, 7 Juni 2026 pukul 15.13.54",
+      "last_start": "Minggu, 7 Juni 2026 pukul 15.13.54",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10656,8 +10664,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2785,
-  "total_users": 1326,
+  "total_start": 2786,
+  "total_users": 1327,
   "total_groups": 9,
-  "last_update": "Minggu, 7 Juni 2026 pukul 15.13.14"
+  "last_update": "Minggu, 7 Juni 2026 pukul 15.13.54"
 }
