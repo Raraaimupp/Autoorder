@@ -10671,6 +10671,14 @@
       "first_start": "Minggu, 7 Juni 2026 pukul 23.42.28",
       "last_start": "Minggu, 7 Juni 2026 pukul 23.42.28",
       "total_start": 1
+    },
+    {
+      "id": "6735310063",
+      "username": "@athenaws",
+      "name": "bìbinn #ravencrest!",
+      "first_start": "Minggu, 7 Juni 2026 pukul 23.43.27",
+      "last_start": "Minggu, 7 Juni 2026 pukul 23.43.27",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10720,8 +10728,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2803,
-  "total_users": 1334,
+  "total_start": 2804,
+  "total_users": 1335,
   "total_groups": 9,
-  "last_update": "Minggu, 7 Juni 2026 pukul 23.42.28"
+  "last_update": "Minggu, 7 Juni 2026 pukul 23.43.27"
 }
