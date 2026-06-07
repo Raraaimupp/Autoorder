@@ -10583,6 +10583,14 @@
       "first_start": "Minggu, 7 Juni 2026 pukul 10.47.09",
       "last_start": "Minggu, 7 Juni 2026 pukul 10.47.09",
       "total_start": 1
+    },
+    {
+      "id": "7448167894",
+      "username": "@blegorblegor",
+      "name": "orang timuran",
+      "first_start": "Minggu, 7 Juni 2026 pukul 12.30.37",
+      "last_start": "Minggu, 7 Juni 2026 pukul 12.30.37",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10632,8 +10640,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2778,
-  "total_users": 1323,
+  "total_start": 2779,
+  "total_users": 1324,
   "total_groups": 9,
-  "last_update": "Minggu, 7 Juni 2026 pukul 12.29.50"
+  "last_update": "Minggu, 7 Juni 2026 pukul 12.30.37"
 }
