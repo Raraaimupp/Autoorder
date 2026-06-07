@@ -10687,6 +10687,14 @@
       "first_start": "Minggu, 7 Juni 2026 pukul 23.52.17",
       "last_start": "Minggu, 7 Juni 2026 pukul 23.52.17",
       "total_start": 1
+    },
+    {
+      "id": "6938557339",
+      "username": "@kingKongmerintis",
+      "name": "lem Setan",
+      "first_start": "Senin, 8 Juni 2026 pukul 00.02.50",
+      "last_start": "Senin, 8 Juni 2026 pukul 00.02.50",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10736,8 +10744,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2805,
-  "total_users": 1336,
+  "total_start": 2806,
+  "total_users": 1337,
   "total_groups": 9,
-  "last_update": "Senin, 8 Juni 2026 pukul 00.01.25"
+  "last_update": "Senin, 8 Juni 2026 pukul 00.02.50"
 }
