@@ -10695,6 +10695,14 @@
       "first_start": "Senin, 8 Juni 2026 pukul 00.02.50",
       "last_start": "Senin, 8 Juni 2026 pukul 00.02.50",
       "total_start": 1
+    },
+    {
+      "id": "5747605738",
+      "username": "@anwercap",
+      "name": "Abdul_FIK_Informatika",
+      "first_start": "Senin, 8 Juni 2026 pukul 11.34.51",
+      "last_start": "Senin, 8 Juni 2026 pukul 11.34.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10744,8 +10752,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2808,
-  "total_users": 1337,
+  "total_start": 2809,
+  "total_users": 1338,
   "total_groups": 9,
-  "last_update": "Senin, 8 Juni 2026 pukul 11.31.35"
+  "last_update": "Senin, 8 Juni 2026 pukul 11.34.51"
 }
