@@ -10711,6 +10711,14 @@
       "first_start": "Senin, 8 Juni 2026 pukul 13.22.13",
       "last_start": "Senin, 8 Juni 2026 pukul 13.26.08",
       "total_start": 2
+    },
+    {
+      "id": "8826802027",
+      "username": "Tidak ada",
+      "name": "zyn z",
+      "first_start": "Senin, 8 Juni 2026 pukul 16.54.47",
+      "last_start": "Senin, 8 Juni 2026 pukul 16.54.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10760,8 +10768,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2821,
-  "total_users": 1339,
+  "total_start": 2822,
+  "total_users": 1340,
   "total_groups": 9,
-  "last_update": "Senin, 8 Juni 2026 pukul 16.53.20"
+  "last_update": "Senin, 8 Juni 2026 pukul 16.54.47"
 }
