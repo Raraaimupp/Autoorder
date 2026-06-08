@@ -10727,6 +10727,14 @@
       "first_start": "Senin, 8 Juni 2026 pukul 16.57.06",
       "last_start": "Senin, 8 Juni 2026 pukul 16.57.06",
       "total_start": 1
+    },
+    {
+      "id": "1739788661",
+      "username": "@juanllll",
+      "name": "J-_- ------",
+      "first_start": "Senin, 8 Juni 2026 pukul 20.43.51",
+      "last_start": "Senin, 8 Juni 2026 pukul 20.43.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10776,8 +10784,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2832,
-  "total_users": 1341,
+  "total_start": 2833,
+  "total_users": 1342,
   "total_groups": 9,
-  "last_update": "Senin, 8 Juni 2026 pukul 20.39.04"
+  "last_update": "Senin, 8 Juni 2026 pukul 20.43.51"
 }
