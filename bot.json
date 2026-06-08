@@ -10719,6 +10719,14 @@
       "first_start": "Senin, 8 Juni 2026 pukul 16.54.47",
       "last_start": "Senin, 8 Juni 2026 pukul 16.54.47",
       "total_start": 1
+    },
+    {
+      "id": "8040740385",
+      "username": "@iammm04",
+      "name": "iamm",
+      "first_start": "Senin, 8 Juni 2026 pukul 16.57.06",
+      "last_start": "Senin, 8 Juni 2026 pukul 16.57.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10768,8 +10776,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2823,
-  "total_users": 1340,
+  "total_start": 2824,
+  "total_users": 1341,
   "total_groups": 9,
-  "last_update": "Senin, 8 Juni 2026 pukul 16.56.54"
+  "last_update": "Senin, 8 Juni 2026 pukul 16.57.06"
 }
