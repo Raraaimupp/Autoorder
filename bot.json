@@ -2469,8 +2469,8 @@
       "username": "@yonn_md",
       "name": "YONN",
       "first_start": "Minggu, 3 Mei 2026 pukul 09.25.55",
-      "last_start": "Selasa, 9 Juni 2026 pukul 07.25.58",
-      "total_start": 4
+      "last_start": "Selasa, 9 Juni 2026 pukul 07.26.14",
+      "total_start": 5
     },
     {
       "id": "8007232366",
@@ -10832,8 +10832,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2850,
+  "total_start": 2851,
   "total_users": 1348,
   "total_groups": 9,
-  "last_update": "Selasa, 9 Juni 2026 pukul 07.25.58"
+  "last_update": "Selasa, 9 Juni 2026 pukul 07.26.14"
 }
