@@ -10791,6 +10791,14 @@
       "first_start": "Selasa, 9 Juni 2026 pukul 13.14.12",
       "last_start": "Selasa, 9 Juni 2026 pukul 13.14.12",
       "total_start": 1
+    },
+    {
+      "id": "7921920963",
+      "username": "Tidak ada",
+      "name": "opet dt",
+      "first_start": "Selasa, 9 Juni 2026 pukul 18.03.29",
+      "last_start": "Selasa, 9 Juni 2026 pukul 18.03.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10840,8 +10848,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2859,
-  "total_users": 1349,
+  "total_start": 2860,
+  "total_users": 1350,
   "total_groups": 9,
-  "last_update": "Selasa, 9 Juni 2026 pukul 18.02.59"
+  "last_update": "Selasa, 9 Juni 2026 pukul 18.03.29"
 }
