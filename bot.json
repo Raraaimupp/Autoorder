@@ -10783,6 +10783,14 @@
       "first_start": "Selasa, 9 Juni 2026 pukul 07.23.15",
       "last_start": "Selasa, 9 Juni 2026 pukul 07.23.15",
       "total_start": 1
+    },
+    {
+      "id": "8216279027",
+      "username": "@zhatanixx",
+      "name": "Zhatanixx",
+      "first_start": "Selasa, 9 Juni 2026 pukul 13.14.12",
+      "last_start": "Selasa, 9 Juni 2026 pukul 13.14.12",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10832,8 +10840,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2856,
-  "total_users": 1348,
+  "total_start": 2857,
+  "total_users": 1349,
   "total_groups": 9,
-  "last_update": "Selasa, 9 Juni 2026 pukul 13.13.28"
+  "last_update": "Selasa, 9 Juni 2026 pukul 13.14.12"
 }
