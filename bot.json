@@ -10775,6 +10775,14 @@
       "first_start": "Selasa, 9 Juni 2026 pukul 03.22.55",
       "last_start": "Selasa, 9 Juni 2026 pukul 03.22.55",
       "total_start": 1
+    },
+    {
+      "id": "6466529294",
+      "username": "@Acengblopuu",
+      "name": "Vanzz",
+      "first_start": "Selasa, 9 Juni 2026 pukul 07.23.15",
+      "last_start": "Selasa, 9 Juni 2026 pukul 07.23.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10824,8 +10832,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2848,
-  "total_users": 1347,
+  "total_start": 2849,
+  "total_users": 1348,
   "total_groups": 9,
-  "last_update": "Selasa, 9 Juni 2026 pukul 07.20.57"
+  "last_update": "Selasa, 9 Juni 2026 pukul 07.23.15"
 }
