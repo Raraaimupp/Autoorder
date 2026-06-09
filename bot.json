@@ -10823,6 +10823,14 @@
       "first_start": "Selasa, 9 Juni 2026 pukul 21.41.36",
       "last_start": "Selasa, 9 Juni 2026 pukul 21.41.36",
       "total_start": 1
+    },
+    {
+      "id": "1947335493",
+      "username": "@UniversG",
+      "name": ".",
+      "first_start": "Rabu, 10 Juni 2026 pukul 01.34.09",
+      "last_start": "Rabu, 10 Juni 2026 pukul 01.34.09",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10872,8 +10880,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2865,
-  "total_users": 1353,
+  "total_start": 2866,
+  "total_users": 1354,
   "total_groups": 9,
-  "last_update": "Rabu, 10 Juni 2026 pukul 01.16.17"
+  "last_update": "Rabu, 10 Juni 2026 pukul 01.34.09"
 }
