@@ -10855,6 +10855,14 @@
       "first_start": "Rabu, 10 Juni 2026 pukul 10.13.32",
       "last_start": "Rabu, 10 Juni 2026 pukul 10.13.32",
       "total_start": 1
+    },
+    {
+      "id": "6098349651",
+      "username": "Tidak ada",
+      "name": "bkn siapa'",
+      "first_start": "Rabu, 10 Juni 2026 pukul 11.20.26",
+      "last_start": "Rabu, 10 Juni 2026 pukul 11.20.26",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10904,8 +10912,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2873,
-  "total_users": 1357,
+  "total_start": 2874,
+  "total_users": 1358,
   "total_groups": 9,
-  "last_update": "Rabu, 10 Juni 2026 pukul 11.19.48"
+  "last_update": "Rabu, 10 Juni 2026 pukul 11.20.26"
 }
