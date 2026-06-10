@@ -10847,6 +10847,14 @@
       "first_start": "Rabu, 10 Juni 2026 pukul 08.24.50",
       "last_start": "Rabu, 10 Juni 2026 pukul 08.24.50",
       "total_start": 1
+    },
+    {
+      "id": "8329324452",
+      "username": "Tidak ada",
+      "name": "febri",
+      "first_start": "Rabu, 10 Juni 2026 pukul 10.13.32",
+      "last_start": "Rabu, 10 Juni 2026 pukul 10.13.32",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10896,8 +10904,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2871,
-  "total_users": 1356,
+  "total_start": 2872,
+  "total_users": 1357,
   "total_groups": 9,
-  "last_update": "Rabu, 10 Juni 2026 pukul 10.11.09"
+  "last_update": "Rabu, 10 Juni 2026 pukul 10.13.32"
 }
