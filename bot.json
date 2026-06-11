@@ -10871,6 +10871,14 @@
       "first_start": "Rabu, 10 Juni 2026 pukul 23.31.38",
       "last_start": "Rabu, 10 Juni 2026 pukul 23.31.38",
       "total_start": 1
+    },
+    {
+      "id": "8533097544",
+      "username": "@jiaabase",
+      "name": "jiaabase | open",
+      "first_start": "Kamis, 11 Juni 2026 pukul 08.29.06",
+      "last_start": "Kamis, 11 Juni 2026 pukul 08.29.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10920,8 +10928,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2885,
-  "total_users": 1359,
+  "total_start": 2886,
+  "total_users": 1360,
   "total_groups": 9,
-  "last_update": "Kamis, 11 Juni 2026 pukul 08.28.51"
+  "last_update": "Kamis, 11 Juni 2026 pukul 08.29.06"
 }
