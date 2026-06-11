@@ -10919,6 +10919,14 @@
       "first_start": "Kamis, 11 Juni 2026 pukul 18.55.53",
       "last_start": "Kamis, 11 Juni 2026 pukul 18.55.53",
       "total_start": 1
+    },
+    {
+      "id": "8412830994",
+      "username": "@buggytampan",
+      "name": "𝙱𝚄𝙶𝙶𝚈 || 𝙽𝙾𝚃 𝙵𝙾𝚄𝙽𝙳",
+      "first_start": "Kamis, 11 Juni 2026 pukul 19.40.53",
+      "last_start": "Kamis, 11 Juni 2026 pukul 19.40.53",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10968,8 +10976,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2894,
-  "total_users": 1365,
+  "total_start": 2895,
+  "total_users": 1366,
   "total_groups": 9,
-  "last_update": "Kamis, 11 Juni 2026 pukul 19.40.38"
+  "last_update": "Kamis, 11 Juni 2026 pukul 19.40.53"
 }
