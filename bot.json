@@ -10887,6 +10887,14 @@
       "first_start": "Kamis, 11 Juni 2026 pukul 09.26.29",
       "last_start": "Kamis, 11 Juni 2026 pukul 09.26.29",
       "total_start": 1
+    },
+    {
+      "id": "8630843996",
+      "username": "@sann_baru",
+      "name": "S",
+      "first_start": "Kamis, 11 Juni 2026 pukul 14.05.10",
+      "last_start": "Kamis, 11 Juni 2026 pukul 14.05.10",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -10936,8 +10944,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2889,
-  "total_users": 1361,
+  "total_start": 2890,
+  "total_users": 1362,
   "total_groups": 9,
-  "last_update": "Kamis, 11 Juni 2026 pukul 14.04.48"
+  "last_update": "Kamis, 11 Juni 2026 pukul 14.05.10"
 }
