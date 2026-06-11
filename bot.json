@@ -10959,6 +10959,14 @@
       "first_start": "Kamis, 11 Juni 2026 pukul 22.17.44",
       "last_start": "Kamis, 11 Juni 2026 pukul 22.17.44",
       "total_start": 1
+    },
+    {
+      "id": "8250631251",
+      "username": "@maklopler",
+      "name": "𝐿𝓎𝒹𝒾𝒶 𝒮𝓉𝑜𝓇𝑒 𝐼𝓂𝓊𝓅",
+      "first_start": "Jumat, 12 Juni 2026 pukul 06.50.22",
+      "last_start": "Jumat, 12 Juni 2026 pukul 06.50.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11008,8 +11016,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2907,
-  "total_users": 1370,
+  "total_start": 2908,
+  "total_users": 1371,
   "total_groups": 9,
-  "last_update": "Jumat, 12 Juni 2026 pukul 06.50.04"
+  "last_update": "Jumat, 12 Juni 2026 pukul 06.50.22"
 }
