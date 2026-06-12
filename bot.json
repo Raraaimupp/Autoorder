@@ -10975,6 +10975,14 @@
       "first_start": "Jumat, 12 Juni 2026 pukul 07.35.51",
       "last_start": "Jumat, 12 Juni 2026 pukul 07.35.51",
       "total_start": 1
+    },
+    {
+      "id": "6961551634",
+      "username": "@lasuu8",
+      "name": "la back to me",
+      "first_start": "Jumat, 12 Juni 2026 pukul 13.38.20",
+      "last_start": "Jumat, 12 Juni 2026 pukul 13.38.20",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11024,8 +11032,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2922,
-  "total_users": 1372,
+  "total_start": 2923,
+  "total_users": 1373,
   "total_groups": 9,
-  "last_update": "Jumat, 12 Juni 2026 pukul 13.37.39"
+  "last_update": "Jumat, 12 Juni 2026 pukul 13.38.20"
 }
