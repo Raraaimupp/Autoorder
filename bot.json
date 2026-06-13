@@ -11055,6 +11055,14 @@
       "first_start": "Sabtu, 13 Juni 2026 pukul 20.44.15",
       "last_start": "Sabtu, 13 Juni 2026 pukul 20.48.50",
       "total_start": 3
+    },
+    {
+      "id": "7803465479",
+      "username": "Tidak ada",
+      "name": "imxxzz",
+      "first_start": "Sabtu, 13 Juni 2026 pukul 21.29.51",
+      "last_start": "Sabtu, 13 Juni 2026 pukul 21.29.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11104,8 +11112,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2948,
-  "total_users": 1382,
+  "total_start": 2949,
+  "total_users": 1383,
   "total_groups": 9,
-  "last_update": "Sabtu, 13 Juni 2026 pukul 21.29.34"
+  "last_update": "Sabtu, 13 Juni 2026 pukul 21.29.51"
 }
