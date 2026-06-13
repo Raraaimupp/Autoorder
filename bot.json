@@ -11079,6 +11079,14 @@
       "first_start": "Minggu, 14 Juni 2026 pukul 01.05.57",
       "last_start": "Minggu, 14 Juni 2026 pukul 01.05.57",
       "total_start": 1
+    },
+    {
+      "id": "7498813352",
+      "username": "@Galazyxs",
+      "name": "Legam1337",
+      "first_start": "Minggu, 14 Juni 2026 pukul 05.35.55",
+      "last_start": "Minggu, 14 Juni 2026 pukul 05.35.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11128,8 +11136,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2952,
-  "total_users": 1385,
+  "total_start": 2953,
+  "total_users": 1386,
   "total_groups": 9,
-  "last_update": "Minggu, 14 Juni 2026 pukul 04.59.51"
+  "last_update": "Minggu, 14 Juni 2026 pukul 05.35.55"
 }
