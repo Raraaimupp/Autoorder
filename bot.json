@@ -11047,6 +11047,14 @@
       "first_start": "Sabtu, 13 Juni 2026 pukul 19.19.57",
       "last_start": "Sabtu, 13 Juni 2026 pukul 19.20.33",
       "total_start": 2
+    },
+    {
+      "id": "8441932542",
+      "username": "@NizZzzxy",
+      "name": "NizZ",
+      "first_start": "Sabtu, 13 Juni 2026 pukul 20.44.15",
+      "last_start": "Sabtu, 13 Juni 2026 pukul 20.44.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11096,8 +11104,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2943,
-  "total_users": 1381,
+  "total_start": 2944,
+  "total_users": 1382,
   "total_groups": 9,
-  "last_update": "Sabtu, 13 Juni 2026 pukul 20.43.25"
+  "last_update": "Sabtu, 13 Juni 2026 pukul 20.44.15"
 }
