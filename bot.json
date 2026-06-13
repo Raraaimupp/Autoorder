@@ -11071,6 +11071,14 @@
       "first_start": "Sabtu, 13 Juni 2026 pukul 21.50.16",
       "last_start": "Sabtu, 13 Juni 2026 pukul 21.50.16",
       "total_start": 1
+    },
+    {
+      "id": "8612503605",
+      "username": "@Relna1",
+      "name": "Relna",
+      "first_start": "Minggu, 14 Juni 2026 pukul 01.05.57",
+      "last_start": "Minggu, 14 Juni 2026 pukul 01.05.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11120,8 +11128,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2951,
-  "total_users": 1384,
+  "total_start": 2952,
+  "total_users": 1385,
   "total_groups": 9,
-  "last_update": "Minggu, 14 Juni 2026 pukul 01.04.51"
+  "last_update": "Minggu, 14 Juni 2026 pukul 01.05.57"
 }
