@@ -11143,6 +11143,14 @@
       "first_start": "Minggu, 14 Juni 2026 pukul 18.51.40",
       "last_start": "Minggu, 14 Juni 2026 pukul 18.51.40",
       "total_start": 1
+    },
+    {
+      "id": "6041697539",
+      "username": "@nunadsz",
+      "name": "~ dd",
+      "first_start": "Minggu, 14 Juni 2026 pukul 19.03.57",
+      "last_start": "Minggu, 14 Juni 2026 pukul 19.03.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11192,8 +11200,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3001,
-  "total_users": 1393,
+  "total_start": 3002,
+  "total_users": 1394,
   "total_groups": 9,
-  "last_update": "Minggu, 14 Juni 2026 pukul 19.03.39"
+  "last_update": "Minggu, 14 Juni 2026 pukul 19.03.57"
 }
