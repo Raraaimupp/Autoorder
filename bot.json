@@ -7885,8 +7885,8 @@
       "username": "Tidak ada",
       "name": "Pensi di dunia bug",
       "first_start": "Sabtu, 23 Mei 2026 pukul 18.53.44",
-      "last_start": "Sabtu, 23 Mei 2026 pukul 18.53.44",
-      "total_start": 1
+      "last_start": "Minggu, 14 Juni 2026 pukul 19.37.04",
+      "total_start": 2
     },
     {
       "id": "8261602791",
@@ -11208,8 +11208,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3003,
+  "total_start": 3004,
   "total_users": 1395,
   "total_groups": 9,
-  "last_update": "Minggu, 14 Juni 2026 pukul 19.36.47"
+  "last_update": "Minggu, 14 Juni 2026 pukul 19.37.04"
 }
