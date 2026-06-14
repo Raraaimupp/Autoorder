@@ -11135,6 +11135,14 @@
       "first_start": "Minggu, 14 Juni 2026 pukul 17.49.05",
       "last_start": "Minggu, 14 Juni 2026 pukul 17.49.05",
       "total_start": 1
+    },
+    {
+      "id": "8613378026",
+      "username": "@kiyyakitcies",
+      "name": "Kiyya's",
+      "first_start": "Minggu, 14 Juni 2026 pukul 18.51.40",
+      "last_start": "Minggu, 14 Juni 2026 pukul 18.51.40",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11184,8 +11192,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3000,
-  "total_users": 1392,
+  "total_start": 3001,
+  "total_users": 1393,
   "total_groups": 9,
-  "last_update": "Minggu, 14 Juni 2026 pukul 18.51.22"
+  "last_update": "Minggu, 14 Juni 2026 pukul 18.51.40"
 }
