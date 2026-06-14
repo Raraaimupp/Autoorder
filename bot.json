@@ -11087,6 +11087,14 @@
       "first_start": "Minggu, 14 Juni 2026 pukul 05.35.55",
       "last_start": "Minggu, 14 Juni 2026 pukul 06.02.15",
       "total_start": 4
+    },
+    {
+      "id": "8687175030",
+      "username": "@ztopiacrash",
+      "name": "ZTOPIA CRASH",
+      "first_start": "Minggu, 14 Juni 2026 pukul 07.48.18",
+      "last_start": "Minggu, 14 Juni 2026 pukul 07.48.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11136,8 +11144,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 2959,
-  "total_users": 1386,
+  "total_start": 2960,
+  "total_users": 1387,
   "total_groups": 9,
-  "last_update": "Minggu, 14 Juni 2026 pukul 07.46.37"
+  "last_update": "Minggu, 14 Juni 2026 pukul 07.48.18"
 }
