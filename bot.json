@@ -11215,6 +11215,14 @@
       "first_start": "Selasa, 16 Juni 2026 pukul 01.05.59",
       "last_start": "Selasa, 16 Juni 2026 pukul 01.05.59",
       "total_start": 1
+    },
+    {
+      "id": "6107459330",
+      "username": "@ezystr",
+      "name": "么𝑬𝒛𝒚𝕭𝖚𝖌メ𝕾𝖙𝖔𝖗𝖊ツ {OPEN OTAX & EVIL}",
+      "first_start": "Selasa, 16 Juni 2026 pukul 01.20.31",
+      "last_start": "Selasa, 16 Juni 2026 pukul 01.20.31",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11264,8 +11272,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3038,
-  "total_users": 1402,
+  "total_start": 3039,
+  "total_users": 1403,
   "total_groups": 9,
-  "last_update": "Selasa, 16 Juni 2026 pukul 01.10.12"
+  "last_update": "Selasa, 16 Juni 2026 pukul 01.20.31"
 }
