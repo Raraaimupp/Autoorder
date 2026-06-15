@@ -11183,6 +11183,14 @@
       "first_start": "Senin, 15 Juni 2026 pukul 17.18.29",
       "last_start": "Senin, 15 Juni 2026 pukul 17.18.29",
       "total_start": 1
+    },
+    {
+      "id": "8453736864",
+      "username": "@Sirkelperkasa",
+      "name": "Felixxd",
+      "first_start": "Senin, 15 Juni 2026 pukul 18.58.29",
+      "last_start": "Senin, 15 Juni 2026 pukul 18.58.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11232,8 +11240,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3026,
-  "total_users": 1398,
+  "total_start": 3027,
+  "total_users": 1399,
   "total_groups": 9,
-  "last_update": "Senin, 15 Juni 2026 pukul 18.58.18"
+  "last_update": "Senin, 15 Juni 2026 pukul 18.58.29"
 }
