@@ -11287,6 +11287,14 @@
       "first_start": "Selasa, 16 Juni 2026 pukul 23.28.36",
       "last_start": "Selasa, 16 Juni 2026 pukul 23.28.36",
       "total_start": 1
+    },
+    {
+      "id": "7786208549",
+      "username": "@yytimm",
+      "name": "azèxx #ravencrest!",
+      "first_start": "Selasa, 16 Juni 2026 pukul 23.57.41",
+      "last_start": "Selasa, 16 Juni 2026 pukul 23.57.41",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11336,8 +11344,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3075,
-  "total_users": 1411,
+  "total_start": 3076,
+  "total_users": 1412,
   "total_groups": 9,
-  "last_update": "Selasa, 16 Juni 2026 pukul 23.56.34"
+  "last_update": "Selasa, 16 Juni 2026 pukul 23.57.41"
 }
