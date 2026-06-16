@@ -11263,6 +11263,14 @@
       "first_start": "Selasa, 16 Juni 2026 pukul 16.59.08",
       "last_start": "Selasa, 16 Juni 2026 pukul 16.59.08",
       "total_start": 1
+    },
+    {
+      "id": "8449317355",
+      "username": "@lulzback",
+      "name": "𝐋𝐮𝐥𝐳𝐳",
+      "first_start": "Selasa, 16 Juni 2026 pukul 17.47.56",
+      "last_start": "Selasa, 16 Juni 2026 pukul 17.47.56",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11312,8 +11320,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3065,
-  "total_users": 1408,
+  "total_start": 3066,
+  "total_users": 1409,
   "total_groups": 9,
-  "last_update": "Selasa, 16 Juni 2026 pukul 17.45.06"
+  "last_update": "Selasa, 16 Juni 2026 pukul 17.47.56"
 }
