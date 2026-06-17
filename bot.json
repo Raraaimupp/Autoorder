@@ -11295,6 +11295,14 @@
       "first_start": "Selasa, 16 Juni 2026 pukul 23.57.41",
       "last_start": "Selasa, 16 Juni 2026 pukul 23.57.41",
       "total_start": 1
+    },
+    {
+      "id": "5038271512",
+      "username": "@KalRizi",
+      "name": "Kalrizi Han",
+      "first_start": "Rabu, 17 Juni 2026 pukul 11.55.25",
+      "last_start": "Rabu, 17 Juni 2026 pukul 11.55.25",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11344,8 +11352,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3081,
-  "total_users": 1412,
+  "total_start": 3082,
+  "total_users": 1413,
   "total_groups": 9,
-  "last_update": "Rabu, 17 Juni 2026 pukul 11.55.10"
+  "last_update": "Rabu, 17 Juni 2026 pukul 11.55.25"
 }
