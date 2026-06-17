@@ -11303,6 +11303,14 @@
       "first_start": "Rabu, 17 Juni 2026 pukul 11.55.25",
       "last_start": "Rabu, 17 Juni 2026 pukul 11.55.25",
       "total_start": 1
+    },
+    {
+      "id": "1705496343",
+      "username": "@GabreilRey",
+      "name": "Báldwin 𝒇𝒐𝒓𝒕𝒘𝒚𝒏𝒕𝒚",
+      "first_start": "Rabu, 17 Juni 2026 pukul 11.56.50",
+      "last_start": "Rabu, 17 Juni 2026 pukul 11.56.50",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11352,8 +11360,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3082,
-  "total_users": 1413,
+  "total_start": 3083,
+  "total_users": 1414,
   "total_groups": 9,
-  "last_update": "Rabu, 17 Juni 2026 pukul 11.55.25"
+  "last_update": "Rabu, 17 Juni 2026 pukul 11.56.50"
 }
