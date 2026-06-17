@@ -11311,6 +11311,14 @@
       "first_start": "Rabu, 17 Juni 2026 pukul 11.56.50",
       "last_start": "Rabu, 17 Juni 2026 pukul 11.56.50",
       "total_start": 1
+    },
+    {
+      "id": "7594819587",
+      "username": "@cyberlakiya",
+      "name": "DEVOLOPER LAKIYA",
+      "first_start": "Rabu, 17 Juni 2026 pukul 19.26.38",
+      "last_start": "Rabu, 17 Juni 2026 pukul 19.26.38",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11360,8 +11368,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3092,
-  "total_users": 1414,
+  "total_start": 3093,
+  "total_users": 1415,
   "total_groups": 9,
-  "last_update": "Rabu, 17 Juni 2026 pukul 19.26.13"
+  "last_update": "Rabu, 17 Juni 2026 pukul 19.26.38"
 }
