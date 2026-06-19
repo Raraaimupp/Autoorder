@@ -11407,6 +11407,14 @@
       "first_start": "Jumat, 19 Juni 2026 pukul 16.11.22",
       "last_start": "Jumat, 19 Juni 2026 pukul 16.11.22",
       "total_start": 1
+    },
+    {
+      "id": "1908261831",
+      "username": "@AAAlvarezaaaa",
+      "name": "alvareza",
+      "first_start": "Jumat, 19 Juni 2026 pukul 16.45.19",
+      "last_start": "Jumat, 19 Juni 2026 pukul 16.45.19",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11456,8 +11464,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3136,
-  "total_users": 1426,
+  "total_start": 3137,
+  "total_users": 1427,
   "total_groups": 9,
-  "last_update": "Jumat, 19 Juni 2026 pukul 16.38.00"
+  "last_update": "Jumat, 19 Juni 2026 pukul 16.45.19"
 }
