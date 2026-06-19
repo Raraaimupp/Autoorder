@@ -11439,6 +11439,14 @@
       "first_start": "Sabtu, 20 Juni 2026 pukul 00.04.13",
       "last_start": "Sabtu, 20 Juni 2026 pukul 00.04.13",
       "total_start": 1
+    },
+    {
+      "id": "7532659293",
+      "username": "Tidak ada",
+      "name": "Ff Ff",
+      "first_start": "Sabtu, 20 Juni 2026 pukul 03.12.59",
+      "last_start": "Sabtu, 20 Juni 2026 pukul 03.12.59",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11488,8 +11496,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3148,
-  "total_users": 1430,
+  "total_start": 3149,
+  "total_users": 1431,
   "total_groups": 9,
-  "last_update": "Sabtu, 20 Juni 2026 pukul 03.09.09"
+  "last_update": "Sabtu, 20 Juni 2026 pukul 03.12.59"
 }
