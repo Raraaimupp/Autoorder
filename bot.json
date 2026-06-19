@@ -11367,6 +11367,14 @@
       "first_start": "Kamis, 18 Juni 2026 pukul 23.02.46",
       "last_start": "Kamis, 18 Juni 2026 pukul 23.02.46",
       "total_start": 1
+    },
+    {
+      "id": "8043894796",
+      "username": "@zaqstr",
+      "name": "ZAQQQ STUREE",
+      "first_start": "Jumat, 19 Juni 2026 pukul 11.19.09",
+      "last_start": "Jumat, 19 Juni 2026 pukul 11.19.09",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11416,8 +11424,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3126,
-  "total_users": 1421,
+  "total_start": 3127,
+  "total_users": 1422,
   "total_groups": 9,
-  "last_update": "Jumat, 19 Juni 2026 pukul 11.18.56"
+  "last_update": "Jumat, 19 Juni 2026 pukul 11.19.09"
 }
