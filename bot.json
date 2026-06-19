@@ -11391,6 +11391,14 @@
       "first_start": "Jumat, 19 Juni 2026 pukul 14.40.10",
       "last_start": "Jumat, 19 Juni 2026 pukul 14.40.10",
       "total_start": 1
+    },
+    {
+      "id": "8643487681",
+      "username": "@Nekopoi_cantik",
+      "name": "𝓟𝓻𝓲𝓷𝓬𝓮𝓼𝓼 ~𝓷𝓮𝓴𝓸𝓹𝓪𝓲",
+      "first_start": "Jumat, 19 Juni 2026 pukul 14.42.46",
+      "last_start": "Jumat, 19 Juni 2026 pukul 14.42.46",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11440,8 +11448,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3132,
-  "total_users": 1424,
+  "total_start": 3133,
+  "total_users": 1425,
   "total_groups": 9,
-  "last_update": "Jumat, 19 Juni 2026 pukul 14.42.32"
+  "last_update": "Jumat, 19 Juni 2026 pukul 14.42.46"
 }
