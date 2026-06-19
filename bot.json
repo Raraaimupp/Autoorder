@@ -11383,6 +11383,14 @@
       "first_start": "Jumat, 19 Juni 2026 pukul 14.16.22",
       "last_start": "Jumat, 19 Juni 2026 pukul 14.16.22",
       "total_start": 1
+    },
+    {
+      "id": "1326831948",
+      "username": "@ManzzValentp",
+      "name": "𝗠𝗮𝗻𝘇'𝘀𝘅",
+      "first_start": "Jumat, 19 Juni 2026 pukul 14.40.10",
+      "last_start": "Jumat, 19 Juni 2026 pukul 14.40.10",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11432,8 +11440,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3131,
-  "total_users": 1423,
+  "total_start": 3132,
+  "total_users": 1424,
   "total_groups": 9,
-  "last_update": "Jumat, 19 Juni 2026 pukul 14.39.53"
+  "last_update": "Jumat, 19 Juni 2026 pukul 14.40.10"
 }
