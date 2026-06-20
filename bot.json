@@ -11519,6 +11519,14 @@
       "first_start": "Sabtu, 20 Juni 2026 pukul 19.54.05",
       "last_start": "Sabtu, 20 Juni 2026 pukul 19.54.05",
       "total_start": 1
+    },
+    {
+      "id": "8230191821",
+      "username": "@Akuncomback",
+      "name": "Stock Friend #1",
+      "first_start": "Sabtu, 20 Juni 2026 pukul 21.12.11",
+      "last_start": "Sabtu, 20 Juni 2026 pukul 21.12.11",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11568,8 +11576,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3172,
-  "total_users": 1440,
+  "total_start": 3173,
+  "total_users": 1441,
   "total_groups": 9,
-  "last_update": "Sabtu, 20 Juni 2026 pukul 21.09.53"
+  "last_update": "Sabtu, 20 Juni 2026 pukul 21.12.11"
 }
