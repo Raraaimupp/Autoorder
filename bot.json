@@ -11559,6 +11559,14 @@
       "first_start": "Sabtu, 20 Juni 2026 pukul 22.19.35",
       "last_start": "Sabtu, 20 Juni 2026 pukul 22.19.35",
       "total_start": 1
+    },
+    {
+      "id": "1884965269",
+      "username": "Tidak ada",
+      "name": "YNTKTS",
+      "first_start": "Minggu, 21 Juni 2026 pukul 03.45.49",
+      "last_start": "Minggu, 21 Juni 2026 pukul 03.45.49",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11608,8 +11616,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3183,
-  "total_users": 1445,
+  "total_start": 3184,
+  "total_users": 1446,
   "total_groups": 9,
-  "last_update": "Minggu, 21 Juni 2026 pukul 03.02.36"
+  "last_update": "Minggu, 21 Juni 2026 pukul 03.45.49"
 }
