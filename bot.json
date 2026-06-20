@@ -11551,6 +11551,14 @@
       "first_start": "Sabtu, 20 Juni 2026 pukul 21.32.37",
       "last_start": "Sabtu, 20 Juni 2026 pukul 21.32.37",
       "total_start": 1
+    },
+    {
+      "id": "2137005754",
+      "username": "@Khususpromosibibi",
+      "name": "akun promosi",
+      "first_start": "Sabtu, 20 Juni 2026 pukul 22.19.35",
+      "last_start": "Sabtu, 20 Juni 2026 pukul 22.19.35",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11600,8 +11608,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3177,
-  "total_users": 1444,
+  "total_start": 3178,
+  "total_users": 1445,
   "total_groups": 9,
-  "last_update": "Sabtu, 20 Juni 2026 pukul 22.19.28"
+  "last_update": "Sabtu, 20 Juni 2026 pukul 22.19.35"
 }
