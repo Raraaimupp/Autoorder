@@ -11471,6 +11471,14 @@
       "first_start": "Sabtu, 20 Juni 2026 pukul 16.33.46",
       "last_start": "Sabtu, 20 Juni 2026 pukul 16.33.46",
       "total_start": 1
+    },
+    {
+      "id": "8423323172",
+      "username": "Tidak ada",
+      "name": "Steffees",
+      "first_start": "Sabtu, 20 Juni 2026 pukul 16.38.22",
+      "last_start": "Sabtu, 20 Juni 2026 pukul 16.38.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11520,8 +11528,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3160,
-  "total_users": 1434,
+  "total_start": 3161,
+  "total_users": 1435,
   "total_groups": 9,
-  "last_update": "Sabtu, 20 Juni 2026 pukul 16.38.15"
+  "last_update": "Sabtu, 20 Juni 2026 pukul 16.38.22"
 }
