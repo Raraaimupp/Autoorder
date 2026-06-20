@@ -11447,6 +11447,14 @@
       "first_start": "Sabtu, 20 Juni 2026 pukul 03.12.59",
       "last_start": "Sabtu, 20 Juni 2026 pukul 03.12.59",
       "total_start": 1
+    },
+    {
+      "id": "8471132942",
+      "username": "@fixerist",
+      "name": "Ew अमीरी!?",
+      "first_start": "Sabtu, 20 Juni 2026 pukul 11.28.52",
+      "last_start": "Sabtu, 20 Juni 2026 pukul 11.28.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11496,8 +11504,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3151,
-  "total_users": 1431,
+  "total_start": 3152,
+  "total_users": 1432,
   "total_groups": 9,
-  "last_update": "Sabtu, 20 Juni 2026 pukul 11.27.52"
+  "last_update": "Sabtu, 20 Juni 2026 pukul 11.28.52"
 }
