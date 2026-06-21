@@ -11607,6 +11607,14 @@
       "first_start": "Minggu, 21 Juni 2026 pukul 21.33.08",
       "last_start": "Minggu, 21 Juni 2026 pukul 21.33.08",
       "total_start": 1
+    },
+    {
+      "id": "6265004459",
+      "username": "Tidak ada",
+      "name": "Andai",
+      "first_start": "Minggu, 21 Juni 2026 pukul 22.48.48",
+      "last_start": "Minggu, 21 Juni 2026 pukul 22.48.48",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11656,8 +11664,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3215,
-  "total_users": 1451,
+  "total_start": 3216,
+  "total_users": 1452,
   "total_groups": 9,
-  "last_update": "Minggu, 21 Juni 2026 pukul 22.45.23"
+  "last_update": "Minggu, 21 Juni 2026 pukul 22.48.48"
 }
