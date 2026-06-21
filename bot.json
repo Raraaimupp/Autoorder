@@ -11583,6 +11583,14 @@
       "first_start": "Minggu, 21 Juni 2026 pukul 10.05.56",
       "last_start": "Minggu, 21 Juni 2026 pukul 10.05.56",
       "total_start": 1
+    },
+    {
+      "id": "8046272890",
+      "username": "Tidak ada",
+      "name": "𝐇𝐀𝐅𝐈𝐒|𝐖𝐁",
+      "first_start": "Minggu, 21 Juni 2026 pukul 12.55.51",
+      "last_start": "Minggu, 21 Juni 2026 pukul 12.55.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11632,8 +11640,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3191,
-  "total_users": 1448,
+  "total_start": 3192,
+  "total_users": 1449,
   "total_groups": 9,
-  "last_update": "Minggu, 21 Juni 2026 pukul 12.54.00"
+  "last_update": "Minggu, 21 Juni 2026 pukul 12.55.51"
 }
