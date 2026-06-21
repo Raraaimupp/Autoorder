@@ -11639,6 +11639,14 @@
       "first_start": "Senin, 22 Juni 2026 pukul 01.24.07",
       "last_start": "Senin, 22 Juni 2026 pukul 01.24.07",
       "total_start": 1
+    },
+    {
+      "id": "8532186175",
+      "username": "Tidak ada",
+      "name": "FALXZ",
+      "first_start": "Senin, 22 Juni 2026 pukul 03.33.09",
+      "last_start": "Senin, 22 Juni 2026 pukul 03.33.09",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11688,8 +11696,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3221,
-  "total_users": 1455,
+  "total_start": 3222,
+  "total_users": 1456,
   "total_groups": 9,
-  "last_update": "Senin, 22 Juni 2026 pukul 03.32.28"
+  "last_update": "Senin, 22 Juni 2026 pukul 03.33.09"
 }
