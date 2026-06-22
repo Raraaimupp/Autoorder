@@ -11661,8 +11661,8 @@
       "username": "@Official_Monzo_Support_Banking58",
       "name": "Support Monzo Banking Service",
       "first_start": "Senin, 22 Juni 2026 pukul 07.10.42",
-      "last_start": "Senin, 22 Juni 2026 pukul 07.10.42",
-      "total_start": 1
+      "last_start": "Senin, 22 Juni 2026 pukul 07.19.29",
+      "total_start": 2
     },
     {
       "id": "6777550697",
@@ -11720,8 +11720,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3225,
+  "total_start": 3226,
   "total_users": 1459,
   "total_groups": 9,
-  "last_update": "Senin, 22 Juni 2026 pukul 07.18.56"
+  "last_update": "Senin, 22 Juni 2026 pukul 07.19.29"
 }
