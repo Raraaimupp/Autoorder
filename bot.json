@@ -11791,6 +11791,14 @@
       "first_start": "Selasa, 23 Juni 2026 pukul 03.17.33",
       "last_start": "Selasa, 23 Juni 2026 pukul 03.17.33",
       "total_start": 1
+    },
+    {
+      "id": "7805851236",
+      "username": "Tidak ada",
+      "name": "Agil Skip",
+      "first_start": "Selasa, 23 Juni 2026 pukul 04.47.11",
+      "last_start": "Selasa, 23 Juni 2026 pukul 04.47.11",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11840,8 +11848,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3265,
-  "total_users": 1474,
+  "total_start": 3266,
+  "total_users": 1475,
   "total_groups": 9,
-  "last_update": "Selasa, 23 Juni 2026 pukul 04.03.50"
+  "last_update": "Selasa, 23 Juni 2026 pukul 04.47.11"
 }
