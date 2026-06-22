@@ -11735,6 +11735,14 @@
       "first_start": "Senin, 22 Juni 2026 pukul 17.19.32",
       "last_start": "Senin, 22 Juni 2026 pukul 17.19.32",
       "total_start": 1
+    },
+    {
+      "id": "7433323658",
+      "username": "Tidak ada",
+      "name": "gtau",
+      "first_start": "Senin, 22 Juni 2026 pukul 17.57.06",
+      "last_start": "Senin, 22 Juni 2026 pukul 17.57.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11784,8 +11792,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3253,
-  "total_users": 1467,
+  "total_start": 3254,
+  "total_users": 1468,
   "total_groups": 9,
-  "last_update": "Senin, 22 Juni 2026 pukul 17.46.41"
+  "last_update": "Senin, 22 Juni 2026 pukul 17.57.06"
 }
