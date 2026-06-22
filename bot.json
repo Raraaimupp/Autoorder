@@ -11751,6 +11751,14 @@
       "first_start": "Senin, 22 Juni 2026 pukul 19.14.43",
       "last_start": "Senin, 22 Juni 2026 pukul 19.14.43",
       "total_start": 1
+    },
+    {
+      "id": "1192923257",
+      "username": "@renalfack",
+      "name": "𝐑𝐞𝐧𝐚𝐥 #𝐕𝐞𝐬𝐭𝐨𝐧𝐞",
+      "first_start": "Senin, 22 Juni 2026 pukul 20.48.33",
+      "last_start": "Senin, 22 Juni 2026 pukul 20.48.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11800,8 +11808,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3259,
-  "total_users": 1469,
+  "total_start": 3260,
+  "total_users": 1470,
   "total_groups": 9,
-  "last_update": "Senin, 22 Juni 2026 pukul 20.48.21"
+  "last_update": "Senin, 22 Juni 2026 pukul 20.48.33"
 }
