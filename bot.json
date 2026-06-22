@@ -11727,6 +11727,14 @@
       "first_start": "Senin, 22 Juni 2026 pukul 14.48.02",
       "last_start": "Senin, 22 Juni 2026 pukul 14.48.02",
       "total_start": 1
+    },
+    {
+      "id": "8531101956",
+      "username": "@opan4",
+      "name": "Opan",
+      "first_start": "Senin, 22 Juni 2026 pukul 17.19.32",
+      "last_start": "Senin, 22 Juni 2026 pukul 17.19.32",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11776,8 +11784,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3252,
-  "total_users": 1466,
+  "total_start": 3253,
+  "total_users": 1467,
   "total_groups": 9,
-  "last_update": "Senin, 22 Juni 2026 pukul 17.19.11"
+  "last_update": "Senin, 22 Juni 2026 pukul 17.19.32"
 }
