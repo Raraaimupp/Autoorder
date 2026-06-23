@@ -11815,6 +11815,14 @@
       "first_start": "Selasa, 23 Juni 2026 pukul 08.35.27",
       "last_start": "Selasa, 23 Juni 2026 pukul 08.35.27",
       "total_start": 1
+    },
+    {
+      "id": "8445172958",
+      "username": "Tidak ada",
+      "name": "shapey thineee_",
+      "first_start": "Selasa, 23 Juni 2026 pukul 10.28.13",
+      "last_start": "Selasa, 23 Juni 2026 pukul 10.28.13",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11864,8 +11872,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3272,
-  "total_users": 1477,
+  "total_start": 3273,
+  "total_users": 1478,
   "total_groups": 9,
-  "last_update": "Selasa, 23 Juni 2026 pukul 10.27.44"
+  "last_update": "Selasa, 23 Juni 2026 pukul 10.28.13"
 }
