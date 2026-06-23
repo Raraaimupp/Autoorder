@@ -11879,6 +11879,14 @@
       "first_start": "Selasa, 23 Juni 2026 pukul 22.13.09",
       "last_start": "Selasa, 23 Juni 2026 pukul 22.13.09",
       "total_start": 1
+    },
+    {
+      "id": "6483903419",
+      "username": "@juanntamvan1",
+      "name": "juanntamvan¹",
+      "first_start": "Rabu, 24 Juni 2026 pukul 01.04.28",
+      "last_start": "Rabu, 24 Juni 2026 pukul 01.04.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11928,8 +11936,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3289,
-  "total_users": 1485,
+  "total_start": 3290,
+  "total_users": 1486,
   "total_groups": 9,
-  "last_update": "Rabu, 24 Juni 2026 pukul 00.57.51"
+  "last_update": "Rabu, 24 Juni 2026 pukul 01.04.28"
 }
