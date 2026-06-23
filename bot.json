@@ -11807,6 +11807,14 @@
       "first_start": "Selasa, 23 Juni 2026 pukul 05.52.17",
       "last_start": "Selasa, 23 Juni 2026 pukul 05.52.17",
       "total_start": 1
+    },
+    {
+      "id": "8684949027",
+      "username": "@dik15s",
+      "name": "DIKZ TRAVELER",
+      "first_start": "Selasa, 23 Juni 2026 pukul 08.35.27",
+      "last_start": "Selasa, 23 Juni 2026 pukul 08.35.27",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11856,8 +11864,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3270,
-  "total_users": 1476,
+  "total_start": 3271,
+  "total_users": 1477,
   "total_groups": 9,
-  "last_update": "Selasa, 23 Juni 2026 pukul 08.34.19"
+  "last_update": "Selasa, 23 Juni 2026 pukul 08.35.27"
 }
