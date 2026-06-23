@@ -11831,6 +11831,14 @@
       "first_start": "Selasa, 23 Juni 2026 pukul 10.45.20",
       "last_start": "Selasa, 23 Juni 2026 pukul 10.45.20",
       "total_start": 1
+    },
+    {
+      "id": "5644861421",
+      "username": "@Sholihinr",
+      "name": "M.S M.S",
+      "first_start": "Selasa, 23 Juni 2026 pukul 14.14.02",
+      "last_start": "Selasa, 23 Juni 2026 pukul 14.14.02",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11880,8 +11888,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3274,
-  "total_users": 1479,
+  "total_start": 3275,
+  "total_users": 1480,
   "total_groups": 9,
-  "last_update": "Selasa, 23 Juni 2026 pukul 14.12.22"
+  "last_update": "Selasa, 23 Juni 2026 pukul 14.14.02"
 }
