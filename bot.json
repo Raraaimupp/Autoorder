@@ -11839,6 +11839,14 @@
       "first_start": "Selasa, 23 Juni 2026 pukul 14.14.02",
       "last_start": "Selasa, 23 Juni 2026 pukul 14.14.02",
       "total_start": 1
+    },
+    {
+      "id": "1286837132",
+      "username": "Tidak ada",
+      "name": "Radit Ponggi",
+      "first_start": "Selasa, 23 Juni 2026 pukul 15.26.01",
+      "last_start": "Selasa, 23 Juni 2026 pukul 15.26.01",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11888,8 +11896,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3276,
-  "total_users": 1480,
+  "total_start": 3277,
+  "total_users": 1481,
   "total_groups": 9,
-  "last_update": "Selasa, 23 Juni 2026 pukul 15.18.36"
+  "last_update": "Selasa, 23 Juni 2026 pukul 15.26.01"
 }
