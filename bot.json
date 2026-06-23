@@ -11847,6 +11847,14 @@
       "first_start": "Selasa, 23 Juni 2026 pukul 15.26.01",
       "last_start": "Selasa, 23 Juni 2026 pukul 15.26.01",
       "total_start": 1
+    },
+    {
+      "id": "7897495551",
+      "username": "@buavitaq",
+      "name": "githa",
+      "first_start": "Selasa, 23 Juni 2026 pukul 15.31.04",
+      "last_start": "Selasa, 23 Juni 2026 pukul 15.31.04",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11896,8 +11904,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3277,
-  "total_users": 1481,
+  "total_start": 3278,
+  "total_users": 1482,
   "total_groups": 9,
-  "last_update": "Selasa, 23 Juni 2026 pukul 15.27.53"
+  "last_update": "Selasa, 23 Juni 2026 pukul 15.31.04"
 }
