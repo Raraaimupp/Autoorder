@@ -11887,6 +11887,14 @@
       "first_start": "Rabu, 24 Juni 2026 pukul 01.04.28",
       "last_start": "Rabu, 24 Juni 2026 pukul 01.04.28",
       "total_start": 1
+    },
+    {
+      "id": "8946271579",
+      "username": "@RizoneFX",
+      "name": "RizoneFX",
+      "first_start": "Rabu, 24 Juni 2026 pukul 10.07.24",
+      "last_start": "Rabu, 24 Juni 2026 pukul 10.07.24",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11936,8 +11944,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3294,
-  "total_users": 1486,
+  "total_start": 3295,
+  "total_users": 1487,
   "total_groups": 9,
-  "last_update": "Rabu, 24 Juni 2026 pukul 09.55.05"
+  "last_update": "Rabu, 24 Juni 2026 pukul 10.07.24"
 }
