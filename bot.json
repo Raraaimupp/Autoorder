@@ -11919,6 +11919,14 @@
       "first_start": "Rabu, 24 Juni 2026 pukul 19.33.12",
       "last_start": "Rabu, 24 Juni 2026 pukul 19.33.12",
       "total_start": 1
+    },
+    {
+      "id": "8028792055",
+      "username": "@cxtni",
+      "name": "tukang sunat",
+      "first_start": "Rabu, 24 Juni 2026 pukul 21.09.49",
+      "last_start": "Rabu, 24 Juni 2026 pukul 21.09.49",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11968,8 +11976,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3310,
-  "total_users": 1490,
+  "total_start": 3311,
+  "total_users": 1491,
   "total_groups": 9,
-  "last_update": "Rabu, 24 Juni 2026 pukul 21.09.10"
+  "last_update": "Rabu, 24 Juni 2026 pukul 21.09.49"
 }
