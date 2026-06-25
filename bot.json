@@ -12007,6 +12007,14 @@
       "first_start": "Jumat, 26 Juni 2026 pukul 00.07.05",
       "last_start": "Jumat, 26 Juni 2026 pukul 00.07.05",
       "total_start": 1
+    },
+    {
+      "id": "8616808014",
+      "username": "@lanzzstorereal",
+      "name": "lannn",
+      "first_start": "Jumat, 26 Juni 2026 pukul 00.46.42",
+      "last_start": "Jumat, 26 Juni 2026 pukul 00.46.42",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12056,8 +12064,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3337,
-  "total_users": 1501,
+  "total_start": 3338,
+  "total_users": 1502,
   "total_groups": 9,
-  "last_update": "Jumat, 26 Juni 2026 pukul 00.45.54"
+  "last_update": "Jumat, 26 Juni 2026 pukul 00.46.42"
 }
