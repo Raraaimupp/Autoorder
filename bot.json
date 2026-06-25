@@ -11991,6 +11991,14 @@
       "first_start": "Kamis, 25 Juni 2026 pukul 21.17.10",
       "last_start": "Kamis, 25 Juni 2026 pukul 21.23.39",
       "total_start": 2
+    },
+    {
+      "id": "8311457725",
+      "username": "@BossFikarrr",
+      "name": "𝙁𝙄𝙆𝘼𝙍𝙉𝙀𝙒𝙀𝙍𝘼",
+      "first_start": "Jumat, 26 Juni 2026 pukul 00.03.02",
+      "last_start": "Jumat, 26 Juni 2026 pukul 00.03.02",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12040,8 +12048,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3334,
-  "total_users": 1499,
+  "total_start": 3335,
+  "total_users": 1500,
   "total_groups": 9,
-  "last_update": "Kamis, 25 Juni 2026 pukul 23.56.34"
+  "last_update": "Jumat, 26 Juni 2026 pukul 00.03.02"
 }
