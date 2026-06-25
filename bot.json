@@ -11967,6 +11967,14 @@
       "first_start": "Kamis, 25 Juni 2026 pukul 16.21.49",
       "last_start": "Kamis, 25 Juni 2026 pukul 16.21.49",
       "total_start": 1
+    },
+    {
+      "id": "8755104867",
+      "username": "Tidak ada",
+      "name": "Ceo putra",
+      "first_start": "Kamis, 25 Juni 2026 pukul 20.25.07",
+      "last_start": "Kamis, 25 Juni 2026 pukul 20.25.07",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12016,8 +12024,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3327,
-  "total_users": 1496,
+  "total_start": 3328,
+  "total_users": 1497,
   "total_groups": 9,
-  "last_update": "Kamis, 25 Juni 2026 pukul 20.24.56"
+  "last_update": "Kamis, 25 Juni 2026 pukul 20.25.07"
 }
