@@ -11943,6 +11943,14 @@
       "first_start": "Kamis, 25 Juni 2026 pukul 08.30.13",
       "last_start": "Kamis, 25 Juni 2026 pukul 08.30.13",
       "total_start": 1
+    },
+    {
+      "id": "8541533699",
+      "username": "@addstorejebeh",
+      "name": "ADDSTORE JEBEH",
+      "first_start": "Kamis, 25 Juni 2026 pukul 08.39.22",
+      "last_start": "Kamis, 25 Juni 2026 pukul 08.39.22",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -11992,8 +12000,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3315,
-  "total_users": 1493,
+  "total_start": 3316,
+  "total_users": 1494,
   "total_groups": 9,
-  "last_update": "Kamis, 25 Juni 2026 pukul 08.30.13"
+  "last_update": "Kamis, 25 Juni 2026 pukul 08.39.22"
 }
