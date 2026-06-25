@@ -12039,6 +12039,14 @@
       "first_start": "Jumat, 26 Juni 2026 pukul 05.21.18",
       "last_start": "Jumat, 26 Juni 2026 pukul 05.21.18",
       "total_start": 1
+    },
+    {
+      "id": "6061462360",
+      "username": "@Terrorx963",
+      "name": "Terror 963",
+      "first_start": "Jumat, 26 Juni 2026 pukul 05.21.48",
+      "last_start": "Jumat, 26 Juni 2026 pukul 05.21.48",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12088,8 +12096,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3347,
-  "total_users": 1505,
+  "total_start": 3348,
+  "total_users": 1506,
   "total_groups": 9,
-  "last_update": "Jumat, 26 Juni 2026 pukul 05.21.18"
+  "last_update": "Jumat, 26 Juni 2026 pukul 05.21.48"
 }
