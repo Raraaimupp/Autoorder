@@ -12031,6 +12031,14 @@
       "first_start": "Jumat, 26 Juni 2026 pukul 02.27.26",
       "last_start": "Jumat, 26 Juni 2026 pukul 02.27.26",
       "total_start": 1
+    },
+    {
+      "id": "7549219256",
+      "username": "@TsukinomoriMashiro",
+      "name": "Mashiro Tsuki",
+      "first_start": "Jumat, 26 Juni 2026 pukul 05.21.18",
+      "last_start": "Jumat, 26 Juni 2026 pukul 05.21.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12080,8 +12088,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3346,
-  "total_users": 1504,
+  "total_start": 3347,
+  "total_users": 1505,
   "total_groups": 9,
-  "last_update": "Jumat, 26 Juni 2026 pukul 05.20.18"
+  "last_update": "Jumat, 26 Juni 2026 pukul 05.21.18"
 }
