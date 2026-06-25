@@ -11951,6 +11951,14 @@
       "first_start": "Kamis, 25 Juni 2026 pukul 08.39.22",
       "last_start": "Kamis, 25 Juni 2026 pukul 08.39.22",
       "total_start": 1
+    },
+    {
+      "id": "8598044599",
+      "username": "Tidak ada",
+      "name": "zan",
+      "first_start": "Kamis, 25 Juni 2026 pukul 12.57.58",
+      "last_start": "Kamis, 25 Juni 2026 pukul 12.57.58",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12000,8 +12008,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3324,
-  "total_users": 1494,
+  "total_start": 3325,
+  "total_users": 1495,
   "total_groups": 9,
-  "last_update": "Kamis, 25 Juni 2026 pukul 12.56.01"
+  "last_update": "Kamis, 25 Juni 2026 pukul 12.57.58"
 }
