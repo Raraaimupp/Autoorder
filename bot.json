@@ -7965,8 +7965,8 @@
       "username": "@put_masih_proses",
       "name": "PUTRA",
       "first_start": "Minggu, 24 Mei 2026 pukul 00.24.51",
-      "last_start": "Jumat, 26 Juni 2026 pukul 23.08.35",
-      "total_start": 7
+      "last_start": "Jumat, 26 Juni 2026 pukul 23.08.55",
+      "total_start": 8
     },
     {
       "id": "1361903408",
@@ -12168,8 +12168,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3375,
+  "total_start": 3376,
   "total_users": 1515,
   "total_groups": 9,
-  "last_update": "Jumat, 26 Juni 2026 pukul 23.08.35"
+  "last_update": "Jumat, 26 Juni 2026 pukul 23.08.55"
 }
