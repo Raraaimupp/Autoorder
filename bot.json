@@ -12047,6 +12047,14 @@
       "first_start": "Jumat, 26 Juni 2026 pukul 05.21.48",
       "last_start": "Jumat, 26 Juni 2026 pukul 05.21.48",
       "total_start": 1
+    },
+    {
+      "id": "8497881177",
+      "username": "@FranzzOnly",
+      "name": "Franzz",
+      "first_start": "Jumat, 26 Juni 2026 pukul 10.36.55",
+      "last_start": "Jumat, 26 Juni 2026 pukul 10.36.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12096,8 +12104,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3348,
-  "total_users": 1506,
+  "total_start": 3349,
+  "total_users": 1507,
   "total_groups": 9,
-  "last_update": "Jumat, 26 Juni 2026 pukul 10.36.01"
+  "last_update": "Jumat, 26 Juni 2026 pukul 10.36.55"
 }
