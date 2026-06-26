@@ -12087,6 +12087,14 @@
       "first_start": "Jumat, 26 Juni 2026 pukul 16.01.53",
       "last_start": "Jumat, 26 Juni 2026 pukul 16.01.53",
       "total_start": 1
+    },
+    {
+      "id": "7947392087",
+      "username": "@Tang_sanGod",
+      "name": "Tang San",
+      "first_start": "Jumat, 26 Juni 2026 pukul 16.50.49",
+      "last_start": "Jumat, 26 Juni 2026 pukul 16.50.49",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12136,8 +12144,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3359,
-  "total_users": 1511,
+  "total_start": 3360,
+  "total_users": 1512,
   "total_groups": 9,
-  "last_update": "Jumat, 26 Juni 2026 pukul 16.40.38"
+  "last_update": "Jumat, 26 Juni 2026 pukul 16.50.49"
 }
