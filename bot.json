@@ -12095,6 +12095,14 @@
       "first_start": "Jumat, 26 Juni 2026 pukul 16.50.49",
       "last_start": "Jumat, 26 Juni 2026 pukul 16.50.49",
       "total_start": 1
+    },
+    {
+      "id": "8196437365",
+      "username": "@yajujmanuk",
+      "name": "𝐃𝐢𝐱𝐳𝐳𝐗𝐃 𝟗𝟔𝟗",
+      "first_start": "Jumat, 26 Juni 2026 pukul 16.54.42",
+      "last_start": "Jumat, 26 Juni 2026 pukul 16.54.42",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12144,8 +12152,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3360,
-  "total_users": 1512,
+  "total_start": 3361,
+  "total_users": 1513,
   "total_groups": 9,
-  "last_update": "Jumat, 26 Juni 2026 pukul 16.54.00"
+  "last_update": "Jumat, 26 Juni 2026 pukul 16.54.42"
 }
