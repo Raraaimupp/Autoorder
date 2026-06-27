@@ -12175,6 +12175,14 @@
       "first_start": "Sabtu, 27 Juni 2026 pukul 11.44.23",
       "last_start": "Sabtu, 27 Juni 2026 pukul 11.44.51",
       "total_start": 2
+    },
+    {
+      "id": "8522766015",
+      "username": "@Xyee14",
+      "name": "Xyee STR (OPEN MURBUG)",
+      "first_start": "Sabtu, 27 Juni 2026 pukul 13.05.14",
+      "last_start": "Sabtu, 27 Juni 2026 pukul 13.05.14",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12224,8 +12232,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3397,
-  "total_users": 1522,
+  "total_start": 3398,
+  "total_users": 1523,
   "total_groups": 9,
-  "last_update": "Sabtu, 27 Juni 2026 pukul 13.01.14"
+  "last_update": "Sabtu, 27 Juni 2026 pukul 13.05.14"
 }
