@@ -12151,6 +12151,14 @@
       "first_start": "Sabtu, 27 Juni 2026 pukul 10.01.18",
       "last_start": "Sabtu, 27 Juni 2026 pukul 10.01.18",
       "total_start": 1
+    },
+    {
+      "id": "8283586473",
+      "username": "@dilxxx67",
+      "name": "M bar 🍷",
+      "first_start": "Sabtu, 27 Juni 2026 pukul 10.07.29",
+      "last_start": "Sabtu, 27 Juni 2026 pukul 10.07.29",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12200,8 +12208,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3387,
-  "total_users": 1519,
+  "total_start": 3388,
+  "total_users": 1520,
   "total_groups": 9,
-  "last_update": "Sabtu, 27 Juni 2026 pukul 10.06.36"
+  "last_update": "Sabtu, 27 Juni 2026 pukul 10.07.29"
 }
