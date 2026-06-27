@@ -12223,6 +12223,14 @@
       "first_start": "Minggu, 28 Juni 2026 pukul 02.26.05",
       "last_start": "Minggu, 28 Juni 2026 pukul 03.25.13",
       "total_start": 2
+    },
+    {
+      "id": "1057039596",
+      "username": "@after_sweet",
+      "name": "XSM",
+      "first_start": "Minggu, 28 Juni 2026 pukul 03.44.08",
+      "last_start": "Minggu, 28 Juni 2026 pukul 03.44.08",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12272,8 +12280,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3415,
-  "total_users": 1528,
+  "total_start": 3416,
+  "total_users": 1529,
   "total_groups": 9,
-  "last_update": "Minggu, 28 Juni 2026 pukul 03.35.55"
+  "last_update": "Minggu, 28 Juni 2026 pukul 03.44.08"
 }
