@@ -12207,6 +12207,14 @@
       "first_start": "Sabtu, 27 Juni 2026 pukul 23.20.01",
       "last_start": "Sabtu, 27 Juni 2026 pukul 23.20.01",
       "total_start": 1
+    },
+    {
+      "id": "1930414861",
+      "username": "@terjurn",
+      "name": "611.",
+      "first_start": "Sabtu, 27 Juni 2026 pukul 23.20.48",
+      "last_start": "Sabtu, 27 Juni 2026 pukul 23.20.48",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12256,8 +12264,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3409,
-  "total_users": 1526,
+  "total_start": 3410,
+  "total_users": 1527,
   "total_groups": 9,
-  "last_update": "Sabtu, 27 Juni 2026 pukul 23.20.01"
+  "last_update": "Sabtu, 27 Juni 2026 pukul 23.20.48"
 }
