@@ -12191,6 +12191,14 @@
       "first_start": "Sabtu, 27 Juni 2026 pukul 13.06.31",
       "last_start": "Sabtu, 27 Juni 2026 pukul 13.06.31",
       "total_start": 1
+    },
+    {
+      "id": "289695151",
+      "username": "@tell4so",
+      "name": "Télaso!",
+      "first_start": "Sabtu, 27 Juni 2026 pukul 13.59.30",
+      "last_start": "Sabtu, 27 Juni 2026 pukul 13.59.30",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12240,8 +12248,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3399,
-  "total_users": 1524,
+  "total_start": 3400,
+  "total_users": 1525,
   "total_groups": 9,
-  "last_update": "Sabtu, 27 Juni 2026 pukul 13.56.39"
+  "last_update": "Sabtu, 27 Juni 2026 pukul 13.59.30"
 }
