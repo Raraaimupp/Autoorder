@@ -12143,6 +12143,14 @@
       "first_start": "Sabtu, 27 Juni 2026 pukul 08.42.08",
       "last_start": "Sabtu, 27 Juni 2026 pukul 08.42.36",
       "total_start": 2
+    },
+    {
+      "id": "8097221606",
+      "username": "@Kaizen_Real",
+      "name": "✧ - ゼツ 𝙺𝙰𝙸𝚉𝙴𝙽 𝐓𝟓",
+      "first_start": "Sabtu, 27 Juni 2026 pukul 10.01.18",
+      "last_start": "Sabtu, 27 Juni 2026 pukul 10.01.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12192,8 +12200,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3386,
-  "total_users": 1518,
+  "total_start": 3387,
+  "total_users": 1519,
   "total_groups": 9,
-  "last_update": "Sabtu, 27 Juni 2026 pukul 10.00.40"
+  "last_update": "Sabtu, 27 Juni 2026 pukul 10.01.18"
 }
