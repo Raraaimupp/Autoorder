@@ -12159,6 +12159,14 @@
       "first_start": "Sabtu, 27 Juni 2026 pukul 10.07.29",
       "last_start": "Sabtu, 27 Juni 2026 pukul 10.15.03",
       "total_start": 2
+    },
+    {
+      "id": "1216141423",
+      "username": "@RizzOficiall",
+      "name": "𝐑𝐈𝐙𝐙 𝐎𝐅𝐈𝐂𝐈𝐀𝐋",
+      "first_start": "Sabtu, 27 Juni 2026 pukul 10.48.47",
+      "last_start": "Sabtu, 27 Juni 2026 pukul 10.48.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12208,8 +12216,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3390,
-  "total_users": 1520,
+  "total_start": 3391,
+  "total_users": 1521,
   "total_groups": 9,
-  "last_update": "Sabtu, 27 Juni 2026 pukul 10.37.28"
+  "last_update": "Sabtu, 27 Juni 2026 pukul 10.48.47"
 }
