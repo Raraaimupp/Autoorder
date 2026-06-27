@@ -12183,6 +12183,14 @@
       "first_start": "Sabtu, 27 Juni 2026 pukul 13.05.14",
       "last_start": "Sabtu, 27 Juni 2026 pukul 13.05.14",
       "total_start": 1
+    },
+    {
+      "id": "1956929425",
+      "username": "@FATHERBIKINBOT",
+      "name": "BotFather",
+      "first_start": "Sabtu, 27 Juni 2026 pukul 13.06.31",
+      "last_start": "Sabtu, 27 Juni 2026 pukul 13.06.31",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12232,8 +12240,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3398,
-  "total_users": 1523,
+  "total_start": 3399,
+  "total_users": 1524,
   "total_groups": 9,
-  "last_update": "Sabtu, 27 Juni 2026 pukul 13.05.14"
+  "last_update": "Sabtu, 27 Juni 2026 pukul 13.06.31"
 }
