@@ -12239,6 +12239,14 @@
       "first_start": "Minggu, 28 Juni 2026 pukul 10.25.55",
       "last_start": "Minggu, 28 Juni 2026 pukul 10.25.55",
       "total_start": 1
+    },
+    {
+      "id": "8291980308",
+      "username": "@HIDUPJOKOWI111",
+      "name": "AL?",
+      "first_start": "Minggu, 28 Juni 2026 pukul 10.32.20",
+      "last_start": "Minggu, 28 Juni 2026 pukul 10.32.20",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12288,8 +12296,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3429,
-  "total_users": 1530,
+  "total_start": 3430,
+  "total_users": 1531,
   "total_groups": 9,
-  "last_update": "Minggu, 28 Juni 2026 pukul 10.25.55"
+  "last_update": "Minggu, 28 Juni 2026 pukul 10.32.20"
 }
