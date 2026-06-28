@@ -12279,6 +12279,14 @@
       "first_start": "Minggu, 28 Juni 2026 pukul 21.13.53",
       "last_start": "Minggu, 28 Juni 2026 pukul 21.13.53",
       "total_start": 1
+    },
+    {
+      "id": "8325317547",
+      "username": "@rizxabout",
+      "name": "rizkq",
+      "first_start": "Minggu, 28 Juni 2026 pukul 21.15.33",
+      "last_start": "Minggu, 28 Juni 2026 pukul 21.15.33",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12328,8 +12336,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3440,
-  "total_users": 1535,
+  "total_start": 3441,
+  "total_users": 1536,
   "total_groups": 9,
-  "last_update": "Minggu, 28 Juni 2026 pukul 21.15.09"
+  "last_update": "Minggu, 28 Juni 2026 pukul 21.15.33"
 }
