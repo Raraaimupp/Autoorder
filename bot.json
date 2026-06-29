@@ -12319,6 +12319,14 @@
       "first_start": "Senin, 29 Juni 2026 pukul 12.31.05",
       "last_start": "Senin, 29 Juni 2026 pukul 12.31.05",
       "total_start": 1
+    },
+    {
+      "id": "8939634541",
+      "username": "@MailReal0019",
+      "name": "〔𝐅𝐋〕MQIL 卐 𝐏𝐍𝐏",
+      "first_start": "Senin, 29 Juni 2026 pukul 13.21.03",
+      "last_start": "Senin, 29 Juni 2026 pukul 13.21.03",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12368,8 +12376,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3454,
-  "total_users": 1540,
+  "total_start": 3455,
+  "total_users": 1541,
   "total_groups": 9,
-  "last_update": "Senin, 29 Juni 2026 pukul 13.19.01"
+  "last_update": "Senin, 29 Juni 2026 pukul 13.21.03"
 }
