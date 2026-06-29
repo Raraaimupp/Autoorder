@@ -12359,6 +12359,14 @@
       "first_start": "Senin, 29 Juni 2026 pukul 20.18.26",
       "last_start": "Senin, 29 Juni 2026 pukul 20.18.26",
       "total_start": 1
+    },
+    {
+      "id": "7976833729",
+      "username": "@mnxxishere",
+      "name": "𝙼𝙰𝙽𝚉𝚉 𝙸𝚂 𝙷𝙴𝚁𝙴",
+      "first_start": "Senin, 29 Juni 2026 pukul 21.46.38",
+      "last_start": "Senin, 29 Juni 2026 pukul 21.46.38",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12408,8 +12416,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3476,
-  "total_users": 1545,
+  "total_start": 3477,
+  "total_users": 1546,
   "total_groups": 9,
-  "last_update": "Senin, 29 Juni 2026 pukul 21.46.24"
+  "last_update": "Senin, 29 Juni 2026 pukul 21.46.38"
 }
