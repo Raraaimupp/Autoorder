@@ -12343,6 +12343,14 @@
       "first_start": "Senin, 29 Juni 2026 pukul 19.36.35",
       "last_start": "Senin, 29 Juni 2026 pukul 19.42.17",
       "total_start": 2
+    },
+    {
+      "id": "8839550761",
+      "username": "@FoxXFAR",
+      "name": "Foxx",
+      "first_start": "Senin, 29 Juni 2026 pukul 20.17.51",
+      "last_start": "Senin, 29 Juni 2026 pukul 20.17.51",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12392,8 +12400,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3471,
-  "total_users": 1543,
+  "total_start": 3472,
+  "total_users": 1544,
   "total_groups": 9,
-  "last_update": "Senin, 29 Juni 2026 pukul 20.17.24"
+  "last_update": "Senin, 29 Juni 2026 pukul 20.17.51"
 }
