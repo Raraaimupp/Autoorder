@@ -12327,6 +12327,14 @@
       "first_start": "Senin, 29 Juni 2026 pukul 13.21.03",
       "last_start": "Senin, 29 Juni 2026 pukul 13.21.03",
       "total_start": 1
+    },
+    {
+      "id": "8699728547",
+      "username": "@azurenvlx",
+      "name": "Kink zurr",
+      "first_start": "Senin, 29 Juni 2026 pukul 14.47.36",
+      "last_start": "Senin, 29 Juni 2026 pukul 14.47.36",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12376,8 +12384,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3455,
-  "total_users": 1541,
+  "total_start": 3456,
+  "total_users": 1542,
   "total_groups": 9,
-  "last_update": "Senin, 29 Juni 2026 pukul 14.37.04"
+  "last_update": "Senin, 29 Juni 2026 pukul 14.47.36"
 }
