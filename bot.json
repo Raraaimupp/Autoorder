@@ -12391,6 +12391,14 @@
       "first_start": "Selasa, 30 Juni 2026 pukul 13.51.24",
       "last_start": "Selasa, 30 Juni 2026 pukul 13.51.24",
       "total_start": 1
+    },
+    {
+      "id": "8608831603",
+      "username": "@zenoxhigh",
+      "name": "Zenox only",
+      "first_start": "Selasa, 30 Juni 2026 pukul 14.23.38",
+      "last_start": "Selasa, 30 Juni 2026 pukul 14.23.38",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12440,8 +12448,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3492,
-  "total_users": 1549,
+  "total_start": 3493,
+  "total_users": 1550,
   "total_groups": 9,
-  "last_update": "Selasa, 30 Juni 2026 pukul 14.21.15"
+  "last_update": "Selasa, 30 Juni 2026 pukul 14.23.38"
 }
