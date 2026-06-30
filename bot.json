@@ -12407,6 +12407,14 @@
       "first_start": "Selasa, 30 Juni 2026 pukul 23.55.10",
       "last_start": "Selasa, 30 Juni 2026 pukul 23.55.10",
       "total_start": 1
+    },
+    {
+      "id": "1665006752",
+      "username": "@harommmmm",
+      "name": "Tariktigaaa",
+      "first_start": "Rabu, 1 Juli 2026 pukul 02.15.34",
+      "last_start": "Rabu, 1 Juli 2026 pukul 02.15.34",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12456,8 +12464,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3500,
-  "total_users": 1551,
+  "total_start": 3501,
+  "total_users": 1552,
   "total_groups": 9,
-  "last_update": "Rabu, 1 Juli 2026 pukul 02.15.04"
+  "last_update": "Rabu, 1 Juli 2026 pukul 02.15.34"
 }
