@@ -12367,6 +12367,14 @@
       "first_start": "Senin, 29 Juni 2026 pukul 21.46.38",
       "last_start": "Senin, 29 Juni 2026 pukul 21.46.38",
       "total_start": 1
+    },
+    {
+      "id": "7500699182",
+      "username": "@xieceo",
+      "name": "Xieceo",
+      "first_start": "Selasa, 30 Juni 2026 pukul 08.05.44",
+      "last_start": "Selasa, 30 Juni 2026 pukul 08.05.44",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12416,8 +12424,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3479,
-  "total_users": 1546,
+  "total_start": 3480,
+  "total_users": 1547,
   "total_groups": 9,
-  "last_update": "Selasa, 30 Juni 2026 pukul 07.54.15"
+  "last_update": "Selasa, 30 Juni 2026 pukul 08.05.44"
 }
