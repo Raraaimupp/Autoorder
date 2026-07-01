@@ -12431,6 +12431,14 @@
       "first_start": "Rabu, 1 Juli 2026 pukul 10.14.13",
       "last_start": "Rabu, 1 Juli 2026 pukul 10.14.13",
       "total_start": 1
+    },
+    {
+      "id": "8628613579",
+      "username": "@Cilaakb",
+      "name": "cila",
+      "first_start": "Rabu, 1 Juli 2026 pukul 12.06.18",
+      "last_start": "Rabu, 1 Juli 2026 pukul 12.06.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12480,8 +12488,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3510,
-  "total_users": 1554,
+  "total_start": 3511,
+  "total_users": 1555,
   "total_groups": 9,
-  "last_update": "Rabu, 1 Juli 2026 pukul 12.06.03"
+  "last_update": "Rabu, 1 Juli 2026 pukul 12.06.18"
 }
