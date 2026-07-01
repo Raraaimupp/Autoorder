@@ -12447,6 +12447,14 @@
       "first_start": "Rabu, 1 Juli 2026 pukul 20.33.38",
       "last_start": "Rabu, 1 Juli 2026 pukul 20.33.38",
       "total_start": 1
+    },
+    {
+      "id": "8286063311",
+      "username": "@OziSturee",
+      "name": "im #𝗢𝘇𝗶𝗦𝘁𝗼𝗿𝗲 𝟴𝟱%",
+      "first_start": "Rabu, 1 Juli 2026 pukul 23.37.07",
+      "last_start": "Rabu, 1 Juli 2026 pukul 23.37.07",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12496,8 +12504,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3524,
-  "total_users": 1556,
+  "total_start": 3525,
+  "total_users": 1557,
   "total_groups": 9,
-  "last_update": "Rabu, 1 Juli 2026 pukul 23.36.43"
+  "last_update": "Rabu, 1 Juli 2026 pukul 23.37.07"
 }
