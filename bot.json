@@ -12463,6 +12463,14 @@
       "first_start": "Kamis, 2 Juli 2026 pukul 03.29.40",
       "last_start": "Kamis, 2 Juli 2026 pukul 03.29.40",
       "total_start": 1
+    },
+    {
+      "id": "1292863235",
+      "username": "@Jenjennifer15",
+      "name": "Jennifer",
+      "first_start": "Kamis, 2 Juli 2026 pukul 08.22.38",
+      "last_start": "Kamis, 2 Juli 2026 pukul 08.22.38",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12512,8 +12520,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3530,
-  "total_users": 1558,
+  "total_start": 3531,
+  "total_users": 1559,
   "total_groups": 9,
-  "last_update": "Kamis, 2 Juli 2026 pukul 08.22.11"
+  "last_update": "Kamis, 2 Juli 2026 pukul 08.22.38"
 }
