@@ -12519,6 +12519,14 @@
       "first_start": "Kamis, 2 Juli 2026 pukul 18.27.01",
       "last_start": "Kamis, 2 Juli 2026 pukul 18.27.01",
       "total_start": 1
+    },
+    {
+      "id": "8118099684",
+      "username": "@franscrash",
+      "name": "𝙵𝚛𝚊𝚗𝚜𝚜𝙶𝚊𝚗𝚣𝚣 𝙾𝙿𝙴𝙽 (𝐀𝐥𝐥𝐇𝐨𝐬𝐭𝐢𝐧𝐠)",
+      "first_start": "Minggu, 5 Juli 2026 pukul 00.37.15",
+      "last_start": "Minggu, 5 Juli 2026 pukul 00.37.15",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12568,8 +12576,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3550,
-  "total_users": 1565,
+  "total_start": 3551,
+  "total_users": 1566,
   "total_groups": 9,
-  "last_update": "Minggu, 5 Juli 2026 pukul 00.37.04"
+  "last_update": "Minggu, 5 Juli 2026 pukul 00.37.15"
 }
