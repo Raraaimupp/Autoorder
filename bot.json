@@ -12543,6 +12543,14 @@
       "first_start": "Minggu, 5 Juli 2026 pukul 09.13.26",
       "last_start": "Minggu, 5 Juli 2026 pukul 09.13.26",
       "total_start": 1
+    },
+    {
+      "id": "8740263965",
+      "username": "@Official_Monzo_Support_Bankingbb",
+      "name": "Support Monzo Banking Service",
+      "first_start": "Minggu, 5 Juli 2026 pukul 09.42.45",
+      "last_start": "Minggu, 5 Juli 2026 pukul 09.42.45",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12592,8 +12600,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3558,
-  "total_users": 1568,
+  "total_start": 3559,
+  "total_users": 1569,
   "total_groups": 9,
-  "last_update": "Minggu, 5 Juli 2026 pukul 09.41.00"
+  "last_update": "Minggu, 5 Juli 2026 pukul 09.42.45"
 }
