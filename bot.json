@@ -12583,6 +12583,14 @@
       "first_start": "Minggu, 5 Juli 2026 pukul 12.30.30",
       "last_start": "Minggu, 5 Juli 2026 pukul 12.30.30",
       "total_start": 1
+    },
+    {
+      "id": "8222813855",
+      "username": "@taekkkk888",
+      "name": "Xy4nz .",
+      "first_start": "Minggu, 5 Juli 2026 pukul 12.44.08",
+      "last_start": "Minggu, 5 Juli 2026 pukul 12.44.08",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12632,8 +12640,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3570,
-  "total_users": 1573,
+  "total_start": 3571,
+  "total_users": 1574,
   "total_groups": 9,
-  "last_update": "Minggu, 5 Juli 2026 pukul 12.30.30"
+  "last_update": "Minggu, 5 Juli 2026 pukul 12.44.08"
 }
