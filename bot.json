@@ -12527,6 +12527,14 @@
       "first_start": "Minggu, 5 Juli 2026 pukul 00.37.15",
       "last_start": "Minggu, 5 Juli 2026 pukul 00.37.15",
       "total_start": 1
+    },
+    {
+      "id": "1588627851",
+      "username": "@YudzAcc",
+      "name": "Priv Acc",
+      "first_start": "Minggu, 5 Juli 2026 pukul 07.26.40",
+      "last_start": "Minggu, 5 Juli 2026 pukul 07.26.40",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12576,8 +12584,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3554,
-  "total_users": 1566,
+  "total_start": 3555,
+  "total_users": 1567,
   "total_groups": 9,
-  "last_update": "Minggu, 5 Juli 2026 pukul 07.17.22"
+  "last_update": "Minggu, 5 Juli 2026 pukul 07.26.40"
 }
