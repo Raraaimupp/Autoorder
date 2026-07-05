@@ -12591,6 +12591,14 @@
       "first_start": "Minggu, 5 Juli 2026 pukul 12.44.08",
       "last_start": "Minggu, 5 Juli 2026 pukul 12.44.08",
       "total_start": 1
+    },
+    {
+      "id": "8708119295",
+      "username": "@MaklohMiskin",
+      "name": "Oliv 𝘿' 𝙇𝙪𝙘𝙖̀ 𓇢𓆸",
+      "first_start": "Minggu, 5 Juli 2026 pukul 16.52.52",
+      "last_start": "Minggu, 5 Juli 2026 pukul 16.52.52",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12640,8 +12648,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3573,
-  "total_users": 1574,
+  "total_start": 3574,
+  "total_users": 1575,
   "total_groups": 9,
-  "last_update": "Minggu, 5 Juli 2026 pukul 16.52.32"
+  "last_update": "Minggu, 5 Juli 2026 pukul 16.52.52"
 }
