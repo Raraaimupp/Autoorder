@@ -12575,6 +12575,14 @@
       "first_start": "Minggu, 5 Juli 2026 pukul 11.47.56",
       "last_start": "Minggu, 5 Juli 2026 pukul 11.47.56",
       "total_start": 1
+    },
+    {
+      "id": "8350734933",
+      "username": "Tidak ada",
+      "name": "azaaz khan",
+      "first_start": "Minggu, 5 Juli 2026 pukul 12.30.30",
+      "last_start": "Minggu, 5 Juli 2026 pukul 12.30.30",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12624,8 +12632,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3569,
-  "total_users": 1572,
+  "total_start": 3570,
+  "total_users": 1573,
   "total_groups": 9,
-  "last_update": "Minggu, 5 Juli 2026 pukul 12.30.05"
+  "last_update": "Minggu, 5 Juli 2026 pukul 12.30.30"
 }
