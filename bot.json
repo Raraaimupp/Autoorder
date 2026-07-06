@@ -12671,6 +12671,14 @@
       "first_start": "Senin, 6 Juli 2026 pukul 11.54.01",
       "last_start": "Senin, 6 Juli 2026 pukul 11.54.01",
       "total_start": 1
+    },
+    {
+      "id": "8305349723",
+      "username": "@yaudahlahgini",
+      "name": "Ypii aaa",
+      "first_start": "Senin, 6 Juli 2026 pukul 15.51.34",
+      "last_start": "Senin, 6 Juli 2026 pukul 15.51.34",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12720,8 +12728,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3601,
-  "total_users": 1584,
+  "total_start": 3602,
+  "total_users": 1585,
   "total_groups": 9,
-  "last_update": "Senin, 6 Juli 2026 pukul 15.48.59"
+  "last_update": "Senin, 6 Juli 2026 pukul 15.51.34"
 }
