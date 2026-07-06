@@ -12663,6 +12663,14 @@
       "first_start": "Senin, 6 Juli 2026 pukul 10.14.25",
       "last_start": "Senin, 6 Juli 2026 pukul 10.14.25",
       "total_start": 1
+    },
+    {
+      "id": "7065077973",
+      "username": "@dyz_nii",
+      "name": "rinn",
+      "first_start": "Senin, 6 Juli 2026 pukul 11.54.01",
+      "last_start": "Senin, 6 Juli 2026 pukul 11.54.01",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12712,8 +12720,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3598,
-  "total_users": 1583,
+  "total_start": 3599,
+  "total_users": 1584,
   "total_groups": 9,
-  "last_update": "Senin, 6 Juli 2026 pukul 11.51.42"
+  "last_update": "Senin, 6 Juli 2026 pukul 11.54.01"
 }
