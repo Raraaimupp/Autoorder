@@ -12655,6 +12655,14 @@
       "first_start": "Senin, 6 Juli 2026 pukul 05.34.11",
       "last_start": "Senin, 6 Juli 2026 pukul 05.34.11",
       "total_start": 1
+    },
+    {
+      "id": "8543684898",
+      "username": "@flo1ki",
+      "name": "𝐄𝐕𝐑 -𝚉éᴘᴇʀɪɴᴇx𝚉hell",
+      "first_start": "Senin, 6 Juli 2026 pukul 10.14.25",
+      "last_start": "Senin, 6 Juli 2026 pukul 10.14.25",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12704,8 +12712,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3597,
-  "total_users": 1582,
+  "total_start": 3598,
+  "total_users": 1583,
   "total_groups": 9,
-  "last_update": "Senin, 6 Juli 2026 pukul 10.02.24"
+  "last_update": "Senin, 6 Juli 2026 pukul 10.14.25"
 }
