@@ -12719,6 +12719,14 @@
       "first_start": "Senin, 6 Juli 2026 pukul 21.58.11",
       "last_start": "Senin, 6 Juli 2026 pukul 21.58.11",
       "total_start": 1
+    },
+    {
+      "id": "6942556901",
+      "username": "@wafinughraha",
+      "name": "WAFI",
+      "first_start": "Senin, 6 Juli 2026 pukul 21.58.57",
+      "last_start": "Senin, 6 Juli 2026 pukul 21.58.57",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12768,8 +12776,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3618,
-  "total_users": 1590,
+  "total_start": 3619,
+  "total_users": 1591,
   "total_groups": 9,
-  "last_update": "Senin, 6 Juli 2026 pukul 21.58.44"
+  "last_update": "Senin, 6 Juli 2026 pukul 21.58.57"
 }
