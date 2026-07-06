@@ -12687,6 +12687,14 @@
       "first_start": "Senin, 6 Juli 2026 pukul 16.28.01",
       "last_start": "Senin, 6 Juli 2026 pukul 16.28.01",
       "total_start": 1
+    },
+    {
+      "id": "8184981599",
+      "username": "@ABHISIN12",
+      "name": "#ABHI لوستس",
+      "first_start": "Senin, 6 Juli 2026 pukul 18.38.55",
+      "last_start": "Senin, 6 Juli 2026 pukul 18.38.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12736,8 +12744,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3607,
-  "total_users": 1586,
+  "total_start": 3608,
+  "total_users": 1587,
   "total_groups": 9,
-  "last_update": "Senin, 6 Juli 2026 pukul 18.38.37"
+  "last_update": "Senin, 6 Juli 2026 pukul 18.38.55"
 }
