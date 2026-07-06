@@ -12727,6 +12727,14 @@
       "first_start": "Senin, 6 Juli 2026 pukul 21.58.57",
       "last_start": "Senin, 6 Juli 2026 pukul 21.58.57",
       "total_start": 1
+    },
+    {
+      "id": "7509867107",
+      "username": "@haji_dawam",
+      "name": "Enn n",
+      "first_start": "Senin, 6 Juli 2026 pukul 22.29.19",
+      "last_start": "Senin, 6 Juli 2026 pukul 22.29.19",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12776,8 +12784,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3619,
-  "total_users": 1591,
+  "total_start": 3620,
+  "total_users": 1592,
   "total_groups": 9,
-  "last_update": "Senin, 6 Juli 2026 pukul 22.29.11"
+  "last_update": "Senin, 6 Juli 2026 pukul 22.29.19"
 }
