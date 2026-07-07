@@ -12759,6 +12759,14 @@
       "first_start": "Selasa, 7 Juli 2026 pukul 13.41.34",
       "last_start": "Selasa, 7 Juli 2026 pukul 13.41.34",
       "total_start": 1
+    },
+    {
+      "id": "8689405536",
+      "username": "@ditzxstore5",
+      "name": "Ditzx",
+      "first_start": "Selasa, 7 Juli 2026 pukul 17.36.27",
+      "last_start": "Selasa, 7 Juli 2026 pukul 17.36.27",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12808,8 +12816,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3640,
-  "total_users": 1595,
+  "total_start": 3641,
+  "total_users": 1596,
   "total_groups": 9,
-  "last_update": "Selasa, 7 Juli 2026 pukul 17.35.50"
+  "last_update": "Selasa, 7 Juli 2026 pukul 17.36.27"
 }
