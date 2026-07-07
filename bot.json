@@ -12791,6 +12791,14 @@
       "first_start": "Rabu, 8 Juli 2026 pukul 02.02.53",
       "last_start": "Rabu, 8 Juli 2026 pukul 02.02.53",
       "total_start": 1
+    },
+    {
+      "id": "8830070397",
+      "username": "Tidak ada",
+      "name": "Lanzz Eiei",
+      "first_start": "Rabu, 8 Juli 2026 pukul 02.51.43",
+      "last_start": "Rabu, 8 Juli 2026 pukul 02.51.43",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12840,8 +12848,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3650,
-  "total_users": 1599,
+  "total_start": 3651,
+  "total_users": 1600,
   "total_groups": 9,
-  "last_update": "Rabu, 8 Juli 2026 pukul 02.49.31"
+  "last_update": "Rabu, 8 Juli 2026 pukul 02.51.43"
 }
