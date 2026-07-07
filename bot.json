@@ -12783,6 +12783,14 @@
       "first_start": "Selasa, 7 Juli 2026 pukul 17.56.46",
       "last_start": "Selasa, 7 Juli 2026 pukul 17.56.46",
       "total_start": 1
+    },
+    {
+      "id": "1936469745",
+      "username": "Tidak ada",
+      "name": "Jepibey مسيطر.",
+      "first_start": "Rabu, 8 Juli 2026 pukul 02.02.53",
+      "last_start": "Rabu, 8 Juli 2026 pukul 02.02.53",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12832,8 +12840,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3648,
-  "total_users": 1598,
+  "total_start": 3649,
+  "total_users": 1599,
   "total_groups": 9,
-  "last_update": "Rabu, 8 Juli 2026 pukul 01.56.51"
+  "last_update": "Rabu, 8 Juli 2026 pukul 02.02.53"
 }
