@@ -12823,6 +12823,14 @@
       "first_start": "Rabu, 8 Juli 2026 pukul 16.00.15",
       "last_start": "Rabu, 8 Juli 2026 pukul 16.00.15",
       "total_start": 1
+    },
+    {
+      "id": "8987151558",
+      "username": "Tidak ada",
+      "name": "Anwar Bro",
+      "first_start": "Kamis, 9 Juli 2026 pukul 00.24.48",
+      "last_start": "Kamis, 9 Juli 2026 pukul 00.24.48",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12872,8 +12880,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3671,
-  "total_users": 1603,
+  "total_start": 3672,
+  "total_users": 1604,
   "total_groups": 9,
-  "last_update": "Kamis, 9 Juli 2026 pukul 00.23.55"
+  "last_update": "Kamis, 9 Juli 2026 pukul 00.24.48"
 }
