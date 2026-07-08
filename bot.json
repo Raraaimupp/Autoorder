@@ -12799,6 +12799,14 @@
       "first_start": "Rabu, 8 Juli 2026 pukul 02.51.43",
       "last_start": "Rabu, 8 Juli 2026 pukul 02.51.43",
       "total_start": 1
+    },
+    {
+      "id": "8818766481",
+      "username": "Tidak ada",
+      "name": "Aan Aan",
+      "first_start": "Rabu, 8 Juli 2026 pukul 11.00.53",
+      "last_start": "Rabu, 8 Juli 2026 pukul 11.00.53",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12848,8 +12856,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3651,
-  "total_users": 1600,
+  "total_start": 3652,
+  "total_users": 1601,
   "total_groups": 9,
-  "last_update": "Rabu, 8 Juli 2026 pukul 10.59.12"
+  "last_update": "Rabu, 8 Juli 2026 pukul 11.00.53"
 }
