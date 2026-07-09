@@ -12839,6 +12839,14 @@
       "first_start": "Kamis, 9 Juli 2026 pukul 02.06.52",
       "last_start": "Kamis, 9 Juli 2026 pukul 02.06.52",
       "total_start": 1
+    },
+    {
+      "id": "7245331640",
+      "username": "@inaf021",
+      "name": "switch",
+      "first_start": "Kamis, 9 Juli 2026 pukul 07.49.54",
+      "last_start": "Kamis, 9 Juli 2026 pukul 07.49.54",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12888,8 +12896,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3675,
-  "total_users": 1605,
+  "total_start": 3676,
+  "total_users": 1606,
   "total_groups": 9,
-  "last_update": "Kamis, 9 Juli 2026 pukul 07.38.59"
+  "last_update": "Kamis, 9 Juli 2026 pukul 07.49.54"
 }
