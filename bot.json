@@ -12879,6 +12879,14 @@
       "first_start": "Jumat, 10 Juli 2026 pukul 00.25.44",
       "last_start": "Jumat, 10 Juli 2026 pukul 00.25.44",
       "total_start": 1
+    },
+    {
+      "id": "8648955454",
+      "username": "@rapifipi",
+      "name": "rapi",
+      "first_start": "Jumat, 10 Juli 2026 pukul 00.52.01",
+      "last_start": "Jumat, 10 Juli 2026 pukul 00.52.01",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12928,8 +12936,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3696,
-  "total_users": 1610,
+  "total_start": 3697,
+  "total_users": 1611,
   "total_groups": 9,
-  "last_update": "Jumat, 10 Juli 2026 pukul 00.49.16"
+  "last_update": "Jumat, 10 Juli 2026 pukul 00.52.01"
 }
