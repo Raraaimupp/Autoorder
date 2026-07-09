@@ -12871,6 +12871,14 @@
       "first_start": "Kamis, 9 Juli 2026 pukul 16.03.52",
       "last_start": "Kamis, 9 Juli 2026 pukul 16.03.52",
       "total_start": 1
+    },
+    {
+      "id": "8029775259",
+      "username": "Tidak ada",
+      "name": "Ah Mad",
+      "first_start": "Jumat, 10 Juli 2026 pukul 00.25.44",
+      "last_start": "Jumat, 10 Juli 2026 pukul 00.25.44",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12920,8 +12928,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3695,
-  "total_users": 1609,
+  "total_start": 3696,
+  "total_users": 1610,
   "total_groups": 9,
-  "last_update": "Jumat, 10 Juli 2026 pukul 00.25.21"
+  "last_update": "Jumat, 10 Juli 2026 pukul 00.25.44"
 }
