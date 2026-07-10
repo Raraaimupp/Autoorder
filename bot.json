@@ -12911,6 +12911,14 @@
       "first_start": "Jumat, 10 Juli 2026 pukul 19.17.31",
       "last_start": "Jumat, 10 Juli 2026 pukul 19.17.31",
       "total_start": 1
+    },
+    {
+      "id": "7785984930",
+      "username": "@panzx28",
+      "name": "𝐏𝐚𝐧𝐳𝐱𝟐𝟖𝐑𝐞𝐚𝐥 𝐓𝟓",
+      "first_start": "Jumat, 10 Juli 2026 pukul 22.31.10",
+      "last_start": "Jumat, 10 Juli 2026 pukul 22.31.10",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12960,8 +12968,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3715,
-  "total_users": 1614,
+  "total_start": 3716,
+  "total_users": 1615,
   "total_groups": 9,
-  "last_update": "Jumat, 10 Juli 2026 pukul 22.28.58"
+  "last_update": "Jumat, 10 Juli 2026 pukul 22.31.10"
 }
