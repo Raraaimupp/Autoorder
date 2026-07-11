@@ -12975,6 +12975,14 @@
       "first_start": "Sabtu, 11 Juli 2026 pukul 14.14.09",
       "last_start": "Sabtu, 11 Juli 2026 pukul 14.14.09",
       "total_start": 1
+    },
+    {
+      "id": "8479274569",
+      "username": "Tidak ada",
+      "name": "zidan zidan",
+      "first_start": "Sabtu, 11 Juli 2026 pukul 14.43.06",
+      "last_start": "Sabtu, 11 Juli 2026 pukul 14.43.06",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13024,8 +13032,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3748,
-  "total_users": 1622,
+  "total_start": 3749,
+  "total_users": 1623,
   "total_groups": 9,
-  "last_update": "Sabtu, 11 Juli 2026 pukul 14.42.46"
+  "last_update": "Sabtu, 11 Juli 2026 pukul 14.43.06"
 }
