@@ -12935,6 +12935,14 @@
       "first_start": "Sabtu, 11 Juli 2026 pukul 11.16.14",
       "last_start": "Sabtu, 11 Juli 2026 pukul 11.16.14",
       "total_start": 1
+    },
+    {
+      "id": "7433012584",
+      "username": "@MakloFaiz",
+      "name": "Whopsss Faizyz",
+      "first_start": "Sabtu, 11 Juli 2026 pukul 11.16.30",
+      "last_start": "Sabtu, 11 Juli 2026 pukul 11.16.30",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12984,8 +12992,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3732,
-  "total_users": 1617,
+  "total_start": 3733,
+  "total_users": 1618,
   "total_groups": 9,
-  "last_update": "Sabtu, 11 Juli 2026 pukul 11.16.14"
+  "last_update": "Sabtu, 11 Juli 2026 pukul 11.16.30"
 }
