@@ -12927,6 +12927,14 @@
       "first_start": "Sabtu, 11 Juli 2026 pukul 08.47.18",
       "last_start": "Sabtu, 11 Juli 2026 pukul 10.13.23",
       "total_start": 3
+    },
+    {
+      "id": "8295494791",
+      "username": "Tidak ada",
+      "name": "ayaee",
+      "first_start": "Sabtu, 11 Juli 2026 pukul 11.16.14",
+      "last_start": "Sabtu, 11 Juli 2026 pukul 11.16.14",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -12976,8 +12984,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3731,
-  "total_users": 1616,
+  "total_start": 3732,
+  "total_users": 1617,
   "total_groups": 9,
-  "last_update": "Sabtu, 11 Juli 2026 pukul 11.12.42"
+  "last_update": "Sabtu, 11 Juli 2026 pukul 11.16.14"
 }
