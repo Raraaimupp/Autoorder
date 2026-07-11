@@ -12991,6 +12991,14 @@
       "first_start": "Sabtu, 11 Juli 2026 pukul 17.22.43",
       "last_start": "Sabtu, 11 Juli 2026 pukul 17.22.43",
       "total_start": 1
+    },
+    {
+      "id": "8359700587",
+      "username": "@MonzoSupportBank4674",
+      "name": "Support Monzo Banking Service Real",
+      "first_start": "Sabtu, 11 Juli 2026 pukul 21.09.05",
+      "last_start": "Sabtu, 11 Juli 2026 pukul 21.09.05",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13040,8 +13048,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3760,
-  "total_users": 1624,
+  "total_start": 3761,
+  "total_users": 1625,
   "total_groups": 9,
-  "last_update": "Sabtu, 11 Juli 2026 pukul 21.00.24"
+  "last_update": "Sabtu, 11 Juli 2026 pukul 21.09.05"
 }
