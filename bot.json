@@ -12959,6 +12959,14 @@
       "first_start": "Sabtu, 11 Juli 2026 pukul 13.19.22",
       "last_start": "Sabtu, 11 Juli 2026 pukul 13.19.22",
       "total_start": 1
+    },
+    {
+      "id": "1470500305",
+      "username": "@iyazeroo",
+      "name": "⌞ Zeroo𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭 ⌝",
+      "first_start": "Sabtu, 11 Juli 2026 pukul 13.55.39",
+      "last_start": "Sabtu, 11 Juli 2026 pukul 13.55.39",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13008,8 +13016,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3744,
-  "total_users": 1620,
+  "total_start": 3745,
+  "total_users": 1621,
   "total_groups": 9,
-  "last_update": "Sabtu, 11 Juli 2026 pukul 13.55.06"
+  "last_update": "Sabtu, 11 Juli 2026 pukul 13.55.39"
 }
