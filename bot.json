@@ -13023,6 +13023,14 @@
       "first_start": "Minggu, 12 Juli 2026 pukul 21.09.55",
       "last_start": "Minggu, 12 Juli 2026 pukul 21.19.20",
       "total_start": 3
+    },
+    {
+      "id": "8836357242",
+      "username": "Tidak ada",
+      "name": "P",
+      "first_start": "Senin, 13 Juli 2026 pukul 06.12.09",
+      "last_start": "Senin, 13 Juli 2026 pukul 06.12.09",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13072,8 +13080,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3790,
-  "total_users": 1628,
+  "total_start": 3791,
+  "total_users": 1629,
   "total_groups": 9,
-  "last_update": "Senin, 13 Juli 2026 pukul 05.52.58"
+  "last_update": "Senin, 13 Juli 2026 pukul 06.12.09"
 }
