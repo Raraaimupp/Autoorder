@@ -13119,6 +13119,14 @@
       "first_start": "Senin, 13 Juli 2026 pukul 23.12.31",
       "last_start": "Senin, 13 Juli 2026 pukul 23.12.31",
       "total_start": 1
+    },
+    {
+      "id": "8740113289",
+      "username": "Tidak ada",
+      "name": "Apoy Aja",
+      "first_start": "Selasa, 14 Juli 2026 pukul 01.21.23",
+      "last_start": "Selasa, 14 Juli 2026 pukul 01.21.23",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13168,8 +13176,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3821,
-  "total_users": 1640,
+  "total_start": 3822,
+  "total_users": 1641,
   "total_groups": 9,
-  "last_update": "Selasa, 14 Juli 2026 pukul 01.15.28"
+  "last_update": "Selasa, 14 Juli 2026 pukul 01.21.23"
 }
