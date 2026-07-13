@@ -13039,6 +13039,14 @@
       "first_start": "Senin, 13 Juli 2026 pukul 07.46.02",
       "last_start": "Senin, 13 Juli 2026 pukul 07.46.02",
       "total_start": 1
+    },
+    {
+      "id": "8247878615",
+      "username": "@noelnzyy",
+      "name": "Noel (Zy)",
+      "first_start": "Senin, 13 Juli 2026 pukul 10.32.37",
+      "last_start": "Senin, 13 Juli 2026 pukul 10.32.37",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13088,8 +13096,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3796,
-  "total_users": 1630,
+  "total_start": 3797,
+  "total_users": 1631,
   "total_groups": 9,
-  "last_update": "Senin, 13 Juli 2026 pukul 10.32.00"
+  "last_update": "Senin, 13 Juli 2026 pukul 10.32.37"
 }
