@@ -13047,6 +13047,14 @@
       "first_start": "Senin, 13 Juli 2026 pukul 10.32.37",
       "last_start": "Senin, 13 Juli 2026 pukul 10.32.37",
       "total_start": 1
+    },
+    {
+      "id": "7644641154",
+      "username": "Tidak ada",
+      "name": "wawan npc",
+      "first_start": "Senin, 13 Juli 2026 pukul 12.38.25",
+      "last_start": "Senin, 13 Juli 2026 pukul 12.38.25",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13096,8 +13104,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3800,
-  "total_users": 1631,
+  "total_start": 3801,
+  "total_users": 1632,
   "total_groups": 9,
-  "last_update": "Senin, 13 Juli 2026 pukul 12.21.36"
+  "last_update": "Senin, 13 Juli 2026 pukul 12.38.25"
 }
