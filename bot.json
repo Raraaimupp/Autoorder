@@ -13079,6 +13079,14 @@
       "first_start": "Senin, 13 Juli 2026 pukul 18.16.43",
       "last_start": "Senin, 13 Juli 2026 pukul 18.16.43",
       "total_start": 1
+    },
+    {
+      "id": "8885602559",
+      "username": "Tidak ada",
+      "name": "Aceng Fikri",
+      "first_start": "Senin, 13 Juli 2026 pukul 19.28.17",
+      "last_start": "Senin, 13 Juli 2026 pukul 19.28.17",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13128,8 +13136,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3812,
-  "total_users": 1635,
+  "total_start": 3813,
+  "total_users": 1636,
   "total_groups": 9,
-  "last_update": "Senin, 13 Juli 2026 pukul 19.27.20"
+  "last_update": "Senin, 13 Juli 2026 pukul 19.28.17"
 }
