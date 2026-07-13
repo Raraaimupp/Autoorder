@@ -13031,6 +13031,14 @@
       "first_start": "Senin, 13 Juli 2026 pukul 06.12.09",
       "last_start": "Senin, 13 Juli 2026 pukul 06.12.09",
       "total_start": 1
+    },
+    {
+      "id": "8270417844",
+      "username": "@zumarief",
+      "name": "Muhammad Arief",
+      "first_start": "Senin, 13 Juli 2026 pukul 07.46.02",
+      "last_start": "Senin, 13 Juli 2026 pukul 07.46.02",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13080,8 +13088,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3793,
-  "total_users": 1629,
+  "total_start": 3794,
+  "total_users": 1630,
   "total_groups": 9,
-  "last_update": "Senin, 13 Juli 2026 pukul 06.45.17"
+  "last_update": "Senin, 13 Juli 2026 pukul 07.46.02"
 }
