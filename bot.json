@@ -13055,6 +13055,14 @@
       "first_start": "Senin, 13 Juli 2026 pukul 12.38.25",
       "last_start": "Senin, 13 Juli 2026 pukul 12.38.25",
       "total_start": 1
+    },
+    {
+      "id": "8833527071",
+      "username": "@namespiu",
+      "name": "HILO",
+      "first_start": "Senin, 13 Juli 2026 pukul 14.16.23",
+      "last_start": "Senin, 13 Juli 2026 pukul 14.16.23",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13104,8 +13112,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3803,
-  "total_users": 1632,
+  "total_start": 3804,
+  "total_users": 1633,
   "total_groups": 9,
-  "last_update": "Senin, 13 Juli 2026 pukul 14.12.45"
+  "last_update": "Senin, 13 Juli 2026 pukul 14.16.23"
 }
