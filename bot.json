@@ -13063,6 +13063,14 @@
       "first_start": "Senin, 13 Juli 2026 pukul 14.16.23",
       "last_start": "Senin, 13 Juli 2026 pukul 14.16.23",
       "total_start": 1
+    },
+    {
+      "id": "6287445569",
+      "username": "@inibosmanz",
+      "name": "𝐁𝐨𝐬𝐬𝐌𝐚𝐧𝐳",
+      "first_start": "Senin, 13 Juli 2026 pukul 16.51.28",
+      "last_start": "Senin, 13 Juli 2026 pukul 16.51.28",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13112,8 +13120,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3807,
-  "total_users": 1633,
+  "total_start": 3808,
+  "total_users": 1634,
   "total_groups": 9,
-  "last_update": "Senin, 13 Juli 2026 pukul 16.40.55"
+  "last_update": "Senin, 13 Juli 2026 pukul 16.51.28"
 }
