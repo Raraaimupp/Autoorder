@@ -13127,6 +13127,14 @@
       "first_start": "Selasa, 14 Juli 2026 pukul 01.21.23",
       "last_start": "Selasa, 14 Juli 2026 pukul 01.21.23",
       "total_start": 1
+    },
+    {
+      "id": "8974180057",
+      "username": "Tidak ada",
+      "name": "hm Anjay",
+      "first_start": "Selasa, 14 Juli 2026 pukul 02.27.36",
+      "last_start": "Selasa, 14 Juli 2026 pukul 02.27.36",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13176,8 +13184,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3824,
-  "total_users": 1641,
+  "total_start": 3825,
+  "total_users": 1642,
   "total_groups": 9,
-  "last_update": "Selasa, 14 Juli 2026 pukul 02.09.57"
+  "last_update": "Selasa, 14 Juli 2026 pukul 02.27.36"
 }
