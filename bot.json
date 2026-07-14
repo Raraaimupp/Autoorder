@@ -13175,6 +13175,14 @@
       "first_start": "Selasa, 14 Juli 2026 pukul 18.42.02",
       "last_start": "Selasa, 14 Juli 2026 pukul 18.42.02",
       "total_start": 1
+    },
+    {
+      "id": "8670963287",
+      "username": "Tidak ada",
+      "name": "Fahry Preset Arsyadany",
+      "first_start": "Selasa, 14 Juli 2026 pukul 18.49.30",
+      "last_start": "Selasa, 14 Juli 2026 pukul 18.49.30",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13224,8 +13232,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3847,
-  "total_users": 1647,
+  "total_start": 3848,
+  "total_users": 1648,
   "total_groups": 9,
-  "last_update": "Selasa, 14 Juli 2026 pukul 18.45.52"
+  "last_update": "Selasa, 14 Juli 2026 pukul 18.49.30"
 }
