@@ -13191,6 +13191,14 @@
       "first_start": "Rabu, 15 Juli 2026 pukul 13.11.55",
       "last_start": "Rabu, 15 Juli 2026 pukul 13.11.55",
       "total_start": 1
+    },
+    {
+      "id": "5205716907",
+      "username": "@Batmendua",
+      "name": "Batmen",
+      "first_start": "Rabu, 15 Juli 2026 pukul 22.24.19",
+      "last_start": "Rabu, 15 Juli 2026 pukul 22.24.19",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13240,8 +13248,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3876,
-  "total_users": 1649,
+  "total_start": 3877,
+  "total_users": 1650,
   "total_groups": 9,
-  "last_update": "Rabu, 15 Juli 2026 pukul 22.23.42"
+  "last_update": "Rabu, 15 Juli 2026 pukul 22.24.19"
 }
