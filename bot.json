@@ -13183,6 +13183,14 @@
       "first_start": "Selasa, 14 Juli 2026 pukul 18.49.30",
       "last_start": "Selasa, 14 Juli 2026 pukul 18.49.30",
       "total_start": 1
+    },
+    {
+      "id": "5167583280",
+      "username": "@princeaksav",
+      "name": "Aksäv 𝒇𝒐𝒓𝒕𝒘𝒚𝒏𝒕𝒚",
+      "first_start": "Rabu, 15 Juli 2026 pukul 13.11.55",
+      "last_start": "Rabu, 15 Juli 2026 pukul 13.11.55",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13232,8 +13240,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3862,
-  "total_users": 1648,
+  "total_start": 3863,
+  "total_users": 1649,
   "total_groups": 9,
-  "last_update": "Rabu, 15 Juli 2026 pukul 13.08.09"
+  "last_update": "Rabu, 15 Juli 2026 pukul 13.11.55"
 }
