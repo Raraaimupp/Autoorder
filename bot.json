@@ -13207,6 +13207,14 @@
       "first_start": "Kamis, 16 Juli 2026 pukul 14.05.48",
       "last_start": "Kamis, 16 Juli 2026 pukul 14.05.48",
       "total_start": 1
+    },
+    {
+      "id": "8551194829",
+      "username": "Tidak ada",
+      "name": "arc",
+      "first_start": "Kamis, 16 Juli 2026 pukul 15.23.18",
+      "last_start": "Kamis, 16 Juli 2026 pukul 15.23.18",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13256,8 +13264,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3884,
-  "total_users": 1651,
+  "total_start": 3885,
+  "total_users": 1652,
   "total_groups": 9,
-  "last_update": "Kamis, 16 Juli 2026 pukul 15.21.06"
+  "last_update": "Kamis, 16 Juli 2026 pukul 15.23.18"
 }
