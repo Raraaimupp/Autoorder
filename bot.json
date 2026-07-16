@@ -13223,6 +13223,14 @@
       "first_start": "Kamis, 16 Juli 2026 pukul 15.23.30",
       "last_start": "Kamis, 16 Juli 2026 pukul 15.23.30",
       "total_start": 1
+    },
+    {
+      "id": "8981944474",
+      "username": "@Jandapitang1",
+      "name": "Jerman",
+      "first_start": "Kamis, 16 Juli 2026 pukul 16.25.47",
+      "last_start": "Kamis, 16 Juli 2026 pukul 16.25.47",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13272,8 +13280,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3887,
-  "total_users": 1653,
+  "total_start": 3888,
+  "total_users": 1654,
   "total_groups": 9,
-  "last_update": "Kamis, 16 Juli 2026 pukul 16.22.54"
+  "last_update": "Kamis, 16 Juli 2026 pukul 16.25.47"
 }
