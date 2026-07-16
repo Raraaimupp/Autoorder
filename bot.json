@@ -13239,6 +13239,14 @@
       "first_start": "Kamis, 16 Juli 2026 pukul 19.45.53",
       "last_start": "Kamis, 16 Juli 2026 pukul 19.46.03",
       "total_start": 2
+    },
+    {
+      "id": "318912896",
+      "username": "@Doraemon_81",
+      "name": "TARY",
+      "first_start": "Kamis, 16 Juli 2026 pukul 22.03.59",
+      "last_start": "Kamis, 16 Juli 2026 pukul 22.03.59",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13288,8 +13296,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3895,
-  "total_users": 1655,
+  "total_start": 3896,
+  "total_users": 1656,
   "total_groups": 9,
-  "last_update": "Kamis, 16 Juli 2026 pukul 22.02.57"
+  "last_update": "Kamis, 16 Juli 2026 pukul 22.03.59"
 }
