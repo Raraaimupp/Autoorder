@@ -13247,6 +13247,14 @@
       "first_start": "Kamis, 16 Juli 2026 pukul 22.03.59",
       "last_start": "Kamis, 16 Juli 2026 pukul 22.03.59",
       "total_start": 1
+    },
+    {
+      "id": "5802311927",
+      "username": "@zxdflmaocv",
+      "name": "May Duy",
+      "first_start": "Jumat, 17 Juli 2026 pukul 00.05.20",
+      "last_start": "Jumat, 17 Juli 2026 pukul 00.05.20",
+      "total_start": 1
     }
   ],
   "groups": [
@@ -13296,8 +13304,8 @@
       "first_detected": "Minggu, 24 Mei 2026 pukul 16.28.54"
     }
   ],
-  "total_start": 3903,
-  "total_users": 1656,
+  "total_start": 3904,
+  "total_users": 1657,
   "total_groups": 9,
-  "last_update": "Jumat, 17 Juli 2026 pukul 00.01.36"
+  "last_update": "Jumat, 17 Juli 2026 pukul 00.05.20"
 }
