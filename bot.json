@@ -14399,6 +14399,15 @@
       "last_start": "Minggu, 2 Agustus 2026 pukul 18.47.39",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7867002876",
+      "username": "@luminose",
+      "name": "𝑳𝑶𝑪𝑲•𝑺𝑴𝑰𝑳𝑬",
+      "first_start": "Minggu, 2 Agustus 2026 pukul 18.53.55",
+      "last_start": "Minggu, 2 Agustus 2026 pukul 18.53.55",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14478,8 +14487,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3743,
-  "total_users": 1600,
+  "total_start": 3744,
+  "total_users": 1601,
   "total_groups": 15,
-  "last_update": "Minggu, 2 Agustus 2026 pukul 18.47.39"
+  "last_update": "Minggu, 2 Agustus 2026 pukul 18.53.55"
 }
