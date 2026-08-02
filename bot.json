@@ -14408,6 +14408,15 @@
       "last_start": "Minggu, 2 Agustus 2026 pukul 18.53.55",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8613334992",
+      "username": "@Makloehamayatim",
+      "name": "『 𝐀𝐋𝐈𝐅𝐙 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 』",
+      "first_start": "Minggu, 2 Agustus 2026 pukul 18.54.07",
+      "last_start": "Minggu, 2 Agustus 2026 pukul 18.54.07",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14487,8 +14496,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3744,
-  "total_users": 1601,
+  "total_start": 3745,
+  "total_users": 1602,
   "total_groups": 15,
-  "last_update": "Minggu, 2 Agustus 2026 pukul 18.53.55"
+  "last_update": "Minggu, 2 Agustus 2026 pukul 18.54.07"
 }
