@@ -14435,6 +14435,15 @@
       "last_start": "Minggu, 2 Agustus 2026 pukul 21.20.54",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6287445569",
+      "username": "@inibosmanz",
+      "name": "𝐁𝐨𝐬𝐬𝐌𝐚𝐧𝐳",
+      "first_start": "Senin, 3 Agustus 2026 pukul 06.35.21",
+      "last_start": "Senin, 3 Agustus 2026 pukul 06.35.21",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14514,8 +14523,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3765,
-  "total_users": 1604,
+  "total_start": 3766,
+  "total_users": 1605,
   "total_groups": 15,
-  "last_update": "Senin, 3 Agustus 2026 pukul 06.22.07"
+  "last_update": "Senin, 3 Agustus 2026 pukul 06.35.21"
 }
