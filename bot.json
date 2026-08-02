@@ -14363,6 +14363,15 @@
       "last_start": "Minggu, 2 Agustus 2026 pukul 00.04.51",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8232000448",
+      "username": "@KuCoin_Verification_Help99",
+      "name": "KuCoin Security & Verification",
+      "first_start": "Minggu, 2 Agustus 2026 pukul 18.01.59",
+      "last_start": "Minggu, 2 Agustus 2026 pukul 18.01.59",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14442,8 +14451,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3731,
-  "total_users": 1596,
+  "total_start": 3732,
+  "total_users": 1597,
   "total_groups": 15,
-  "last_update": "Minggu, 2 Agustus 2026 pukul 18.01.19"
+  "last_update": "Minggu, 2 Agustus 2026 pukul 18.01.59"
 }
