@@ -14381,6 +14381,15 @@
       "last_start": "Minggu, 2 Agustus 2026 pukul 18.40.56",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8499796475",
+      "username": "@satusalah",
+      "name": "Bhu Zhang ( 布章 )",
+      "first_start": "Minggu, 2 Agustus 2026 pukul 18.41.19",
+      "last_start": "Minggu, 2 Agustus 2026 pukul 18.41.19",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14460,8 +14469,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3741,
-  "total_users": 1598,
+  "total_start": 3742,
+  "total_users": 1599,
   "total_groups": 15,
-  "last_update": "Minggu, 2 Agustus 2026 pukul 18.40.56"
+  "last_update": "Minggu, 2 Agustus 2026 pukul 18.41.19"
 }
