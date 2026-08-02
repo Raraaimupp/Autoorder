@@ -14417,6 +14417,15 @@
       "last_start": "Minggu, 2 Agustus 2026 pukul 18.54.07",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7605703644",
+      "username": "@Franzzunyil",
+      "name": "Franzz",
+      "first_start": "Minggu, 2 Agustus 2026 pukul 21.06.23",
+      "last_start": "Minggu, 2 Agustus 2026 pukul 21.06.23",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14496,8 +14505,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3748,
-  "total_users": 1602,
+  "total_start": 3749,
+  "total_users": 1603,
   "total_groups": 15,
-  "last_update": "Minggu, 2 Agustus 2026 pukul 21.05.59"
+  "last_update": "Minggu, 2 Agustus 2026 pukul 21.06.23"
 }
