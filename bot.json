@@ -14489,6 +14489,15 @@
       "last_start": "Senin, 3 Agustus 2026 pukul 21.47.40",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7573566268",
+      "username": "Tidak ada",
+      "name": "ʙᴏᴛ ᴅɪʟʟᴀ sᴛᴏʀᴇ",
+      "first_start": "Senin, 3 Agustus 2026 pukul 21.48.13",
+      "last_start": "Senin, 3 Agustus 2026 pukul 21.48.13",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14568,8 +14577,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3799,
-  "total_users": 1610,
+  "total_start": 3800,
+  "total_users": 1611,
   "total_groups": 15,
-  "last_update": "Senin, 3 Agustus 2026 pukul 21.47.54"
+  "last_update": "Senin, 3 Agustus 2026 pukul 21.48.13"
 }
