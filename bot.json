@@ -14453,6 +14453,15 @@
       "last_start": "Senin, 3 Agustus 2026 pukul 08.19.31",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7664211056",
+      "username": "@SARXXGANTENG",
+      "name": "- 𝙎𝙖𝙧𝙭𝙭",
+      "first_start": "Senin, 3 Agustus 2026 pukul 16.04.06",
+      "last_start": "Senin, 3 Agustus 2026 pukul 16.04.06",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14532,8 +14541,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3779,
-  "total_users": 1606,
+  "total_start": 3780,
+  "total_users": 1607,
   "total_groups": 15,
-  "last_update": "Senin, 3 Agustus 2026 pukul 16.00.49"
+  "last_update": "Senin, 3 Agustus 2026 pukul 16.04.06"
 }
