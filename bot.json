@@ -14444,6 +14444,15 @@
       "last_start": "Senin, 3 Agustus 2026 pukul 06.35.21",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6376186918",
+      "username": "@YthPrince",
+      "name": "Prince",
+      "first_start": "Senin, 3 Agustus 2026 pukul 08.19.31",
+      "last_start": "Senin, 3 Agustus 2026 pukul 08.19.31",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14523,8 +14532,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3767,
-  "total_users": 1605,
+  "total_start": 3768,
+  "total_users": 1606,
   "total_groups": 15,
-  "last_update": "Senin, 3 Agustus 2026 pukul 08.01.19"
+  "last_update": "Senin, 3 Agustus 2026 pukul 08.19.31"
 }
