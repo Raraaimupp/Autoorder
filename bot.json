@@ -14462,6 +14462,15 @@
       "last_start": "Senin, 3 Agustus 2026 pukul 16.04.06",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1043995204",
+      "username": "@Zakrissss",
+      "name": "⏤͟͟ 𝙕𝙖𝙠𝙧𝙞𝙨𝙨 𝖋𝖙 𝗫͢𝘅𝗫",
+      "first_start": "Senin, 3 Agustus 2026 pukul 17.13.00",
+      "last_start": "Senin, 3 Agustus 2026 pukul 17.13.00",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14541,8 +14550,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3782,
-  "total_users": 1607,
+  "total_start": 3783,
+  "total_users": 1608,
   "total_groups": 15,
-  "last_update": "Senin, 3 Agustus 2026 pukul 17.12.09"
+  "last_update": "Senin, 3 Agustus 2026 pukul 17.13.00"
 }
