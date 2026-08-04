@@ -14516,6 +14516,15 @@
       "last_start": "Selasa, 4 Agustus 2026 pukul 13.36.08",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8981958706",
+      "username": "@Barzy2620",
+      "name": "barzy2677",
+      "first_start": "Selasa, 4 Agustus 2026 pukul 20.01.14",
+      "last_start": "Selasa, 4 Agustus 2026 pukul 20.01.14",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14595,8 +14604,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3823,
-  "total_users": 1613,
+  "total_start": 3824,
+  "total_users": 1614,
   "total_groups": 15,
-  "last_update": "Selasa, 4 Agustus 2026 pukul 19.52.53"
+  "last_update": "Selasa, 4 Agustus 2026 pukul 20.01.14"
 }
