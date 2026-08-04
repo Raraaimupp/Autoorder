@@ -14498,6 +14498,15 @@
       "last_start": "Senin, 3 Agustus 2026 pukul 22.32.41",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "6024515768",
+      "username": "@dikabukandep",
+      "name": "dika",
+      "first_start": "Selasa, 4 Agustus 2026 pukul 08.44.25",
+      "last_start": "Selasa, 4 Agustus 2026 pukul 08.44.25",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14577,8 +14586,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3807,
-  "total_users": 1611,
+  "total_start": 3808,
+  "total_users": 1612,
   "total_groups": 15,
-  "last_update": "Selasa, 4 Agustus 2026 pukul 08.40.03"
+  "last_update": "Selasa, 4 Agustus 2026 pukul 08.44.25"
 }
