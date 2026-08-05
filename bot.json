@@ -14561,6 +14561,15 @@
       "last_start": "Rabu, 5 Agustus 2026 pukul 13.08.48",
       "total_start": 5,
       "balance": 0
+    },
+    {
+      "id": "8922990296",
+      "username": "@bara6cm",
+      "name": "𝐛𝐚𝐫𝐚𝐚 𝕰𝖒𝖕𝖎𝖗𝖊",
+      "first_start": "Rabu, 5 Agustus 2026 pukul 18.25.47",
+      "last_start": "Rabu, 5 Agustus 2026 pukul 18.25.47",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14640,8 +14649,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3862,
-  "total_users": 1618,
+  "total_start": 3863,
+  "total_users": 1619,
   "total_groups": 15,
-  "last_update": "Rabu, 5 Agustus 2026 pukul 18.16.33"
+  "last_update": "Rabu, 5 Agustus 2026 pukul 18.25.47"
 }
