@@ -14552,6 +14552,15 @@
       "last_start": "Rabu, 5 Agustus 2026 pukul 05.27.12",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6068243467",
+      "username": "@Muh4r",
+      "name": "𝑴𝒖𝒉𝒂𝒓",
+      "first_start": "Rabu, 5 Agustus 2026 pukul 07.42.05",
+      "last_start": "Rabu, 5 Agustus 2026 pukul 07.42.05",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14631,8 +14640,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3834,
-  "total_users": 1617,
+  "total_start": 3835,
+  "total_users": 1618,
   "total_groups": 15,
-  "last_update": "Rabu, 5 Agustus 2026 pukul 07.22.38"
+  "last_update": "Rabu, 5 Agustus 2026 pukul 07.42.05"
 }
