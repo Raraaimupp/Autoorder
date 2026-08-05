@@ -14579,6 +14579,15 @@
       "last_start": "Rabu, 5 Agustus 2026 pukul 21.34.21",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8238927814",
+      "username": "@sigmapoywi",
+      "name": "poywi",
+      "first_start": "Rabu, 5 Agustus 2026 pukul 22.52.35",
+      "last_start": "Rabu, 5 Agustus 2026 pukul 22.52.35",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14658,8 +14667,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3882,
-  "total_users": 1620,
+  "total_start": 3883,
+  "total_users": 1621,
   "total_groups": 15,
-  "last_update": "Rabu, 5 Agustus 2026 pukul 22.50.01"
+  "last_update": "Rabu, 5 Agustus 2026 pukul 22.52.35"
 }
