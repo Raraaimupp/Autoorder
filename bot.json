@@ -14570,6 +14570,15 @@
       "last_start": "Rabu, 5 Agustus 2026 pukul 18.26.46",
       "total_start": 3,
       "balance": 0
+    },
+    {
+      "id": "5117331486",
+      "username": "@uapstgmw",
+      "name": "JC Pluriel",
+      "first_start": "Rabu, 5 Agustus 2026 pukul 21.34.21",
+      "last_start": "Rabu, 5 Agustus 2026 pukul 21.34.21",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14649,8 +14658,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3875,
-  "total_users": 1619,
+  "total_start": 3876,
+  "total_users": 1620,
   "total_groups": 15,
-  "last_update": "Rabu, 5 Agustus 2026 pukul 21.18.04"
+  "last_update": "Rabu, 5 Agustus 2026 pukul 21.34.21"
 }
