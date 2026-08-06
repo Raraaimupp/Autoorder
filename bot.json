@@ -14597,6 +14597,15 @@
       "last_start": "Kamis, 6 Agustus 2026 pukul 06.46.22",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8622431344",
+      "username": "Tidak ada",
+      "name": "AQOY",
+      "first_start": "Jumat, 7 Agustus 2026 pukul 06.57.38",
+      "last_start": "Jumat, 7 Agustus 2026 pukul 06.57.38",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14676,8 +14685,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3922,
-  "total_users": 1622,
+  "total_start": 3923,
+  "total_users": 1623,
   "total_groups": 15,
-  "last_update": "Jumat, 7 Agustus 2026 pukul 03.36.02"
+  "last_update": "Jumat, 7 Agustus 2026 pukul 06.57.38"
 }
