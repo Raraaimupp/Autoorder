@@ -14606,6 +14606,15 @@
       "last_start": "Jumat, 7 Agustus 2026 pukul 06.57.38",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7865043013",
+      "username": "@Sanzzaja1",
+      "name": "Samsz",
+      "first_start": "Jumat, 7 Agustus 2026 pukul 13.53.59",
+      "last_start": "Jumat, 7 Agustus 2026 pukul 13.53.59",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14685,8 +14694,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3933,
-  "total_users": 1623,
+  "total_start": 3934,
+  "total_users": 1624,
   "total_groups": 15,
-  "last_update": "Jumat, 7 Agustus 2026 pukul 13.53.41"
+  "last_update": "Jumat, 7 Agustus 2026 pukul 13.53.59"
 }
