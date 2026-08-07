@@ -14615,6 +14615,15 @@
       "last_start": "Jumat, 7 Agustus 2026 pukul 13.53.59",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8137676095",
+      "username": "@yantogantenggg",
+      "name": "yantoo",
+      "first_start": "Jumat, 7 Agustus 2026 pukul 16.41.08",
+      "last_start": "Jumat, 7 Agustus 2026 pukul 16.41.08",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14694,8 +14703,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3936,
-  "total_users": 1624,
+  "total_start": 3937,
+  "total_users": 1625,
   "total_groups": 15,
-  "last_update": "Jumat, 7 Agustus 2026 pukul 16.40.49"
+  "last_update": "Jumat, 7 Agustus 2026 pukul 16.41.08"
 }
