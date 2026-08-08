@@ -14669,6 +14669,15 @@
       "last_start": "Sabtu, 8 Agustus 2026 pukul 23.06.20",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "2075247310",
+      "username": "@ZyuxTranger",
+      "name": "zᥡᥙ᥊𝗍rᥲ sіᥒᥴᥱ",
+      "first_start": "Sabtu, 8 Agustus 2026 pukul 23.12.01",
+      "last_start": "Sabtu, 8 Agustus 2026 pukul 23.12.01",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14748,8 +14757,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3967,
-  "total_users": 1630,
+  "total_start": 3968,
+  "total_users": 1631,
   "total_groups": 15,
-  "last_update": "Sabtu, 8 Agustus 2026 pukul 23.10.20"
+  "last_update": "Sabtu, 8 Agustus 2026 pukul 23.12.01"
 }
