@@ -14642,6 +14642,15 @@
       "last_start": "Sabtu, 8 Agustus 2026 pukul 21.02.42",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6764568179",
+      "username": "@Official_Binance_Support_4",
+      "name": "Binance Support",
+      "first_start": "Sabtu, 8 Agustus 2026 pukul 23.03.13",
+      "last_start": "Sabtu, 8 Agustus 2026 pukul 23.03.13",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14721,8 +14730,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3960,
-  "total_users": 1627,
+  "total_start": 3961,
+  "total_users": 1628,
   "total_groups": 15,
-  "last_update": "Sabtu, 8 Agustus 2026 pukul 22.58.02"
+  "last_update": "Sabtu, 8 Agustus 2026 pukul 23.03.13"
 }
