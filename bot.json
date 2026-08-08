@@ -14705,6 +14705,15 @@
       "last_start": "Minggu, 9 Agustus 2026 pukul 01.18.41",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "8819277205",
+      "username": "@lau_bawahan_gw",
+      "name": "/'Ꮰ'/𝘇𝗶𝗽𝗲𝗿¿",
+      "first_start": "Minggu, 9 Agustus 2026 pukul 04.47.40",
+      "last_start": "Minggu, 9 Agustus 2026 pukul 04.47.40",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14784,8 +14793,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3989,
-  "total_users": 1634,
+  "total_start": 3990,
+  "total_users": 1635,
   "total_groups": 15,
-  "last_update": "Minggu, 9 Agustus 2026 pukul 04.46.39"
+  "last_update": "Minggu, 9 Agustus 2026 pukul 04.47.40"
 }
