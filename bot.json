@@ -14678,6 +14678,15 @@
       "last_start": "Sabtu, 8 Agustus 2026 pukul 23.12.01",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8178097609",
+      "username": "@Kara_kirimasu",
+      "name": "ihsan kamil",
+      "first_start": "Sabtu, 8 Agustus 2026 pukul 23.44.28",
+      "last_start": "Sabtu, 8 Agustus 2026 pukul 23.44.28",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14757,8 +14766,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3970,
-  "total_users": 1631,
+  "total_start": 3971,
+  "total_users": 1632,
   "total_groups": 15,
-  "last_update": "Sabtu, 8 Agustus 2026 pukul 23.14.18"
+  "last_update": "Sabtu, 8 Agustus 2026 pukul 23.44.28"
 }
