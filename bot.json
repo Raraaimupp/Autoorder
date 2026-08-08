@@ -14723,6 +14723,15 @@
       "last_start": "Minggu, 9 Agustus 2026 pukul 05.44.49",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8103674746",
+      "username": "Tidak ada",
+      "name": "Ry",
+      "first_start": "Minggu, 9 Agustus 2026 pukul 06.41.31",
+      "last_start": "Minggu, 9 Agustus 2026 pukul 06.41.31",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14802,8 +14811,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3992,
-  "total_users": 1636,
+  "total_start": 3993,
+  "total_users": 1637,
   "total_groups": 15,
-  "last_update": "Minggu, 9 Agustus 2026 pukul 06.25.48"
+  "last_update": "Minggu, 9 Agustus 2026 pukul 06.41.31"
 }
