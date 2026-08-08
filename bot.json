@@ -14624,6 +14624,15 @@
       "last_start": "Jumat, 7 Agustus 2026 pukul 16.41.08",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8783578874",
+      "username": "@RiidzzSTR2",
+      "name": "𝙍ɪᴅ𝙕𝙭ʏ02 [𝙎𝙤𝙣𝙞𝙘 𝘾𝙧𝙖𝙨𝙝]",
+      "first_start": "Sabtu, 8 Agustus 2026 pukul 16.31.58",
+      "last_start": "Sabtu, 8 Agustus 2026 pukul 16.31.58",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14703,8 +14712,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3956,
-  "total_users": 1625,
+  "total_start": 3957,
+  "total_users": 1626,
   "total_groups": 15,
-  "last_update": "Sabtu, 8 Agustus 2026 pukul 16.00.33"
+  "last_update": "Sabtu, 8 Agustus 2026 pukul 16.31.58"
 }
