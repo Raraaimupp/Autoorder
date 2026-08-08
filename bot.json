@@ -14687,6 +14687,15 @@
       "last_start": "Sabtu, 8 Agustus 2026 pukul 23.44.28",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1315286218",
+      "username": "@Raps_reals0",
+      "name": "Raps_reals",
+      "first_start": "Sabtu, 8 Agustus 2026 pukul 23.50.53",
+      "last_start": "Sabtu, 8 Agustus 2026 pukul 23.50.53",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14766,8 +14775,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3971,
-  "total_users": 1632,
+  "total_start": 3972,
+  "total_users": 1633,
   "total_groups": 15,
-  "last_update": "Sabtu, 8 Agustus 2026 pukul 23.49.32"
+  "last_update": "Sabtu, 8 Agustus 2026 pukul 23.50.53"
 }
