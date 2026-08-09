@@ -14777,6 +14777,15 @@
       "last_start": "Minggu, 9 Agustus 2026 pukul 15.36.43",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8128217482",
+      "username": "Tidak ada",
+      "name": "Rikin Jjajs",
+      "first_start": "Minggu, 9 Agustus 2026 pukul 21.10.10",
+      "last_start": "Minggu, 9 Agustus 2026 pukul 21.10.10",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14856,8 +14865,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4011,
-  "total_users": 1642,
+  "total_start": 4012,
+  "total_users": 1643,
   "total_groups": 15,
-  "last_update": "Minggu, 9 Agustus 2026 pukul 20.59.46"
+  "last_update": "Minggu, 9 Agustus 2026 pukul 21.10.10"
 }
