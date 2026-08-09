@@ -14768,6 +14768,15 @@
       "last_start": "Minggu, 9 Agustus 2026 pukul 13.06.20",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7113463459",
+      "username": "Tidak ada",
+      "name": "kancil boncel",
+      "first_start": "Minggu, 9 Agustus 2026 pukul 15.36.43",
+      "last_start": "Minggu, 9 Agustus 2026 pukul 15.36.43",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14847,8 +14856,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4003,
-  "total_users": 1641,
+  "total_start": 4004,
+  "total_users": 1642,
   "total_groups": 15,
-  "last_update": "Minggu, 9 Agustus 2026 pukul 15.35.54"
+  "last_update": "Minggu, 9 Agustus 2026 pukul 15.36.43"
 }
