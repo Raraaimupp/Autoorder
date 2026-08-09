@@ -14741,6 +14741,15 @@
       "last_start": "Minggu, 9 Agustus 2026 pukul 09.06.54",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6353686799",
+      "username": "Tidak ada",
+      "name": "undegler",
+      "first_start": "Minggu, 9 Agustus 2026 pukul 09.18.11",
+      "last_start": "Minggu, 9 Agustus 2026 pukul 09.18.11",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14820,8 +14829,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 3994,
-  "total_users": 1638,
+  "total_start": 3995,
+  "total_users": 1639,
   "total_groups": 15,
-  "last_update": "Minggu, 9 Agustus 2026 pukul 09.17.07"
+  "last_update": "Minggu, 9 Agustus 2026 pukul 09.18.11"
 }
