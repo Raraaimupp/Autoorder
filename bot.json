@@ -14786,6 +14786,15 @@
       "last_start": "Minggu, 9 Agustus 2026 pukul 21.10.10",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7119996009",
+      "username": "Tidak ada",
+      "name": "Cok144",
+      "first_start": "Senin, 10 Agustus 2026 pukul 02.53.05",
+      "last_start": "Senin, 10 Agustus 2026 pukul 02.53.05",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14865,8 +14874,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4015,
-  "total_users": 1643,
+  "total_start": 4016,
+  "total_users": 1644,
   "total_groups": 15,
-  "last_update": "Senin, 10 Agustus 2026 pukul 02.35.10"
+  "last_update": "Senin, 10 Agustus 2026 pukul 02.53.05"
 }
