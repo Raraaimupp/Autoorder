@@ -14804,6 +14804,15 @@
       "last_start": "Senin, 10 Agustus 2026 pukul 14.23.36",
       "total_start": 3,
       "balance": 0
+    },
+    {
+      "id": "8850275482",
+      "username": "Tidak ada",
+      "name": "Abdullah Hasan Al Banna",
+      "first_start": "Senin, 10 Agustus 2026 pukul 21.15.03",
+      "last_start": "Senin, 10 Agustus 2026 pukul 21.15.03",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14883,8 +14892,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4028,
-  "total_users": 1645,
+  "total_start": 4029,
+  "total_users": 1646,
   "total_groups": 15,
-  "last_update": "Senin, 10 Agustus 2026 pukul 21.09.18"
+  "last_update": "Senin, 10 Agustus 2026 pukul 21.15.03"
 }
