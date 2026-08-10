@@ -14795,6 +14795,15 @@
       "last_start": "Senin, 10 Agustus 2026 pukul 02.53.05",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8818803899",
+      "username": "@ganeshacyber",
+      "name": "Ganesha",
+      "first_start": "Senin, 10 Agustus 2026 pukul 14.18.34",
+      "last_start": "Senin, 10 Agustus 2026 pukul 14.18.34",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14874,8 +14883,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4016,
-  "total_users": 1644,
+  "total_start": 4017,
+  "total_users": 1645,
   "total_groups": 15,
-  "last_update": "Senin, 10 Agustus 2026 pukul 14.16.58"
+  "last_update": "Senin, 10 Agustus 2026 pukul 14.18.34"
 }
