@@ -14840,6 +14840,15 @@
       "last_start": "Selasa, 11 Agustus 2026 pukul 20.35.58",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8050240403",
+      "username": "@pherine",
+      "name": "! The Miracle of Zephyr¡nē ",
+      "first_start": "Selasa, 11 Agustus 2026 pukul 21.58.57",
+      "last_start": "Selasa, 11 Agustus 2026 pukul 21.58.57",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14919,8 +14928,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4048,
-  "total_users": 1649,
+  "total_start": 4049,
+  "total_users": 1650,
   "total_groups": 15,
-  "last_update": "Selasa, 11 Agustus 2026 pukul 21.58.42"
+  "last_update": "Selasa, 11 Agustus 2026 pukul 21.58.57"
 }
