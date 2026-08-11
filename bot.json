@@ -14867,6 +14867,15 @@
       "last_start": "Rabu, 12 Agustus 2026 pukul 02.02.57",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6974745250",
+      "username": "Tidak ada",
+      "name": "Alip Gustian",
+      "first_start": "Rabu, 12 Agustus 2026 pukul 04.05.26",
+      "last_start": "Rabu, 12 Agustus 2026 pukul 04.05.26",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14946,8 +14955,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4054,
-  "total_users": 1652,
+  "total_start": 4055,
+  "total_users": 1653,
   "total_groups": 15,
-  "last_update": "Rabu, 12 Agustus 2026 pukul 02.54.23"
+  "last_update": "Rabu, 12 Agustus 2026 pukul 04.05.26"
 }
