@@ -2100,10 +2100,10 @@
     {
       "id": "7830600241",
       "username": "Tidak ada",
-      "name": "‌‌‌‌‌‌‌‎ㅤ ‌‌‌‌‌‌‌‎ㅤ",
+      "name": "- -",
       "first_start": "Sabtu, 2 Mei 2026 pukul 14.24.31",
-      "last_start": "Kamis, 28 Mei 2026 pukul 11.30.07",
-      "total_start": 2,
+      "last_start": "Selasa, 11 Agustus 2026 pukul 12.22.18",
+      "total_start": 3,
       "balance": 0
     },
     {
@@ -14910,8 +14910,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4033,
+  "total_start": 4034,
   "total_users": 1648,
   "total_groups": 15,
-  "last_update": "Selasa, 11 Agustus 2026 pukul 12.21.31"
+  "last_update": "Selasa, 11 Agustus 2026 pukul 12.22.18"
 }
