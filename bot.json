@@ -14849,6 +14849,15 @@
       "last_start": "Selasa, 11 Agustus 2026 pukul 21.58.57",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7377948857",
+      "username": "@ehkmmm",
+      "name": "Kinn",
+      "first_start": "Selasa, 11 Agustus 2026 pukul 23.23.51",
+      "last_start": "Selasa, 11 Agustus 2026 pukul 23.23.51",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14928,8 +14937,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4050,
-  "total_users": 1650,
+  "total_start": 4051,
+  "total_users": 1651,
   "total_groups": 15,
-  "last_update": "Selasa, 11 Agustus 2026 pukul 23.05.40"
+  "last_update": "Selasa, 11 Agustus 2026 pukul 23.23.51"
 }
