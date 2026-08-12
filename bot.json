@@ -14912,6 +14912,15 @@
       "last_start": "Rabu, 12 Agustus 2026 pukul 16.20.03",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8036210732",
+      "username": "@nasuha210",
+      "name": "𝐍𝐀𝐒𝐒 𝐕𝐒 𝐏𝐀𝐑𝐀 𝐏𝐄𝐌𝐁𝐄𝐍𝐂𝐈",
+      "first_start": "Rabu, 12 Agustus 2026 pukul 16.24.20",
+      "last_start": "Rabu, 12 Agustus 2026 pukul 16.24.20",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14991,8 +15000,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4065,
-  "total_users": 1657,
+  "total_start": 4066,
+  "total_users": 1658,
   "total_groups": 15,
-  "last_update": "Rabu, 12 Agustus 2026 pukul 16.23.33"
+  "last_update": "Rabu, 12 Agustus 2026 pukul 16.24.20"
 }
