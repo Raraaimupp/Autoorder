@@ -14930,6 +14930,15 @@
       "last_start": "Rabu, 12 Agustus 2026 pukul 19.13.05",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "6191474983",
+      "username": "@RidanTeritip",
+      "name": "Ridan",
+      "first_start": "Kamis, 13 Agustus 2026 pukul 01.39.54",
+      "last_start": "Kamis, 13 Agustus 2026 pukul 01.39.54",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15009,8 +15018,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4099,
-  "total_users": 1659,
+  "total_start": 4100,
+  "total_users": 1660,
   "total_groups": 15,
-  "last_update": "Kamis, 13 Agustus 2026 pukul 00.24.15"
+  "last_update": "Kamis, 13 Agustus 2026 pukul 01.39.54"
 }
