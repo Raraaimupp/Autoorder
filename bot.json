@@ -14876,6 +14876,15 @@
       "last_start": "Rabu, 12 Agustus 2026 pukul 04.05.26",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8276967886",
+      "username": "@ryukyvvip2",
+      "name": "R̷Y̷U̷K̷Y̷ ̷V̷V̷I̷P̷",
+      "first_start": "Rabu, 12 Agustus 2026 pukul 16.08.04",
+      "last_start": "Rabu, 12 Agustus 2026 pukul 16.08.04",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14955,8 +14964,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4061,
-  "total_users": 1653,
+  "total_start": 4062,
+  "total_users": 1654,
   "total_groups": 15,
-  "last_update": "Rabu, 12 Agustus 2026 pukul 16.07.51"
+  "last_update": "Rabu, 12 Agustus 2026 pukul 16.08.04"
 }
