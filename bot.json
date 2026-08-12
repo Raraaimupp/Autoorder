@@ -14885,6 +14885,15 @@
       "last_start": "Rabu, 12 Agustus 2026 pukul 16.08.04",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8759453448",
+      "username": "@ExzyNewEra1",
+      "name": "Zy",
+      "first_start": "Rabu, 12 Agustus 2026 pukul 16.19.35",
+      "last_start": "Rabu, 12 Agustus 2026 pukul 16.19.35",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14964,8 +14973,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4062,
-  "total_users": 1654,
+  "total_start": 4063,
+  "total_users": 1655,
   "total_groups": 15,
-  "last_update": "Rabu, 12 Agustus 2026 pukul 16.08.04"
+  "last_update": "Rabu, 12 Agustus 2026 pukul 16.19.35"
 }
