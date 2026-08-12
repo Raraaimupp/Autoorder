@@ -14894,6 +14894,15 @@
       "last_start": "Rabu, 12 Agustus 2026 pukul 16.19.35",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8514943909",
+      "username": "@CoCoVJet03",
+      "name": "./CxJet_go",
+      "first_start": "Rabu, 12 Agustus 2026 pukul 16.19.51",
+      "last_start": "Rabu, 12 Agustus 2026 pukul 16.19.51",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14973,8 +14982,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4063,
-  "total_users": 1655,
+  "total_start": 4064,
+  "total_users": 1656,
   "total_groups": 15,
-  "last_update": "Rabu, 12 Agustus 2026 pukul 16.19.35"
+  "last_update": "Rabu, 12 Agustus 2026 pukul 16.19.51"
 }
