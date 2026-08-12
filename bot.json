@@ -14903,6 +14903,15 @@
       "last_start": "Rabu, 12 Agustus 2026 pukul 16.19.51",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8982593874",
+      "username": "@kazxplor",
+      "name": "Yang Hack Kontol",
+      "first_start": "Rabu, 12 Agustus 2026 pukul 16.20.03",
+      "last_start": "Rabu, 12 Agustus 2026 pukul 16.20.03",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -14982,8 +14991,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4064,
-  "total_users": 1656,
+  "total_start": 4065,
+  "total_users": 1657,
   "total_groups": 15,
-  "last_update": "Rabu, 12 Agustus 2026 pukul 16.19.51"
+  "last_update": "Rabu, 12 Agustus 2026 pukul 16.20.03"
 }
