@@ -14921,6 +14921,15 @@
       "last_start": "Rabu, 12 Agustus 2026 pukul 16.38.48",
       "total_start": 4,
       "balance": 0
+    },
+    {
+      "id": "7507768739",
+      "username": "@Yanzzuul",
+      "name": "— Yⱥnzz.Voc ⌕",
+      "first_start": "Rabu, 12 Agustus 2026 pukul 16.54.57",
+      "last_start": "Rabu, 12 Agustus 2026 pukul 16.54.57",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15000,8 +15009,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4071,
-  "total_users": 1658,
+  "total_start": 4072,
+  "total_users": 1659,
   "total_groups": 15,
-  "last_update": "Rabu, 12 Agustus 2026 pukul 16.54.41"
+  "last_update": "Rabu, 12 Agustus 2026 pukul 16.54.57"
 }
