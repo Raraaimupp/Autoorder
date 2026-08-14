@@ -14984,6 +14984,15 @@
       "last_start": "Jumat, 14 Agustus 2026 pukul 08.20.38",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "8845061308",
+      "username": "Tidak ada",
+      "name": "riz",
+      "first_start": "Jumat, 14 Agustus 2026 pukul 14.04.34",
+      "last_start": "Jumat, 14 Agustus 2026 pukul 14.04.34",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15063,8 +15072,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4163,
-  "total_users": 1665,
+  "total_start": 4164,
+  "total_users": 1666,
   "total_groups": 15,
-  "last_update": "Jumat, 14 Agustus 2026 pukul 14.04.12"
+  "last_update": "Jumat, 14 Agustus 2026 pukul 14.04.34"
 }
