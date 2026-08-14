@@ -15011,6 +15011,15 @@
       "last_start": "Jumat, 14 Agustus 2026 pukul 23.06.58",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8062930319",
+      "username": "Tidak ada",
+      "name": "Fanani",
+      "first_start": "Sabtu, 15 Agustus 2026 pukul 01.27.02",
+      "last_start": "Sabtu, 15 Agustus 2026 pukul 01.27.02",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15090,8 +15099,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4180,
-  "total_users": 1668,
+  "total_start": 4181,
+  "total_users": 1669,
   "total_groups": 15,
-  "last_update": "Sabtu, 15 Agustus 2026 pukul 01.03.36"
+  "last_update": "Sabtu, 15 Agustus 2026 pukul 01.27.02"
 }
