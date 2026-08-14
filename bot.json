@@ -15020,6 +15020,15 @@
       "last_start": "Sabtu, 15 Agustus 2026 pukul 01.27.02",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6017945314",
+      "username": "@Rzry21",
+      "name": "rzqy",
+      "first_start": "Sabtu, 15 Agustus 2026 pukul 02.51.38",
+      "last_start": "Sabtu, 15 Agustus 2026 pukul 02.51.38",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15099,8 +15108,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4181,
-  "total_users": 1669,
+  "total_start": 4182,
+  "total_users": 1670,
   "total_groups": 15,
-  "last_update": "Sabtu, 15 Agustus 2026 pukul 02.09.41"
+  "last_update": "Sabtu, 15 Agustus 2026 pukul 02.51.38"
 }
