@@ -14993,6 +14993,15 @@
       "last_start": "Jumat, 14 Agustus 2026 pukul 14.07.38",
       "total_start": 3,
       "balance": 0
+    },
+    {
+      "id": "7988316668",
+      "username": "@awjwhwh",
+      "name": "Kco",
+      "first_start": "Jumat, 14 Agustus 2026 pukul 16.55.48",
+      "last_start": "Jumat, 14 Agustus 2026 pukul 16.55.48",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15072,8 +15081,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4171,
-  "total_users": 1666,
+  "total_start": 4172,
+  "total_users": 1667,
   "total_groups": 15,
-  "last_update": "Jumat, 14 Agustus 2026 pukul 16.53.16"
+  "last_update": "Jumat, 14 Agustus 2026 pukul 16.55.48"
 }
