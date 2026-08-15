@@ -15038,6 +15038,15 @@
       "last_start": "Sabtu, 15 Agustus 2026 pukul 07.51.59",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7003582239",
+      "username": "@Dvsskkk",
+      "name": "₭ ♱",
+      "first_start": "Sabtu, 15 Agustus 2026 pukul 17.29.13",
+      "last_start": "Sabtu, 15 Agustus 2026 pukul 17.29.13",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15117,8 +15126,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4187,
-  "total_users": 1671,
+  "total_start": 4188,
+  "total_users": 1672,
   "total_groups": 15,
-  "last_update": "Sabtu, 15 Agustus 2026 pukul 17.23.01"
+  "last_update": "Sabtu, 15 Agustus 2026 pukul 17.29.13"
 }
