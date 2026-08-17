@@ -15074,6 +15074,15 @@
       "last_start": "Senin, 17 Agustus 2026 pukul 08.49.36",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8210681097",
+      "username": "Tidak ada",
+      "name": "Mas Dikz | #CwrTzy",
+      "first_start": "Senin, 17 Agustus 2026 pukul 12.45.11",
+      "last_start": "Senin, 17 Agustus 2026 pukul 12.45.11",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15153,8 +15162,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4214,
-  "total_users": 1675,
+  "total_start": 4215,
+  "total_users": 1676,
   "total_groups": 15,
-  "last_update": "Senin, 17 Agustus 2026 pukul 12.39.34"
+  "last_update": "Senin, 17 Agustus 2026 pukul 12.45.11"
 }
