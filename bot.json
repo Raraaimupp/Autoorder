@@ -15092,6 +15092,15 @@
       "last_start": "Senin, 17 Agustus 2026 pukul 14.02.11",
       "total_start": 3,
       "balance": 0
+    },
+    {
+      "id": "8098526754",
+      "username": "@XYCoolcrafts",
+      "name": "𝗫͍𝗬̌ | 𝗫Λ𝗬𝗭 Ƭ̀̍Σͫ̾C̑̈Ή̐",
+      "first_start": "Senin, 17 Agustus 2026 pukul 19.02.31",
+      "last_start": "Senin, 17 Agustus 2026 pukul 19.02.31",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15171,8 +15180,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4225,
-  "total_users": 1677,
+  "total_start": 4226,
+  "total_users": 1678,
   "total_groups": 15,
-  "last_update": "Senin, 17 Agustus 2026 pukul 19.01.59"
+  "last_update": "Senin, 17 Agustus 2026 pukul 19.02.31"
 }
