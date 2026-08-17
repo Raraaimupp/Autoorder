@@ -15101,6 +15101,15 @@
       "last_start": "Senin, 17 Agustus 2026 pukul 19.02.31",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "37765751",
+      "username": "@loversgw",
+      "name": "今 𝘼𝙁𝙏 | アシス",
+      "first_start": "Senin, 17 Agustus 2026 pukul 23.28.28",
+      "last_start": "Senin, 17 Agustus 2026 pukul 23.28.28",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15180,8 +15189,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4234,
-  "total_users": 1678,
+  "total_start": 4235,
+  "total_users": 1679,
   "total_groups": 15,
-  "last_update": "Senin, 17 Agustus 2026 pukul 22.55.50"
+  "last_update": "Senin, 17 Agustus 2026 pukul 23.28.28"
 }
