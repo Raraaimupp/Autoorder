@@ -15110,6 +15110,15 @@
       "last_start": "Senin, 17 Agustus 2026 pukul 23.33.53",
       "total_start": 3,
       "balance": 0
+    },
+    {
+      "id": "5968421290",
+      "username": "@Xatanchiixxiv",
+      "name": "Xatanchii",
+      "first_start": "Rabu, 19 Agustus 2026 pukul 04.51.53",
+      "last_start": "Rabu, 19 Agustus 2026 pukul 04.51.53",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15189,8 +15198,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4250,
-  "total_users": 1679,
+  "total_start": 4251,
+  "total_users": 1680,
   "total_groups": 15,
-  "last_update": "Rabu, 19 Agustus 2026 pukul 01.57.18"
+  "last_update": "Rabu, 19 Agustus 2026 pukul 04.51.53"
 }
