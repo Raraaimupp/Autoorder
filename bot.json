@@ -15146,6 +15146,15 @@
       "last_start": "Rabu, 19 Agustus 2026 pukul 16.59.08",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8514639083",
+      "username": "@CelosVoid",
+      "name": "𝕮𝖊𝖑𝖔𝖘𝖁𝖔𝖎𝖉🩸",
+      "first_start": "Rabu, 19 Agustus 2026 pukul 17.15.48",
+      "last_start": "Rabu, 19 Agustus 2026 pukul 17.15.48",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15225,8 +15234,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4267,
-  "total_users": 1683,
+  "total_start": 4268,
+  "total_users": 1684,
   "total_groups": 15,
-  "last_update": "Rabu, 19 Agustus 2026 pukul 17.15.28"
+  "last_update": "Rabu, 19 Agustus 2026 pukul 17.15.48"
 }
