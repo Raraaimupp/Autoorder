@@ -15137,6 +15137,15 @@
       "last_start": "Rabu, 19 Agustus 2026 pukul 16.20.07",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8931552549",
+      "username": "@acaccah",
+      "name": "kleo: bulk viu alldur",
+      "first_start": "Rabu, 19 Agustus 2026 pukul 16.59.08",
+      "last_start": "Rabu, 19 Agustus 2026 pukul 16.59.08",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15216,8 +15225,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4263,
-  "total_users": 1682,
+  "total_start": 4264,
+  "total_users": 1683,
   "total_groups": 15,
-  "last_update": "Rabu, 19 Agustus 2026 pukul 16.53.32"
+  "last_update": "Rabu, 19 Agustus 2026 pukul 16.59.08"
 }
