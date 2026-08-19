@@ -15128,6 +15128,15 @@
       "last_start": "Rabu, 19 Agustus 2026 pukul 16.16.52",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8585168564",
+      "username": "@SyanzHaha",
+      "name": "ᯓ𝚂𝚢𝚊𝚗𝚣 𝙿𝚊𝚕𝚙𝚊𝚕𝚎 「𝙽𝚐𝚇」 #𝟒𝐓𝐨𝐒",
+      "first_start": "Rabu, 19 Agustus 2026 pukul 16.20.07",
+      "last_start": "Rabu, 19 Agustus 2026 pukul 16.20.07",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15207,8 +15216,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4255,
-  "total_users": 1681,
+  "total_start": 4256,
+  "total_users": 1682,
   "total_groups": 15,
-  "last_update": "Rabu, 19 Agustus 2026 pukul 16.19.24"
+  "last_update": "Rabu, 19 Agustus 2026 pukul 16.20.07"
 }
