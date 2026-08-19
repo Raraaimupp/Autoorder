@@ -15164,6 +15164,15 @@
       "last_start": "Rabu, 19 Agustus 2026 pukul 19.26.50",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6863258183",
+      "username": "@YannEtanol",
+      "name": "⛦⁪⁬⁮⁮𝐘𝐚́𝐧𝐧𝐄𝐭𝐚𝐧𝐨𝐥`",
+      "first_start": "Kamis, 20 Agustus 2026 pukul 00.26.18",
+      "last_start": "Kamis, 20 Agustus 2026 pukul 00.26.18",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15243,8 +15252,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4288,
-  "total_users": 1685,
+  "total_start": 4289,
+  "total_users": 1686,
   "total_groups": 15,
-  "last_update": "Kamis, 20 Agustus 2026 pukul 00.25.17"
+  "last_update": "Kamis, 20 Agustus 2026 pukul 00.26.18"
 }
