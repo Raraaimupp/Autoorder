@@ -15155,6 +15155,15 @@
       "last_start": "Rabu, 19 Agustus 2026 pukul 17.15.48",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8783261756",
+      "username": "@KairaNotDev",
+      "name": "『#RVX』♪ just!ce bash <(curl -s KairaNotDev#¡-𝑫𝒆𝕏 👑",
+      "first_start": "Rabu, 19 Agustus 2026 pukul 19.26.50",
+      "last_start": "Rabu, 19 Agustus 2026 pukul 19.26.50",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15234,8 +15243,8 @@
       "first_detected": "Kamis, 30 Juli 2026 pukul 21.33.28"
     }
   ],
-  "total_start": 4278,
-  "total_users": 1684,
+  "total_start": 4279,
+  "total_users": 1685,
   "total_groups": 15,
-  "last_update": "Rabu, 19 Agustus 2026 pukul 19.19.44"
+  "last_update": "Rabu, 19 Agustus 2026 pukul 19.26.50"
 }
