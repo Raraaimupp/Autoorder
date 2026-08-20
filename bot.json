@@ -15200,6 +15200,15 @@
       "last_start": "Kamis, 20 Agustus 2026 pukul 11.59.05",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8330812696",
+      "username": "Tidak ada",
+      "name": "Abud Abud",
+      "first_start": "Kamis, 20 Agustus 2026 pukul 12.11.25",
+      "last_start": "Kamis, 20 Agustus 2026 pukul 12.11.25",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15284,8 +15293,8 @@
       "first_detected": "Kamis, 20 Agustus 2026 pukul 11.17.47"
     }
   ],
-  "total_start": 4306,
-  "total_users": 1689,
+  "total_start": 4307,
+  "total_users": 1690,
   "total_groups": 16,
-  "last_update": "Kamis, 20 Agustus 2026 pukul 12.08.20"
+  "last_update": "Kamis, 20 Agustus 2026 pukul 12.11.25"
 }
