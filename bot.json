@@ -15245,6 +15245,15 @@
       "last_start": "Kamis, 20 Agustus 2026 pukul 20.22.09",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1993370764",
+      "username": "@SxxO155",
+      "name": "./s",
+      "first_start": "Kamis, 20 Agustus 2026 pukul 21.12.32",
+      "last_start": "Kamis, 20 Agustus 2026 pukul 21.12.32",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15329,8 +15338,8 @@
       "first_detected": "Kamis, 20 Agustus 2026 pukul 11.17.47"
     }
   ],
-  "total_start": 4346,
-  "total_users": 1694,
+  "total_start": 4347,
+  "total_users": 1695,
   "total_groups": 16,
-  "last_update": "Kamis, 20 Agustus 2026 pukul 21.11.31"
+  "last_update": "Kamis, 20 Agustus 2026 pukul 21.12.32"
 }
