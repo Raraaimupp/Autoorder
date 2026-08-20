@@ -15227,6 +15227,15 @@
       "last_start": "Kamis, 20 Agustus 2026 pukul 15.28.58",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8300951134",
+      "username": "@mclpx",
+      "name": "ch",
+      "first_start": "Kamis, 20 Agustus 2026 pukul 20.21.39",
+      "last_start": "Kamis, 20 Agustus 2026 pukul 20.21.39",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15311,8 +15320,8 @@
       "first_detected": "Kamis, 20 Agustus 2026 pukul 11.17.47"
     }
   ],
-  "total_start": 4336,
-  "total_users": 1692,
+  "total_start": 4337,
+  "total_users": 1693,
   "total_groups": 16,
-  "last_update": "Kamis, 20 Agustus 2026 pukul 20.20.43"
+  "last_update": "Kamis, 20 Agustus 2026 pukul 20.21.39"
 }
