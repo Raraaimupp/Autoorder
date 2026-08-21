@@ -15308,6 +15308,15 @@
       "last_start": "Jumat, 21 Agustus 2026 pukul 17.12.13",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7806644172",
+      "username": "@nzglory",
+      "name": "𝚗𝚣𝙶𝚕𝚘𝚛𝚢",
+      "first_start": "Jumat, 21 Agustus 2026 pukul 17.16.22",
+      "last_start": "Jumat, 21 Agustus 2026 pukul 17.16.22",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15392,8 +15401,8 @@
       "first_detected": "Kamis, 20 Agustus 2026 pukul 11.17.47"
     }
   ],
-  "total_start": 4375,
-  "total_users": 1701,
+  "total_start": 4376,
+  "total_users": 1702,
   "total_groups": 16,
-  "last_update": "Jumat, 21 Agustus 2026 pukul 17.15.41"
+  "last_update": "Jumat, 21 Agustus 2026 pukul 17.16.22"
 }
