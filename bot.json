@@ -15299,6 +15299,15 @@
       "last_start": "Jumat, 21 Agustus 2026 pukul 14.33.02",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8640483301",
+      "username": "@maklubusuk",
+      "name": "íkký #santos",
+      "first_start": "Jumat, 21 Agustus 2026 pukul 17.12.13",
+      "last_start": "Jumat, 21 Agustus 2026 pukul 17.12.13",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15383,8 +15392,8 @@
       "first_detected": "Kamis, 20 Agustus 2026 pukul 11.17.47"
     }
   ],
-  "total_start": 4374,
-  "total_users": 1700,
+  "total_start": 4375,
+  "total_users": 1701,
   "total_groups": 16,
-  "last_update": "Jumat, 21 Agustus 2026 pukul 17.12.07"
+  "last_update": "Jumat, 21 Agustus 2026 pukul 17.12.13"
 }
