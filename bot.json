@@ -15371,6 +15371,15 @@
       "last_start": "Sabtu, 22 Agustus 2026 pukul 11.16.56",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8123681197",
+      "username": "@ellthels",
+      "name": "El",
+      "first_start": "Sabtu, 22 Agustus 2026 pukul 17.02.39",
+      "last_start": "Sabtu, 22 Agustus 2026 pukul 17.02.39",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15455,8 +15464,8 @@
       "first_detected": "Kamis, 20 Agustus 2026 pukul 11.17.47"
     }
   ],
-  "total_start": 4404,
-  "total_users": 1708,
+  "total_start": 4405,
+  "total_users": 1709,
   "total_groups": 16,
-  "last_update": "Sabtu, 22 Agustus 2026 pukul 17.01.17"
+  "last_update": "Sabtu, 22 Agustus 2026 pukul 17.02.39"
 }
