@@ -15380,6 +15380,15 @@
       "last_start": "Sabtu, 22 Agustus 2026 pukul 17.02.39",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7635615736",
+      "username": "@Arifnurahman",
+      "name": "XAYZE SECC",
+      "first_start": "Sabtu, 22 Agustus 2026 pukul 17.31.46",
+      "last_start": "Sabtu, 22 Agustus 2026 pukul 17.31.46",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15464,8 +15473,8 @@
       "first_detected": "Kamis, 20 Agustus 2026 pukul 11.17.47"
     }
   ],
-  "total_start": 4405,
-  "total_users": 1709,
+  "total_start": 4406,
+  "total_users": 1710,
   "total_groups": 16,
-  "last_update": "Sabtu, 22 Agustus 2026 pukul 17.31.30"
+  "last_update": "Sabtu, 22 Agustus 2026 pukul 17.31.46"
 }
