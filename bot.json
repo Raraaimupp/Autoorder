@@ -15434,6 +15434,15 @@
       "last_start": "Minggu, 23 Agustus 2026 pukul 23.09.54",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8869287460",
+      "username": "@Abdul210108",
+      "name": "Abdul",
+      "first_start": "Senin, 24 Agustus 2026 pukul 01.56.13",
+      "last_start": "Senin, 24 Agustus 2026 pukul 01.56.13",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15523,8 +15532,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4439,
-  "total_users": 1715,
+  "total_start": 4440,
+  "total_users": 1716,
   "total_groups": 17,
-  "last_update": "Senin, 24 Agustus 2026 pukul 01.52.29"
+  "last_update": "Senin, 24 Agustus 2026 pukul 01.56.13"
 }
