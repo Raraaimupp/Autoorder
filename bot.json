@@ -15416,6 +15416,15 @@
       "last_start": "Minggu, 23 Agustus 2026 pukul 09.33.26",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8684858530",
+      "username": "@seoyoonie1",
+      "name": "🤍 Seo Yoon (서윤)",
+      "first_start": "Minggu, 23 Agustus 2026 pukul 17.09.56",
+      "last_start": "Minggu, 23 Agustus 2026 pukul 17.09.56",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15505,8 +15514,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4428,
-  "total_users": 1713,
+  "total_start": 4429,
+  "total_users": 1714,
   "total_groups": 17,
-  "last_update": "Minggu, 23 Agustus 2026 pukul 17.02.05"
+  "last_update": "Minggu, 23 Agustus 2026 pukul 17.09.56"
 }
