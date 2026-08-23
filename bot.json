@@ -15389,6 +15389,15 @@
       "last_start": "Sabtu, 22 Agustus 2026 pukul 17.31.46",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7975136339",
+      "username": "@Ceolynxiee",
+      "name": "balikinnnn",
+      "first_start": "Minggu, 23 Agustus 2026 pukul 07.42.19",
+      "last_start": "Minggu, 23 Agustus 2026 pukul 07.42.19",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15478,8 +15487,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4415,
-  "total_users": 1710,
+  "total_start": 4416,
+  "total_users": 1711,
   "total_groups": 17,
-  "last_update": "Minggu, 23 Agustus 2026 pukul 07.42.05"
+  "last_update": "Minggu, 23 Agustus 2026 pukul 07.42.19"
 }
