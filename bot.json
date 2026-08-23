@@ -15398,6 +15398,15 @@
       "last_start": "Minggu, 23 Agustus 2026 pukul 07.42.19",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8526614645",
+      "username": "Tidak ada",
+      "name": "Martin Koban",
+      "first_start": "Minggu, 23 Agustus 2026 pukul 09.32.31",
+      "last_start": "Minggu, 23 Agustus 2026 pukul 09.32.31",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15487,8 +15496,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4417,
-  "total_users": 1711,
+  "total_start": 4418,
+  "total_users": 1712,
   "total_groups": 17,
-  "last_update": "Minggu, 23 Agustus 2026 pukul 09.13.23"
+  "last_update": "Minggu, 23 Agustus 2026 pukul 09.32.31"
 }
