@@ -15425,6 +15425,15 @@
       "last_start": "Minggu, 23 Agustus 2026 pukul 17.09.56",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6289790623",
+      "username": "@oatmilkone",
+      "name": "asomeso",
+      "first_start": "Minggu, 23 Agustus 2026 pukul 23.09.54",
+      "last_start": "Minggu, 23 Agustus 2026 pukul 23.09.54",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15514,8 +15523,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4435,
-  "total_users": 1714,
+  "total_start": 4436,
+  "total_users": 1715,
   "total_groups": 17,
-  "last_update": "Minggu, 23 Agustus 2026 pukul 22.55.57"
+  "last_update": "Minggu, 23 Agustus 2026 pukul 23.09.54"
 }
