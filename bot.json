@@ -15452,6 +15452,15 @@
       "last_start": "Senin, 24 Agustus 2026 pukul 13.13.09",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7217113921",
+      "username": "Tidak ada",
+      "name": "Sengkuni Sengkuni",
+      "first_start": "Senin, 24 Agustus 2026 pukul 13.36.12",
+      "last_start": "Senin, 24 Agustus 2026 pukul 13.36.12",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15541,8 +15550,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4446,
-  "total_users": 1717,
+  "total_start": 4447,
+  "total_users": 1718,
   "total_groups": 17,
-  "last_update": "Senin, 24 Agustus 2026 pukul 13.35.00"
+  "last_update": "Senin, 24 Agustus 2026 pukul 13.36.12"
 }
