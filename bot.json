@@ -15470,6 +15470,15 @@
       "last_start": "Senin, 24 Agustus 2026 pukul 15.52.32",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8284043329",
+      "username": "@asokty",
+      "name": "666ánggatzy",
+      "first_start": "Senin, 24 Agustus 2026 pukul 16.38.00",
+      "last_start": "Senin, 24 Agustus 2026 pukul 16.38.00",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15559,8 +15568,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4448,
-  "total_users": 1719,
+  "total_start": 4449,
+  "total_users": 1720,
   "total_groups": 17,
-  "last_update": "Senin, 24 Agustus 2026 pukul 16.37.38"
+  "last_update": "Senin, 24 Agustus 2026 pukul 16.38.00"
 }
