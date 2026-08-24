@@ -15497,6 +15497,15 @@
       "last_start": "Selasa, 25 Agustus 2026 pukul 00.57.14",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8826203519",
+      "username": "@pixznotdev",
+      "name": "PIXZNOTDEV",
+      "first_start": "Selasa, 25 Agustus 2026 pukul 02.16.15",
+      "last_start": "Selasa, 25 Agustus 2026 pukul 02.16.15",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15586,8 +15595,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4455,
-  "total_users": 1722,
+  "total_start": 4456,
+  "total_users": 1723,
   "total_groups": 17,
-  "last_update": "Selasa, 25 Agustus 2026 pukul 00.57.14"
+  "last_update": "Selasa, 25 Agustus 2026 pukul 02.16.15"
 }
