@@ -15479,6 +15479,15 @@
       "last_start": "Senin, 24 Agustus 2026 pukul 16.38.00",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6197259244",
+      "username": "Tidak ada",
+      "name": "Habsyi",
+      "first_start": "Senin, 24 Agustus 2026 pukul 21.08.51",
+      "last_start": "Senin, 24 Agustus 2026 pukul 21.08.51",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15568,8 +15577,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4451,
-  "total_users": 1720,
+  "total_start": 4452,
+  "total_users": 1721,
   "total_groups": 17,
-  "last_update": "Senin, 24 Agustus 2026 pukul 21.06.28"
+  "last_update": "Senin, 24 Agustus 2026 pukul 21.08.51"
 }
