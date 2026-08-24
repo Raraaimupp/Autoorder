@@ -15506,6 +15506,15 @@
       "last_start": "Selasa, 25 Agustus 2026 pukul 02.21.03",
       "total_start": 5,
       "balance": 0
+    },
+    {
+      "id": "8872394200",
+      "username": "@Fvck7566",
+      "name": "Bagi\" nokos, akun",
+      "first_start": "Selasa, 25 Agustus 2026 pukul 04.32.27",
+      "last_start": "Selasa, 25 Agustus 2026 pukul 04.32.27",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15595,8 +15604,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4460,
-  "total_users": 1723,
+  "total_start": 4461,
+  "total_users": 1724,
   "total_groups": 17,
-  "last_update": "Selasa, 25 Agustus 2026 pukul 04.09.12"
+  "last_update": "Selasa, 25 Agustus 2026 pukul 04.32.27"
 }
