@@ -15461,6 +15461,15 @@
       "last_start": "Senin, 24 Agustus 2026 pukul 13.36.12",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8450520169",
+      "username": "@Tukang0975",
+      "name": "Rasyiq",
+      "first_start": "Senin, 24 Agustus 2026 pukul 15.52.32",
+      "last_start": "Senin, 24 Agustus 2026 pukul 15.52.32",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15550,8 +15559,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4447,
-  "total_users": 1718,
+  "total_start": 4448,
+  "total_users": 1719,
   "total_groups": 17,
-  "last_update": "Senin, 24 Agustus 2026 pukul 14.45.09"
+  "last_update": "Senin, 24 Agustus 2026 pukul 15.52.32"
 }
