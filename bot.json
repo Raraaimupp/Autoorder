@@ -15515,6 +15515,15 @@
       "last_start": "Selasa, 25 Agustus 2026 pukul 04.32.27",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8061324770",
+      "username": "@Zikrics14",
+      "name": "Ahmadil Zikri",
+      "first_start": "Selasa, 25 Agustus 2026 pukul 05.09.44",
+      "last_start": "Selasa, 25 Agustus 2026 pukul 05.09.44",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15604,8 +15613,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4461,
-  "total_users": 1724,
+  "total_start": 4462,
+  "total_users": 1725,
   "total_groups": 17,
-  "last_update": "Selasa, 25 Agustus 2026 pukul 04.32.27"
+  "last_update": "Selasa, 25 Agustus 2026 pukul 05.09.44"
 }
