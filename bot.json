@@ -15560,6 +15560,15 @@
       "last_start": "Selasa, 25 Agustus 2026 pukul 10.12.00",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "8970368799",
+      "username": "Tidak ada",
+      "name": "𝗸𝗮𝘆𝘇𝗲𝗻𝗻",
+      "first_start": "Selasa, 25 Agustus 2026 pukul 17.51.02",
+      "last_start": "Selasa, 25 Agustus 2026 pukul 17.51.02",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15649,8 +15658,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4474,
-  "total_users": 1729,
+  "total_start": 4475,
+  "total_users": 1730,
   "total_groups": 17,
-  "last_update": "Selasa, 25 Agustus 2026 pukul 17.50.00"
+  "last_update": "Selasa, 25 Agustus 2026 pukul 17.51.02"
 }
