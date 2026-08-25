@@ -15569,6 +15569,15 @@
       "last_start": "Selasa, 25 Agustus 2026 pukul 17.51.02",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8838592661",
+      "username": "Tidak ada",
+      "name": "yan pler",
+      "first_start": "Selasa, 25 Agustus 2026 pukul 19.46.26",
+      "last_start": "Selasa, 25 Agustus 2026 pukul 19.46.26",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15658,8 +15667,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4475,
-  "total_users": 1730,
+  "total_start": 4476,
+  "total_users": 1731,
   "total_groups": 17,
-  "last_update": "Selasa, 25 Agustus 2026 pukul 19.42.38"
+  "last_update": "Selasa, 25 Agustus 2026 pukul 19.46.26"
 }
