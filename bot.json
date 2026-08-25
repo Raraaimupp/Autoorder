@@ -15533,6 +15533,15 @@
       "last_start": "Selasa, 25 Agustus 2026 pukul 06.58.07",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "908012818",
+      "username": "@CLICKTOLOLEE",
+      "name": "THE king evil",
+      "first_start": "Selasa, 25 Agustus 2026 pukul 07.47.29",
+      "last_start": "Selasa, 25 Agustus 2026 pukul 07.47.29",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15622,8 +15631,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4465,
-  "total_users": 1726,
+  "total_start": 4466,
+  "total_users": 1727,
   "total_groups": 17,
-  "last_update": "Selasa, 25 Agustus 2026 pukul 07.43.16"
+  "last_update": "Selasa, 25 Agustus 2026 pukul 07.47.29"
 }
