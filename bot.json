@@ -15614,6 +15614,15 @@
       "last_start": "Rabu, 26 Agustus 2026 pukul 10.48.45",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8677107023",
+      "username": "@rzszu",
+      "name": "rum chi",
+      "first_start": "Rabu, 26 Agustus 2026 pukul 15.56.25",
+      "last_start": "Rabu, 26 Agustus 2026 pukul 15.56.25",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15703,8 +15712,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4492,
-  "total_users": 1735,
+  "total_start": 4493,
+  "total_users": 1736,
   "total_groups": 17,
-  "last_update": "Rabu, 26 Agustus 2026 pukul 15.52.00"
+  "last_update": "Rabu, 26 Agustus 2026 pukul 15.56.25"
 }
