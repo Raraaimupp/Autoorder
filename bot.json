@@ -15623,6 +15623,15 @@
       "last_start": "Rabu, 26 Agustus 2026 pukul 15.56.25",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7413570612",
+      "username": "@x_aebal",
+      "name": "aebal❤️‍🔥",
+      "first_start": "Rabu, 26 Agustus 2026 pukul 16.55.56",
+      "last_start": "Rabu, 26 Agustus 2026 pukul 16.55.56",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15712,8 +15721,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4494,
-  "total_users": 1736,
+  "total_start": 4495,
+  "total_users": 1737,
   "total_groups": 17,
-  "last_update": "Rabu, 26 Agustus 2026 pukul 16.46.36"
+  "last_update": "Rabu, 26 Agustus 2026 pukul 16.55.56"
 }
