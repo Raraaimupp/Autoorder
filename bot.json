@@ -15596,6 +15596,15 @@
       "last_start": "Selasa, 25 Agustus 2026 pukul 23.20.04",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "37394713",
+      "username": "@ozoroi",
+      "name": "schmischel.",
+      "first_start": "Rabu, 26 Agustus 2026 pukul 07.35.01",
+      "last_start": "Rabu, 26 Agustus 2026 pukul 07.35.01",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15685,8 +15694,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4486,
-  "total_users": 1733,
+  "total_start": 4487,
+  "total_users": 1734,
   "total_groups": 17,
-  "last_update": "Rabu, 26 Agustus 2026 pukul 07.31.54"
+  "last_update": "Rabu, 26 Agustus 2026 pukul 07.35.01"
 }
