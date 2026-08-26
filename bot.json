@@ -15632,6 +15632,15 @@
       "last_start": "Rabu, 26 Agustus 2026 pukul 16.55.56",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8691588045",
+      "username": "@Leyzzy7",
+      "name": "病気 𝗞𝗶𝗿𝗼𝘁𝗵𝘿𝙚𝙢𝙤𝙣𝙞𝙘 𝘿' 𝙇𝙪𝙘𝙖̀ 𓇢𓆸",
+      "first_start": "Rabu, 26 Agustus 2026 pukul 20.59.03",
+      "last_start": "Rabu, 26 Agustus 2026 pukul 20.59.03",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15721,8 +15730,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4496,
-  "total_users": 1737,
+  "total_start": 4497,
+  "total_users": 1738,
   "total_groups": 17,
-  "last_update": "Rabu, 26 Agustus 2026 pukul 20.58.37"
+  "last_update": "Rabu, 26 Agustus 2026 pukul 20.59.03"
 }
