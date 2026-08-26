@@ -15659,6 +15659,15 @@
       "last_start": "Kamis, 27 Agustus 2026 pukul 01.54.24",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7932711930",
+      "username": "@Br4945",
+      "name": "Bragas 브라가드 수만트리",
+      "first_start": "Kamis, 27 Agustus 2026 pukul 02.37.15",
+      "last_start": "Kamis, 27 Agustus 2026 pukul 02.37.15",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15748,8 +15757,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4503,
-  "total_users": 1740,
+  "total_start": 4504,
+  "total_users": 1741,
   "total_groups": 17,
-  "last_update": "Kamis, 27 Agustus 2026 pukul 02.03.01"
+  "last_update": "Kamis, 27 Agustus 2026 pukul 02.37.15"
 }
