@@ -15650,6 +15650,15 @@
       "last_start": "Rabu, 26 Agustus 2026 pukul 21.03.38",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6802549175",
+      "username": "@mhmdalisvynt",
+      "name": "a",
+      "first_start": "Kamis, 27 Agustus 2026 pukul 01.54.24",
+      "last_start": "Kamis, 27 Agustus 2026 pukul 01.54.24",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15739,8 +15748,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4502,
-  "total_users": 1739,
+  "total_start": 4503,
+  "total_users": 1740,
   "total_groups": 17,
-  "last_update": "Kamis, 27 Agustus 2026 pukul 01.35.29"
+  "last_update": "Kamis, 27 Agustus 2026 pukul 01.54.24"
 }
