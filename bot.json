@@ -15641,6 +15641,15 @@
       "last_start": "Rabu, 26 Agustus 2026 pukul 20.59.03",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8972146830",
+      "username": "@emangiyaku",
+      "name": "8134",
+      "first_start": "Rabu, 26 Agustus 2026 pukul 21.03.38",
+      "last_start": "Rabu, 26 Agustus 2026 pukul 21.03.38",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15730,8 +15739,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4497,
-  "total_users": 1738,
+  "total_start": 4498,
+  "total_users": 1739,
   "total_groups": 17,
-  "last_update": "Rabu, 26 Agustus 2026 pukul 20.59.03"
+  "last_update": "Rabu, 26 Agustus 2026 pukul 21.03.38"
 }
