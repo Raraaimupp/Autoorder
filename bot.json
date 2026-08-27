@@ -15695,6 +15695,15 @@
       "last_start": "Kamis, 27 Agustus 2026 pukul 20.06.02",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "8909538992",
+      "username": "Tidak ada",
+      "name": "naru",
+      "first_start": "Jumat, 28 Agustus 2026 pukul 02.04.56",
+      "last_start": "Jumat, 28 Agustus 2026 pukul 02.04.56",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15784,8 +15793,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4522,
-  "total_users": 1744,
+  "total_start": 4523,
+  "total_users": 1745,
   "total_groups": 17,
-  "last_update": "Jumat, 28 Agustus 2026 pukul 01.08.55"
+  "last_update": "Jumat, 28 Agustus 2026 pukul 02.04.56"
 }
