@@ -15686,6 +15686,15 @@
       "last_start": "Kamis, 27 Agustus 2026 pukul 11.40.49",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "7723523278",
+      "username": "@DOBEKZAEV",
+      "name": "Chaa🌹",
+      "first_start": "Kamis, 27 Agustus 2026 pukul 20.02.55",
+      "last_start": "Kamis, 27 Agustus 2026 pukul 20.02.55",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15775,8 +15784,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4519,
-  "total_users": 1743,
+  "total_start": 4520,
+  "total_users": 1744,
   "total_groups": 17,
-  "last_update": "Kamis, 27 Agustus 2026 pukul 20.01.09"
+  "last_update": "Kamis, 27 Agustus 2026 pukul 20.02.55"
 }
