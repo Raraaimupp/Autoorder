@@ -15704,6 +15704,15 @@
       "last_start": "Jumat, 28 Agustus 2026 pukul 02.04.56",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8407914961",
+      "username": "@karngminah",
+      "name": "Amélie Celeste.",
+      "first_start": "Jumat, 28 Agustus 2026 pukul 20.07.43",
+      "last_start": "Jumat, 28 Agustus 2026 pukul 20.07.43",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15793,8 +15802,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4532,
-  "total_users": 1745,
+  "total_start": 4533,
+  "total_users": 1746,
   "total_groups": 17,
-  "last_update": "Jumat, 28 Agustus 2026 pukul 20.04.36"
+  "last_update": "Jumat, 28 Agustus 2026 pukul 20.07.43"
 }
