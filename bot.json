@@ -15713,6 +15713,15 @@
       "last_start": "Jumat, 28 Agustus 2026 pukul 20.07.43",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8923805826",
+      "username": "Tidak ada",
+      "name": "Daniel Alfredo",
+      "first_start": "Sabtu, 29 Agustus 2026 pukul 02.02.02",
+      "last_start": "Sabtu, 29 Agustus 2026 pukul 02.02.02",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15802,8 +15811,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4538,
-  "total_users": 1746,
+  "total_start": 4539,
+  "total_users": 1747,
   "total_groups": 17,
-  "last_update": "Sabtu, 29 Agustus 2026 pukul 00.53.44"
+  "last_update": "Sabtu, 29 Agustus 2026 pukul 02.02.02"
 }
