@@ -15767,6 +15767,15 @@
       "last_start": "Minggu, 30 Agustus 2026 pukul 00.16.07",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7975265693",
+      "username": "@yap82882",
+      "name": "yap",
+      "first_start": "Minggu, 30 Agustus 2026 pukul 04.38.43",
+      "last_start": "Minggu, 30 Agustus 2026 pukul 04.38.43",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15856,8 +15865,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4569,
-  "total_users": 1752,
+  "total_start": 4570,
+  "total_users": 1753,
   "total_groups": 17,
-  "last_update": "Minggu, 30 Agustus 2026 pukul 04.37.53"
+  "last_update": "Minggu, 30 Agustus 2026 pukul 04.38.43"
 }
