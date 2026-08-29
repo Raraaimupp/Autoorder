@@ -15740,6 +15740,15 @@
       "last_start": "Sabtu, 29 Agustus 2026 pukul 10.08.30",
       "total_start": 7,
       "balance": 0
+    },
+    {
+      "id": "8311745441",
+      "username": "@wawastore24",
+      "name": "Wawastore",
+      "first_start": "Sabtu, 29 Agustus 2026 pukul 19.41.14",
+      "last_start": "Sabtu, 29 Agustus 2026 pukul 19.41.14",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15829,8 +15838,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4562,
-  "total_users": 1749,
+  "total_start": 4563,
+  "total_users": 1750,
   "total_groups": 17,
-  "last_update": "Sabtu, 29 Agustus 2026 pukul 19.38.59"
+  "last_update": "Sabtu, 29 Agustus 2026 pukul 19.41.14"
 }
