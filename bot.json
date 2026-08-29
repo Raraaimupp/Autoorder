@@ -15758,6 +15758,15 @@
       "last_start": "Sabtu, 29 Agustus 2026 pukul 23.47.11",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7812661219",
+      "username": "@nazzaz0",
+      "name": "anaz",
+      "first_start": "Minggu, 30 Agustus 2026 pukul 00.16.07",
+      "last_start": "Minggu, 30 Agustus 2026 pukul 00.16.07",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15847,8 +15856,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4568,
-  "total_users": 1751,
+  "total_start": 4569,
+  "total_users": 1752,
   "total_groups": 17,
-  "last_update": "Minggu, 30 Agustus 2026 pukul 00.11.00"
+  "last_update": "Minggu, 30 Agustus 2026 pukul 00.16.07"
 }
