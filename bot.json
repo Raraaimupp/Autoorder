@@ -15776,6 +15776,15 @@
       "last_start": "Minggu, 30 Agustus 2026 pukul 04.38.43",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8685929327",
+      "username": "Tidak ada",
+      "name": "Ade Des",
+      "first_start": "Minggu, 30 Agustus 2026 pukul 12.15.43",
+      "last_start": "Minggu, 30 Agustus 2026 pukul 12.15.43",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15865,8 +15874,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4571,
-  "total_users": 1753,
+  "total_start": 4572,
+  "total_users": 1754,
   "total_groups": 17,
-  "last_update": "Minggu, 30 Agustus 2026 pukul 12.12.43"
+  "last_update": "Minggu, 30 Agustus 2026 pukul 12.15.43"
 }
