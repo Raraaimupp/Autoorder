@@ -15785,6 +15785,15 @@
       "last_start": "Minggu, 30 Agustus 2026 pukul 12.15.43",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7901301482",
+      "username": "Tidak ada",
+      "name": "Yo El",
+      "first_start": "Minggu, 30 Agustus 2026 pukul 17.58.34",
+      "last_start": "Minggu, 30 Agustus 2026 pukul 17.58.34",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15874,8 +15883,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4572,
-  "total_users": 1754,
+  "total_start": 4573,
+  "total_users": 1755,
   "total_groups": 17,
-  "last_update": "Minggu, 30 Agustus 2026 pukul 17.55.10"
+  "last_update": "Minggu, 30 Agustus 2026 pukul 17.58.34"
 }
