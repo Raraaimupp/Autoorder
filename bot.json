@@ -15812,6 +15812,15 @@
       "last_start": "Senin, 31 Agustus 2026 pukul 17.52.25",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8660115981",
+      "username": "@panz_str_13",
+      "name": "PANZ STR",
+      "first_start": "Senin, 31 Agustus 2026 pukul 20.12.55",
+      "last_start": "Senin, 31 Agustus 2026 pukul 20.12.55",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15901,8 +15910,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4589,
-  "total_users": 1757,
+  "total_start": 4590,
+  "total_users": 1758,
   "total_groups": 17,
-  "last_update": "Senin, 31 Agustus 2026 pukul 20.11.24"
+  "last_update": "Senin, 31 Agustus 2026 pukul 20.12.55"
 }
