@@ -15821,6 +15821,15 @@
       "last_start": "Senin, 31 Agustus 2026 pukul 20.12.55",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8043451107",
+      "username": "Tidak ada",
+      "name": "Amang Macal",
+      "first_start": "Senin, 31 Agustus 2026 pukul 21.27.36",
+      "last_start": "Senin, 31 Agustus 2026 pukul 21.27.36",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15910,8 +15919,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4592,
-  "total_users": 1758,
+  "total_start": 4593,
+  "total_users": 1759,
   "total_groups": 17,
-  "last_update": "Senin, 31 Agustus 2026 pukul 21.17.20"
+  "last_update": "Senin, 31 Agustus 2026 pukul 21.27.36"
 }
