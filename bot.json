@@ -15830,6 +15830,15 @@
       "last_start": "Senin, 31 Agustus 2026 pukul 21.27.36",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8785838762",
+      "username": "@devharryx",
+      "name": "#𝘿𝙚𝙫𝙝𝙖𝙧𝙧𝙮𝙭 ڈیولپر",
+      "first_start": "Senin, 31 Agustus 2026 pukul 22.01.54",
+      "last_start": "Senin, 31 Agustus 2026 pukul 22.01.54",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15919,8 +15928,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4593,
-  "total_users": 1759,
+  "total_start": 4594,
+  "total_users": 1760,
   "total_groups": 17,
-  "last_update": "Senin, 31 Agustus 2026 pukul 21.59.28"
+  "last_update": "Senin, 31 Agustus 2026 pukul 22.01.54"
 }
