@@ -15839,6 +15839,15 @@
       "last_start": "Senin, 31 Agustus 2026 pukul 22.01.54",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6092770159",
+      "username": "@rorrxsw",
+      "name": "TXT",
+      "first_start": "Selasa, 1 September 2026 pukul 15.06.11",
+      "last_start": "Selasa, 1 September 2026 pukul 15.06.11",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15928,8 +15937,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4601,
-  "total_users": 1760,
+  "total_start": 4602,
+  "total_users": 1761,
   "total_groups": 17,
-  "last_update": "Selasa, 1 September 2026 pukul 14.56.49"
+  "last_update": "Selasa, 1 September 2026 pukul 15.06.11"
 }
