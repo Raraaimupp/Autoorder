@@ -15893,6 +15893,15 @@
       "last_start": "Rabu, 2 September 2026 pukul 21.37.34",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8582596159",
+      "username": "Tidak ada",
+      "name": "Nat",
+      "first_start": "Kamis, 3 September 2026 pukul 00.36.17",
+      "last_start": "Kamis, 3 September 2026 pukul 00.36.17",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15982,8 +15991,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4619,
-  "total_users": 1766,
+  "total_start": 4620,
+  "total_users": 1767,
   "total_groups": 17,
-  "last_update": "Rabu, 2 September 2026 pukul 23.54.23"
+  "last_update": "Kamis, 3 September 2026 pukul 00.36.17"
 }
