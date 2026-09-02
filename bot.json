@@ -15902,6 +15902,15 @@
       "last_start": "Kamis, 3 September 2026 pukul 00.36.17",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6760596004",
+      "username": "Tidak ada",
+      "name": "Arr Ll",
+      "first_start": "Kamis, 3 September 2026 pukul 06.08.42",
+      "last_start": "Kamis, 3 September 2026 pukul 06.08.42",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15991,8 +16000,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4621,
-  "total_users": 1767,
+  "total_start": 4622,
+  "total_users": 1768,
   "total_groups": 17,
-  "last_update": "Kamis, 3 September 2026 pukul 06.04.39"
+  "last_update": "Kamis, 3 September 2026 pukul 06.08.42"
 }
