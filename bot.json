@@ -15884,6 +15884,15 @@
       "last_start": "Rabu, 2 September 2026 pukul 13.19.42",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8635917250",
+      "username": "@danszzz8",
+      "name": "danszzz",
+      "first_start": "Rabu, 2 September 2026 pukul 21.37.34",
+      "last_start": "Rabu, 2 September 2026 pukul 21.37.34",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15973,8 +15982,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4617,
-  "total_users": 1765,
+  "total_start": 4618,
+  "total_users": 1766,
   "total_groups": 17,
-  "last_update": "Rabu, 2 September 2026 pukul 21.26.02"
+  "last_update": "Rabu, 2 September 2026 pukul 21.37.34"
 }
