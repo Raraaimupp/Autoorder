@@ -15875,6 +15875,15 @@
       "last_start": "Rabu, 2 September 2026 pukul 10.42.37",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7241374938",
+      "username": "@Disasido",
+      "name": "Asep Agung",
+      "first_start": "Rabu, 2 September 2026 pukul 13.19.42",
+      "last_start": "Rabu, 2 September 2026 pukul 13.19.42",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -15964,8 +15973,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4613,
-  "total_users": 1764,
+  "total_start": 4614,
+  "total_users": 1765,
   "total_groups": 17,
-  "last_update": "Rabu, 2 September 2026 pukul 11.47.33"
+  "last_update": "Rabu, 2 September 2026 pukul 13.19.42"
 }
