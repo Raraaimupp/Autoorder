@@ -15929,6 +15929,15 @@
       "last_start": "Jumat, 4 September 2026 pukul 09.24.28",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1833474073",
+      "username": "@minwoolopeuu",
+      "name": "¡𝗆 #𝖬𝗂ẅ",
+      "first_start": "Jumat, 4 September 2026 pukul 18.49.47",
+      "last_start": "Jumat, 4 September 2026 pukul 18.49.47",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16018,8 +16027,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4655,
-  "total_users": 1770,
+  "total_start": 4656,
+  "total_users": 1771,
   "total_groups": 17,
-  "last_update": "Jumat, 4 September 2026 pukul 18.48.36"
+  "last_update": "Jumat, 4 September 2026 pukul 18.49.47"
 }
