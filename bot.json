@@ -15920,6 +15920,15 @@
       "last_start": "Kamis, 3 September 2026 pukul 19.29.18",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7034558035",
+      "username": "@sheiiy7",
+      "name": "shei",
+      "first_start": "Jumat, 4 September 2026 pukul 09.24.28",
+      "last_start": "Jumat, 4 September 2026 pukul 09.24.28",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16009,8 +16018,8 @@
       "first_detected": "Sabtu, 22 Agustus 2026 pukul 18.05.20"
     }
   ],
-  "total_start": 4642,
-  "total_users": 1769,
+  "total_start": 4643,
+  "total_users": 1770,
   "total_groups": 17,
-  "last_update": "Jumat, 4 September 2026 pukul 09.17.00"
+  "last_update": "Jumat, 4 September 2026 pukul 09.24.28"
 }
