@@ -16019,6 +16019,15 @@
       "last_start": "Sabtu, 5 September 2026 pukul 22.22.27",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8893570715",
+      "username": "@Zharpolice",
+      "name": "卐 𝐙𝐇𝐀𝐑 卐 𝐕𝐀𝐋𝐄𝐍𝐓𝐈𝐍𖥕'$ 🎖",
+      "first_start": "Sabtu, 5 September 2026 pukul 22.26.52",
+      "last_start": "Sabtu, 5 September 2026 pukul 22.26.52",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16113,8 +16122,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4700,
-  "total_users": 1780,
+  "total_start": 4701,
+  "total_users": 1781,
   "total_groups": 18,
-  "last_update": "Sabtu, 5 September 2026 pukul 22.22.27"
+  "last_update": "Sabtu, 5 September 2026 pukul 22.26.52"
 }
