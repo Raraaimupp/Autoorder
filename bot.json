@@ -16028,6 +16028,15 @@
       "last_start": "Sabtu, 5 September 2026 pukul 22.26.52",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1758917510",
+      "username": "@dilxzcode",
+      "name": "ᗪιlχz 𖹬",
+      "first_start": "Minggu, 6 September 2026 pukul 00.45.20",
+      "last_start": "Minggu, 6 September 2026 pukul 00.45.20",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16122,8 +16131,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4703,
-  "total_users": 1781,
+  "total_start": 4704,
+  "total_users": 1782,
   "total_groups": 18,
-  "last_update": "Minggu, 6 September 2026 pukul 00.31.54"
+  "last_update": "Minggu, 6 September 2026 pukul 00.45.20"
 }
