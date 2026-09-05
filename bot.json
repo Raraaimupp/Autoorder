@@ -16010,6 +16010,15 @@
       "last_start": "Sabtu, 5 September 2026 pukul 20.53.17",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8721913313",
+      "username": "@hunter6474",
+      "name": "Hunter",
+      "first_start": "Sabtu, 5 September 2026 pukul 22.22.27",
+      "last_start": "Sabtu, 5 September 2026 pukul 22.22.27",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16104,8 +16113,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4699,
-  "total_users": 1779,
+  "total_start": 4700,
+  "total_users": 1780,
   "total_groups": 18,
-  "last_update": "Sabtu, 5 September 2026 pukul 22.10.11"
+  "last_update": "Sabtu, 5 September 2026 pukul 22.22.27"
 }
