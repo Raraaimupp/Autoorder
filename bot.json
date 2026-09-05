@@ -16001,6 +16001,15 @@
       "last_start": "Sabtu, 5 September 2026 pukul 19.28.35",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8326944565",
+      "username": "Tidak ada",
+      "name": "Aziz",
+      "first_start": "Sabtu, 5 September 2026 pukul 20.53.17",
+      "last_start": "Sabtu, 5 September 2026 pukul 20.53.17",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16095,8 +16104,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4690,
-  "total_users": 1778,
+  "total_start": 4691,
+  "total_users": 1779,
   "total_groups": 18,
-  "last_update": "Sabtu, 5 September 2026 pukul 20.37.51"
+  "last_update": "Sabtu, 5 September 2026 pukul 20.53.17"
 }
