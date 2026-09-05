@@ -15992,6 +15992,15 @@
       "last_start": "Sabtu, 5 September 2026 pukul 15.30.28",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8941944029",
+      "username": "Tidak ada",
+      "name": "faii faa",
+      "first_start": "Sabtu, 5 September 2026 pukul 19.28.35",
+      "last_start": "Sabtu, 5 September 2026 pukul 19.28.35",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16086,8 +16095,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4688,
-  "total_users": 1777,
+  "total_start": 4689,
+  "total_users": 1778,
   "total_groups": 18,
-  "last_update": "Sabtu, 5 September 2026 pukul 19.27.08"
+  "last_update": "Sabtu, 5 September 2026 pukul 19.28.35"
 }
