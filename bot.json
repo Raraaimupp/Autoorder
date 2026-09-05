@@ -15974,6 +15974,15 @@
       "last_start": "Jumat, 4 September 2026 pukul 23.28.20",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8830019870",
+      "username": "@JackyZackys",
+      "name": "Jacky || Amanah",
+      "first_start": "Sabtu, 5 September 2026 pukul 09.26.11",
+      "last_start": "Sabtu, 5 September 2026 pukul 09.26.11",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16068,8 +16077,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4675,
-  "total_users": 1775,
+  "total_start": 4676,
+  "total_users": 1776,
   "total_groups": 18,
-  "last_update": "Sabtu, 5 September 2026 pukul 09.16.11"
+  "last_update": "Sabtu, 5 September 2026 pukul 09.26.11"
 }
