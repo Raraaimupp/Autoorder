@@ -16127,6 +16127,15 @@
       "last_start": "Minggu, 6 September 2026 pukul 22.05.44",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "7933613933",
+      "username": "Tidak ada",
+      "name": "Emil Dir",
+      "first_start": "Senin, 7 September 2026 pukul 03.54.36",
+      "last_start": "Senin, 7 September 2026 pukul 03.54.36",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16221,8 +16230,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4725,
-  "total_users": 1792,
+  "total_start": 4726,
+  "total_users": 1793,
   "total_groups": 18,
-  "last_update": "Senin, 7 September 2026 pukul 02.45.57"
+  "last_update": "Senin, 7 September 2026 pukul 03.54.36"
 }
