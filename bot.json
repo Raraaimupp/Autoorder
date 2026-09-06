@@ -16091,6 +16091,15 @@
       "last_start": "Minggu, 6 September 2026 pukul 17.30.41",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7819062943",
+      "username": "Tidak ada",
+      "name": "Kris",
+      "first_start": "Minggu, 6 September 2026 pukul 17.55.38",
+      "last_start": "Minggu, 6 September 2026 pukul 17.55.38",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16185,8 +16194,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4718,
-  "total_users": 1788,
+  "total_start": 4719,
+  "total_users": 1789,
   "total_groups": 18,
-  "last_update": "Minggu, 6 September 2026 pukul 17.49.42"
+  "last_update": "Minggu, 6 September 2026 pukul 17.55.38"
 }
