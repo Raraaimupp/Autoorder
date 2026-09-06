@@ -16064,6 +16064,15 @@
       "last_start": "Minggu, 6 September 2026 pukul 07.14.11",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7879917230",
+      "username": "@dilzxxwkwk",
+      "name": "𝓨𝓩 𝑶𝑶𝑴 𝑫𝑰𝑳𝒁𝑿𝑿𓀋",
+      "first_start": "Minggu, 6 September 2026 pukul 13.09.07",
+      "last_start": "Minggu, 6 September 2026 pukul 13.09.07",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16158,8 +16167,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4713,
-  "total_users": 1785,
+  "total_start": 4714,
+  "total_users": 1786,
   "total_groups": 18,
-  "last_update": "Minggu, 6 September 2026 pukul 13.02.48"
+  "last_update": "Minggu, 6 September 2026 pukul 13.09.07"
 }
