@@ -16100,6 +16100,15 @@
       "last_start": "Minggu, 6 September 2026 pukul 17.55.38",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6081629638",
+      "username": "Tidak ada",
+      "name": "Udin Udin Galon",
+      "first_start": "Minggu, 6 September 2026 pukul 21.38.47",
+      "last_start": "Minggu, 6 September 2026 pukul 21.38.47",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16194,8 +16203,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4720,
-  "total_users": 1789,
+  "total_start": 4721,
+  "total_users": 1790,
   "total_groups": 18,
-  "last_update": "Minggu, 6 September 2026 pukul 21.34.01"
+  "last_update": "Minggu, 6 September 2026 pukul 21.38.47"
 }
