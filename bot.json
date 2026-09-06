@@ -16109,6 +16109,15 @@
       "last_start": "Minggu, 6 September 2026 pukul 21.38.47",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8061637096",
+      "username": "@Bowo112",
+      "name": "ᯓ LUPA NAMA ᯓ",
+      "first_start": "Minggu, 6 September 2026 pukul 22.01.59",
+      "last_start": "Minggu, 6 September 2026 pukul 22.01.59",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16203,8 +16212,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4722,
-  "total_users": 1790,
+  "total_start": 4723,
+  "total_users": 1791,
   "total_groups": 18,
-  "last_update": "Minggu, 6 September 2026 pukul 21.57.29"
+  "last_update": "Minggu, 6 September 2026 pukul 22.01.59"
 }
