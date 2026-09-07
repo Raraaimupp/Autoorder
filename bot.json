@@ -16163,6 +16163,15 @@
       "last_start": "Senin, 7 September 2026 pukul 18.14.04",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8994028605",
+      "username": "@nobita342",
+      "name": "nobita",
+      "first_start": "Senin, 7 September 2026 pukul 21.31.33",
+      "last_start": "Senin, 7 September 2026 pukul 21.31.33",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16257,8 +16266,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4743,
-  "total_users": 1796,
+  "total_start": 4744,
+  "total_users": 1797,
   "total_groups": 18,
-  "last_update": "Senin, 7 September 2026 pukul 21.31.08"
+  "last_update": "Senin, 7 September 2026 pukul 21.31.33"
 }
