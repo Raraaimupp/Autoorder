@@ -16136,6 +16136,15 @@
       "last_start": "Senin, 7 September 2026 pukul 03.54.36",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1330782311",
+      "username": "Tidak ada",
+      "name": "MATA' is HERE",
+      "first_start": "Senin, 7 September 2026 pukul 13.00.00",
+      "last_start": "Senin, 7 September 2026 pukul 13.00.00",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16230,8 +16239,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4729,
-  "total_users": 1793,
+  "total_start": 4730,
+  "total_users": 1794,
   "total_groups": 18,
-  "last_update": "Senin, 7 September 2026 pukul 12.53.13"
+  "last_update": "Senin, 7 September 2026 pukul 13.00.00"
 }
