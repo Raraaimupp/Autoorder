@@ -16307,6 +16307,15 @@
       "last_start": "Minggu, 13 September 2026 pukul 12.07.23",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "8562266977",
+      "username": "@Keyzirex2",
+      "name": "𝗞𝗲́𝘆𝘇¡𝗿𝗲̀𝘅",
+      "first_start": "Minggu, 13 September 2026 pukul 13.46.38",
+      "last_start": "Minggu, 13 September 2026 pukul 13.46.38",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16401,8 +16410,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4857,
-  "total_users": 1812,
+  "total_start": 4858,
+  "total_users": 1813,
   "total_groups": 18,
-  "last_update": "Minggu, 13 September 2026 pukul 13.42.59"
+  "last_update": "Minggu, 13 September 2026 pukul 13.46.38"
 }
