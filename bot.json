@@ -16289,6 +16289,15 @@
       "last_start": "Sabtu, 12 September 2026 pukul 23.08.08",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1214359314",
+      "username": "Tidak ada",
+      "name": "Prince Skylarr #Morovhal </>",
+      "first_start": "Minggu, 13 September 2026 pukul 10.19.01",
+      "last_start": "Minggu, 13 September 2026 pukul 10.19.01",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16383,8 +16392,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4850,
-  "total_users": 1810,
+  "total_start": 4851,
+  "total_users": 1811,
   "total_groups": 18,
-  "last_update": "Minggu, 13 September 2026 pukul 10.18.05"
+  "last_update": "Minggu, 13 September 2026 pukul 10.19.01"
 }
