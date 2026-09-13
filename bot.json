@@ -16298,6 +16298,15 @@
       "last_start": "Minggu, 13 September 2026 pukul 10.19.01",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8617280691",
+      "username": "@suspectible",
+      "name": "ZIDAN",
+      "first_start": "Minggu, 13 September 2026 pukul 12.06.59",
+      "last_start": "Minggu, 13 September 2026 pukul 12.06.59",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16392,8 +16401,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4852,
-  "total_users": 1811,
+  "total_start": 4853,
+  "total_users": 1812,
   "total_groups": 18,
-  "last_update": "Minggu, 13 September 2026 pukul 11.56.51"
+  "last_update": "Minggu, 13 September 2026 pukul 12.06.59"
 }
