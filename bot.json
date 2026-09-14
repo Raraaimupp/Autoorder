@@ -16370,6 +16370,15 @@
       "last_start": "Senin, 14 September 2026 pukul 18.37.52",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7873236584",
+      "username": "Tidak ada",
+      "name": "⏤͟͟͞͞𝘒𝘦𝘯𝘨𝘻𝘻 𝘏𝘢𝘏𝘢",
+      "first_start": "Senin, 14 September 2026 pukul 19.35.08",
+      "last_start": "Senin, 14 September 2026 pukul 19.35.08",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16464,8 +16473,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4881,
-  "total_users": 1819,
+  "total_start": 4882,
+  "total_users": 1820,
   "total_groups": 18,
-  "last_update": "Senin, 14 September 2026 pukul 19.23.09"
+  "last_update": "Senin, 14 September 2026 pukul 19.35.08"
 }
