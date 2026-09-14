@@ -16388,6 +16388,15 @@
       "last_start": "Senin, 14 September 2026 pukul 20.26.32",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1175660475",
+      "username": "@DAPZNOKOS",
+      "name": "DAPA NOKOS",
+      "first_start": "Selasa, 15 September 2026 pukul 02.44.25",
+      "last_start": "Selasa, 15 September 2026 pukul 02.44.25",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16482,8 +16491,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4886,
-  "total_users": 1821,
+  "total_start": 4887,
+  "total_users": 1822,
   "total_groups": 18,
-  "last_update": "Selasa, 15 September 2026 pukul 02.43.31"
+  "last_update": "Selasa, 15 September 2026 pukul 02.44.25"
 }
