@@ -16397,6 +16397,15 @@
       "last_start": "Selasa, 15 September 2026 pukul 02.44.25",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1607492380",
+      "username": "@anugrw",
+      "name": "anugrah",
+      "first_start": "Selasa, 15 September 2026 pukul 07.04.33",
+      "last_start": "Selasa, 15 September 2026 pukul 07.04.33",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16491,8 +16500,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4887,
-  "total_users": 1822,
+  "total_start": 4888,
+  "total_users": 1823,
   "total_groups": 18,
-  "last_update": "Selasa, 15 September 2026 pukul 06.34.05"
+  "last_update": "Selasa, 15 September 2026 pukul 07.04.33"
 }
