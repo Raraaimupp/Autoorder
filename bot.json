@@ -16424,6 +16424,15 @@
       "last_start": "Selasa, 15 September 2026 pukul 20.12.00",
       "total_start": 4,
       "balance": 0
+    },
+    {
+      "id": "8319519632",
+      "username": "@zrillofc",
+      "name": "ᘔᖇIᒪᒪ",
+      "first_start": "Selasa, 15 September 2026 pukul 20.41.11",
+      "last_start": "Selasa, 15 September 2026 pukul 20.41.11",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16518,8 +16527,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4908,
-  "total_users": 1825,
+  "total_start": 4909,
+  "total_users": 1826,
   "total_groups": 18,
-  "last_update": "Selasa, 15 September 2026 pukul 20.35.45"
+  "last_update": "Selasa, 15 September 2026 pukul 20.41.11"
 }
