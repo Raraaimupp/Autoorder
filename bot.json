@@ -16460,6 +16460,15 @@
       "last_start": "Rabu, 16 September 2026 pukul 05.34.26",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8737525525",
+      "username": "@damzx7",
+      "name": "damcuy🧧",
+      "first_start": "Rabu, 16 September 2026 pukul 09.18.47",
+      "last_start": "Rabu, 16 September 2026 pukul 09.18.47",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16554,8 +16563,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4916,
-  "total_users": 1829,
+  "total_start": 4917,
+  "total_users": 1830,
   "total_groups": 18,
-  "last_update": "Rabu, 16 September 2026 pukul 09.17.05"
+  "last_update": "Rabu, 16 September 2026 pukul 09.18.47"
 }
