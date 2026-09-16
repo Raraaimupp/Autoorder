@@ -16469,6 +16469,15 @@
       "last_start": "Rabu, 16 September 2026 pukul 09.18.47",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7466514034",
+      "username": "@PeiterStore",
+      "name": "Peeter Universe",
+      "first_start": "Rabu, 16 September 2026 pukul 10.11.49",
+      "last_start": "Rabu, 16 September 2026 pukul 10.11.49",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16563,8 +16572,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4919,
-  "total_users": 1830,
+  "total_start": 4920,
+  "total_users": 1831,
   "total_groups": 18,
-  "last_update": "Rabu, 16 September 2026 pukul 10.09.19"
+  "last_update": "Rabu, 16 September 2026 pukul 10.11.49"
 }
