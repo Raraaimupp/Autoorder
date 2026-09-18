@@ -16568,6 +16568,15 @@
       "last_start": "Jumat, 18 September 2026 pukul 19.26.04",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8737923104",
+      "username": "Tidak ada",
+      "name": "Gèry Solo Vs squad",
+      "first_start": "Jumat, 18 September 2026 pukul 20.14.52",
+      "last_start": "Jumat, 18 September 2026 pukul 20.14.52",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16662,8 +16671,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4979,
-  "total_users": 1841,
+  "total_start": 4980,
+  "total_users": 1842,
   "total_groups": 18,
-  "last_update": "Jumat, 18 September 2026 pukul 20.14.33"
+  "last_update": "Jumat, 18 September 2026 pukul 20.14.52"
 }
