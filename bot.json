@@ -16604,6 +16604,15 @@
       "last_start": "Jumat, 18 September 2026 pukul 20.50.08",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1289933556",
+      "username": "@maxxloww",
+      "name": "ᯓ𝒁𝒆𝑹𝒐𝒐 ˗ˋˏ 𝑄 ˎˊ˗",
+      "first_start": "Jumat, 18 September 2026 pukul 22.55.56",
+      "last_start": "Jumat, 18 September 2026 pukul 22.55.56",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16698,8 +16707,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 4987,
-  "total_users": 1845,
+  "total_start": 4988,
+  "total_users": 1846,
   "total_groups": 18,
-  "last_update": "Jumat, 18 September 2026 pukul 22.55.03"
+  "last_update": "Jumat, 18 September 2026 pukul 22.55.56"
 }
