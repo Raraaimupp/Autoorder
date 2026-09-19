@@ -16676,6 +16676,15 @@
       "last_start": "Sabtu, 19 September 2026 pukul 12.25.23",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8406363170",
+      "username": "@Fanzasz",
+      "name": "Fann — 3 huruf aja",
+      "first_start": "Sabtu, 19 September 2026 pukul 12.34.45",
+      "last_start": "Sabtu, 19 September 2026 pukul 12.34.45",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16770,8 +16779,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5015,
-  "total_users": 1853,
+  "total_start": 5016,
+  "total_users": 1854,
   "total_groups": 18,
-  "last_update": "Sabtu, 19 September 2026 pukul 12.33.54"
+  "last_update": "Sabtu, 19 September 2026 pukul 12.34.45"
 }
