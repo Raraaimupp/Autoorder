@@ -7826,8 +7826,8 @@
       "username": "@ddcigh",
       "name": "cgih openn!",
       "first_start": "Rabu, 20 Mei 2026 pukul 07.16.55",
-      "last_start": "Minggu, 20 September 2026 pukul 06.09.49",
-      "total_start": 9,
+      "last_start": "Minggu, 20 September 2026 pukul 06.10.00",
+      "total_start": 10,
       "balance": 0
     },
     {
@@ -16806,8 +16806,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5049,
+  "total_start": 5050,
   "total_users": 1857,
   "total_groups": 18,
-  "last_update": "Minggu, 20 September 2026 pukul 06.09.49"
+  "last_update": "Minggu, 20 September 2026 pukul 06.10.00"
 }
