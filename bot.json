@@ -16703,6 +16703,15 @@
       "last_start": "Sabtu, 19 September 2026 pukul 19.43.13",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8700718198",
+      "username": "@ardi_aja19",
+      "name": "BY ARDI",
+      "first_start": "Sabtu, 19 September 2026 pukul 23.09.01",
+      "last_start": "Sabtu, 19 September 2026 pukul 23.09.01",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16797,8 +16806,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5034,
-  "total_users": 1856,
+  "total_start": 5035,
+  "total_users": 1857,
   "total_groups": 18,
-  "last_update": "Sabtu, 19 September 2026 pukul 23.07.53"
+  "last_update": "Sabtu, 19 September 2026 pukul 23.09.01"
 }
