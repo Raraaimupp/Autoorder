@@ -16658,6 +16658,15 @@
       "last_start": "Sabtu, 19 September 2026 pukul 08.05.22",
       "total_start": 9,
       "balance": 0
+    },
+    {
+      "id": "8261512175",
+      "username": "@suport_group_niss",
+      "name": "Support Group - IB",
+      "first_start": "Sabtu, 19 September 2026 pukul 08.38.50",
+      "last_start": "Sabtu, 19 September 2026 pukul 08.38.50",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16752,8 +16761,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5008,
-  "total_users": 1851,
+  "total_start": 5009,
+  "total_users": 1852,
   "total_groups": 18,
-  "last_update": "Sabtu, 19 September 2026 pukul 08.35.05"
+  "last_update": "Sabtu, 19 September 2026 pukul 08.38.50"
 }
