@@ -16694,6 +16694,15 @@
       "last_start": "Sabtu, 19 September 2026 pukul 17.40.58",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8601642537",
+      "username": "@mbut_md",
+      "name": "𝘒𝘦𝘱𝘢𝘥𝘢 𝘠𝘵𝘩.𝘢𝘺𝘳𝘦𝘭𝘭",
+      "first_start": "Sabtu, 19 September 2026 pukul 19.43.13",
+      "last_start": "Sabtu, 19 September 2026 pukul 19.43.13",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16788,8 +16797,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5027,
-  "total_users": 1855,
+  "total_start": 5028,
+  "total_users": 1856,
   "total_groups": 18,
-  "last_update": "Sabtu, 19 September 2026 pukul 19.42.17"
+  "last_update": "Sabtu, 19 September 2026 pukul 19.43.13"
 }
