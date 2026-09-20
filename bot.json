@@ -16712,6 +16712,15 @@
       "last_start": "Sabtu, 19 September 2026 pukul 23.09.01",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7014613348",
+      "username": "@zidansukamieayam",
+      "name": "zidan suka mie ayam",
+      "first_start": "Minggu, 20 September 2026 pukul 21.12.44",
+      "last_start": "Minggu, 20 September 2026 pukul 21.12.44",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16806,8 +16815,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5058,
-  "total_users": 1857,
+  "total_start": 5059,
+  "total_users": 1858,
   "total_groups": 18,
-  "last_update": "Minggu, 20 September 2026 pukul 21.11.48"
+  "last_update": "Minggu, 20 September 2026 pukul 21.12.44"
 }
