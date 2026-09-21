@@ -16739,6 +16739,15 @@
       "last_start": "Minggu, 20 September 2026 pukul 21.31.23",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7491100401",
+      "username": "@juandaa009",
+      "name": "buzz store",
+      "first_start": "Senin, 21 September 2026 pukul 10.18.42",
+      "last_start": "Senin, 21 September 2026 pukul 10.18.42",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16833,8 +16842,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5074,
-  "total_users": 1860,
+  "total_start": 5075,
+  "total_users": 1861,
   "total_groups": 18,
-  "last_update": "Senin, 21 September 2026 pukul 10.09.17"
+  "last_update": "Senin, 21 September 2026 pukul 10.18.42"
 }
