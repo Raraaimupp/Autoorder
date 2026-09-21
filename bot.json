@@ -16766,6 +16766,15 @@
       "last_start": "Senin, 21 September 2026 pukul 14.20.13",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "8823818850",
+      "username": "Tidak ada",
+      "name": "R4 RILLZ",
+      "first_start": "Senin, 21 September 2026 pukul 18.10.37",
+      "last_start": "Senin, 21 September 2026 pukul 18.10.37",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16860,8 +16869,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5083,
-  "total_users": 1863,
+  "total_start": 5084,
+  "total_users": 1864,
   "total_groups": 18,
-  "last_update": "Senin, 21 September 2026 pukul 18.02.36"
+  "last_update": "Senin, 21 September 2026 pukul 18.10.37"
 }
