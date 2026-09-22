@@ -16820,6 +16820,15 @@
       "last_start": "Selasa, 22 September 2026 pukul 21.39.44",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8968665090",
+      "username": "@kyzuncantik",
+      "name": "𝐊𝐘𝐙𝐔𝐍 𝐋𝐀𝐙𝐔𝐀𝐑𝐃𝐈",
+      "first_start": "Selasa, 22 September 2026 pukul 21.42.39",
+      "last_start": "Selasa, 22 September 2026 pukul 21.42.39",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16914,8 +16923,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5120,
-  "total_users": 1869,
+  "total_start": 5121,
+  "total_users": 1870,
   "total_groups": 18,
-  "last_update": "Selasa, 22 September 2026 pukul 21.39.44"
+  "last_update": "Selasa, 22 September 2026 pukul 21.42.39"
 }
