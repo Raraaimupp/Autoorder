@@ -16811,6 +16811,15 @@
       "last_start": "Selasa, 22 September 2026 pukul 20.10.29",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8548518471",
+      "username": "@notstecu",
+      "name": "🪬 #𝐗Я-𝓼𝓽𝓮𝓬𝓾𝓾",
+      "first_start": "Selasa, 22 September 2026 pukul 21.39.44",
+      "last_start": "Selasa, 22 September 2026 pukul 21.39.44",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16905,8 +16914,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5119,
-  "total_users": 1868,
+  "total_start": 5120,
+  "total_users": 1869,
   "total_groups": 18,
-  "last_update": "Selasa, 22 September 2026 pukul 21.16.26"
+  "last_update": "Selasa, 22 September 2026 pukul 21.39.44"
 }
