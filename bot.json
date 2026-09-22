@@ -16802,6 +16802,15 @@
       "last_start": "Selasa, 22 September 2026 pukul 13.04.07",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1743373342",
+      "username": "@Zakrissnihboss",
+      "name": "⏤͟͟ 𝙕𝙖𝙠𝙧𝙞𝙨𝙨 𝖋𝖙 𝗫͢𝘅𝗫",
+      "first_start": "Selasa, 22 September 2026 pukul 20.10.29",
+      "last_start": "Selasa, 22 September 2026 pukul 20.10.29",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16896,8 +16905,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5117,
-  "total_users": 1867,
+  "total_start": 5118,
+  "total_users": 1868,
   "total_groups": 18,
-  "last_update": "Selasa, 22 September 2026 pukul 20.07.10"
+  "last_update": "Selasa, 22 September 2026 pukul 20.10.29"
 }
