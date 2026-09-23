@@ -16847,6 +16847,15 @@
       "last_start": "Rabu, 23 September 2026 pukul 17.36.35",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1075685169",
+      "username": "Tidak ada",
+      "name": "ACC ID1",
+      "first_start": "Rabu, 23 September 2026 pukul 19.08.51",
+      "last_start": "Rabu, 23 September 2026 pukul 19.08.51",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16941,8 +16950,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5135,
-  "total_users": 1872,
+  "total_start": 5136,
+  "total_users": 1873,
   "total_groups": 18,
-  "last_update": "Rabu, 23 September 2026 pukul 19.03.49"
+  "last_update": "Rabu, 23 September 2026 pukul 19.08.51"
 }
