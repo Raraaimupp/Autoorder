@@ -16829,6 +16829,15 @@
       "last_start": "Selasa, 22 September 2026 pukul 21.42.39",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8701782736",
+      "username": "@Rafizz_official",
+      "name": "Rafizz",
+      "first_start": "Rabu, 23 September 2026 pukul 17.34.44",
+      "last_start": "Rabu, 23 September 2026 pukul 17.34.44",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16923,8 +16932,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5129,
-  "total_users": 1870,
+  "total_start": 5130,
+  "total_users": 1871,
   "total_groups": 18,
-  "last_update": "Rabu, 23 September 2026 pukul 17.34.12"
+  "last_update": "Rabu, 23 September 2026 pukul 17.34.44"
 }
