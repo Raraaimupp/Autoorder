@@ -16856,6 +16856,15 @@
       "last_start": "Rabu, 23 September 2026 pukul 19.08.51",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8772692559",
+      "username": "Tidak ada",
+      "name": "andi",
+      "first_start": "Rabu, 23 September 2026 pukul 23.00.22",
+      "last_start": "Rabu, 23 September 2026 pukul 23.00.22",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -16950,8 +16959,8 @@
       "first_detected": "Jumat, 4 September 2026 pukul 19.15.33"
     }
   ],
-  "total_start": 5137,
-  "total_users": 1873,
+  "total_start": 5138,
+  "total_users": 1874,
   "total_groups": 18,
-  "last_update": "Rabu, 23 September 2026 pukul 22.56.40"
+  "last_update": "Rabu, 23 September 2026 pukul 23.00.22"
 }
