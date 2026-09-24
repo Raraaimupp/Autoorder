@@ -17018,6 +17018,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 05.35.28",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8879252567",
+      "username": "@Riss_Offc",
+      "name": "𝐌𝐫. 𝐫𝐢𝐬𝐬 𝐟𝐨𝐫𝐞𝐬𝐜𝐭",
+      "first_start": "Jumat, 25 September 2026 pukul 05.50.52",
+      "last_start": "Jumat, 25 September 2026 pukul 05.50.52",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17127,8 +17136,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5176,
-  "total_users": 1891,
+  "total_start": 5177,
+  "total_users": 1892,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 05.48.21"
+  "last_update": "Jumat, 25 September 2026 pukul 05.50.52"
 }
