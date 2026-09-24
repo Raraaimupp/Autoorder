@@ -17036,6 +17036,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 06.00.26",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "7431849728",
+      "username": "Tidak ada",
+      "name": "𝐄𝐂𝐂𝐄𝐃𝐄𝐍𝐓𝐄𝐒𝐈𝐀𝐒𝐓 𝐊𝐢𝐥𝐥𝐞𝐫",
+      "first_start": "Jumat, 25 September 2026 pukul 06.08.09",
+      "last_start": "Jumat, 25 September 2026 pukul 06.08.09",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17145,8 +17154,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5180,
-  "total_users": 1893,
+  "total_start": 5181,
+  "total_users": 1894,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 06.00.37"
+  "last_update": "Jumat, 25 September 2026 pukul 06.08.09"
 }
