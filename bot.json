@@ -17000,6 +17000,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 02.23.56",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "8709715166",
+      "username": "@cielskidibi",
+      "name": "ciel",
+      "first_start": "Jumat, 25 September 2026 pukul 05.31.14",
+      "last_start": "Jumat, 25 September 2026 pukul 05.31.14",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17109,8 +17118,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5173,
-  "total_users": 1889,
+  "total_start": 5174,
+  "total_users": 1890,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 05.02.30"
+  "last_update": "Jumat, 25 September 2026 pukul 05.31.14"
 }
