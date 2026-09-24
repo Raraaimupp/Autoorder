@@ -16991,6 +16991,15 @@
       "last_start": "Kamis, 24 September 2026 pukul 23.59.32",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "6383929491",
+      "username": "Tidak ada",
+      "name": "Sonu Khan🐈‍⬛ Gabool",
+      "first_start": "Jumat, 25 September 2026 pukul 02.21.35",
+      "last_start": "Jumat, 25 September 2026 pukul 02.21.35",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17100,8 +17109,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5171,
-  "total_users": 1888,
+  "total_start": 5172,
+  "total_users": 1889,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 01.14.50"
+  "last_update": "Jumat, 25 September 2026 pukul 02.21.35"
 }
