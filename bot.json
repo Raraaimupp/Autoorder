@@ -17009,6 +17009,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 05.31.14",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8147287365",
+      "username": "Tidak ada",
+      "name": "Vin",
+      "first_start": "Jumat, 25 September 2026 pukul 05.35.28",
+      "last_start": "Jumat, 25 September 2026 pukul 05.35.28",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17118,8 +17127,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5174,
-  "total_users": 1890,
+  "total_start": 5175,
+  "total_users": 1891,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 05.31.25"
+  "last_update": "Jumat, 25 September 2026 pukul 05.35.28"
 }
