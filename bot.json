@@ -16901,6 +16901,15 @@
       "last_start": "Kamis, 24 September 2026 pukul 13.46.48",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7654741957",
+      "username": "@Zakssssss",
+      "name": "Zakss",
+      "first_start": "Kamis, 24 September 2026 pukul 14.16.52",
+      "last_start": "Kamis, 24 September 2026 pukul 14.16.52",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17010,8 +17019,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5153,
-  "total_users": 1878,
+  "total_start": 5154,
+  "total_users": 1879,
   "total_groups": 21,
-  "last_update": "Kamis, 24 September 2026 pukul 14.15.08"
+  "last_update": "Kamis, 24 September 2026 pukul 14.16.52"
 }
