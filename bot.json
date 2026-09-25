@@ -17117,6 +17117,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 10.57.22",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8098960361",
+      "username": "Tidak ada",
+      "name": "￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴",
+      "first_start": "Jumat, 25 September 2026 pukul 11.25.14",
+      "last_start": "Jumat, 25 September 2026 pukul 11.25.14",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17226,8 +17235,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5197,
-  "total_users": 1902,
+  "total_start": 5198,
+  "total_users": 1903,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 11.20.36"
+  "last_update": "Jumat, 25 September 2026 pukul 11.25.14"
 }
