@@ -17234,6 +17234,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 17.42.48",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8222814206",
+      "username": "@cfctoy",
+      "name": "Dapz",
+      "first_start": "Jumat, 25 September 2026 pukul 20.07.03",
+      "last_start": "Jumat, 25 September 2026 pukul 20.07.03",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17343,8 +17352,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5249,
-  "total_users": 1915,
+  "total_start": 5250,
+  "total_users": 1916,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 20.06.19"
+  "last_update": "Jumat, 25 September 2026 pukul 20.07.03"
 }
