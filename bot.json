@@ -17333,6 +17333,15 @@
       "last_start": "Sabtu, 26 September 2026 pukul 00.59.12",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8839764818",
+      "username": "Tidak ada",
+      "name": "faqih store",
+      "first_start": "Sabtu, 26 September 2026 pukul 01.01.19",
+      "last_start": "Sabtu, 26 September 2026 pukul 01.01.19",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17442,8 +17451,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5293,
-  "total_users": 1926,
+  "total_start": 5294,
+  "total_users": 1927,
   "total_groups": 21,
-  "last_update": "Sabtu, 26 September 2026 pukul 01.00.59"
+  "last_update": "Sabtu, 26 September 2026 pukul 01.01.19"
 }
