@@ -17360,6 +17360,15 @@
       "last_start": "Sabtu, 26 September 2026 pukul 06.11.15",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8985040211",
+      "username": "@csrajanokos",
+      "name": "Janzz 『𝐉𝐅』 Admin rajanokos.my.id",
+      "first_start": "Sabtu, 26 September 2026 pukul 06.12.15",
+      "last_start": "Sabtu, 26 September 2026 pukul 06.12.15",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17469,8 +17478,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5301,
-  "total_users": 1929,
+  "total_start": 5302,
+  "total_users": 1930,
   "total_groups": 21,
-  "last_update": "Sabtu, 26 September 2026 pukul 06.11.15"
+  "last_update": "Sabtu, 26 September 2026 pukul 06.12.15"
 }
