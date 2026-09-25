@@ -17261,6 +17261,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 20.20.00",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8917455063",
+      "username": "@official_coindesk_support612",
+      "name": "Official CoinDesk Support",
+      "first_start": "Jumat, 25 September 2026 pukul 21.07.20",
+      "last_start": "Jumat, 25 September 2026 pukul 21.07.20",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17370,8 +17379,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5260,
-  "total_users": 1918,
+  "total_start": 5261,
+  "total_users": 1919,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 21.06.37"
+  "last_update": "Jumat, 25 September 2026 pukul 21.07.20"
 }
