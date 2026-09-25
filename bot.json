@@ -17108,6 +17108,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 10.52.47",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "8389376483",
+      "username": "Tidak ada",
+      "name": "ARMAAN 001💗",
+      "first_start": "Jumat, 25 September 2026 pukul 10.57.22",
+      "last_start": "Jumat, 25 September 2026 pukul 10.57.22",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17217,8 +17226,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5195,
-  "total_users": 1901,
+  "total_start": 5196,
+  "total_users": 1902,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 10.52.47"
+  "last_update": "Jumat, 25 September 2026 pukul 10.57.22"
 }
