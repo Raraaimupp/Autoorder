@@ -17135,6 +17135,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 11.37.31",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "6091058338",
+      "username": "@AditaDev",
+      "name": "AditaDev",
+      "first_start": "Jumat, 25 September 2026 pukul 12.49.21",
+      "last_start": "Jumat, 25 September 2026 pukul 12.49.21",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17244,8 +17253,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5205,
-  "total_users": 1904,
+  "total_start": 5206,
+  "total_users": 1905,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 12.48.25"
+  "last_update": "Jumat, 25 September 2026 pukul 12.49.21"
 }
