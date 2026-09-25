@@ -17171,6 +17171,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 14.28.20",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8781731400",
+      "username": "@Sekedarinfoc",
+      "name": "REYY",
+      "first_start": "Jumat, 25 September 2026 pukul 14.50.05",
+      "last_start": "Jumat, 25 September 2026 pukul 14.50.05",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17280,8 +17289,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5217,
-  "total_users": 1908,
+  "total_start": 5218,
+  "total_users": 1909,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 14.48.26"
+  "last_update": "Jumat, 25 September 2026 pukul 14.50.05"
 }
