@@ -17288,6 +17288,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 22.02.04",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1968028172",
+      "username": "@Dimasyusyus",
+      "name": "Dimas yusuf Adip",
+      "first_start": "Jumat, 25 September 2026 pukul 22.10.46",
+      "last_start": "Jumat, 25 September 2026 pukul 22.10.46",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17397,8 +17406,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5272,
-  "total_users": 1921,
+  "total_start": 5273,
+  "total_users": 1922,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 22.02.04"
+  "last_update": "Jumat, 25 September 2026 pukul 22.10.46"
 }
