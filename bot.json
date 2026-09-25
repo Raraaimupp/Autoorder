@@ -17189,6 +17189,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 14.54.38",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8187891401",
+      "username": "Tidak ada",
+      "name": "Reiy Ger",
+      "first_start": "Jumat, 25 September 2026 pukul 15.42.07",
+      "last_start": "Jumat, 25 September 2026 pukul 15.42.07",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17298,8 +17307,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5225,
-  "total_users": 1910,
+  "total_start": 5226,
+  "total_users": 1911,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 15.40.44"
+  "last_update": "Jumat, 25 September 2026 pukul 15.42.07"
 }
