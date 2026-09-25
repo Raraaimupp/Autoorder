@@ -17324,6 +17324,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 23.06.46",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8860792439",
+      "username": "Tidak ada",
+      "name": "𝟬𝟱` 𝗔𝗻𝘂𝗯𝗶𝘇𝘇",
+      "first_start": "Sabtu, 26 September 2026 pukul 00.59.12",
+      "last_start": "Sabtu, 26 September 2026 pukul 00.59.12",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17433,8 +17442,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5291,
-  "total_users": 1925,
+  "total_start": 5292,
+  "total_users": 1926,
   "total_groups": 21,
-  "last_update": "Sabtu, 26 September 2026 pukul 00.51.37"
+  "last_update": "Sabtu, 26 September 2026 pukul 00.59.12"
 }
