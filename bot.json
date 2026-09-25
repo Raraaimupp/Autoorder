@@ -17123,8 +17123,8 @@
       "username": "Tidak ada",
       "name": "￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴",
       "first_start": "Jumat, 25 September 2026 pukul 11.25.14",
-      "last_start": "Jumat, 25 September 2026 pukul 11.25.14",
-      "total_start": 1,
+      "last_start": "Jumat, 25 September 2026 pukul 11.26.16",
+      "total_start": 2,
       "balance": 0
     }
   ],
@@ -17235,8 +17235,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5198,
+  "total_start": 5199,
   "total_users": 1903,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 11.25.14"
+  "last_update": "Jumat, 25 September 2026 pukul 11.26.16"
 }
