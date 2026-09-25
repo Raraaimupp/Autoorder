@@ -17126,6 +17126,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 11.28.33",
       "total_start": 5,
       "balance": 0
+    },
+    {
+      "id": "8719459168",
+      "username": "Tidak ada",
+      "name": "Raz —͟͟͞͞𝐒𝐎𝐕𝐈𝐄𝐓没",
+      "first_start": "Jumat, 25 September 2026 pukul 11.37.31",
+      "last_start": "Jumat, 25 September 2026 pukul 11.37.31",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17235,8 +17244,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5202,
-  "total_users": 1903,
+  "total_start": 5203,
+  "total_users": 1904,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 11.34.32"
+  "last_update": "Jumat, 25 September 2026 pukul 11.37.31"
 }
