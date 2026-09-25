@@ -17342,6 +17342,15 @@
       "last_start": "Sabtu, 26 September 2026 pukul 01.01.19",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8961757512",
+      "username": "@vann_real",
+      "name": "vann real",
+      "first_start": "Sabtu, 26 September 2026 pukul 05.45.32",
+      "last_start": "Sabtu, 26 September 2026 pukul 05.45.32",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17451,8 +17460,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5299,
-  "total_users": 1927,
+  "total_start": 5300,
+  "total_users": 1928,
   "total_groups": 21,
-  "last_update": "Sabtu, 26 September 2026 pukul 05.14.10"
+  "last_update": "Sabtu, 26 September 2026 pukul 05.45.32"
 }
