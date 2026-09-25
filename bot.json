@@ -17207,6 +17207,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 16.25.04",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "1016102162",
+      "username": "@rusdzneverlose",
+      "name": "rusdz",
+      "first_start": "Jumat, 25 September 2026 pukul 16.44.24",
+      "last_start": "Jumat, 25 September 2026 pukul 16.44.24",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17316,8 +17325,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5235,
-  "total_users": 1912,
+  "total_start": 5236,
+  "total_users": 1913,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 16.43.23"
+  "last_update": "Jumat, 25 September 2026 pukul 16.44.24"
 }
