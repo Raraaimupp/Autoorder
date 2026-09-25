@@ -17252,6 +17252,15 @@
       "last_start": "Jumat, 25 September 2026 pukul 20.07.43",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8839023380",
+      "username": "Tidak ada",
+      "name": "𝐅𝐈𝐒𝐔 𝐗𝐃",
+      "first_start": "Jumat, 25 September 2026 pukul 20.20.00",
+      "last_start": "Jumat, 25 September 2026 pukul 20.20.00",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17361,8 +17370,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5253,
-  "total_users": 1917,
+  "total_start": 5254,
+  "total_users": 1918,
   "total_groups": 21,
-  "last_update": "Jumat, 25 September 2026 pukul 20.18.28"
+  "last_update": "Jumat, 25 September 2026 pukul 20.20.00"
 }
