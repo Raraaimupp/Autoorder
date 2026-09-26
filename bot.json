@@ -17369,6 +17369,15 @@
       "last_start": "Sabtu, 26 September 2026 pukul 06.13.33",
       "total_start": 4,
       "balance": 0
+    },
+    {
+      "id": "8991368674",
+      "username": "@hamzloav",
+      "name": "hamzthez",
+      "first_start": "Sabtu, 26 September 2026 pukul 14.20.50",
+      "last_start": "Sabtu, 26 September 2026 pukul 14.20.50",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17478,8 +17487,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5313,
-  "total_users": 1930,
+  "total_start": 5314,
+  "total_users": 1931,
   "total_groups": 21,
-  "last_update": "Sabtu, 26 September 2026 pukul 10.03.43"
+  "last_update": "Sabtu, 26 September 2026 pukul 14.20.50"
 }
