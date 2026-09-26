@@ -17405,6 +17405,15 @@
       "last_start": "Sabtu, 26 September 2026 pukul 17.39.44",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8611104851",
+      "username": "@jarr2334",
+      "name": "jarprkr",
+      "first_start": "Sabtu, 26 September 2026 pukul 17.48.50",
+      "last_start": "Sabtu, 26 September 2026 pukul 17.48.50",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17514,8 +17523,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5325,
-  "total_users": 1934,
+  "total_start": 5326,
+  "total_users": 1935,
   "total_groups": 21,
-  "last_update": "Sabtu, 26 September 2026 pukul 17.48.02"
+  "last_update": "Sabtu, 26 September 2026 pukul 17.48.50"
 }
