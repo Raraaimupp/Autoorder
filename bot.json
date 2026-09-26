@@ -17441,6 +17441,15 @@
       "last_start": "Sabtu, 26 September 2026 pukul 20.20.02",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8532615426",
+      "username": "Tidak ada",
+      "name": "Alip Alip",
+      "first_start": "Sabtu, 26 September 2026 pukul 22.44.54",
+      "last_start": "Sabtu, 26 September 2026 pukul 22.44.54",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17550,8 +17559,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5336,
-  "total_users": 1938,
+  "total_start": 5337,
+  "total_users": 1939,
   "total_groups": 21,
-  "last_update": "Sabtu, 26 September 2026 pukul 22.41.21"
+  "last_update": "Sabtu, 26 September 2026 pukul 22.44.54"
 }
