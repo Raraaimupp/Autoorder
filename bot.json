@@ -17414,6 +17414,15 @@
       "last_start": "Sabtu, 26 September 2026 pukul 17.48.50",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8829954295",
+      "username": "@ryuuknr",
+      "name": "Ryuu",
+      "first_start": "Sabtu, 26 September 2026 pukul 19.12.53",
+      "last_start": "Sabtu, 26 September 2026 pukul 19.12.53",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17523,8 +17532,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5331,
-  "total_users": 1935,
+  "total_start": 5332,
+  "total_users": 1936,
   "total_groups": 21,
-  "last_update": "Sabtu, 26 September 2026 pukul 18.58.54"
+  "last_update": "Sabtu, 26 September 2026 pukul 19.12.53"
 }
