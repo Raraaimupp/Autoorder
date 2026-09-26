@@ -17396,6 +17396,15 @@
       "last_start": "Sabtu, 26 September 2026 pukul 15.59.19",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8738310927",
+      "username": "@rajakalian",
+      "name": "-",
+      "first_start": "Sabtu, 26 September 2026 pukul 17.39.44",
+      "last_start": "Sabtu, 26 September 2026 pukul 17.39.44",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17505,8 +17514,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5323,
-  "total_users": 1933,
+  "total_start": 5324,
+  "total_users": 1934,
   "total_groups": 21,
-  "last_update": "Sabtu, 26 September 2026 pukul 17.33.31"
+  "last_update": "Sabtu, 26 September 2026 pukul 17.39.44"
 }
