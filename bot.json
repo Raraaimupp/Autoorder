@@ -17387,6 +17387,15 @@
       "last_start": "Sabtu, 26 September 2026 pukul 15.57.58",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "8459467091",
+      "username": "@Tempekkksh",
+      "name": "Tempek",
+      "first_start": "Sabtu, 26 September 2026 pukul 15.59.19",
+      "last_start": "Sabtu, 26 September 2026 pukul 15.59.19",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17496,8 +17505,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5321,
-  "total_users": 1932,
+  "total_start": 5322,
+  "total_users": 1933,
   "total_groups": 21,
-  "last_update": "Sabtu, 26 September 2026 pukul 15.57.58"
+  "last_update": "Sabtu, 26 September 2026 pukul 15.59.19"
 }
