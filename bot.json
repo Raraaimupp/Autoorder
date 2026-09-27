@@ -17531,6 +17531,15 @@
       "last_start": "Minggu, 27 September 2026 pukul 13.23.21",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8387002174",
+      "username": "@Abdullahzai4",
+      "name": "꧁✨𝓐𝓫𝓭𝓾𝓵𝓵𝓪𝓱𝓗𝓪𝓬𝓴𝓮𝓻✨꧂",
+      "first_start": "Minggu, 27 September 2026 pukul 13.25.29",
+      "last_start": "Minggu, 27 September 2026 pukul 13.25.29",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17640,8 +17649,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5354,
-  "total_users": 1948,
+  "total_start": 5355,
+  "total_users": 1949,
   "total_groups": 21,
-  "last_update": "Minggu, 27 September 2026 pukul 13.23.21"
+  "last_update": "Minggu, 27 September 2026 pukul 13.25.29"
 }
