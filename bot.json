@@ -17540,6 +17540,15 @@
       "last_start": "Minggu, 27 September 2026 pukul 13.25.29",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7782742322",
+      "username": "Tidak ada",
+      "name": "kaf_stecu",
+      "first_start": "Minggu, 27 September 2026 pukul 13.26.01",
+      "last_start": "Minggu, 27 September 2026 pukul 13.26.01",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17649,8 +17658,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5355,
-  "total_users": 1949,
+  "total_start": 5356,
+  "total_users": 1950,
   "total_groups": 21,
-  "last_update": "Minggu, 27 September 2026 pukul 13.25.29"
+  "last_update": "Minggu, 27 September 2026 pukul 13.26.01"
 }
