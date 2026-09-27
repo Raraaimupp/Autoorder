@@ -17384,8 +17384,8 @@
       "username": "Tidak ada",
       "name": "Tepen",
       "first_start": "Sabtu, 26 September 2026 pukul 15.56.17",
-      "last_start": "Minggu, 27 September 2026 pukul 09.01.44",
-      "total_start": 7,
+      "last_start": "Minggu, 27 September 2026 pukul 15.45.16",
+      "total_start": 8,
       "balance": 0
     },
     {
@@ -17658,8 +17658,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5360,
+  "total_start": 5361,
   "total_users": 1950,
   "total_groups": 21,
-  "last_update": "Minggu, 27 September 2026 pukul 15.41.20"
+  "last_update": "Minggu, 27 September 2026 pukul 15.45.16"
 }
