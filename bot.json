@@ -17549,6 +17549,15 @@
       "last_start": "Minggu, 27 September 2026 pukul 13.26.01",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8460042836",
+      "username": "@langggkaseppp",
+      "name": "𝙇𝙖𝙣𝙜𝙜𝙯𝙮𝙮",
+      "first_start": "Minggu, 27 September 2026 pukul 15.47.25",
+      "last_start": "Minggu, 27 September 2026 pukul 15.47.25",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17658,8 +17667,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5362,
-  "total_users": 1950,
+  "total_start": 5363,
+  "total_users": 1951,
   "total_groups": 21,
-  "last_update": "Minggu, 27 September 2026 pukul 15.46.24"
+  "last_update": "Minggu, 27 September 2026 pukul 15.47.25"
 }
