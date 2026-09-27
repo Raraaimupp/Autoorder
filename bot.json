@@ -17513,6 +17513,15 @@
       "last_start": "Minggu, 27 September 2026 pukul 11.58.03",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8733770543",
+      "username": "@helliz047",
+      "name": "rais delrey",
+      "first_start": "Minggu, 27 September 2026 pukul 13.07.43",
+      "last_start": "Minggu, 27 September 2026 pukul 13.07.43",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17622,8 +17631,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5351,
-  "total_users": 1946,
+  "total_start": 5352,
+  "total_users": 1947,
   "total_groups": 21,
-  "last_update": "Minggu, 27 September 2026 pukul 13.07.21"
+  "last_update": "Minggu, 27 September 2026 pukul 13.07.43"
 }
