@@ -17558,6 +17558,15 @@
       "last_start": "Minggu, 27 September 2026 pukul 15.47.25",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8760317678",
+      "username": "Tidak ada",
+      "name": "sayyid 089",
+      "first_start": "Minggu, 27 September 2026 pukul 15.57.50",
+      "last_start": "Minggu, 27 September 2026 pukul 15.57.50",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17667,8 +17676,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5365,
-  "total_users": 1951,
+  "total_start": 5366,
+  "total_users": 1952,
   "total_groups": 21,
-  "last_update": "Minggu, 27 September 2026 pukul 15.57.01"
+  "last_update": "Minggu, 27 September 2026 pukul 15.57.50"
 }
