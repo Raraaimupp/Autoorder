@@ -17567,6 +17567,15 @@
       "last_start": "Minggu, 27 September 2026 pukul 15.57.50",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8651609408",
+      "username": "@XLForm",
+      "name": "σναχχ — 𝐗𝐲𝐋𝐨𝐮𝐳𝘟ᴘʀɪᴍᴇ",
+      "first_start": "Minggu, 27 September 2026 pukul 16.51.44",
+      "last_start": "Minggu, 27 September 2026 pukul 16.51.44",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17676,8 +17685,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5369,
-  "total_users": 1952,
+  "total_start": 5370,
+  "total_users": 1953,
   "total_groups": 21,
-  "last_update": "Minggu, 27 September 2026 pukul 16.50.59"
+  "last_update": "Minggu, 27 September 2026 pukul 16.51.44"
 }
