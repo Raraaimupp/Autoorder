@@ -17648,6 +17648,15 @@
       "last_start": "Senin, 28 September 2026 pukul 21.46.13",
       "total_start": 3,
       "balance": 0
+    },
+    {
+      "id": "8941158756",
+      "username": "@liyanzzxdyanaa",
+      "name": "yanz",
+      "first_start": "Senin, 28 September 2026 pukul 21.46.36",
+      "last_start": "Senin, 28 September 2026 pukul 21.46.36",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17757,8 +17766,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5415,
-  "total_users": 1961,
+  "total_start": 5416,
+  "total_users": 1962,
   "total_groups": 21,
-  "last_update": "Senin, 28 September 2026 pukul 21.46.13"
+  "last_update": "Senin, 28 September 2026 pukul 21.46.36"
 }
