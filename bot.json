@@ -17630,6 +17630,15 @@
       "last_start": "Senin, 28 September 2026 pukul 18.14.52",
       "total_start": 2,
       "balance": 0
+    },
+    {
+      "id": "8948262223",
+      "username": "Tidak ada",
+      "name": "⏤͟͟͞͞𝗙𝗔𝗡𝗭 𝗩𝗠𝗣 𝟵𝟬𝟵✧",
+      "first_start": "Senin, 28 September 2026 pukul 20.19.05",
+      "last_start": "Senin, 28 September 2026 pukul 20.19.05",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17739,8 +17748,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5407,
-  "total_users": 1959,
+  "total_start": 5408,
+  "total_users": 1960,
   "total_groups": 21,
-  "last_update": "Senin, 28 September 2026 pukul 20.18.47"
+  "last_update": "Senin, 28 September 2026 pukul 20.19.05"
 }
