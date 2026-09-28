@@ -17621,6 +17621,15 @@
       "last_start": "Senin, 28 September 2026 pukul 17.28.02",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8423986922",
+      "username": "Tidak ada",
+      "name": "Fauzan Kahlfani",
+      "first_start": "Senin, 28 September 2026 pukul 17.56.52",
+      "last_start": "Senin, 28 September 2026 pukul 17.56.52",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17730,8 +17739,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5401,
-  "total_users": 1958,
+  "total_start": 5402,
+  "total_users": 1959,
   "total_groups": 21,
-  "last_update": "Senin, 28 September 2026 pukul 17.56.40"
+  "last_update": "Senin, 28 September 2026 pukul 17.56.52"
 }
