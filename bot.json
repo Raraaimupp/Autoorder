@@ -17684,6 +17684,15 @@
       "last_start": "Selasa, 29 September 2026 pukul 07.20.50",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8849227507",
+      "username": "@dnsslbw",
+      "name": "𝗗𝗡𝗦 𝗗𝗘𝗩𝗜𝗟 𝗥𝟭𝟬 dan 𝘿𝙆𝙆 𝙉𝙄𝘾𝙃𝙊𝙇𝙭𝘿𝙆𝙆 𝙈𝙏𝙎",
+      "first_start": "Selasa, 29 September 2026 pukul 15.28.17",
+      "last_start": "Selasa, 29 September 2026 pukul 15.28.17",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17793,8 +17802,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5428,
-  "total_users": 1965,
+  "total_start": 5429,
+  "total_users": 1966,
   "total_groups": 21,
-  "last_update": "Selasa, 29 September 2026 pukul 15.26.18"
+  "last_update": "Selasa, 29 September 2026 pukul 15.28.17"
 }
