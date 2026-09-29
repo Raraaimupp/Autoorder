@@ -17666,6 +17666,15 @@
       "last_start": "Selasa, 29 September 2026 pukul 01.26.36",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8851423127",
+      "username": "Tidak ada",
+      "name": "aldi prtama",
+      "first_start": "Selasa, 29 September 2026 pukul 07.15.26",
+      "last_start": "Selasa, 29 September 2026 pukul 07.15.26",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17775,8 +17784,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5423,
-  "total_users": 1963,
+  "total_start": 5424,
+  "total_users": 1964,
   "total_groups": 21,
-  "last_update": "Selasa, 29 September 2026 pukul 07.11.10"
+  "last_update": "Selasa, 29 September 2026 pukul 07.15.26"
 }
