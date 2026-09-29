@@ -17693,6 +17693,15 @@
       "last_start": "Selasa, 29 September 2026 pukul 15.28.17",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7237286999",
+      "username": "@mizann_official",
+      "name": "[ZIONN] ⩇⩇:⩇⩇",
+      "first_start": "Selasa, 29 September 2026 pukul 20.52.06",
+      "last_start": "Selasa, 29 September 2026 pukul 20.52.06",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17802,8 +17811,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5432,
-  "total_users": 1966,
+  "total_start": 5433,
+  "total_users": 1967,
   "total_groups": 21,
-  "last_update": "Selasa, 29 September 2026 pukul 20.51.40"
+  "last_update": "Selasa, 29 September 2026 pukul 20.52.06"
 }
