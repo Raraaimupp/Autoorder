@@ -17702,6 +17702,15 @@
       "last_start": "Selasa, 29 September 2026 pukul 20.52.06",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8876428718",
+      "username": "@Lp_my0",
+      "name": "Sixty-9",
+      "first_start": "Rabu, 30 September 2026 pukul 02.00.25",
+      "last_start": "Rabu, 30 September 2026 pukul 02.00.25",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17811,8 +17820,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5433,
-  "total_users": 1967,
+  "total_start": 5434,
+  "total_users": 1968,
   "total_groups": 21,
-  "last_update": "Rabu, 30 September 2026 pukul 01.56.47"
+  "last_update": "Rabu, 30 September 2026 pukul 02.00.25"
 }
