@@ -17675,6 +17675,15 @@
       "last_start": "Selasa, 29 September 2026 pukul 07.15.26",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "7515354363",
+      "username": "@Parlayiu",
+      "name": "yoitu",
+      "first_start": "Selasa, 29 September 2026 pukul 07.20.50",
+      "last_start": "Selasa, 29 September 2026 pukul 07.20.50",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17784,8 +17793,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5424,
-  "total_users": 1964,
+  "total_start": 5425,
+  "total_users": 1965,
   "total_groups": 21,
-  "last_update": "Selasa, 29 September 2026 pukul 07.17.02"
+  "last_update": "Selasa, 29 September 2026 pukul 07.20.50"
 }
