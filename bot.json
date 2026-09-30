@@ -19749,6 +19749,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7225990842",
+      "username": "@not_available123456",
+      "name": "MrSultanX. REHAN☠️🚩",
+      "first_start": "Rabu, 30 September 2026 pukul 21.39.10",
+      "last_start": "Rabu, 30 September 2026 pukul 21.39.11",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19869,8 +19879,8 @@
       "at": 1790766296095
     }
   ],
-  "total_start": 5458,
-  "total_users": 1975,
+  "total_start": 5459,
+  "total_users": 1976,
   "total_groups": 21,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
