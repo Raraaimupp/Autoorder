@@ -19779,6 +19779,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7771742897",
+      "username": "@bandar_panz",
+      "name": "⸸ —_ pannz [] | Ewee",
+      "first_start": "Rabu, 30 September 2026 pukul 22.08.58",
+      "last_start": "Rabu, 30 September 2026 pukul 22.08.59",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19899,8 +19909,8 @@
       "at": 1790766296095
     }
   ],
-  "total_start": 5462,
-  "total_users": 1978,
+  "total_start": 5463,
+  "total_users": 1979,
   "total_groups": 21,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
