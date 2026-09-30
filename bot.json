@@ -19759,6 +19759,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8650046399",
+      "username": "@rahmatbot99",
+      "name": "Rahmat Store nope 2",
+      "first_start": "Rabu, 30 September 2026 pukul 21.52.19",
+      "last_start": "Rabu, 30 September 2026 pukul 21.52.19",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19880,7 +19890,7 @@
     }
   ],
   "total_start": 5459,
-  "total_users": 1976,
+  "total_users": 1977,
   "total_groups": 21,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
