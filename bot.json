@@ -19799,6 +19799,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6506296913",
+      "username": "@ErineJs5",
+      "name": "⋆ 𝓙𝓼 ℘.",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 00.57.30",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 00.57.31",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19919,8 +19929,8 @@
       "at": 1790766296095
     }
   ],
-  "total_start": 5463,
-  "total_users": 1980,
+  "total_start": 5464,
+  "total_users": 1981,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
