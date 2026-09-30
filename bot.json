@@ -19729,6 +19729,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6258466915",
+      "username": "@whoinzh",
+      "name": "japzxt",
+      "first_start": "Rabu, 30 September 2026 pukul 19.16.59",
+      "last_start": "Rabu, 30 September 2026 pukul 19.16.59",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19850,7 +19860,7 @@
     }
   ],
   "total_start": 5456,
-  "total_users": 1973,
+  "total_users": 1974,
   "total_groups": 21,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
