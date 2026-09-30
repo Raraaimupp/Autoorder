@@ -19739,6 +19739,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8605708478",
+      "username": "@Ranzz_Zx",
+      "name": "ᴿᴸx・raɴᴢᴢ愛",
+      "first_start": "Rabu, 30 September 2026 pukul 20.11.00",
+      "last_start": "Rabu, 30 September 2026 pukul 20.11.02",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19859,8 +19869,8 @@
       "at": 1790766296095
     }
   ],
-  "total_start": 5457,
-  "total_users": 1974,
+  "total_start": 5458,
+  "total_users": 1975,
   "total_groups": 21,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
