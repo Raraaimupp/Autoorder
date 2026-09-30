@@ -17720,6 +17720,15 @@
       "last_start": "Rabu, 30 September 2026 pukul 10.37.57",
       "total_start": 1,
       "balance": 0
+    },
+    {
+      "id": "8749099184",
+      "username": "@bell_cutesm",
+      "name": "only bellaa",
+      "first_start": "Rabu, 30 September 2026 pukul 15.14.14",
+      "last_start": "Rabu, 30 September 2026 pukul 15.14.14",
+      "total_start": 1,
+      "balance": 0
     }
   ],
   "groups": [
@@ -17829,8 +17838,8 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "total_start": 5438,
-  "total_users": 1969,
+  "total_start": 5439,
+  "total_users": 1970,
   "total_groups": 21,
-  "last_update": "Rabu, 30 September 2026 pukul 15.10.43"
+  "last_update": "Rabu, 30 September 2026 pukul 15.14.14"
 }
