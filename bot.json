@@ -19719,6 +19719,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8755412197",
+      "username": "@Vanzkalcer1",
+      "name": "⏤͟͟͞͞𝙑𝙖𝙣𝙯|𝕶𝖆𝖑𝖈𝖊𝖗",
+      "first_start": "Rabu, 30 September 2026 pukul 18.49.48",
+      "last_start": "Rabu, 30 September 2026 pukul 18.50.09",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19839,8 +19849,8 @@
       "at": 1790766296095
     }
   ],
-  "total_start": 5455,
-  "total_users": 1972,
+  "total_start": 5456,
+  "total_users": 1973,
   "total_groups": 21,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
