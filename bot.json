@@ -15657,8 +15657,8 @@
       "first_start": "Kamis, 30 Juli 2026 pukul 20.42.35",
       "last_start": "Selasa, 22 September 2026 pukul 18.22.19",
       "total_start": 71,
-      "balance": 0,
-      "balance_updated_at": 0
+      "balance": 1000,
+      "balance_updated_at": 1790766296095
     },
     {
       "id": "1461504417",
@@ -19828,7 +19828,17 @@
       "first_detected": "Kamis, 24 September 2026 pukul 13.50.26"
     }
   ],
-  "wallet_transactions": [],
+  "wallet_transactions": [
+    {
+      "order_id": "TOP179076626341512233551",
+      "user_id": "12233551",
+      "delta": 1000,
+      "before": 0,
+      "after": 1000,
+      "reason": "Top Up QRIS",
+      "at": 1790766296095
+    }
+  ],
   "total_start": 5450,
   "total_users": 1972,
   "total_groups": 21,
