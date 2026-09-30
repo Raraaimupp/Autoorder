@@ -19809,6 +19809,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8686311617",
+      "username": "@SatDaudsatria",
+      "name": "Sat Daud satria",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 04.33.50",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 04.33.52",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19929,8 +19939,8 @@
       "at": 1790766296095
     }
   ],
-  "total_start": 5465,
-  "total_users": 1981,
+  "total_start": 5466,
+  "total_users": 1982,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
