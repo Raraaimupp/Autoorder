@@ -19699,6 +19699,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8560157469",
+      "username": "@inthawoods",
+      "name": "M̶o̶r̶a̶l̶i̶t̶y̶͙͙͙͙͙͙",
+      "first_start": "Rabu, 30 September 2026 pukul 16.48.33",
+      "last_start": "Rabu, 30 September 2026 pukul 16.48.37",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19809,8 +19819,8 @@
     }
   ],
   "wallet_transactions": [],
-  "total_start": 5441,
-  "total_users": 1970,
+  "total_start": 5442,
+  "total_users": 1971,
   "total_groups": 21,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
