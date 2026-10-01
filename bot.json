@@ -19949,6 +19949,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "2010717365",
+      "username": "@AgrataInHere1",
+      "name": "𝕬𝖌𝖗𝖆𝖙𝖆𝕱𝖔𝖗𝕷𝖔𝖛𝖊 ﷽ [OPEN]",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 17.09.40",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 17.09.41",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20114,8 +20124,8 @@
       "at": 1790826036056
     }
   ],
-  "total_start": 5486,
-  "total_users": 1995,
+  "total_start": 5487,
+  "total_users": 1996,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
