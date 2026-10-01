@@ -20139,6 +20139,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8210126408",
+      "username": "@thismejacky",
+      "name": "ᴊᴄ",
+      "first_start": "Jumat, 2 Oktober 2026 pukul 01.07.28",
+      "last_start": "Jumat, 2 Oktober 2026 pukul 01.07.28",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20305,7 +20315,7 @@
     }
   ],
   "total_start": 5497,
-  "total_users": 2014,
+  "total_users": 2015,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
