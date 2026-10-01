@@ -20159,6 +20159,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8520015890",
+      "username": "@benzx_xiterz",
+      "name": "benz",
+      "first_start": "Jumat, 2 Oktober 2026 pukul 04.15.58",
+      "last_start": "Jumat, 2 Oktober 2026 pukul 04.15.58",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20325,7 +20335,7 @@
     }
   ],
   "total_start": 5498,
-  "total_users": 2016,
+  "total_users": 2017,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
