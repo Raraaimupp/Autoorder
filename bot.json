@@ -20019,6 +20019,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8239249552",
+      "username": "@nullpterodactyl",
+      "name": "𝗗𝗔𝗜𝗬𝗔𝗧 𝗦𝗧𝗢𝗥𝗘",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 20.26.26",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 20.26.26",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20185,7 +20195,7 @@
     }
   ],
   "total_start": 5489,
-  "total_users": 2002,
+  "total_users": 2003,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
