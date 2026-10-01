@@ -19879,6 +19879,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8753137233",
+      "username": "Tidak ada",
+      "name": "ecaa",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 11.03.22",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 11.03.22",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20045,7 +20055,7 @@
     }
   ],
   "total_start": 5482,
-  "total_users": 1988,
+  "total_users": 1989,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
