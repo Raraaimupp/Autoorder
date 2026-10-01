@@ -19819,6 +19819,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7029256142",
+      "username": "@RazzKece",
+      "name": "𝑍𝑧𝑍𝗥𝗮𝘇𝘇 𝘿' 𝙇𝙪𝙘𝙖̀𓇢𓆸",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 07.05.31",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 07.05.32",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19939,8 +19949,8 @@
       "at": 1790766296095
     }
   ],
-  "total_start": 5472,
-  "total_users": 1982,
+  "total_start": 5473,
+  "total_users": 1983,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
