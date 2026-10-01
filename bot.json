@@ -19849,6 +19849,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8430925611",
+      "username": "@gussdry",
+      "name": "Manusia kece",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 08.07.15",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 08.07.17",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19987,8 +19997,8 @@
       "at": 1790816238727
     }
   ],
-  "total_start": 5477,
-  "total_users": 1985,
+  "total_start": 5478,
+  "total_users": 1986,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
