@@ -19989,6 +19989,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7630951458",
+      "username": "@biiXbingbing",
+      "name": "𝘽𝙞𝙞➪『Real』",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 19.02.01",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 19.02.01",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20155,7 +20165,7 @@
     }
   ],
   "total_start": 5489,
-  "total_users": 1999,
+  "total_users": 2000,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
