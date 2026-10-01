@@ -19939,6 +19939,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1896157263",
+      "username": "@Lauraaa23",
+      "name": "~ Laura",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 15.03.38",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 15.03.40",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20104,8 +20114,8 @@
       "at": 1790826036056
     }
   ],
-  "total_start": 5485,
-  "total_users": 1994,
+  "total_start": 5486,
+  "total_users": 1995,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
