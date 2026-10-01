@@ -19829,6 +19829,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8875024878",
+      "username": "@ardynsyahhh",
+      "name": "Ardii",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 07.55.33",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 07.55.35",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -19958,8 +19968,8 @@
       "at": 1790815575945
     }
   ],
-  "total_start": 5475,
-  "total_users": 1983,
+  "total_start": 5476,
+  "total_users": 1984,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
