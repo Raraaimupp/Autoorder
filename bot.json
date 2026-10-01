@@ -20129,6 +20129,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "5825264460",
+      "username": "@cybr_id",
+      "name": "🄲🅈🄱🅁",
+      "first_start": "Jumat, 2 Oktober 2026 pukul 00.26.37",
+      "last_start": "Jumat, 2 Oktober 2026 pukul 00.26.38",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20294,8 +20304,8 @@
       "at": 1790826036056
     }
   ],
-  "total_start": 5496,
-  "total_users": 2013,
+  "total_start": 5497,
+  "total_users": 2014,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
