@@ -19889,6 +19889,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1930001517",
+      "username": "@Hdpwlwl",
+      "name": "Vind",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 11.04.56",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 11.04.56",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20055,7 +20065,7 @@
     }
   ],
   "total_start": 5482,
-  "total_users": 1989,
+  "total_users": 1990,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
