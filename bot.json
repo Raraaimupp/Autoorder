@@ -20069,6 +20069,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7644455117",
+      "username": "@stfuy29",
+      "name": "𝘿𝙈𝙕𝙔 𝘿𝙀𝙇 𝙍𝙀𝙔𝟮𝟭",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 22.23.20",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 22.23.20",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20235,7 +20245,7 @@
     }
   ],
   "total_start": 5494,
-  "total_users": 2007,
+  "total_users": 2008,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
