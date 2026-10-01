@@ -20099,6 +20099,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7561632350",
+      "username": "@Amanexshopp",
+      "name": "AmanexShop",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 22.48.48",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 22.48.49",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20264,8 +20274,8 @@
       "at": 1790826036056
     }
   ],
-  "total_start": 5494,
-  "total_users": 2010,
+  "total_start": 5495,
+  "total_users": 2011,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
