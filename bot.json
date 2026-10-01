@@ -19959,6 +19959,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8959923870",
+      "username": "@febzzajaa",
+      "name": "ᯓ𝙁𝙀𝘽𝙕𝙕 友",
+      "first_start": "Kamis, 1 Oktober 2026 pukul 18.05.15",
+      "last_start": "Kamis, 1 Oktober 2026 pukul 18.05.16",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20124,8 +20134,8 @@
       "at": 1790826036056
     }
   ],
-  "total_start": 5487,
-  "total_users": 1996,
+  "total_start": 5488,
+  "total_users": 1997,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
