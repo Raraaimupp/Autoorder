@@ -20209,6 +20209,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8958085967",
+      "username": "@KDX_07",
+      "name": "𝙈𝙍 𝘽𝙐𝙇𝘼",
+      "first_start": "Jumat, 2 Oktober 2026 pukul 14.53.13",
+      "last_start": "Jumat, 2 Oktober 2026 pukul 14.53.13",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20375,7 +20385,7 @@
     }
   ],
   "total_start": 5501,
-  "total_users": 2021,
+  "total_users": 2022,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
