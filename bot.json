@@ -20169,6 +20169,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8709833013",
+      "username": "@DryNox12",
+      "name": "DryNox 12",
+      "first_start": "Jumat, 2 Oktober 2026 pukul 08.02.37",
+      "last_start": "Jumat, 2 Oktober 2026 pukul 08.02.37",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20335,7 +20345,7 @@
     }
   ],
   "total_start": 5500,
-  "total_users": 2017,
+  "total_users": 2018,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
