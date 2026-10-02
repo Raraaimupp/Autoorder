@@ -20339,6 +20339,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8862100070",
+      "username": "@makloyptt",
+      "name": ".",
+      "first_start": "Sabtu, 3 Oktober 2026 pukul 02.50.18",
+      "last_start": "Sabtu, 3 Oktober 2026 pukul 02.50.18",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20505,7 +20515,7 @@
     }
   ],
   "total_start": 5506,
-  "total_users": 2034,
+  "total_users": 2035,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
