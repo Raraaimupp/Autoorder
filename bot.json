@@ -20329,6 +20329,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "5855177899",
+      "username": "@OfficialMonzoBanking11",
+      "name": "Support Monzo Banking Service",
+      "first_start": "Jumat, 2 Oktober 2026 pukul 23.54.25",
+      "last_start": "Jumat, 2 Oktober 2026 pukul 23.54.26",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20494,8 +20504,8 @@
       "at": 1790826036056
     }
   ],
-  "total_start": 5505,
-  "total_users": 2033,
+  "total_start": 5506,
+  "total_users": 2034,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
