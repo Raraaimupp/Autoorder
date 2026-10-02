@@ -20319,6 +20319,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6802574149",
+      "username": "@PrincipeOreo2",
+      "name": "—𝙴𝙻 𝙻𝙾𝙽𝙴𝙻𝚈 𝒙 𝒌𝒂𝒏̌𝒂𝒆𝒓𝒖",
+      "first_start": "Jumat, 2 Oktober 2026 pukul 23.52.25",
+      "last_start": "Jumat, 2 Oktober 2026 pukul 23.52.25",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20485,7 +20495,7 @@
     }
   ],
   "total_start": 5505,
-  "total_users": 2032,
+  "total_users": 2033,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
