@@ -20199,6 +20199,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1307740459",
+      "username": "@DimshopDm",
+      "name": "Kang Dimms Otp Via Wa di Bio",
+      "first_start": "Jumat, 2 Oktober 2026 pukul 10.45.46",
+      "last_start": "Jumat, 2 Oktober 2026 pukul 10.45.46",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20364,8 +20374,8 @@
       "at": 1790826036056
     }
   ],
-  "total_start": 5500,
-  "total_users": 2020,
+  "total_start": 5501,
+  "total_users": 2021,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
