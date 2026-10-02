@@ -20279,6 +20279,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8054364275",
+      "username": "@ALLDIXML",
+      "name": "Al Ganz",
+      "first_start": "Jumat, 2 Oktober 2026 pukul 20.43.44",
+      "last_start": "Jumat, 2 Oktober 2026 pukul 20.43.44",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20445,7 +20455,7 @@
     }
   ],
   "total_start": 5505,
-  "total_users": 2028,
+  "total_users": 2029,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
