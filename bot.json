@@ -20229,6 +20229,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8171596960",
+      "username": "@frazLkl",
+      "name": "frzlkl",
+      "first_start": "Jumat, 2 Oktober 2026 pukul 16.15.52",
+      "last_start": "Jumat, 2 Oktober 2026 pukul 16.15.53",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20394,8 +20404,8 @@
       "at": 1790826036056
     }
   ],
-  "total_start": 5502,
-  "total_users": 2023,
+  "total_start": 5503,
+  "total_users": 2024,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
