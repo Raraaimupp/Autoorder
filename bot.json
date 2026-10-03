@@ -20389,6 +20389,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7879200203",
+      "username": "@Parisstore12",
+      "name": "PARIS STORE",
+      "first_start": "Minggu, 4 Oktober 2026 pukul 04.31.12",
+      "last_start": "Minggu, 4 Oktober 2026 pukul 04.31.13",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20554,8 +20564,8 @@
       "at": 1790826036056
     }
   ],
-  "total_start": 5512,
-  "total_users": 2039,
+  "total_start": 5513,
+  "total_users": 2040,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
