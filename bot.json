@@ -20379,6 +20379,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8627820884",
+      "username": "@ditzztzyy",
+      "name": "𝐑 𝐕 𝐓 𝟕 - 𝐃𝐢𝐭𝐳𝐳𝐓𝐳𝐲𝐲",
+      "first_start": "Sabtu, 3 Oktober 2026 pukul 21.03.15",
+      "last_start": "Sabtu, 3 Oktober 2026 pukul 21.04.37",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20544,8 +20554,8 @@
       "at": 1790826036056
     }
   ],
-  "total_start": 5507,
-  "total_users": 2038,
+  "total_start": 5512,
+  "total_users": 2039,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
