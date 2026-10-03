@@ -20359,6 +20359,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8706623836",
+      "username": "@yatimluanj",
+      "name": "𝐒𝐮𝐧𝐠𝐡𝐨",
+      "first_start": "Sabtu, 3 Oktober 2026 pukul 17.47.09",
+      "last_start": "Sabtu, 3 Oktober 2026 pukul 17.47.14",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20525,7 +20535,7 @@
     }
   ],
   "total_start": 5506,
-  "total_users": 2036,
+  "total_users": 2037,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
