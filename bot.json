@@ -20419,6 +20419,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8948536460",
+      "username": "@Xaalexz",
+      "name": "Bang lexzz",
+      "first_start": "Minggu, 4 Oktober 2026 pukul 21.25.57",
+      "last_start": "Minggu, 4 Oktober 2026 pukul 21.25.57",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20585,7 +20595,7 @@
     }
   ],
   "total_start": 5516,
-  "total_users": 2042,
+  "total_users": 2043,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
