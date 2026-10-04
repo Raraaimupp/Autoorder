@@ -20429,6 +20429,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "5238897802",
+      "username": "@Kepoo25",
+      "name": "E",
+      "first_start": "Senin, 5 Oktober 2026 pukul 01.05.03",
+      "last_start": "Senin, 5 Oktober 2026 pukul 01.05.03",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20595,7 +20605,7 @@
     }
   ],
   "total_start": 5516,
-  "total_users": 2043,
+  "total_users": 2044,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
