@@ -20439,6 +20439,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7767939009",
+      "username": "@jasaotp_id",
+      "name": "Web Jual Nokos: ditznesia.id (murah & otp masuk cepat)",
+      "first_start": "Senin, 5 Oktober 2026 pukul 02.15.51",
+      "last_start": "Senin, 5 Oktober 2026 pukul 02.15.51",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20605,7 +20615,7 @@
     }
   ],
   "total_start": 5516,
-  "total_users": 2044,
+  "total_users": 2045,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
