@@ -20529,6 +20529,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8571011703",
+      "username": "Tidak ada",
+      "name": "LATIF STIRE REAL2",
+      "first_start": "Senin, 5 Oktober 2026 pukul 17.54.16",
+      "last_start": "Senin, 5 Oktober 2026 pukul 17.54.16",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20695,7 +20705,7 @@
     }
   ],
   "total_start": 5516,
-  "total_users": 2053,
+  "total_users": 2054,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
