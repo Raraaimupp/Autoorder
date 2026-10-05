@@ -20599,6 +20599,26 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6952963201",
+      "username": "@zeyyyajaa",
+      "name": "Zeyy",
+      "first_start": "Selasa, 6 Oktober 2026 pukul 00.52.27",
+      "last_start": "Selasa, 6 Oktober 2026 pukul 00.52.27",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "6445353473",
+      "username": "@AzizahSahara",
+      "name": "Azizah",
+      "first_start": "Selasa, 6 Oktober 2026 pukul 01.37.25",
+      "last_start": "Selasa, 6 Oktober 2026 pukul 01.37.25",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20764,8 +20784,8 @@
       "at": 1790826036056
     }
   ],
-  "total_start": 5517,
-  "total_users": 2060,
+  "total_start": 5519,
+  "total_users": 2062,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
