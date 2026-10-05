@@ -20569,6 +20569,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7927983538",
+      "username": "@zanz24",
+      "name": "zn",
+      "first_start": "Senin, 5 Oktober 2026 pukul 20.42.44",
+      "last_start": "Senin, 5 Oktober 2026 pukul 20.42.44",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20735,7 +20745,7 @@
     }
   ],
   "total_start": 5517,
-  "total_users": 2057,
+  "total_users": 2058,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
