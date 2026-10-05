@@ -20519,6 +20519,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "5955078274",
+      "username": "@Ridosiman",
+      "name": "RIDO",
+      "first_start": "Senin, 5 Oktober 2026 pukul 17.23.27",
+      "last_start": "Senin, 5 Oktober 2026 pukul 17.23.27",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20685,7 +20695,7 @@
     }
   ],
   "total_start": 5516,
-  "total_users": 2052,
+  "total_users": 2053,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
