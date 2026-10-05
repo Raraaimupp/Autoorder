@@ -20629,6 +20629,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "5007562506",
+      "username": "@HirohitoKiyoshi",
+      "name": "ꦠꦾꦎꦴꦭꦶꦪ",
+      "first_start": "Selasa, 6 Oktober 2026 pukul 05.21.58",
+      "last_start": "Selasa, 6 Oktober 2026 pukul 05.21.58",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20795,7 +20805,7 @@
     }
   ],
   "total_start": 5519,
-  "total_users": 2063,
+  "total_users": 2064,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
