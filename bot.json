@@ -20499,6 +20499,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7672469804",
+      "username": "@arshilladigital",
+      "name": "Arkadia Arka",
+      "first_start": "Senin, 5 Oktober 2026 pukul 10.43.53",
+      "last_start": "Senin, 5 Oktober 2026 pukul 10.43.53",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20665,7 +20675,7 @@
     }
   ],
   "total_start": 5516,
-  "total_users": 2050,
+  "total_users": 2051,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
