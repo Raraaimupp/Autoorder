@@ -20659,6 +20659,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8241334813",
+      "username": "@ganzkecez",
+      "name": "Wow ganz",
+      "first_start": "Selasa, 6 Oktober 2026 pukul 06.53.12",
+      "last_start": "Selasa, 6 Oktober 2026 pukul 06.53.12",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20825,7 +20835,7 @@
     }
   ],
   "total_start": 5520,
-  "total_users": 2066,
+  "total_users": 2067,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
