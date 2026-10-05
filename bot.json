@@ -20589,6 +20589,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "409849288",
+      "username": "@B4IEE",
+      "name": "ᏃႸᎪᎪ ⸙¤๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡𝔏",
+      "first_start": "Senin, 5 Oktober 2026 pukul 22.49.15",
+      "last_start": "Senin, 5 Oktober 2026 pukul 22.49.15",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20755,7 +20765,7 @@
     }
   ],
   "total_start": 5517,
-  "total_users": 2059,
+  "total_users": 2060,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
