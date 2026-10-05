@@ -20619,6 +20619,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "450191158",
+      "username": "@agungcharly74",
+      "name": "Agung Prasetyo",
+      "first_start": "Selasa, 6 Oktober 2026 pukul 01.55.09",
+      "last_start": "Selasa, 6 Oktober 2026 pukul 01.55.09",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20785,7 +20795,7 @@
     }
   ],
   "total_start": 5519,
-  "total_users": 2062,
+  "total_users": 2063,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
