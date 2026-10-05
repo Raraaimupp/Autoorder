@@ -20489,6 +20489,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "5835718889",
+      "username": "@Fourmulaa1",
+      "name": "Elang",
+      "first_start": "Senin, 5 Oktober 2026 pukul 09.47.39",
+      "last_start": "Senin, 5 Oktober 2026 pukul 09.47.39",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20655,7 +20665,7 @@
     }
   ],
   "total_start": 5516,
-  "total_users": 2049,
+  "total_users": 2050,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
