@@ -20479,6 +20479,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8948798639",
+      "username": "@JBSTORE123",
+      "name": "DIKA STORE",
+      "first_start": "Senin, 5 Oktober 2026 pukul 08.06.59",
+      "last_start": "Senin, 5 Oktober 2026 pukul 08.06.59",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20645,7 +20655,7 @@
     }
   ],
   "total_start": 5516,
-  "total_users": 2048,
+  "total_users": 2049,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
