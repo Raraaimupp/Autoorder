@@ -18247,8 +18247,8 @@
       "first_start": "Selasa, 15 September 2026 pukul 20.10.01",
       "last_start": "Kamis, 17 September 2026 pukul 11.57.47",
       "total_start": 10,
-      "balance": 0,
-      "balance_updated_at": 0
+      "balance": 2000,
+      "balance_updated_at": 1791250780726
     },
     {
       "id": "8319519632",
@@ -20832,6 +20832,15 @@
       "after": 1500,
       "reason": "Refund pembatalan sebelum provisioning",
       "at": 1790826036056
+    },
+    {
+      "order_id": "TOP17912507312928205246500",
+      "user_id": "8205246500",
+      "delta": 2000,
+      "before": 0,
+      "after": 2000,
+      "reason": "Top Up QRIS",
+      "at": 1791250780726
     }
   ],
   "total_start": 5520,
