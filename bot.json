@@ -20669,6 +20669,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8952547269",
+      "username": "@iyancihuy",
+      "name": "iynn sinaga",
+      "first_start": "Selasa, 6 Oktober 2026 pukul 11.47.53",
+      "last_start": "Selasa, 6 Oktober 2026 pukul 11.47.53",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20844,7 +20854,7 @@
     }
   ],
   "total_start": 5520,
-  "total_users": 2067,
+  "total_users": 2068,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
