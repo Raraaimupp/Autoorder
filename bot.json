@@ -20759,6 +20759,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8150204378",
+      "username": "@alief_bug",
+      "name": "ALIEF || OFFICIAL",
+      "first_start": "Selasa, 6 Oktober 2026 pukul 15.43.02",
+      "last_start": "Selasa, 6 Oktober 2026 pukul 15.43.02",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20934,7 +20944,7 @@
     }
   ],
   "total_start": 5525,
-  "total_users": 2076,
+  "total_users": 2077,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
