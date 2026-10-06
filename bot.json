@@ -20127,8 +20127,8 @@
       "first_start": "Kamis, 1 Oktober 2026 pukul 23.51.28",
       "last_start": "Kamis, 1 Oktober 2026 pukul 23.51.28",
       "total_start": 0,
-      "balance": 10000,
-      "balance_updated_at": 1791286374477
+      "balance": 1000,
+      "balance_updated_at": 1791286609130
     },
     {
       "id": "5825264460",
@@ -20950,6 +20950,15 @@
       "after": 10000,
       "reason": "Top Up QRIS",
       "at": 1791286374477
+    },
+    {
+      "order_id": "PNL17912866078445828047954",
+      "user_id": "5828047954",
+      "delta": -9000,
+      "before": 10000,
+      "after": 1000,
+      "reason": "Pembelian Panel 7GB 30 Hari",
+      "at": 1791286609130
     }
   ],
   "total_start": 5525,
