@@ -15657,8 +15657,8 @@
       "first_start": "Kamis, 30 Juli 2026 pukul 20.42.35",
       "last_start": "Selasa, 22 September 2026 pukul 18.22.19",
       "total_start": 71,
-      "balance": 500,
-      "balance_updated_at": 1790815575945
+      "balance": 100000000000499,
+      "balance_updated_at": 1791306685148
     },
     {
       "id": "1461504417",
@@ -20991,6 +20991,18 @@
       "source": "owner",
       "actor_id": "12233551",
       "at": 1791306537923
+    },
+    {
+      "order_id": "ADMINADD-1791306685110-12233551-jyqn8",
+      "user_id": "12233551",
+      "delta": 99999999999999,
+      "before": 500,
+      "after": 100000000000499,
+      "reason": "Add Saldo Owner",
+      "kind": "admin_credit",
+      "source": "owner",
+      "actor_id": "12233551",
+      "at": 1791306685148
     }
   ],
   "total_start": 5525,
