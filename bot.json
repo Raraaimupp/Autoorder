@@ -20729,6 +20729,26 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6243123269",
+      "username": "@Vickylen",
+      "name": "Vicky Len",
+      "first_start": "Selasa, 6 Oktober 2026 pukul 15.02.42",
+      "last_start": "Selasa, 6 Oktober 2026 pukul 15.03.06",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "7604882007",
+      "username": "Tidak ada",
+      "name": "𝐖𝐢𝐝𝐬𝐘𝐚𝐳𝐳ร",
+      "first_start": "Selasa, 6 Oktober 2026 pukul 15.04.01",
+      "last_start": "Selasa, 6 Oktober 2026 pukul 15.04.21",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20903,8 +20923,8 @@
       "at": 1791250780726
     }
   ],
-  "total_start": 5522,
-  "total_users": 2073,
+  "total_start": 5524,
+  "total_users": 2075,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
