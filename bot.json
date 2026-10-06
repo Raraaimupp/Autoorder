@@ -3827,8 +3827,8 @@
       "first_start": "Senin, 4 Mei 2026 pukul 01.14.43",
       "last_start": "Kamis, 13 Agustus 2026 pukul 21.08.49",
       "total_start": 7,
-      "balance": 15000,
-      "balance_updated_at": 1791306537923
+      "balance": 0,
+      "balance_updated_at": 1791326236228
     },
     {
       "id": "7607574017",
@@ -21003,6 +21003,18 @@
       "source": "owner",
       "actor_id": "12233551",
       "at": 1791306685148
+    },
+    {
+      "order_id": "PPJ17913262348538706954996",
+      "user_id": "8706954996",
+      "delta": -15000,
+      "before": 15000,
+      "after": 0,
+      "reason": "Perpanjang barrrr 30 Hari",
+      "kind": "purchase",
+      "source": "balance",
+      "actor_id": null,
+      "at": 1791326236228
     }
   ],
   "total_start": 5525,
