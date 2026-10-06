@@ -20749,6 +20749,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8909514265",
+      "username": "Tidak ada",
+      "name": "ok.",
+      "first_start": "Selasa, 6 Oktober 2026 pukul 15.16.22",
+      "last_start": "Selasa, 6 Oktober 2026 pukul 15.16.38",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20923,8 +20933,8 @@
       "at": 1791250780726
     }
   ],
-  "total_start": 5524,
-  "total_users": 2075,
+  "total_start": 5525,
+  "total_users": 2076,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
