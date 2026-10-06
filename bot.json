@@ -20719,6 +20719,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8624212504",
+      "username": "@DanzzBukanIT",
+      "name": "𝗗𝗮𝗻𝘇𝘇𝗡𝗼𝘁𝗗𝗲𝘃 || 𝗝𝗮𝘃𝗮 𓅓",
+      "first_start": "Selasa, 6 Oktober 2026 pukul 14.42.23",
+      "last_start": "Selasa, 6 Oktober 2026 pukul 14.42.23",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -20894,7 +20904,7 @@
     }
   ],
   "total_start": 5522,
-  "total_users": 2072,
+  "total_users": 2073,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
