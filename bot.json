@@ -3827,8 +3827,8 @@
       "first_start": "Senin, 4 Mei 2026 pukul 01.14.43",
       "last_start": "Kamis, 13 Agustus 2026 pukul 21.08.49",
       "total_start": 7,
-      "balance": 0,
-      "balance_updated_at": 0
+      "balance": 15000,
+      "balance_updated_at": 1791306537923
     },
     {
       "id": "7607574017",
@@ -20979,6 +20979,18 @@
       "after": 1000,
       "reason": "Pembelian Panel 7GB 30 Hari",
       "at": 1791286609130
+    },
+    {
+      "order_id": "ADMINADD-1791306537907-8706954996-7beqb",
+      "user_id": "8706954996",
+      "delta": 15000,
+      "before": 0,
+      "after": 15000,
+      "reason": "Add Saldo Owner",
+      "kind": "admin_credit",
+      "source": "owner",
+      "actor_id": "12233551",
+      "at": 1791306537923
     }
   ],
   "total_start": 5525,
