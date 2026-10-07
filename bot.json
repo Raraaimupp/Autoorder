@@ -1147,8 +1147,8 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 17.04.34",
       "last_start": "Rabu, 5 Agustus 2026 pukul 22.59.21",
       "total_start": 5,
-      "balance": 0,
-      "balance_updated_at": 0
+      "balance": 50000,
+      "balance_updated_at": 1791363148672
     },
     {
       "id": "7643547637",
@@ -21159,6 +21159,18 @@
       "source": "balance",
       "actor_id": null,
       "at": 1791361148355
+    },
+    {
+      "order_id": "ADMINADD-1791363148662-8445934556-lixgt",
+      "user_id": "8445934556",
+      "delta": 50000,
+      "before": 0,
+      "after": 50000,
+      "reason": "Add Saldo Owner",
+      "kind": "admin_credit",
+      "source": "owner",
+      "actor_id": "12233551",
+      "at": 1791363148672
     }
   ],
   "total_start": 5528,
