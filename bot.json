@@ -20799,6 +20799,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8138791286",
+      "username": "@ZuyFFID",
+      "name": "ZuyID 🫯",
+      "first_start": "Rabu, 7 Oktober 2026 pukul 08.50.39",
+      "last_start": "Rabu, 7 Oktober 2026 pukul 08.50.39",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21028,7 +21038,7 @@
     }
   ],
   "total_start": 5525,
-  "total_users": 2080,
+  "total_users": 2081,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
