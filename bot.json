@@ -20849,6 +20849,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8748042096",
+      "username": "@alstoteprtodactyl",
+      "name": "𝐀𝐥𝐥𝐅𝐀𝐈𝐑𝐔𝐒.𝚂𝙶𝚁𝗳𝘁 ​𝑨𝑳𝑪᭄",
+      "first_start": "Rabu, 7 Oktober 2026 pukul 12.06.51",
+      "last_start": "Rabu, 7 Oktober 2026 pukul 12.06.51",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21078,7 +21088,7 @@
     }
   ],
   "total_start": 5527,
-  "total_users": 2085,
+  "total_users": 2086,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
