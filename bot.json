@@ -20819,6 +20819,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7342595431",
+      "username": "@Tayzzkece",
+      "name": "࿕ 𝓐𝓮𝓽𝓱𝓮𝓻𝓲𝓼 ⟢tayz #WINTER",
+      "first_start": "Rabu, 7 Oktober 2026 pukul 10.21.50",
+      "last_start": "Rabu, 7 Oktober 2026 pukul 10.21.50",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21048,7 +21058,7 @@
     }
   ],
   "total_start": 5525,
-  "total_users": 2082,
+  "total_users": 2083,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
