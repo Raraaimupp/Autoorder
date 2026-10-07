@@ -20979,6 +20979,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8557500203",
+      "username": "@Sal_Geming",
+      "name": "࿐ཽ༵༆༒FAISAL༒༆࿐ཽ༵",
+      "first_start": "Kamis, 8 Oktober 2026 pukul 06.53.01",
+      "last_start": "Kamis, 8 Oktober 2026 pukul 06.53.01",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21256,7 +21266,7 @@
     }
   ],
   "total_start": 5532,
-  "total_users": 2098,
+  "total_users": 2099,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
