@@ -20949,6 +20949,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8641699088",
+      "username": "@JastagDm",
+      "name": "Jastag Dm [ Bentar lagi Pensi ]",
+      "first_start": "Rabu, 7 Oktober 2026 pukul 23.16.03",
+      "last_start": "Rabu, 7 Oktober 2026 pukul 23.16.03",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21226,7 +21236,7 @@
     }
   ],
   "total_start": 5530,
-  "total_users": 2095,
+  "total_users": 2096,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
