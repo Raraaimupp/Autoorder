@@ -20859,6 +20859,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8497242151",
+      "username": "@rimurunewera",
+      "name": "𝙧𝙞𝙢𝙪𝙧𝙪 𝙣𝙚𝙬 𝗻𝗼 𝗳𝗲𝗸 𝗳𝗲𝗸",
+      "first_start": "Rabu, 7 Oktober 2026 pukul 12.11.02",
+      "last_start": "Rabu, 7 Oktober 2026 pukul 12.11.02",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21088,7 +21098,7 @@
     }
   ],
   "total_start": 5527,
-  "total_users": 2086,
+  "total_users": 2087,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
