@@ -20969,6 +20969,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "2104935820",
+      "username": "@Rawois",
+      "name": "BALXZ",
+      "first_start": "Kamis, 8 Oktober 2026 pukul 06.17.00",
+      "last_start": "Kamis, 8 Oktober 2026 pukul 06.17.00",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21246,7 +21256,7 @@
     }
   ],
   "total_start": 5532,
-  "total_users": 2097,
+  "total_users": 2098,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
