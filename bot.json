@@ -20477,8 +20477,8 @@
       "first_start": "Senin, 5 Oktober 2026 pukul 07.56.53",
       "last_start": "Senin, 5 Oktober 2026 pukul 07.56.53",
       "total_start": 0,
-      "balance": 0,
-      "balance_updated_at": 0
+      "balance": 2000,
+      "balance_updated_at": 1791361007814
     },
     {
       "id": "8948798639",
@@ -21135,6 +21135,18 @@
       "source": "balance",
       "actor_id": null,
       "at": 1791326236228
+    },
+    {
+      "order_id": "REFUND-PNL17911704326078620923785",
+      "user_id": "8620923785",
+      "delta": 2000,
+      "before": 0,
+      "after": 2000,
+      "reason": "Refund pembatalan sebelum provisioning",
+      "kind": "credit",
+      "source": "bot",
+      "actor_id": null,
+      "at": 1791361007814
     }
   ],
   "total_start": 5528,
