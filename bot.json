@@ -20899,6 +20899,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7888374398",
+      "username": "@dannnzzzn",
+      "name": "何かお手伝いできるこ",
+      "first_start": "Rabu, 7 Oktober 2026 pukul 13.54.30",
+      "last_start": "Rabu, 7 Oktober 2026 pukul 13.54.30",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21128,7 +21138,7 @@
     }
   ],
   "total_start": 5528,
-  "total_users": 2090,
+  "total_users": 2091,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
