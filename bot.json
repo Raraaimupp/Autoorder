@@ -20829,6 +20829,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6359120282",
+      "username": "@noisy02",
+      "name": "ησιѕу [LONG BREAK]",
+      "first_start": "Rabu, 7 Oktober 2026 pukul 11.03.04",
+      "last_start": "Rabu, 7 Oktober 2026 pukul 11.03.05",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21057,8 +21067,8 @@
       "at": 1791326236228
     }
   ],
-  "total_start": 5525,
-  "total_users": 2083,
+  "total_start": 5526,
+  "total_users": 2084,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
