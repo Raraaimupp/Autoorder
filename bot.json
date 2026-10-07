@@ -20929,6 +20929,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7533923825",
+      "username": "@yoshtacuy",
+      "name": "𝚈𝙾𝚂𝙷𝚃𝙰ツ",
+      "first_start": "Rabu, 7 Oktober 2026 pukul 18.51.22",
+      "last_start": "Rabu, 7 Oktober 2026 pukul 18.51.22",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21206,7 +21216,7 @@
     }
   ],
   "total_start": 5529,
-  "total_users": 2093,
+  "total_users": 2094,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
