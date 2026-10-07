@@ -20909,6 +20909,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8741118404",
+      "username": "@milz124",
+      "name": "𝑍𝑧𝑍 ℤ𝕒𝕟𝕥𝕒𝕏 #Välrène",
+      "first_start": "Rabu, 7 Oktober 2026 pukul 16.41.26",
+      "last_start": "Rabu, 7 Oktober 2026 pukul 16.41.26",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21174,7 +21184,7 @@
     }
   ],
   "total_start": 5528,
-  "total_users": 2091,
+  "total_users": 2092,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
