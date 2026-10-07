@@ -20809,6 +20809,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1254235049",
+      "username": "@Ceoptlocange",
+      "name": "Admin PT.locange T7",
+      "first_start": "Rabu, 7 Oktober 2026 pukul 09.07.08",
+      "last_start": "Rabu, 7 Oktober 2026 pukul 09.07.08",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21038,7 +21048,7 @@
     }
   ],
   "total_start": 5525,
-  "total_users": 2081,
+  "total_users": 2082,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
