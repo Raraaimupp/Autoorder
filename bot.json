@@ -20919,6 +20919,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8418222745",
+      "username": "@GlizzyAcc1",
+      "name": "𝐆𝐥𝐢𝐳𝐳𝐲 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍.",
+      "first_start": "Rabu, 7 Oktober 2026 pukul 17.53.33",
+      "last_start": "Rabu, 7 Oktober 2026 pukul 17.53.33",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21184,7 +21194,7 @@
     }
   ],
   "total_start": 5529,
-  "total_users": 2092,
+  "total_users": 2093,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
