@@ -20989,6 +20989,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8912292657",
+      "username": "@Spacexlenz",
+      "name": "Pembenci🀄",
+      "first_start": "Kamis, 8 Oktober 2026 pukul 06.57.42",
+      "last_start": "Kamis, 8 Oktober 2026 pukul 06.57.55",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21265,8 +21275,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5532,
-  "total_users": 2099,
+  "total_start": 5533,
+  "total_users": 2100,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
