@@ -21069,6 +21069,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8546987435",
+      "username": "@lianzz1238",
+      "name": "Lianz",
+      "first_start": "Kamis, 8 Oktober 2026 pukul 18.43.55",
+      "last_start": "Kamis, 8 Oktober 2026 pukul 18.43.55",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21346,7 +21356,7 @@
     }
   ],
   "total_start": 5533,
-  "total_users": 2107,
+  "total_users": 2108,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
