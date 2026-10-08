@@ -21049,6 +21049,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8963737418",
+      "username": "@Mernamel",
+      "name": "Chaa Bapuy🕊️",
+      "first_start": "Kamis, 8 Oktober 2026 pukul 15.33.55",
+      "last_start": "Kamis, 8 Oktober 2026 pukul 15.33.55",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21326,7 +21336,7 @@
     }
   ],
   "total_start": 5533,
-  "total_users": 2105,
+  "total_users": 2106,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
