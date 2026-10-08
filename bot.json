@@ -20999,6 +20999,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8690770907",
+      "username": "@famousgirl007",
+      "name": "_ᡣ𐭩𝐙𝐀𝐈𝐍𝐀𝐁",
+      "first_start": "Kamis, 8 Oktober 2026 pukul 09.51.50",
+      "last_start": "Kamis, 8 Oktober 2026 pukul 09.51.50",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21276,7 +21286,7 @@
     }
   ],
   "total_start": 5533,
-  "total_users": 2100,
+  "total_users": 2101,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
