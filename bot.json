@@ -21089,6 +21089,106 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7458178825",
+      "username": "@Hamdi_aja_lah",
+      "name": "Muhammad Hamdi",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 08.39.46",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 08.39.46",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "7095404329",
+      "username": "@Zaydenid",
+      "name": "𝖁𝕰𝕷𝕴𝕺𝕹",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 09.32.38",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 09.43.59",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "8957694723",
+      "username": "@HanxzXVC",
+      "name": "Afiq T",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 10.06.48",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 10.06.48",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "8758390623",
+      "username": "@XstarViles3",
+      "name": "Xstar Vilestà (¢)🪬",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 10.22.04",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 10.53.20",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "8949333664",
+      "username": "Tidak ada",
+      "name": "hammm Ibra",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 10.22.19",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 10.22.19",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "7136548184",
+      "username": "@bilzycsts",
+      "name": "B!lzyell",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 10.23.31",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 10.23.31",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "7930328757",
+      "username": "@AnoxCaesar",
+      "name": "Bg Ajiz ( Slow Respon )",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 10.25.00",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 10.25.00",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "8707293483",
+      "username": "Tidak ada",
+      "name": "~",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 10.28.43",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 10.28.43",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "1555163315",
+      "username": "@FOOXXZ",
+      "name": "Ꮰ'/𝘇𝗶𝗽𝗲𝗿 - #legends166",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 10.35.48",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 10.35.48",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "8104605804",
+      "username": "@NullHandsome",
+      "name": "𝗿𝟰𝗽𝘇𝘅𝗹!ē𝗲",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 11.12.08",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 11.12.14",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21365,8 +21465,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5533,
-  "total_users": 2109,
+  "total_start": 5539,
+  "total_users": 2119,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
