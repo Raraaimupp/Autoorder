@@ -21239,6 +21239,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8665886639",
+      "username": "@asyacantikx",
+      "name": "4sya || ⁹⁷⁹𝖌𝖔𝖑𝖉𝖗𝖊𝖛𝖊𝖙𝖍𝖊𝖗𝖔𝖒𝖆𝖓𝖈𝖊",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 17.22.03",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 17.22.03",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21516,7 +21526,7 @@
     }
   ],
   "total_start": 5540,
-  "total_users": 2124,
+  "total_users": 2125,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
