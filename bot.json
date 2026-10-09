@@ -21259,6 +21259,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1878790371",
+      "username": "@slamet_store",
+      "name": "SLAMET STORE",
+      "first_start": "Sabtu, 10 Oktober 2026 pukul 00.58.07",
+      "last_start": "Sabtu, 10 Oktober 2026 pukul 00.58.07",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21536,7 +21546,7 @@
     }
   ],
   "total_start": 5540,
-  "total_users": 2126,
+  "total_users": 2127,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
