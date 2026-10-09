@@ -21199,6 +21199,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8307961005",
+      "username": "@Tariqxasad424",
+      "name": "TARIQ X ASAD HACKER 💀🚩 TARIQ X ASAD HACKER 💀🚩",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 11.47.55",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 11.47.55",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21476,7 +21486,7 @@
     }
   ],
   "total_start": 5539,
-  "total_users": 2120,
+  "total_users": 2121,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
