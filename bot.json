@@ -21279,6 +21279,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "835594734",
+      "username": "@gorn_id",
+      "name": "𝗚𝐎𝐑𝐍",
+      "first_start": "Sabtu, 10 Oktober 2026 pukul 05.27.10",
+      "last_start": "Sabtu, 10 Oktober 2026 pukul 05.27.10",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21556,7 +21566,7 @@
     }
   ],
   "total_start": 5541,
-  "total_users": 2128,
+  "total_users": 2129,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
