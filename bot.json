@@ -21249,6 +21249,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8793891231",
+      "username": "@devhedronila_killer",
+      "name": "𝑫𝑬𝑽🥶 🥰𝑯𝑬𝑫𝑹𝑶𝑵𝑰𝑳𝑨🖤",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 19.35.58",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 19.35.58",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21526,7 +21536,7 @@
     }
   ],
   "total_start": 5540,
-  "total_users": 2125,
+  "total_users": 2126,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
