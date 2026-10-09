@@ -21189,6 +21189,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1698988302",
+      "username": "@crewdies",
+      "name": "( δ ) XKùzè ☘︎ 81%",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 11.42.22",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 11.42.22",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21466,7 +21476,7 @@
     }
   ],
   "total_start": 5539,
-  "total_users": 2119,
+  "total_users": 2120,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
