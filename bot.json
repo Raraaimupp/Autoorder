@@ -21219,6 +21219,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1417277956",
+      "username": "@ZIDHANX7",
+      "name": "ZIDHANX7 #𝗪𝗜𝗡𝗧𝗘𝗥 #𝐀𝐭𝐝𝐁❂𝐘𝐒 ❄️",
+      "first_start": "Jumat, 9 Oktober 2026 pukul 12.49.47",
+      "last_start": "Jumat, 9 Oktober 2026 pukul 12.49.47",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21496,7 +21506,7 @@
     }
   ],
   "total_start": 5539,
-  "total_users": 2122,
+  "total_users": 2123,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
