@@ -21299,6 +21299,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7191629595",
+      "username": "@ci6279",
+      "name": "ci",
+      "first_start": "Sabtu, 10 Oktober 2026 pukul 17.13.22",
+      "last_start": "Sabtu, 10 Oktober 2026 pukul 17.13.23",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21575,8 +21585,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5542,
-  "total_users": 2130,
+  "total_start": 5543,
+  "total_users": 2131,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
