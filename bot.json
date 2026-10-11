@@ -21389,6 +21389,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6984979884",
+      "username": "@itxtalhaking45",
+      "name": "༒͢ 𝐈𝐓𝐗 𝐓𝐀𝐋𝐇𝐀 𝐊𝐈𝐍𝐆",
+      "first_start": "Minggu, 11 Oktober 2026 pukul 16.42.00",
+      "last_start": "Minggu, 11 Oktober 2026 pukul 16.42.01",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21665,8 +21675,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5549,
-  "total_users": 2139,
+  "total_start": 5550,
+  "total_users": 2140,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
