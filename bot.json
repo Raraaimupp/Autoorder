@@ -21429,6 +21429,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8982206697",
+      "username": "@yanzz0112",
+      "name": "Yanz",
+      "first_start": "Minggu, 11 Oktober 2026 pukul 19.48.47",
+      "last_start": "Minggu, 11 Oktober 2026 pukul 19.48.47",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21706,7 +21716,7 @@
     }
   ],
   "total_start": 5552,
-  "total_users": 2143,
+  "total_users": 2144,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
