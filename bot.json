@@ -21349,6 +21349,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6139543964",
+      "username": "@Ochie_store001",
+      "name": "Holly Shit",
+      "first_start": "Minggu, 11 Oktober 2026 pukul 11.53.39",
+      "last_start": "Minggu, 11 Oktober 2026 pukul 11.53.39",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21625,8 +21635,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5548,
-  "total_users": 2135,
+  "total_start": 5549,
+  "total_users": 2136,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
