@@ -21419,6 +21419,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8659442560",
+      "username": "@hohoditzy1",
+      "name": "Ditzyy",
+      "first_start": "Minggu, 11 Oktober 2026 pukul 18.26.14",
+      "last_start": "Minggu, 11 Oktober 2026 pukul 18.26.16",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21695,8 +21705,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5551,
-  "total_users": 2142,
+  "total_start": 5552,
+  "total_users": 2143,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
