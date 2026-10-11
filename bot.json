@@ -21339,6 +21339,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8960409412",
+      "username": "@jelynn2",
+      "name": "jey",
+      "first_start": "Minggu, 11 Oktober 2026 pukul 09.36.32",
+      "last_start": "Minggu, 11 Oktober 2026 pukul 09.36.34",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21615,8 +21625,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5547,
-  "total_users": 2134,
+  "total_start": 5548,
+  "total_users": 2135,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
