@@ -21409,6 +21409,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6206591463",
+      "username": "@anugrw",
+      "name": "anugrah",
+      "first_start": "Minggu, 11 Oktober 2026 pukul 17.58.11",
+      "last_start": "Minggu, 11 Oktober 2026 pukul 17.58.21",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21686,7 +21696,7 @@
     }
   ],
   "total_start": 5551,
-  "total_users": 2141,
+  "total_users": 2142,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
