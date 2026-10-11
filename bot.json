@@ -21399,6 +21399,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8759780072",
+      "username": "@dapi177",
+      "name": "dapii",
+      "first_start": "Minggu, 11 Oktober 2026 pukul 16.46.36",
+      "last_start": "Minggu, 11 Oktober 2026 pukul 16.46.37",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21675,8 +21685,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5550,
-  "total_users": 2140,
+  "total_start": 5551,
+  "total_users": 2141,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
