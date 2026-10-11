@@ -21359,6 +21359,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8694971743",
+      "username": "@Diamlahhhhh0",
+      "name": "kingmu",
+      "first_start": "Minggu, 11 Oktober 2026 pukul 12.11.18",
+      "last_start": "Minggu, 11 Oktober 2026 pukul 12.11.18",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21636,7 +21646,7 @@
     }
   ],
   "total_start": 5549,
-  "total_users": 2136,
+  "total_users": 2137,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
