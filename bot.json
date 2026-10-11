@@ -21379,6 +21379,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8536128053",
+      "username": "@nulangdra08",
+      "name": "Lazura Store",
+      "first_start": "Minggu, 11 Oktober 2026 pukul 16.07.21",
+      "last_start": "Minggu, 11 Oktober 2026 pukul 16.07.21",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21656,7 +21666,7 @@
     }
   ],
   "total_start": 5549,
-  "total_users": 2138,
+  "total_users": 2139,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
