@@ -21569,6 +21569,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8343977385",
+      "username": "@DxRex112",
+      "name": "𝖄𝖚𝖓𝖓𝖆 ❨ ᵀ𝑿 · 𝟶𝟺 ❩",
+      "first_start": "Senin, 12 Oktober 2026 pukul 20.49.43",
+      "last_start": "Senin, 12 Oktober 2026 pukul 20.49.44",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21869,8 +21879,8 @@
       "at": 1791800311996
     }
   ],
-  "total_start": 5560,
-  "total_users": 2157,
+  "total_start": 5561,
+  "total_users": 2158,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
