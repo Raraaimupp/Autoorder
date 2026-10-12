@@ -21539,6 +21539,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8927977422",
+      "username": "@LeonSkyz002",
+      "name": "</> 𝒆𝒙𝒆.𝐋𝐞𝐨𝐧⛦",
+      "first_start": "Senin, 12 Oktober 2026 pukul 18.42.24",
+      "last_start": "Senin, 12 Oktober 2026 pukul 18.42.24",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21840,7 +21850,7 @@
     }
   ],
   "total_start": 5558,
-  "total_users": 2154,
+  "total_users": 2155,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
