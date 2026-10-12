@@ -21579,6 +21579,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8561505612",
+      "username": "@Yourkyu",
+      "name": "Your ex",
+      "first_start": "Senin, 12 Oktober 2026 pukul 21.07.07",
+      "last_start": "Senin, 12 Oktober 2026 pukul 21.07.07",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21880,7 +21890,7 @@
     }
   ],
   "total_start": 5561,
-  "total_users": 2158,
+  "total_users": 2159,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
