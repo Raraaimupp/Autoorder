@@ -21489,6 +21489,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8638332377",
+      "username": "@Yapitlowhama",
+      "name": "𝘈𝘙𝘡𝘡 𝘊𝘓𝘖𝘜𝘋",
+      "first_start": "Senin, 12 Oktober 2026 pukul 13.20.21",
+      "last_start": "Senin, 12 Oktober 2026 pukul 13.20.22",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21765,8 +21775,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5554,
-  "total_users": 2149,
+  "total_start": 5555,
+  "total_users": 2150,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
