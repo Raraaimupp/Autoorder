@@ -21469,6 +21469,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8888109638",
+      "username": "Tidak ada",
+      "name": "bedboys",
+      "first_start": "Senin, 12 Oktober 2026 pukul 10.18.39",
+      "last_start": "Senin, 12 Oktober 2026 pukul 10.18.39",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21746,7 +21756,7 @@
     }
   ],
   "total_start": 5553,
-  "total_users": 2147,
+  "total_users": 2148,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
