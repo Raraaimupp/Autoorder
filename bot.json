@@ -21559,6 +21559,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8020024781",
+      "username": "@milzzofficialstore",
+      "name": "Milzz Official store",
+      "first_start": "Senin, 12 Oktober 2026 pukul 20.47.55",
+      "last_start": "Senin, 12 Oktober 2026 pukul 20.47.56",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21859,8 +21869,8 @@
       "at": 1791800311996
     }
   ],
-  "total_start": 5559,
-  "total_users": 2156,
+  "total_start": 5560,
+  "total_users": 2157,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
