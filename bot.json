@@ -21459,6 +21459,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1814157380",
+      "username": "@key270811",
+      "name": "KEY│STR (⩇⩇:⩇⩇)'n [REHAT]",
+      "first_start": "Senin, 12 Oktober 2026 pukul 08.15.34",
+      "last_start": "Senin, 12 Oktober 2026 pukul 08.15.34",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21735,8 +21745,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5552,
-  "total_users": 2146,
+  "total_start": 5553,
+  "total_users": 2147,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
