@@ -21509,6 +21509,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8859497242",
+      "username": "@Ridzz013",
+      "name": "- 𝚁𝚒𝚍𝚣𝚣 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕",
+      "first_start": "Senin, 12 Oktober 2026 pukul 16.17.12",
+      "last_start": "Senin, 12 Oktober 2026 pukul 16.17.13",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21785,8 +21795,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5555,
-  "total_users": 2151,
+  "total_start": 5556,
+  "total_users": 2152,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
