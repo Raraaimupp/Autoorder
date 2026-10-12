@@ -21479,6 +21479,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1394538262",
+      "username": "@Tzybebas",
+      "name": "Tzy (00:00)",
+      "first_start": "Senin, 12 Oktober 2026 pukul 11.24.05",
+      "last_start": "Senin, 12 Oktober 2026 pukul 11.24.06",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21755,8 +21765,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5553,
-  "total_users": 2148,
+  "total_start": 5554,
+  "total_users": 2149,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
