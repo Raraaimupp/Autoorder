@@ -21589,6 +21589,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8903502633",
+      "username": "@vgggghbbbb",
+      "name": ".",
+      "first_start": "Selasa, 13 Oktober 2026 pukul 01.53.57",
+      "last_start": "Selasa, 13 Oktober 2026 pukul 01.54.06",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21889,8 +21899,8 @@
       "at": 1791800311996
     }
   ],
-  "total_start": 5561,
-  "total_users": 2159,
+  "total_start": 5562,
+  "total_users": 2160,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
