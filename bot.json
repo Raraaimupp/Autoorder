@@ -21529,6 +21529,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7816590821",
+      "username": "@RenxzySukaMemek",
+      "name": "⏤͟͟͟͟͞͞͞ 티끌𝐑𝐞𝐧𝐳𝐱𝐭𝐳𝐲 𝐂𝐫𝐚𝐳𝐲 〔𝐍𝐎𝐌𝐄𝐑𝐂𝐘〕",
+      "first_start": "Senin, 12 Oktober 2026 pukul 16.59.13",
+      "last_start": "Senin, 12 Oktober 2026 pukul 16.59.14",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21805,8 +21815,8 @@
       "at": 1791371253499
     }
   ],
-  "total_start": 5556,
-  "total_users": 2153,
+  "total_start": 5557,
+  "total_users": 2154,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
