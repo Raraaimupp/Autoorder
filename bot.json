@@ -21609,6 +21609,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8645198982",
+      "username": "@zall_Ganteng",
+      "name": "𝐑 𝐕 𝐓 𝟕 𝐈𝐙𝐀𝐋𝐋 || 𝗔𝗟𝗟 𝗠𝗔𝗥𝗚𝗔 & 𝗞𝗨𝗗𝗘𝗧𝗔",
+      "first_start": "Rabu, 14 Oktober 2026 pukul 05.16.50",
+      "last_start": "Rabu, 14 Oktober 2026 pukul 05.16.50",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21910,7 +21920,7 @@
     }
   ],
   "total_start": 5564,
-  "total_users": 2161,
+  "total_users": 2162,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
