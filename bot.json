@@ -21649,6 +21649,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1432962447",
+      "username": "@Farrel_705",
+      "name": "𝟕𝟎𝟓 </𝗙𝗔𝗥𝗥𝗘𝗟 𝐌ⱺᑯƶ",
+      "first_start": "Rabu, 14 Oktober 2026 pukul 21.24.29",
+      "last_start": "Rabu, 14 Oktober 2026 pukul 21.24.30",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21949,8 +21959,8 @@
       "at": 1791800311996
     }
   ],
-  "total_start": 5565,
-  "total_users": 2165,
+  "total_start": 5566,
+  "total_users": 2166,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
