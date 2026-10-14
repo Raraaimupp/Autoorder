@@ -21639,6 +21639,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7777586690",
+      "username": "@Yanxzstore",
+      "name": "Ananda Favian",
+      "first_start": "Rabu, 14 Oktober 2026 pukul 20.34.49",
+      "last_start": "Rabu, 14 Oktober 2026 pukul 20.34.49",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21940,7 +21950,7 @@
     }
   ],
   "total_start": 5565,
-  "total_users": 2164,
+  "total_users": 2165,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
