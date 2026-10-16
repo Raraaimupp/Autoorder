@@ -21689,6 +21689,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1607477243",
+      "username": "@Bguss4",
+      "name": "вgυѕѕ",
+      "first_start": "Jumat, 16 Oktober 2026 pukul 07.08.00",
+      "last_start": "Jumat, 16 Oktober 2026 pukul 07.08.10",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -21990,7 +22000,7 @@
     }
   ],
   "total_start": 5570,
-  "total_users": 2169,
+  "total_users": 2170,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
