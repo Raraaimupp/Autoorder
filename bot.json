@@ -21719,6 +21719,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6271192105",
+      "username": "@jbditzxyreal",
+      "name": "DitzxyVortex 92727",
+      "first_start": "Sabtu, 17 Oktober 2026 pukul 21.07.36",
+      "last_start": "Sabtu, 17 Oktober 2026 pukul 21.07.36",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22032,7 +22042,7 @@
     }
   ],
   "total_start": 5573,
-  "total_users": 2172,
+  "total_users": 2173,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
