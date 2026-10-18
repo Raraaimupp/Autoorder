@@ -21739,6 +21739,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6832894682",
+      "username": "@freaklilbad",
+      "name": "𝙳𝙸𝙰𝚆𝚆.𝙳𝙴𝚅",
+      "first_start": "Minggu, 18 Oktober 2026 pukul 14.25.01",
+      "last_start": "Minggu, 18 Oktober 2026 pukul 14.25.01",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22052,7 +22062,7 @@
     }
   ],
   "total_start": 5573,
-  "total_users": 2174,
+  "total_users": 2175,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
