@@ -21749,6 +21749,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7826648200",
+      "username": "@R4ELXoffical",
+      "name": "𝙎𝙏𝘼𝙍𝘝𝘪𝘻𝘻",
+      "first_start": "Minggu, 18 Oktober 2026 pukul 14.37.57",
+      "last_start": "Minggu, 18 Oktober 2026 pukul 14.37.57",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22062,7 +22072,7 @@
     }
   ],
   "total_start": 5573,
-  "total_users": 2175,
+  "total_users": 2176,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
