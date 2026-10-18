@@ -21759,6 +21759,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6105600799",
+      "username": "@KyySTRR",
+      "name": "V̸̛̛̔͂̆͌̒̅̒͐̌͂̑̾͛̏͒̓͛̀̍͌̐̈́̑̀́̂͠͝͠ ̛̛͌͑̃̃̉̑́̋́͐̽͂́͊̀͗͋͒̈́̂̓͆̚͘̕̚̚͝ V̸̛̛̔͂̆͌̒̅̒͐̌͂̑̾͛̏͒̓͛̀̍͌̐̈́̑̀́̂͠͝͠ ̛̛͌͑̃̃̉̑́̋́͐̽͂́͊̀͗͋͒̈́̂̓͆̚͘̕̚̚͝",
+      "first_start": "Minggu, 18 Oktober 2026 pukul 18.05.25",
+      "last_start": "Minggu, 18 Oktober 2026 pukul 18.05.26",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22095,8 +22105,8 @@
       "at": 1792314262285
     }
   ],
-  "total_start": 5573,
-  "total_users": 2176,
+  "total_start": 5574,
+  "total_users": 2177,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
