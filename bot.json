@@ -21929,6 +21929,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8939651842",
+      "username": "@mahesaee",
+      "name": "제시카",
+      "first_start": "Rabu, 21 Oktober 2026 pukul 04.08.23",
+      "last_start": "Rabu, 21 Oktober 2026 pukul 04.08.23",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22290,7 +22300,7 @@
     }
   ],
   "total_start": 5578,
-  "total_users": 2193,
+  "total_users": 2194,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
