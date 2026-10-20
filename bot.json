@@ -21959,6 +21959,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8825792749",
+      "username": "@ddnanacv2",
+      "name": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ.",
+      "first_start": "Rabu, 21 Oktober 2026 pukul 06.25.53",
+      "last_start": "Rabu, 21 Oktober 2026 pukul 06.25.54",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22319,8 +22329,8 @@
       "at": 1792485145599
     }
   ],
-  "total_start": 5579,
-  "total_users": 2196,
+  "total_start": 5580,
+  "total_users": 2197,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
