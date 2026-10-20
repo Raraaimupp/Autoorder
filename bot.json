@@ -21779,6 +21779,46 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6161620161",
+      "username": "@KultivatorUwUgeneration09",
+      "name": "Rolland N.E",
+      "first_start": "Selasa, 20 Oktober 2026 pukul 14.48.51",
+      "last_start": "Selasa, 20 Oktober 2026 pukul 14.48.52",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "7008759670",
+      "username": "@RAJA_nokos",
+      "name": "Febz Store",
+      "first_start": "Selasa, 20 Oktober 2026 pukul 14.49.14",
+      "last_start": "Selasa, 20 Oktober 2026 pukul 14.49.14",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "8957885061",
+      "username": "Tidak ada",
+      "name": "KYZX STORE",
+      "first_start": "Selasa, 20 Oktober 2026 pukul 14.49.14",
+      "last_start": "Selasa, 20 Oktober 2026 pukul 14.49.14",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "8555758308",
+      "username": "@GroupIB_Support54",
+      "name": "Support Group IB",
+      "first_start": "Selasa, 20 Oktober 2026 pukul 14.49.16",
+      "last_start": "Selasa, 20 Oktober 2026 pukul 14.49.16",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22115,8 +22155,8 @@
       "at": 1792314262285
     }
   ],
-  "total_start": 5575,
-  "total_users": 2178,
+  "total_start": 5576,
+  "total_users": 2182,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
