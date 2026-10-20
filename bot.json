@@ -21919,6 +21919,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8630758920",
+      "username": "@DOCTORSONU",
+      "name": "DOCTOR SONU DOCTOR SONU",
+      "first_start": "Rabu, 21 Oktober 2026 pukul 02.24.15",
+      "last_start": "Rabu, 21 Oktober 2026 pukul 02.24.15",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22280,7 +22290,7 @@
     }
   ],
   "total_start": 5578,
-  "total_users": 2192,
+  "total_users": 2193,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
