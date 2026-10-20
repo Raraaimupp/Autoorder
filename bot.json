@@ -21889,6 +21889,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8631897197",
+      "username": "@yusufgg10",
+      "name": "gak ada",
+      "first_start": "Selasa, 20 Oktober 2026 pukul 16.24.34",
+      "last_start": "Selasa, 20 Oktober 2026 pukul 16.24.34",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22250,7 +22260,7 @@
     }
   ],
   "total_start": 5577,
-  "total_users": 2189,
+  "total_users": 2190,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
