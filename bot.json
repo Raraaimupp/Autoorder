@@ -3277,8 +3277,8 @@
       "first_start": "Minggu, 3 Mei 2026 pukul 14.14.24",
       "last_start": "Kamis, 24 September 2026 pukul 14.13.19",
       "total_start": 2,
-      "balance": 7000,
-      "balance_updated_at": 1792484868741
+      "balance": 0,
+      "balance_updated_at": 1792485145599
     },
     {
       "id": "7176460743",
@@ -22205,6 +22205,18 @@
       "source": "owner",
       "actor_id": "12233551",
       "at": 1792484868741
+    },
+    {
+      "order_id": "PPJ17924851453187151693492",
+      "user_id": "7151693492",
+      "delta": -7000,
+      "before": 7000,
+      "after": 0,
+      "reason": "Perpanjang valziano 7 Hari",
+      "kind": "purchase",
+      "source": "balance",
+      "actor_id": null,
+      "at": 1792485145599
     }
   ],
   "total_start": 5577,
