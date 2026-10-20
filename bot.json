@@ -21909,6 +21909,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1734218881",
+      "username": "@luyatimjing",
+      "name": "𝐑𝐔𝐒𝐙 || ™𝐀𝐎𝐃 [ php = blok ]",
+      "first_start": "Selasa, 20 Oktober 2026 pukul 23.19.19",
+      "last_start": "Selasa, 20 Oktober 2026 pukul 23.19.19",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22270,7 +22280,7 @@
     }
   ],
   "total_start": 5578,
-  "total_users": 2191,
+  "total_users": 2192,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
