@@ -21879,6 +21879,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8709781915",
+      "username": "@kye4you",
+      "name": "☥𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝑲𝒚𝒆𝒆",
+      "first_start": "Selasa, 20 Oktober 2026 pukul 16.14.23",
+      "last_start": "Selasa, 20 Oktober 2026 pukul 16.14.23",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22240,7 +22250,7 @@
     }
   ],
   "total_start": 5577,
-  "total_users": 2188,
+  "total_users": 2189,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
