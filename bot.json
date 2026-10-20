@@ -21969,6 +21969,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8500335794",
+      "username": "@cilll_cutee",
+      "name": "⏤͟͟͞͞𝐗𝟏𝐍 || °•junn°•-𐙚 #𝟗𝟖𝟐",
+      "first_start": "Rabu, 21 Oktober 2026 pukul 06.54.54",
+      "last_start": "Rabu, 21 Oktober 2026 pukul 06.54.55",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22329,8 +22339,8 @@
       "at": 1792485145599
     }
   ],
-  "total_start": 5580,
-  "total_users": 2197,
+  "total_start": 5581,
+  "total_users": 2198,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
