@@ -21949,6 +21949,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8484020775",
+      "username": "Tidak ada",
+      "name": "Kyubi Store",
+      "first_start": "Rabu, 21 Oktober 2026 pukul 06.23.20",
+      "last_start": "Rabu, 21 Oktober 2026 pukul 06.23.20",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22310,7 +22320,7 @@
     }
   ],
   "total_start": 5579,
-  "total_users": 2195,
+  "total_users": 2196,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
