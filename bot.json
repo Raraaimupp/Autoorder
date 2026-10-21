@@ -22049,6 +22049,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1008821651",
+      "username": "@Ressgwanteng",
+      "name": "𝑹𝑬𝑺𝑺 [PEMULA]",
+      "first_start": "Rabu, 21 Oktober 2026 pukul 21.46.59",
+      "last_start": "Rabu, 21 Oktober 2026 pukul 21.46.59",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22434,7 +22444,7 @@
     }
   ],
   "total_start": 5598,
-  "total_users": 2205,
+  "total_users": 2206,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
