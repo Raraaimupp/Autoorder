@@ -21989,6 +21989,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7537566761",
+      "username": "@vaelkw",
+      "name": "᠌",
+      "first_start": "Rabu, 21 Oktober 2026 pukul 09.17.09",
+      "last_start": "Rabu, 21 Oktober 2026 pukul 09.17.09",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22350,7 +22360,7 @@
     }
   ],
   "total_start": 5581,
-  "total_users": 2199,
+  "total_users": 2200,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
