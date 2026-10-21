@@ -22009,6 +22009,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8755668234",
+      "username": "@IbuluTewas",
+      "name": "𝗠𝗔𝗥𝗩𝗘𝗟'𝗦",
+      "first_start": "Rabu, 21 Oktober 2026 pukul 15.54.00",
+      "last_start": "Rabu, 21 Oktober 2026 pukul 15.54.00",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22370,7 +22380,7 @@
     }
   ],
   "total_start": 5582,
-  "total_users": 2201,
+  "total_users": 2202,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
