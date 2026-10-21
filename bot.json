@@ -21979,6 +21979,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8317895622",
+      "username": "@ptrksyln",
+      "name": "ncaacy",
+      "first_start": "Rabu, 21 Oktober 2026 pukul 09.11.48",
+      "last_start": "Rabu, 21 Oktober 2026 pukul 09.11.48",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22340,7 +22350,7 @@
     }
   ],
   "total_start": 5581,
-  "total_users": 2198,
+  "total_users": 2199,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
