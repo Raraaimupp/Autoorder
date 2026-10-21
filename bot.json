@@ -22029,6 +22029,16 @@
       "total_start": 0,
       "balance": 5000,
       "balance_updated_at": 1792582934095
+    },
+    {
+      "id": "2137788381",
+      "username": "@Infei",
+      "name": "gav lv anet",
+      "first_start": "Rabu, 21 Oktober 2026 pukul 18.46.41",
+      "last_start": "Rabu, 21 Oktober 2026 pukul 18.46.41",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22402,7 +22412,7 @@
     }
   ],
   "total_start": 5584,
-  "total_users": 2203,
+  "total_users": 2204,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
