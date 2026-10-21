@@ -21999,6 +21999,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "5507805239",
+      "username": "@kiTaxtO",
+      "name": "al",
+      "first_start": "Rabu, 21 Oktober 2026 pukul 11.21.19",
+      "last_start": "Rabu, 21 Oktober 2026 pukul 11.21.19",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22360,7 +22370,7 @@
     }
   ],
   "total_start": 5581,
-  "total_users": 2200,
+  "total_users": 2201,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
