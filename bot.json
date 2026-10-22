@@ -22149,6 +22149,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7999111172",
+      "username": "@RihhSturr",
+      "name": "#𝐑𝐢𝐡𝐡𝐍𝐞𝐰𝐄𝐫𝐚`[1]",
+      "first_start": "Kamis, 22 Oktober 2026 pukul 09.41.27",
+      "last_start": "Kamis, 22 Oktober 2026 pukul 09.41.35",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22533,8 +22543,8 @@
       "at": 1792583607395
     }
   ],
-  "total_start": 5599,
-  "total_users": 2215,
+  "total_start": 5600,
+  "total_users": 2216,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
