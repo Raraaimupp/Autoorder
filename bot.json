@@ -22259,6 +22259,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7443330463",
+      "username": "@mhmmdsyabana",
+      "name": "sennn",
+      "first_start": "Kamis, 22 Oktober 2026 pukul 20.58.59",
+      "last_start": "Kamis, 22 Oktober 2026 pukul 20.59.00",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22739,8 +22749,8 @@
       "at": 1792670367876
     }
   ],
-  "total_start": 5601,
-  "total_users": 2226,
+  "total_start": 5602,
+  "total_users": 2227,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
