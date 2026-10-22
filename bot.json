@@ -22189,6 +22189,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1121199282",
+      "username": "@BizxxNotDev2",
+      "name": "BizxxNotDev",
+      "first_start": "Kamis, 22 Oktober 2026 pukul 16.05.06",
+      "last_start": "Kamis, 22 Oktober 2026 pukul 16.05.06",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22586,7 +22596,7 @@
     }
   ],
   "total_start": 5601,
-  "total_users": 2219,
+  "total_users": 2220,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
