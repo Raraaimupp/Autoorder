@@ -22239,6 +22239,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6950213865",
+      "username": "@RanzOffc",
+      "name": "Ranz",
+      "first_start": "Kamis, 22 Oktober 2026 pukul 17.43.11",
+      "last_start": "Kamis, 22 Oktober 2026 pukul 17.43.11",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22672,7 +22682,7 @@
     }
   ],
   "total_start": 5601,
-  "total_users": 2224,
+  "total_users": 2225,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
