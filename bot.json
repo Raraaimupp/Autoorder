@@ -21987,8 +21987,8 @@
       "first_start": "Rabu, 21 Oktober 2026 pukul 09.11.48",
       "last_start": "Rabu, 21 Oktober 2026 pukul 09.11.48",
       "total_start": 0,
-      "balance": 1000,
-      "balance_updated_at": 1792663526795
+      "balance": 200,
+      "balance_updated_at": 1792663808935
     },
     {
       "id": "7537566761",
@@ -22637,6 +22637,18 @@
       "source": "poll:v2-status",
       "actor_id": null,
       "at": 1792663526795
+    },
+    {
+      "order_id": "PNL17926638075808317895622",
+      "user_id": "8317895622",
+      "delta": -800,
+      "before": 1000,
+      "after": 200,
+      "reason": "Pembelian Panel 2GB 3 Hari",
+      "kind": "purchase",
+      "source": "balance",
+      "actor_id": null,
+      "at": 1792663808935
     }
   ],
   "total_start": 5601,
