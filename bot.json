@@ -1147,8 +1147,8 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 17.04.34",
       "last_start": "Rabu, 5 Agustus 2026 pukul 22.59.21",
       "total_start": 5,
-      "balance": 50000,
-      "balance_updated_at": 1791363148672
+      "balance": 35000,
+      "balance_updated_at": 1792659680459
     },
     {
       "id": "7643547637",
@@ -22561,6 +22561,18 @@
       "source": "balance",
       "actor_id": null,
       "at": 1792583607395
+    },
+    {
+      "order_id": "PNL17926596793348445934556",
+      "user_id": "8445934556",
+      "delta": -15000,
+      "before": 50000,
+      "after": 35000,
+      "reason": "Pembelian Panel Unlimited 30 Hari",
+      "kind": "purchase",
+      "source": "balance",
+      "actor_id": null,
+      "at": 1792659680459
     }
   ],
   "total_start": 5601,
