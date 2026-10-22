@@ -22279,6 +22279,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8608161937",
+      "username": "Tidak ada",
+      "name": "ham yayaya",
+      "first_start": "Jumat, 23 Oktober 2026 pukul 00.02.50",
+      "last_start": "Jumat, 23 Oktober 2026 pukul 00.02.51",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22759,8 +22769,8 @@
       "at": 1792670367876
     }
   ],
-  "total_start": 5603,
-  "total_users": 2228,
+  "total_start": 5604,
+  "total_users": 2229,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
