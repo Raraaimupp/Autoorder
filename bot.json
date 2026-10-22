@@ -1477,8 +1477,8 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 22.13.18",
       "last_start": "Jumat, 18 September 2026 pukul 22.24.42",
       "total_start": 18,
-      "balance": 0,
-      "balance_updated_at": 0
+      "balance": 3000,
+      "balance_updated_at": 1792669296834
     },
     {
       "id": "1271230294",
@@ -22689,6 +22689,18 @@
       "source": "balance",
       "actor_id": null,
       "at": 1792663808935
+    },
+    {
+      "order_id": "TOP17926692512268186527193",
+      "user_id": "8186527193",
+      "delta": 3000,
+      "before": 0,
+      "after": 3000,
+      "reason": "Top Up QRIS",
+      "kind": "topup",
+      "source": "poll:v2-status",
+      "actor_id": null,
+      "at": 1792669296834
     }
   ],
   "total_start": 5601,
