@@ -22289,6 +22289,16 @@
       "total_start": 1,
       "balance": 200,
       "balance_updated_at": 1792691669316
+    },
+    {
+      "id": "8634150546",
+      "username": "@CHANDio7",
+      "name": "Shahbaz Ali",
+      "first_start": "Jumat, 23 Oktober 2026 pukul 02.43.39",
+      "last_start": "Jumat, 23 Oktober 2026 pukul 02.43.39",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22794,7 +22804,7 @@
     }
   ],
   "total_start": 5604,
-  "total_users": 2229,
+  "total_users": 2230,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
