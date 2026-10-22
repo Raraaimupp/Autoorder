@@ -1477,8 +1477,8 @@
       "first_start": "Jumat, 1 Mei 2026 pukul 22.13.18",
       "last_start": "Jumat, 18 September 2026 pukul 22.24.42",
       "total_start": 18,
-      "balance": 2000,
-      "balance_updated_at": 1792669383706
+      "balance": 3000,
+      "balance_updated_at": 1792669433102
     },
     {
       "id": "1271230294",
@@ -22713,6 +22713,18 @@
       "source": "balance",
       "actor_id": null,
       "at": 1792669383706
+    },
+    {
+      "order_id": "REFUND-PNL17926693824278186527193",
+      "user_id": "8186527193",
+      "delta": 1000,
+      "before": 2000,
+      "after": 3000,
+      "reason": "Refund gagal create Panel 1GB",
+      "kind": "credit",
+      "source": "bot",
+      "actor_id": null,
+      "at": 1792669433102
     }
   ],
   "total_start": 5601,
