@@ -22219,6 +22219,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8579539747",
+      "username": "@PutzzPedia",
+      "name": "็็็็็ 𝕻𝖚𝖙𝖟𝖟 𝕯𝖊𝖛 >_",
+      "first_start": "Kamis, 22 Oktober 2026 pukul 17.23.26",
+      "last_start": "Kamis, 22 Oktober 2026 pukul 17.23.26",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22652,7 +22662,7 @@
     }
   ],
   "total_start": 5601,
-  "total_users": 2222,
+  "total_users": 2223,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
