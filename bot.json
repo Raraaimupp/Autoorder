@@ -22079,6 +22079,26 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8111144219",
+      "username": "@XinszC",
+      "name": "『⏤͟͟͞͞Xinn | Is Here⏤͟͟͞͞』",
+      "first_start": "Kamis, 22 Oktober 2026 pukul 07.05.32",
+      "last_start": "Kamis, 22 Oktober 2026 pukul 07.05.32",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "8708522291",
+      "username": "@divarrian",
+      "name": "div anak baik",
+      "first_start": "Kamis, 22 Oktober 2026 pukul 07.05.35",
+      "last_start": "Kamis, 22 Oktober 2026 pukul 07.05.35",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22464,7 +22484,7 @@
     }
   ],
   "total_start": 5599,
-  "total_users": 2208,
+  "total_users": 2210,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
