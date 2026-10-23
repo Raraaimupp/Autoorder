@@ -22319,6 +22319,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8291639820",
+      "username": "@AkelJOMOK",
+      "name": "akell toge",
+      "first_start": "Jumat, 23 Oktober 2026 pukul 15.27.30",
+      "last_start": "Jumat, 23 Oktober 2026 pukul 15.27.30",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22860,7 +22870,7 @@
     }
   ],
   "total_start": 5604,
-  "total_users": 2232,
+  "total_users": 2233,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
