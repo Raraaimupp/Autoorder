@@ -22369,6 +22369,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7799977562",
+      "username": "@Faridgantengsih",
+      "name": "𝐅𝐚𝐫𝐢𝐝𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥™• 影🇯🇵",
+      "first_start": "Sabtu, 24 Oktober 2026 pukul 20.52.38",
+      "last_start": "Sabtu, 24 Oktober 2026 pukul 20.52.38",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22922,7 +22932,7 @@
     }
   ],
   "total_start": 5606,
-  "total_users": 2237,
+  "total_users": 2238,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
