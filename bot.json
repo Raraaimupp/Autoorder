@@ -22379,6 +22379,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8827437978",
+      "username": "@Guzzstore",
+      "name": "Guzzstore",
+      "first_start": "Sabtu, 24 Oktober 2026 pukul 20.57.58",
+      "last_start": "Sabtu, 24 Oktober 2026 pukul 20.57.59",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22931,8 +22941,8 @@
       "at": 1792831386476
     }
   ],
-  "total_start": 5606,
-  "total_users": 2238,
+  "total_start": 5607,
+  "total_users": 2239,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
