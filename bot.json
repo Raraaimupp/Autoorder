@@ -20397,8 +20397,8 @@
       "first_start": "Minggu, 4 Oktober 2026 pukul 04.31.12",
       "last_start": "Minggu, 4 Oktober 2026 pukul 04.31.13",
       "total_start": 1,
-      "balance": 2000,
-      "balance_updated_at": 1792873936158
+      "balance": 0,
+      "balance_updated_at": 1792874039519
     },
     {
       "id": "8476055167",
@@ -22951,6 +22951,18 @@
       "source": "poll:v2-status",
       "actor_id": null,
       "at": 1792873936158
+    },
+    {
+      "order_id": "PNL17928740379897879200203",
+      "user_id": "7879200203",
+      "delta": -2000,
+      "before": 2000,
+      "after": 0,
+      "reason": "Pembelian Panel 1GB 30 Hari",
+      "kind": "purchase",
+      "source": "balance",
+      "actor_id": null,
+      "at": 1792874039519
     }
   ],
   "total_start": 5607,
