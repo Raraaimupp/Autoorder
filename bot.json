@@ -22359,6 +22359,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8055151130",
+      "username": "@Barrxcodee",
+      "name": "† 𝗕α𝗿𝗿𝘅𝗰𝗼𝗱𝗲 ϟ 𝐏𝐑!𝐌𝟑͟͟͞͞⏤ ♞",
+      "first_start": "Sabtu, 24 Oktober 2026 pukul 10.06.38",
+      "last_start": "Sabtu, 24 Oktober 2026 pukul 10.06.39",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22899,8 +22909,8 @@
       "at": 1792735143442
     }
   ],
-  "total_start": 5605,
-  "total_users": 2236,
+  "total_start": 5606,
+  "total_users": 2237,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
