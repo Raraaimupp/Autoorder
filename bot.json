@@ -22349,6 +22349,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8014640750",
+      "username": "@Rforreno",
+      "name": "Reno",
+      "first_start": "Sabtu, 24 Oktober 2026 pukul 07.16.30",
+      "last_start": "Sabtu, 24 Oktober 2026 pukul 07.16.30",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22890,7 +22900,7 @@
     }
   ],
   "total_start": 5605,
-  "total_users": 2235,
+  "total_users": 2236,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
