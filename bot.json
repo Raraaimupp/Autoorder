@@ -22399,6 +22399,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7571039462",
+      "username": "@danznanooffc",
+      "name": "Danz Nano",
+      "first_start": "Minggu, 25 Oktober 2026 pukul 11.14.42",
+      "last_start": "Minggu, 25 Oktober 2026 pukul 11.14.42",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22976,7 +22986,7 @@
     }
   ],
   "total_start": 5608,
-  "total_users": 2240,
+  "total_users": 2241,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
