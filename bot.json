@@ -22409,6 +22409,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "5342165190",
+      "username": "@zeanutama",
+      "name": "𝐙𝐞𝐚𝐧 || 𝐔𝐭𝐚𝐦𝐚",
+      "first_start": "Minggu, 25 Oktober 2026 pukul 17.40.15",
+      "last_start": "Minggu, 25 Oktober 2026 pukul 17.40.26",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23010,7 +23020,7 @@
     }
   ],
   "total_start": 5608,
-  "total_users": 2241,
+  "total_users": 2242,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
