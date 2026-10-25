@@ -22419,6 +22419,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8134927375",
+      "username": "@renoxz1",
+      "name": "reno",
+      "first_start": "Minggu, 25 Oktober 2026 pukul 18.18.36",
+      "last_start": "Minggu, 25 Oktober 2026 pukul 18.18.36",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23020,7 +23030,7 @@
     }
   ],
   "total_start": 5608,
-  "total_users": 2242,
+  "total_users": 2243,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
