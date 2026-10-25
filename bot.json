@@ -22389,6 +22389,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8866624371",
+      "username": "@OMG4raStoree",
+      "name": "𝐆𝟒𝐫𝐚𝐚𝐒𝐭𝐨𝐫𝐞𝐞! 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥𝐥 [ 𝐒𝐂𝐀𝐌 ]",
+      "first_start": "Minggu, 25 Oktober 2026 pukul 11.13.48",
+      "last_start": "Minggu, 25 Oktober 2026 pukul 11.13.48",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -22966,7 +22976,7 @@
     }
   ],
   "total_start": 5608,
-  "total_users": 2239,
+  "total_users": 2240,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
