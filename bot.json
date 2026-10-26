@@ -22429,6 +22429,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8719551460",
+      "username": "Tidak ada",
+      "name": "Tanzz Zz",
+      "first_start": "Senin, 26 Oktober 2026 pukul 09.06.52",
+      "last_start": "Senin, 26 Oktober 2026 pukul 09.06.52",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23030,7 +23040,7 @@
     }
   ],
   "total_start": 5609,
-  "total_users": 2243,
+  "total_users": 2244,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
