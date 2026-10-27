@@ -22489,6 +22489,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "6851608098",
+      "username": "@yuzuniqt",
+      "name": "yuzuniqtie အ၀ယ်နား",
+      "first_start": "Selasa, 27 Oktober 2026 pukul 23.57.32",
+      "last_start": "Selasa, 27 Oktober 2026 pukul 23.57.32",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23090,7 +23100,7 @@
     }
   ],
   "total_start": 5610,
-  "total_users": 2249,
+  "total_users": 2250,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
