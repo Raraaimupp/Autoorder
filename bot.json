@@ -22499,6 +22499,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8972986704",
+      "username": "@Masihnyarinama",
+      "name": "Rafx 𝑴𝒐𝑫𝒛 (NEED 50K)",
+      "first_start": "Rabu, 28 Oktober 2026 pukul 00.20.27",
+      "last_start": "Rabu, 28 Oktober 2026 pukul 00.20.27",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23100,7 +23110,7 @@
     }
   ],
   "total_start": 5610,
-  "total_users": 2250,
+  "total_users": 2251,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
