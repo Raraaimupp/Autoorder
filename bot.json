@@ -22469,6 +22469,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8045167132",
+      "username": "@JazzNotFamous",
+      "name": "𝖩𝖺𝗓𝗓𝖭𝗈𝗍𝖥𝖺𝗆𝗈𝗎𝗌 [ʜᴇɴɢᴋᴇʀ]",
+      "first_start": "Selasa, 27 Oktober 2026 pukul 14.52.37",
+      "last_start": "Selasa, 27 Oktober 2026 pukul 14.52.38",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23069,8 +23079,8 @@
       "at": 1792913448985
     }
   ],
-  "total_start": 5609,
-  "total_users": 2247,
+  "total_start": 5610,
+  "total_users": 2248,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
