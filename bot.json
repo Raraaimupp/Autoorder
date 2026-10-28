@@ -22539,6 +22539,26 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7091736247",
+      "username": "Tidak ada",
+      "name": "Malyn Malyn",
+      "first_start": "Rabu, 28 Oktober 2026 pukul 12.02.23",
+      "last_start": "Rabu, 28 Oktober 2026 pukul 12.02.23",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
+    },
+    {
+      "id": "49668333",
+      "username": "@mklum4t11",
+      "name": "𝐄𝐕𝐑 || 𝐌𝐢𝐧𝐳𝐳𝐞𝐩𝐡𝐲𝐫𝐢𝐧𝐞(𝐎𝐩𝐞𝐧 𝐣𝐚𝐬𝐭𝐚𝐠/𝐌𝐮𝐫𝐭𝐚𝐠)",
+      "first_start": "Rabu, 28 Oktober 2026 pukul 12.06.35",
+      "last_start": "Rabu, 28 Oktober 2026 pukul 12.06.36",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23139,8 +23159,8 @@
       "at": 1792913448985
     }
   ],
-  "total_start": 5611,
-  "total_users": 2254,
+  "total_start": 5612,
+  "total_users": 2256,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
