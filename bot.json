@@ -22579,6 +22579,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8117788292",
+      "username": "@akudlyy",
+      "name": "𝒅𝒍𝒚𝒚 #𝒍𝒊𝒎𝒊𝒕𝒍𝒆𝒔𝒔",
+      "first_start": "Rabu, 28 Oktober 2026 pukul 12.36.20",
+      "last_start": "Rabu, 28 Oktober 2026 pukul 12.36.21",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23179,8 +23189,8 @@
       "at": 1792913448985
     }
   ],
-  "total_start": 5612,
-  "total_users": 2258,
+  "total_start": 5613,
+  "total_users": 2259,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
