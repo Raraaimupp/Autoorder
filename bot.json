@@ -22569,6 +22569,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8402760934",
+      "username": "@winz010",
+      "name": "TRASERXRAT WINZ",
+      "first_start": "Rabu, 28 Oktober 2026 pukul 12.30.07",
+      "last_start": "Rabu, 28 Oktober 2026 pukul 12.30.07",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23170,7 +23180,7 @@
     }
   ],
   "total_start": 5612,
-  "total_users": 2257,
+  "total_users": 2258,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
