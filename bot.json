@@ -22529,6 +22529,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8703184146",
+      "username": "@likscam",
+      "name": "⸸𝚡𝚟𝚊̀𝚗𝚎̈𝚜𝚌𝚝 𝚕𝚒𝚔",
+      "first_start": "Rabu, 28 Oktober 2026 pukul 12.01.48",
+      "last_start": "Rabu, 28 Oktober 2026 pukul 12.01.48",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23130,7 +23140,7 @@
     }
   ],
   "total_start": 5611,
-  "total_users": 2253,
+  "total_users": 2254,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
