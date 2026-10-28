@@ -22609,6 +22609,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "251079888",
+      "username": "@Zyexe",
+      "name": "zyeé",
+      "first_start": "Rabu, 28 Oktober 2026 pukul 21.34.23",
+      "last_start": "Rabu, 28 Oktober 2026 pukul 21.34.30",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23234,7 +23244,7 @@
     }
   ],
   "total_start": 5615,
-  "total_users": 2261,
+  "total_users": 2262,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
