@@ -22589,6 +22589,16 @@
       "total_start": 1,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8720406913",
+      "username": "@Fanzanakbaik7",
+      "name": "Fanz MD",
+      "first_start": "Rabu, 28 Oktober 2026 pukul 12.58.11",
+      "last_start": "Rabu, 28 Oktober 2026 pukul 12.58.12",
+      "total_start": 1,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23189,8 +23199,8 @@
       "at": 1792913448985
     }
   ],
-  "total_start": 5613,
-  "total_users": 2259,
+  "total_start": 5614,
+  "total_users": 2260,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
