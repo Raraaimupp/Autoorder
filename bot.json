@@ -22619,6 +22619,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "7604461947",
+      "username": "@Rizganz11",
+      "name": "Rizzz1 𝙝𝙚𝙢𝙢𝙢",
+      "first_start": "Kamis, 29 Oktober 2026 pukul 07.40.52",
+      "last_start": "Kamis, 29 Oktober 2026 pukul 07.40.52",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23244,7 +23254,7 @@
     }
   ],
   "total_start": 5616,
-  "total_users": 2262,
+  "total_users": 2263,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
