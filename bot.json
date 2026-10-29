@@ -22639,6 +22639,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8262234899",
+      "username": "@jarxsukamieayam",
+      "name": "#𝗦𝗧 -⏤͟͟͞͞𝗩𝟳 𝗝arx` Spider🕷",
+      "first_start": "Kamis, 29 Oktober 2026 pukul 15.30.21",
+      "last_start": "Kamis, 29 Oktober 2026 pukul 15.30.21",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23264,7 +23274,7 @@
     }
   ],
   "total_start": 5617,
-  "total_users": 2264,
+  "total_users": 2265,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
