@@ -22629,6 +22629,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1872202016",
+      "username": "@Dika_MD1",
+      "name": "ⓘ 𝑫𝑰𝑲𝑨_𝑴𝑫. 𓅓",
+      "first_start": "Kamis, 29 Oktober 2026 pukul 11.31.38",
+      "last_start": "Kamis, 29 Oktober 2026 pukul 11.31.45",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23254,7 +23264,7 @@
     }
   ],
   "total_start": 5616,
-  "total_users": 2263,
+  "total_users": 2264,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
