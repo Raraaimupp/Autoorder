@@ -22649,6 +22649,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "8822109657",
+      "username": "@ziraxx_pft",
+      "name": "❏",
+      "first_start": "Jumat, 30 Oktober 2026 pukul 00.48.08",
+      "last_start": "Jumat, 30 Oktober 2026 pukul 00.48.08",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23310,7 +23320,7 @@
     }
   ],
   "total_start": 5618,
-  "total_users": 2265,
+  "total_users": 2266,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
