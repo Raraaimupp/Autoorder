@@ -12507,8 +12507,8 @@
       "first_start": "Selasa, 2 Juni 2026 pukul 19.43.48",
       "last_start": "Sabtu, 19 September 2026 pukul 22.13.14",
       "total_start": 8,
-      "balance": 14000,
-      "balance_updated_at": 1793295303617
+      "balance": 7000,
+      "balance_updated_at": 1793295517206
     },
     {
       "id": "8123062489",
@@ -23283,6 +23283,18 @@
       "source": "poll:v2-status",
       "actor_id": null,
       "at": 1793295303617
+    },
+    {
+      "order_id": "PPJ17932955143541819122566",
+      "user_id": "1819122566",
+      "delta": -7000,
+      "before": 14000,
+      "after": 7000,
+      "reason": "Perpanjang perexgank 7 Hari",
+      "kind": "purchase",
+      "source": "balance",
+      "actor_id": null,
+      "at": 1793295517206
     }
   ],
   "total_start": 5618,
