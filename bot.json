@@ -22659,6 +22659,16 @@
       "total_start": 0,
       "balance": 0,
       "balance_updated_at": 0
+    },
+    {
+      "id": "1192243893",
+      "username": "@m4lzfck",
+      "name": "𝐋𝐀 málltzy [OPEN]",
+      "first_start": "Jumat, 30 Oktober 2026 pukul 07.34.11",
+      "last_start": "Jumat, 30 Oktober 2026 pukul 07.34.11",
+      "total_start": 0,
+      "balance": 0,
+      "balance_updated_at": 0
     }
   ],
   "groups": [
@@ -23320,7 +23330,7 @@
     }
   ],
   "total_start": 5618,
-  "total_users": 2266,
+  "total_users": 2267,
   "total_groups": 22,
   "last_update": "Rabu, 30 September 2026 pukul 16.34.32"
 }
